@@ -1,0 +1,410 @@
+{
+    "A6020": [
+        {
+            "date": "2019-12-30", 
+            "datetime": "20191230", 
+            "filename": "Arrow-v10.0-A6020-OFFICIAL-20191230-VANILLA.zip", 
+            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20191230-VANILLA.zip", 
+            "sha256": "3602d218a9378c97d2762f1b7eac62698b287f31eb36334305da1fedde81e056", 
+            "size": 550504701, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "X00TD": [
+        {
+            "date": "2019-08-31", 
+            "datetime": "20190831", 
+            "filename": "Arrow-v9.0-X00TD-OFFICIAL-20190831.zip", 
+            "filepath": "/X00TD/Arrow-v9.0-X00TD-OFFICIAL-20190831.zip", 
+            "sha256": "1670e7afe0a86791ef976eecbfc406433f12b958958b4a9434973ec1ddcca08f", 
+            "size": 762280708, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "X01BD": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-X01BD-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/X01BD/Arrow-v10.0-X01BD-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "5991c947fd0874b286fd1135fe0a40e929b900744b16064f4736940edbe48f3a", 
+            "size": 667727732, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "athene": [
+        {
+            "date": "2019-10-17", 
+            "datetime": "20191017", 
+            "filename": "Arrow-v9.0-athene-OFFICIAL-20191017.zip", 
+            "filepath": "/arrow-9.0/athene/Arrow-v9.0-athene-OFFICIAL-20191017.zip", 
+            "sha256": "83114917d967668518b1b68d08aac34bbe36fde1aa05dd793b32e2d04836e275", 
+            "size": 587642544, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "bacon": [
+        {
+            "date": "2019-10-16", 
+            "datetime": "20191016", 
+            "filename": "Arrow-v9.0-bacon-OFFICIAL-20191016.zip", 
+            "filepath": "/arrow-9.0/bacon/Arrow-v9.0-bacon-OFFICIAL-20191016.zip", 
+            "sha256": "548392baacbf8aa3547f2890ea4b86588179d23c48d38483903aac7af617dced", 
+            "size": 385792405, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "beryllium": [
+        {
+            "date": "2019-12-30", 
+            "datetime": "20191230", 
+            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20191230-VANILLA.zip", 
+            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20191230-VANILLA.zip", 
+            "sha256": "f767b76fcf203dd8b9e703eb14c47c16656f0bb96e52339d639a84909f535c0d", 
+            "size": 791409540, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "cedric": [
+        {
+            "date": "2019-04-18", 
+            "datetime": "20190418", 
+            "filename": "Arrow-v9.0-cedric-OFFICIAL-20190418.zip", 
+            "filepath": "/cedric/Arrow-v9.0-cedric-OFFICIAL-20190418.zip", 
+            "sha256": "0181e42dc0e5dcc51c6772424225520c0c6ae9ee4c2576c0562b3a3f8c6ccbcd", 
+            "size": 616497727, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "cheeseburger": [
+        {
+            "date": "2020-01-05", 
+            "datetime": "20200105", 
+            "filename": "Arrow-v10.0-cheeseburger-OFFICIAL-20200105-VANILLA.zip", 
+            "filepath": "/arrow-10.0/cheeseburger/Arrow-v10.0-cheeseburger-OFFICIAL-20200105-VANILLA.zip", 
+            "sha256": "816aac359fa6dcc08e79eda40f2098a1c0e7bf6f9f8fa4c3e2074c936f1d65a4", 
+            "size": 713143302, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "chef": [
+        {
+            "date": "2019-08-30", 
+            "datetime": "20190830", 
+            "filename": "Arrow-v9.0-chef-OFFICIAL-20190830.zip", 
+            "filepath": "/chef/Arrow-v9.0-chef-OFFICIAL-20190830.zip", 
+            "sha256": "332de581f9f331546342be05ed866063f26aaf14b03aa4a7721ad46f7f920b3c", 
+            "size": 621482931, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "chiron": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-chiron-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "97aabb7210cabed5c03dca2bd99b42ffeb1c1d7c24a8f6d47af3a8397f37acef", 
+            "size": 623266987, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "clover": [
+        {
+            "date": "2019-12-19", 
+            "datetime": "20191219", 
+            "filename": "Arrow-v10.0-clover-OFFICIAL-20191219-VANILLA.zip", 
+            "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20191219-VANILLA.zip", 
+            "sha256": "b1813f0027cd4e3e083133220f50922b5edfa014eccb3df99f56b0019793f51d", 
+            "size": 845960711, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "dipper": [
+        {
+            "date": "2019-07-20", 
+            "datetime": "20190720", 
+            "filename": "Arrow-v9.0-dipper-OFFICIAL-20190720.zip", 
+            "filepath": "/dipper/Arrow-v9.0-dipper-OFFICIAL-20190720.zip", 
+            "sha256": "e79a098579c15c2e6579c72bfc0cc9da975d84a95c22247148e4b6d02cd31c58", 
+            "size": 497883796, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "dumpling": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-dumpling-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/dumpling/Arrow-v10.0-dumpling-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "01c137caf12fb6887b194500270645050a71ae9da0cc6c5508d502af199458c4", 
+            "size": 713334981, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "enchilada": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-enchilada-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/enchilada/Arrow-v10.0-enchilada-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "77c075bc3634b4aad9b38c4447f6094e59e49eea43784385ff4de74d43bb8b8b", 
+            "size": 572085909, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "fajita": [
+        {
+            "date": "2019-06-24", 
+            "datetime": "20190624", 
+            "filename": "Arrow-v9.0-fajita-OFFICIAL-20190624.zip", 
+            "filepath": "/fajita/Arrow-v9.0-fajita-OFFICIAL-20190624.zip", 
+            "sha256": "5153fd3a165908c9058ed41e60d9c7adf1463827fb812ce8809741c75877edb6", 
+            "size": 582338334, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "kenzo": [
+        {
+            "date": "2019-04-01", 
+            "datetime": "20190401", 
+            "filename": "Arrow-v9.0-kenzo-OFFICIAL-20190401.zip", 
+            "filepath": "/kenzo/Arrow-v9.0-kenzo-OFFICIAL-20190401.zip", 
+            "sha256": "e498d8861e6d85e714391d55b431ea96d3635cc09b607bc0b9c55467352d2361", 
+            "size": 553602603, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "kiwi": [
+        {
+            "date": "2019-07-21", 
+            "datetime": "20190721", 
+            "filename": "Arrow-v9.0-kiwi-OFFICIAL-20190721.zip", 
+            "filepath": "/kiwi/Arrow-v9.0-kiwi-OFFICIAL-20190721.zip", 
+            "sha256": "579add06488a205df3bda7093bc78476347c86cb32540cfb4abbadc67fdf69fd", 
+            "size": 479477223, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "land": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-land-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "477401bbb5539f1aa2b6b6b9f0a6fde2865fbbb5648c87730aca11cb26f199f1", 
+            "size": 573684200, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "lavender": [
+        {
+            "date": "2019-10-16", 
+            "datetime": "20191016", 
+            "filename": "Arrow-v9.0-lavender-OFFICIAL-20191016.zip", 
+            "filepath": "/arrow-9.0/lavender/Arrow-v9.0-lavender-OFFICIAL-20191016.zip", 
+            "sha256": "6c7077bbb79ed9fedc822dad79e57f8eaa1fdac1cba18e32260a5fde349fa1d3", 
+            "size": 805757649, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "lettuce": [
+        {
+            "date": "2019-11-03", 
+            "datetime": "20191103", 
+            "filename": "Arrow-v9.0-lettuce-OFFICIAL-20191103.zip", 
+            "filepath": "/arrow-9.0/lettuce/Arrow-v9.0-lettuce-OFFICIAL-20191103.zip", 
+            "sha256": "7bd0f7283f3e49a30ffb6bd92e7bc7fa30f14d234b3ce9c7b95425d5de6882a4", 
+            "size": 542611637, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "mido": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-mido-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "6defa338fe5503adaa95049aa6059ec93ed4cacaf4fbb9df5a1b130f6115d146", 
+            "size": 578157783, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "oneplus3": [
+        {
+            "date": "2019-07-21", 
+            "datetime": "20190721", 
+            "filename": "Arrow-v9.0-oneplus3-OFFICIAL-20190721.zip", 
+            "filepath": "/oneplus3/Arrow-v9.0-oneplus3-OFFICIAL-20190721.zip", 
+            "sha256": "b1cfb749415697ecd36e749a4fb52bedf0f2bbfd962f6fa380cf3ab94265f956", 
+            "size": 605623984, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "polaris": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-polaris-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "ab7a2f9722e3cf8aa7a4e6935d4dd82efb420b20e1cb7761636acab71e62f835", 
+            "size": 814029248, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "potter": [
+        {
+            "date": "2020-01-04", 
+            "datetime": "20200104", 
+            "filename": "Arrow-v10.0-potter-OFFICIAL-20200104-VANILLA.zip", 
+            "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200104-VANILLA.zip", 
+            "sha256": "e705c8b49af7e266f123abd3945c5b034d493fc080fa9af34fd1ab62afab38ea", 
+            "size": 622517487, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "rimo02a": [
+        {
+            "date": "2019-07-07", 
+            "datetime": "20190707", 
+            "filename": "Arrow-v9.0-rimo02a-OFFICIAL-20190707.zip", 
+            "filepath": "/rimo02a/Arrow-v9.0-rimo02a-OFFICIAL-20190707.zip", 
+            "sha256": "7e8cdec2d3273ffc138442d228a58eaa1fd5a470f3ef714d1224f6272c62ffb8", 
+            "size": 552937732, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "s2": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-s2-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/s2/Arrow-v10.0-s2-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "5366618992a854c3a83a94ca9926b7f125441bdd6babe7baff3ffa54c0e01939", 
+            "size": 636726978, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "sanders": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-sanders-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/sanders/Arrow-v10.0-sanders-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "95a420281039124c5ef0b9b3b3a8830c758d99d442f381b3dcc033ea5588b395", 
+            "size": 596052336, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "santoni": [
+        {
+            "date": "2019-10-16", 
+            "datetime": "20191016", 
+            "filename": "Arrow-v9.0-santoni-OFFICIAL-20191016.zip", 
+            "filepath": "/arrow-9.0/santoni/Arrow-v9.0-santoni-OFFICIAL-20191016.zip", 
+            "sha256": "46c964fcbb8fd3aa601a59c220a4220546cf470ba64a3281e6ecac5cb5345b57", 
+            "size": 605457276, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "violet": [
+        {
+            "date": "2019-12-30", 
+            "datetime": "20191230", 
+            "filename": "Arrow-v10.0-violet-OFFICIAL-20191230-VANILLA.zip", 
+            "filepath": "/arrow-10.0/violet/Arrow-v10.0-violet-OFFICIAL-20191230-VANILLA.zip", 
+            "sha256": "e213b8559c166b4bbf5ab708349b03486d26b0876e9cde62f7dc9972e2146669", 
+            "size": 831311423, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "wayne": [
+        {
+            "date": "2019-12-31", 
+            "datetime": "20191231", 
+            "filename": "Arrow-v10.0-wayne-OFFICIAL-20191231-VANILLA.zip", 
+            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20191231-VANILLA.zip", 
+            "sha256": "2a00ba31c07d706ffadd1ab94c84fea2e22bab40cd77fc497855b66f3e95968d", 
+            "size": 715643053, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "whyred": [
+        {
+            "date": "2019-10-16", 
+            "datetime": "20191016", 
+            "filename": "Arrow-v9.0-whyred-OFFICIAL-20191016.zip", 
+            "filepath": "/arrow-9.0/whyred/Arrow-v9.0-whyred-OFFICIAL-20191016.zip", 
+            "sha256": "a567fd4c6cd4a09e12ef1cc25b7383a1ad6e14bf212c640174b0c9fdf7df810b", 
+            "size": 698369206, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
+    "z2_plus": [
+        {
+            "date": "2020-01-04", 
+            "datetime": "20200104", 
+            "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20200104-VANILLA.zip", 
+            "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20200104-VANILLA.zip", 
+            "sha256": "93dea640b36e88b373fedf4ee1108d4be69f25288793a05ee7c247c0289323a3", 
+            "size": 616520120, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "z2_row": [
+        {
+            "date": "2020-01-04", 
+            "datetime": "20200104", 
+            "filename": "Arrow-v10.0-z2_row-OFFICIAL-20200104-VANILLA.zip", 
+            "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20200104-VANILLA.zip", 
+            "sha256": "69527520f5f605f885e9c0a92cc389de387ce8b8b0ea4118c7cfde531014361e", 
+            "size": 616705298, 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "zenfone3": [
+        {
+            "date": "2019-10-16", 
+            "datetime": "20191016", 
+            "filename": "Arrow-v9.0-zenfone3-OFFICIAL-20191016.zip", 
+            "filepath": "/arrow-9.0/zenfone3/Arrow-v9.0-zenfone3-OFFICIAL-20191016.zip", 
+            "sha256": "1626532b90bfb4b3f9ca6f0781205fd5eb95d6ff3c7c82a73a4b5e96bebdc393", 
+            "size": 607278595, 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ]
+}
