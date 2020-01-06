@@ -8,8 +8,8 @@ import fnmatch
 import sys
 
 cwd=os.getcwd()
-out_dir = os.environ["OUT"]
-build_zip_type = os.environ["TG_ZIP_TYPE"]
+out_dir = os.environ["BUILD_OUT_DIR"]
+build_zip_type = os.environ["TG_BUILD_ZIP_TYPE"]
 zip_pattern = "*OFFICIAL*.zip"
 
 if build_zip_type == 'VANILLA':
