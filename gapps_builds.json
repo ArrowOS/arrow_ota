@@ -97,12 +97,12 @@
     ], 
     "land": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-land-OFFICIAL-20191231-GAPPS.zip", 
-            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20191231-GAPPS.zip", 
-            "sha256": "f9007ffc861f3c04365c84044341bfdee7a30879552a4f4ddf941d917df715b3", 
-            "size": 679928347, 
+            "date": "2020-01-07", 
+            "datetime": "20200107", 
+            "filename": "Arrow-v10.0-land-OFFICIAL-20200107-GAPPS.zip", 
+            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20200107-GAPPS.zip", 
+            "sha256": "f1fe8417d636adfc99328bda236abb9dc70c2c4520b1318de09bc650571033c9", 
+            "size": "683602863", 
             "type": "official", 
             "version": "v10.0"
         }
