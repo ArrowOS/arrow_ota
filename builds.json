@@ -205,12 +205,12 @@
     ], 
     "land": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-land-OFFICIAL-20191231-VANILLA.zip", 
-            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20191231-VANILLA.zip", 
-            "sha256": "477401bbb5539f1aa2b6b6b9f0a6fde2865fbbb5648c87730aca11cb26f199f1", 
-            "size": 573684200, 
+            "date": "2020-01-07", 
+            "datetime": "20200107", 
+            "filename": "Arrow-v10.0-land-OFFICIAL-20200107-VANILLA.zip", 
+            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20200107-VANILLA.zip", 
+            "sha256": "3e590fc2d1c02872c035b89dacc67443b43df399bc2ebf15351bdf73410f4f4e", 
+            "size": "574055670", 
             "type": "official", 
             "version": "v10.0"
         }
