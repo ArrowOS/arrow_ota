@@ -25,12 +25,12 @@
     ], 
     "X01BD": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-X01BD-OFFICIAL-20191231-VANILLA.zip", 
-            "filepath": "/arrow-10.0/X01BD/Arrow-v10.0-X01BD-OFFICIAL-20191231-VANILLA.zip", 
-            "sha256": "5991c947fd0874b286fd1135fe0a40e929b900744b16064f4736940edbe48f3a", 
-            "size": 667727732, 
+            "date": "2020-01-07", 
+            "datetime": "20200107", 
+            "filename": "Arrow-v10.0-X01BD-OFFICIAL-20200107-VANILLA.zip", 
+            "filepath": "/arrow-10.0/X01BD/Arrow-v10.0-X01BD-OFFICIAL-20200107-VANILLA.zip", 
+            "sha256": "53b31631b3c51f180b08c5995d7023d16924d16d89233db886e681685bb3d14e", 
+            "size": "667686203", 
             "type": "official", 
             "version": "v10.0"
         }
