@@ -8,7 +8,6 @@ import fnmatch
 import sys
 
 cwd=os.getcwd()
-out_dir = os.environ["BUILD_OUT_DIR"]
 build_zip_type = os.environ["TG_BUILD_ZIP_TYPE"]
 zip_pattern = "*OFFICIAL*.zip"
 
@@ -51,12 +50,8 @@ def get_local_stuff():
 	except IOError:
 		open(cwd + json_file, "w+")
 
-os.chdir(out_dir)
-out_list = sorted(glob.glob(zip_pattern))
-print('Found zips:', file=sys.stderr)
-print(out_list)
-latest_zip = max(out_list, key=os.path.getctime)
-print('Latest zip found is ' + latest_zip, file=sys.stderr)
+latest_zip = os.environ["BUILD_ARTIFACT"]
+print('Latest zip is ' + latest_zip)
 if fnmatch.fnmatch(latest_zip, zip_pattern):
 	try:
 		filename=latest_zip
@@ -64,8 +59,8 @@ if fnmatch.fnmatch(latest_zip, zip_pattern):
 		get_local_stuff()
 		print('Generating for new build of {}'.format(filename), file=sys.stderr)
 		builds.setdefault(device, []).append({
-			'sha256': hashlib.sha256(open(filename).read()).hexdigest(),
-			'size': os.path.getsize(filename),
+			'sha256': os.environ["BUILD_ARTIFACT_SHA256"],
+			'size': os.environ["BUILD_ARTIFACT_SIZE"],
 			'date': '{}-{}-{}'.format(builddate[0:4], builddate[4:6], builddate[6:8]),
 			'datetime': '{}{}{}'.format(builddate[0:4], builddate[4:6], builddate[6:8]),
 			'filename': filename,
