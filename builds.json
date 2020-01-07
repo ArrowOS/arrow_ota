@@ -385,12 +385,12 @@
     ], 
     "z2_row": [
         {
-            "date": "2020-01-04", 
-            "datetime": "20200104", 
-            "filename": "Arrow-v10.0-z2_row-OFFICIAL-20200104-VANILLA.zip", 
-            "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20200104-VANILLA.zip", 
-            "sha256": "69527520f5f605f885e9c0a92cc389de387ce8b8b0ea4118c7cfde531014361e", 
-            "size": 616705298, 
+            "date": "2020-01-07", 
+            "datetime": "20200107", 
+            "filename": "Arrow-v10.0-z2_row-OFFICIAL-20200107-VANILLA.zip", 
+            "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20200107-VANILLA.zip", 
+            "sha256": "f13b84dae85cab1beb3e88aeee7af9e7bacda4e7bb0cf10bcf50c2680b148ddf", 
+            "size": "616713852", 
             "type": "official", 
             "version": "v10.0"
         }
