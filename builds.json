@@ -301,12 +301,12 @@
     ], 
     "s2": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-s2-OFFICIAL-20191231-VANILLA.zip", 
-            "filepath": "/arrow-10.0/s2/Arrow-v10.0-s2-OFFICIAL-20191231-VANILLA.zip", 
-            "sha256": "5366618992a854c3a83a94ca9926b7f125441bdd6babe7baff3ffa54c0e01939", 
-            "size": 636726978, 
+            "date": "2020-01-07", 
+            "datetime": "20200107", 
+            "filename": "Arrow-v10.0-s2-OFFICIAL-20200107-VANILLA.zip", 
+            "filepath": "/arrow-10.0/s2/Arrow-v10.0-s2-OFFICIAL-20200107-VANILLA.zip", 
+            "sha256": "4c6d0a1d3b0a2f22ffca6ad085b7b1a1a31a8e1f4ee83d7cc155a93942682937", 
+            "size": "636752690", 
             "type": "official", 
             "version": "v10.0"
         }
