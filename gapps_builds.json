@@ -109,12 +109,12 @@
     ], 
     "mido": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-mido-OFFICIAL-20191231-GAPPS.zip", 
-            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-OFFICIAL-20191231-GAPPS.zip", 
-            "sha256": "0c74ea2643b04ac8be4c89f7c6e575847fc420f1019eb26ff391a70a7a4c5bbf", 
-            "size": 684471849, 
+            "date": "2020-01-07", 
+            "datetime": "20200107", 
+            "filename": "Arrow-v10.0-mido-OFFICIAL-20200107-GAPPS.zip", 
+            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-OFFICIAL-20200107-GAPPS.zip", 
+            "sha256": "4a5ea7772a4d9b6fd61583dda7df224c7f00af6d940b1e3887d22a43fb158ef0", 
+            "size": "687495507", 
             "type": "official", 
             "version": "v10.0"
         }
