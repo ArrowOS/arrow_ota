@@ -13,12 +13,12 @@
     ], 
     "X01BD": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-X01BD-OFFICIAL-20191231-GAPPS.zip", 
-            "filepath": "/arrow-10.0/X01BD/Arrow-v10.0-X01BD-OFFICIAL-20191231-GAPPS.zip", 
-            "sha256": "9e32042650679a66d264cdaab858479e79950bb1242982c7d79a6d2e8446d0d0", 
-            "size": 773975248, 
+            "date": "2020-01-07", 
+            "datetime": "20200107", 
+            "filename": "Arrow-v10.0-X01BD-OFFICIAL-20200107-GAPPS.zip", 
+            "filepath": "/arrow-10.0/X01BD/Arrow-v10.0-X01BD-OFFICIAL-20200107-GAPPS.zip", 
+            "sha256": "b088d5b9d3ee8ba9c2e811a6625ec56a3d966924794ac9cb76296a671ae3ef40", 
+            "size": "777114728", 
             "type": "official", 
             "version": "v10.0"
         }
