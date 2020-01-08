@@ -109,12 +109,12 @@
     ], 
     "chiron": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-chiron-OFFICIAL-20191231-VANILLA.zip", 
-            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20191231-VANILLA.zip", 
-            "sha256": "97aabb7210cabed5c03dca2bd99b42ffeb1c1d7c24a8f6d47af3a8397f37acef", 
-            "size": 623266987, 
+            "date": "2020-01-08", 
+            "datetime": "20200108", 
+            "filename": "Arrow-v10.0-chiron-OFFICIAL-20200108-VANILLA.zip", 
+            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200108-VANILLA.zip", 
+            "sha256": "110bd0d1dd04535d3d0fdf018180114c335102f22b7201f33bd8fb43a0a2f42b", 
+            "size": "641195573", 
             "type": "official", 
             "version": "v10.0"
         }
