@@ -49,12 +49,12 @@
     ], 
     "chiron": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-chiron-OFFICIAL-20191231-GAPPS.zip", 
-            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20191231-GAPPS.zip", 
-            "sha256": "dec2b54d6e11b0117063548edb2cc34ce99cb32c87b3d7a1d9c4df0dfd3dfbd6", 
-            "size": 729670047, 
+            "date": "2020-01-08", 
+            "datetime": "20200108", 
+            "filename": "Arrow-v10.0-chiron-OFFICIAL-20200108-GAPPS.zip", 
+            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200108-GAPPS.zip", 
+            "sha256": "3e17514d4bc6ea4881e4454227ff986288519abc36e563729675409708d194d3", 
+            "size": "750626359", 
             "type": "official", 
             "version": "v10.0"
         }
