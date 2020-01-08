@@ -145,12 +145,12 @@
     ], 
     "s2": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-s2-OFFICIAL-20191231-GAPPS.zip", 
-            "filepath": "/arrow-10.0/s2/Arrow-v10.0-s2-OFFICIAL-20191231-GAPPS.zip", 
-            "sha256": "cdd4e8226d79496be7dccabfa5e27bb89c0c0418fe2d91fe8b3c732bbcc96ff7", 
-            "size": 745184591, 
+            "date": "2020-01-08", 
+            "datetime": "20200108", 
+            "filename": "Arrow-v10.0-s2-OFFICIAL-20200108-GAPPS.zip", 
+            "filepath": "/arrow-10.0/s2/Arrow-v10.0-s2-OFFICIAL-20200108-GAPPS.zip", 
+            "sha256": "c3b078eada70b2e0c0e5de9bd882670d7954057ccbfb0e2b0e8f72779e0e0b23", 
+            "size": "747995073", 
             "type": "official", 
             "version": "v10.0"
         }
