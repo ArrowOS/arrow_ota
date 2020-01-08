@@ -349,12 +349,12 @@
     ], 
     "wayne": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-wayne-OFFICIAL-20191231-VANILLA.zip", 
-            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20191231-VANILLA.zip", 
-            "sha256": "2a00ba31c07d706ffadd1ab94c84fea2e22bab40cd77fc497855b66f3e95968d", 
-            "size": 715643053, 
+            "date": "2020-01-08", 
+            "datetime": "20200108", 
+            "filename": "Arrow-v10.0-wayne-OFFICIAL-20200108-VANILLA.zip", 
+            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20200108-VANILLA.zip", 
+            "sha256": "c9aae81a6514e0f75355a40ebe1049ff67ce151fb0accdc3066a7eef7d31e5a9", 
+            "size": "715718776", 
             "type": "official", 
             "version": "v10.0"
         }
