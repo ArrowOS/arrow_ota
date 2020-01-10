@@ -25,12 +25,12 @@
     ], 
     "beryllium": [
         {
-            "date": "2019-12-30", 
-            "datetime": "20191230", 
-            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20191230-GAPPS.zip", 
-            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20191230-GAPPS.zip", 
-            "sha256": "c396b4900a67de3bd8fae64ee99216ebb80b9bd36d0678f12a3546e96f58cc21", 
-            "size": 897318620, 
+            "date": "2020-01-10", 
+            "datetime": "20200110", 
+            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20200110-GAPPS.zip", 
+            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20200110-GAPPS.zip", 
+            "sha256": "4e2a084b0657b78a30ab1b593126782576a8ef50cd4e3ef75db15ce056a4f59e", 
+            "size": "897369592", 
             "type": "official", 
             "version": "v10.0"
         }
