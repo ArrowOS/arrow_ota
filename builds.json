@@ -121,12 +121,12 @@
     ], 
     "clover": [
         {
-            "date": "2019-12-19", 
-            "datetime": "20191219", 
-            "filename": "Arrow-v10.0-clover-OFFICIAL-20191219-VANILLA.zip", 
-            "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20191219-VANILLA.zip", 
-            "sha256": "b1813f0027cd4e3e083133220f50922b5edfa014eccb3df99f56b0019793f51d", 
-            "size": 845960711, 
+            "date": "2020-01-11", 
+            "datetime": "20200111", 
+            "filename": "Arrow-v10.0-clover-OFFICIAL-20200111-VANILLA.zip", 
+            "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20200111-VANILLA.zip", 
+            "sha256": "349bedbf8f9dc3ca7e2d3fe63532b6407c5b60373c821a3f876eee66e593d244", 
+            "size": "648986469", 
             "type": "official", 
             "version": "v10.0"
         }
