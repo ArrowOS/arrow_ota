@@ -361,14 +361,14 @@
     ], 
     "whyred": [
         {
-            "date": "2019-10-16", 
-            "datetime": "20191016", 
-            "filename": "Arrow-v9.0-whyred-OFFICIAL-20191016.zip", 
-            "filepath": "/arrow-9.0/whyred/Arrow-v9.0-whyred-OFFICIAL-20191016.zip", 
-            "sha256": "a567fd4c6cd4a09e12ef1cc25b7383a1ad6e14bf212c640174b0c9fdf7df810b", 
-            "size": 698369206, 
+            "date": "2020-01-11", 
+            "datetime": "20200111", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200111-VANILLA.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200111-VANILLA.zip", 
+            "sha256": "641144f1b25043aa784d6ca6c6297c730f7ed2d3152c570b1cb5e6c536082c9e", 
+            "size": "687428656", 
             "type": "official", 
-            "version": "v9.0"
+            "version": "v10.0"
         }
     ], 
     "z2_plus": [
