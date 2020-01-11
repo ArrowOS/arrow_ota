@@ -61,12 +61,12 @@
     ], 
     "clover": [
         {
-            "date": "2019-12-19", 
-            "datetime": "20191219", 
-            "filename": "Arrow-v10.0-clover-OFFICIAL-20191219-GAPPS.zip", 
-            "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20191219-GAPPS.zip", 
-            "sha256": "55a865cd639ab7b8833baf062408f016b002591645082a352a233b0f8b910011", 
-            "size": 845978627, 
+            "date": "2020-01-11", 
+            "datetime": "20200111", 
+            "filename": "Arrow-v10.0-clover-OFFICIAL-20200111-GAPPS.zip", 
+            "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20200111-GAPPS.zip", 
+            "sha256": "1e8c1a7bdbbcb9ee6e02645295ae21f8015946bb98cfe6b1f0d823b23ef419ae", 
+            "size": "755445111", 
             "type": "official", 
             "version": "v10.0"
         }
