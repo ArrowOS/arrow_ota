@@ -15,6 +15,8 @@ if build_zip_type == 'VANILLA':
 	json_file = '/builds.json'
 elif build_zip_type == 'GAPPS':
 	json_file = '/gapps_builds.json'
+else:
+	json_file = '/pie_builds.json'
 
 builds = {}
 local_data_keys = []
