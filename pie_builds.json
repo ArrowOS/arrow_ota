@@ -1,4 +1,16 @@
 {
+    "bacon": [
+        {
+            "date": "2020-01-25", 
+            "datetime": "20200125", 
+            "filename": "Arrow-v9.0-bacon-OFFICIAL-20200125.zip", 
+            "filepath": "/arrow-9.0/bacon/Arrow-v9.0-bacon-OFFICIAL-20200125.zip", 
+            "sha256": "834972df4e5851acf3039337f433461e02f08ba9738b0291785136eb01f0b639", 
+            "size": "385491097", 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
     "chef": [
         {
             "date": "2020-01-25", 
