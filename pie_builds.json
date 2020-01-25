@@ -1,4 +1,16 @@
 {
+    "chef": [
+        {
+            "date": "2020-01-25", 
+            "datetime": "20200125", 
+            "filename": "Arrow-v9.0-chef-OFFICIAL-20200125.zip", 
+            "filepath": "/arrow-9.0/chef/Arrow-v9.0-chef-OFFICIAL-20200125.zip", 
+            "sha256": "14ab34250d49c75954f4e5ca0a2ca19ece75a4f648cb81aa6cda19fdbf37c9ee", 
+            "size": "614163838", 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
     "land": [
         {
             "date": "2020-01-25", 
