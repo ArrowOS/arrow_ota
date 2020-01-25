@@ -57,7 +57,7 @@ print('Latest zip is ' + latest_zip)
 if fnmatch.fnmatch(latest_zip, zip_pattern):
 	try:
 		filename=latest_zip
-		_, version, device, buildtype, builddate, ziptype = os.path.splitext(filename)[0].split('-')
+		_, version, device, buildtype, builddate = os.path.splitext(filename)[0].split('-')
 		get_local_stuff()
 		print('Generating for new build of {}'.format(filename), file=sys.stderr)
 		builds.setdefault(device, []).append({
