@@ -12,7 +12,7 @@ build_zip_type = os.environ["TG_BUILD_ZIP_TYPE"]
 zip_pattern = "*OFFICIAL*.zip"
 
 if build_zip_type == 'VANILLA':
-	json_file = '/builds.json'
+	json_file = '/vanilla_builds.json'
 elif build_zip_type == 'GAPPS':
 	json_file = '/gapps_builds.json'
 else:
