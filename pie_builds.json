@@ -23,6 +23,18 @@
             "version": "v9.0"
         }
     ], 
+    "beryllium": [
+        {
+            "date": "2020-01-27", 
+            "datetime": "20200127", 
+            "filename": "Arrow-v9.0-beryllium-OFFICIAL-20200127.zip", 
+            "filepath": "/arrow-9.0/beryllium/Arrow-v9.0-beryllium-OFFICIAL-20200127.zip", 
+            "sha256": "e8aec7481cc858bb826a855cbd46071a077a0219828f15a51013420197028ab9", 
+            "size": "499113496", 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
     "chef": [
         {
             "date": "2020-01-25", 
