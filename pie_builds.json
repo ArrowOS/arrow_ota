@@ -82,5 +82,17 @@
             "type": "official", 
             "version": "v9.0"
         }
+    ], 
+    "potter": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Arrow-v9.0-potter-OFFICIAL-20200128.zip", 
+            "filepath": "/arrow-9.0/potter/Arrow-v9.0-potter-OFFICIAL-20200128.zip", 
+            "sha256": "1d585ce31397d9ec04a1a92a6665a6f0da62222ebbfc68eb7ea47504c0428c68", 
+            "size": "620092537", 
+            "type": "official", 
+            "version": "v9.0"
+        }
     ]
 }
