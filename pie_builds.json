@@ -94,5 +94,17 @@
             "type": "official", 
             "version": "v9.0"
         }
+    ], 
+    "s2": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Arrow-v9.0-s2-OFFICIAL-20200128.zip", 
+            "filepath": "/arrow-9.0/s2/Arrow-v9.0-s2-OFFICIAL-20200128.zip", 
+            "sha256": "dc19d3131fad75b23b95bf94c40d3cb831f9a41ab424bbce7279bddcdf2bf836", 
+            "size": "597013199", 
+            "type": "official", 
+            "version": "v9.0"
+        }
     ]
 }
