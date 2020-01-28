@@ -70,5 +70,17 @@
             "type": "official", 
             "version": "v9.0"
         }
+    ], 
+    "mido": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Arrow-v9.0-mido-OFFICIAL-20200128.zip", 
+            "filepath": "/arrow-9.0/mido/Arrow-v9.0-mido-OFFICIAL-20200128.zip", 
+            "sha256": "80b39df1bffd268ff3b57af7b0f62c56c1778f0f8cfb877a5184c24ad7fae59d", 
+            "size": "608274900", 
+            "type": "official", 
+            "version": "v9.0"
+        }
     ]
 }
