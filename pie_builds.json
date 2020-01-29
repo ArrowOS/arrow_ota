@@ -1,4 +1,16 @@
 {
+    "X01BD": [
+        {
+            "date": "2020-01-29", 
+            "datetime": "20200129", 
+            "filename": "Arrow-v9.0-X01BD-OFFICIAL-20200129.zip", 
+            "filepath": "/arrow-9.0/X01BD/Arrow-v9.0-X01BD-OFFICIAL-20200129.zip", 
+            "sha256": "66120a694aecd4f39ef1babe52f0d71ac55bc7f36bdf099cd59ba2737a17e130", 
+            "size": "685522241", 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
     "athene": [
         {
             "date": "2020-01-27", 
