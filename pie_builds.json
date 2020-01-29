@@ -142,5 +142,17 @@
             "type": "official", 
             "version": "v9.0"
         }
+    ], 
+    "z2_plus": [
+        {
+            "date": "2020-01-29", 
+            "datetime": "20200129", 
+            "filename": "Arrow-v9.0-z2_plus-OFFICIAL-20200129.zip", 
+            "filepath": "/arrow-9.0/z2_plus/Arrow-v9.0-z2_plus-OFFICIAL-20200129.zip", 
+            "sha256": "9bcb2ee1f5ae4de7833390088d4c21264829b7e2def3875cad21463400735f8e", 
+            "size": "606626903", 
+            "type": "official", 
+            "version": "v9.0"
+        }
     ]
 }
