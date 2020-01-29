@@ -118,5 +118,17 @@
             "type": "official", 
             "version": "v9.0"
         }
+    ], 
+    "wayne": [
+        {
+            "date": "2020-01-29", 
+            "datetime": "20200129", 
+            "filename": "Arrow-v9.0-wayne-OFFICIAL-20200129.zip", 
+            "filepath": "/arrow-9.0/wayne/Arrow-v9.0-wayne-OFFICIAL-20200129.zip", 
+            "sha256": "010dacd9e0471e750753723c336797cb6b35488cc28f4b5a95eba0e32948afdc", 
+            "size": "712234172", 
+            "type": "official", 
+            "version": "v9.0"
+        }
     ]
 }
