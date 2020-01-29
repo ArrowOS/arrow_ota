@@ -95,6 +95,18 @@
             "version": "v9.0"
         }
     ], 
+    "polaris": [
+        {
+            "date": "2020-01-29", 
+            "datetime": "20200129", 
+            "filename": "Arrow-v9.0-polaris-OFFICIAL-20200129.zip", 
+            "filepath": "/arrow-9.0/polaris/Arrow-v9.0-polaris-OFFICIAL-20200129.zip", 
+            "sha256": "b354291b9be167ef50cee391f78c64e5fc6214b0c3cfe62b6d46ff5151d857c5", 
+            "size": "812662043", 
+            "type": "official", 
+            "version": "v9.0"
+        }
+    ], 
     "potter": [
         {
             "date": "2020-01-28", 
