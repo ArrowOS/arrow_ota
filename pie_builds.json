@@ -106,5 +106,17 @@
             "type": "official", 
             "version": "v9.0"
         }
+    ], 
+    "sanders": [
+        {
+            "date": "2020-01-28", 
+            "datetime": "20200128", 
+            "filename": "Arrow-v9.0-sanders-OFFICIAL-20200128.zip", 
+            "filepath": "/arrow-9.0/sanders/Arrow-v9.0-sanders-OFFICIAL-20200128.zip", 
+            "sha256": "825e00ac049623cc26dd40cb302a3e59923e07ffb0813672932471d46de888be", 
+            "size": "613906423", 
+            "type": "official", 
+            "version": "v9.0"
+        }
     ]
 }
