@@ -178,5 +178,17 @@
             "type": "official", 
             "version": "v9.0"
         }
+    ], 
+    "zenfone3": [
+        {
+            "date": "2020-02-24", 
+            "datetime": "20200224", 
+            "filename": "Arrow-v9.0-zenfone3-OFFICIAL-20200224.zip", 
+            "filepath": "/arrow-9.0/zenfone3/Arrow-v9.0-zenfone3-OFFICIAL-20200224.zip", 
+            "sha256": "0b36dc980ab7bd6662fa1e14fc13e5bf57d0afb8e45a19f883aea956a55281e9", 
+            "size": "600854891", 
+            "type": "official", 
+            "version": "v9.0"
+        }
     ]
 }
