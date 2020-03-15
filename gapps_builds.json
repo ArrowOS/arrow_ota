@@ -73,12 +73,12 @@
     ], 
     "dumpling": [
         {
-            "date": "2020-02-29", 
-            "datetime": "20200229", 
-            "filename": "Arrow-v10.0-dumpling-OFFICIAL-20200229-GAPPS.zip", 
-            "filepath": "/arrow-10.0/dumpling/Arrow-v10.0-dumpling-OFFICIAL-20200229-GAPPS.zip", 
-            "sha256": "c24f0a9a4b4b2b7a075576e7bcde47a63e527d6ad5f6917222bd441ac602f900", 
-            "size": "833207591", 
+            "date": "2020-03-15", 
+            "datetime": "20200315", 
+            "filename": "Arrow-v10.0-dumpling-OFFICIAL-20200315-GAPPS.zip", 
+            "filepath": "/arrow-10.0/dumpling/Arrow-v10.0-dumpling-OFFICIAL-20200315-GAPPS.zip", 
+            "sha256": "a9186a4fefa9bcfee3e8f34a3b3e4b5ba2b06614de8e860a211897d97ca5eb4f", 
+            "size": "831054399", 
             "type": "official", 
             "version": "v10.0"
         }
