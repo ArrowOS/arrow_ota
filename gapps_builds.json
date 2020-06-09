@@ -145,12 +145,12 @@
     ], 
     "polaris": [
         {
-            "date": "2020-06-01", 
-            "datetime": "20200601", 
-            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200601-GAPPS.zip", 
-            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200601-GAPPS.zip", 
-            "sha256": "9ebfad0e7b6dab7d484f7f6b969d6f10a519461e741b6474efc0b5919377c233", 
-            "size": "894248915", 
+            "date": "2020-06-09", 
+            "datetime": "20200609", 
+            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200609-GAPPS.zip", 
+            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200609-GAPPS.zip", 
+            "sha256": "5f6d6cee1ac4329d309adb5591e0fa27cf5d159e9eca61a64e681c7ca5e1e904", 
+            "size": "895012611", 
             "type": "official", 
             "version": "v10.0"
         }
