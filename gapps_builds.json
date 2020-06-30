@@ -143,6 +143,18 @@
             "version": "v10.0"
         }
     ], 
+    "phoenix": [
+        {
+            "date": "2020-06-30", 
+            "datetime": "20200630", 
+            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200630-GAPPS.zip", 
+            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200630-GAPPS.zip", 
+            "sha256": "a72d5410ee2c25261b1484a811d3f5ffd76b05bc0ec92a6f59f6992c337de64b", 
+            "size": "690976841", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "polaris": [
         {
             "date": "2020-06-29", 
