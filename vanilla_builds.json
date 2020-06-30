@@ -287,6 +287,18 @@
             "version": "v10.0"
         }
     ], 
+    "phoenix": [
+        {
+            "date": "2020-06-30", 
+            "datetime": "20200630", 
+            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200630-VANILLA.zip", 
+            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200630-VANILLA.zip", 
+            "sha256": "78a7551eb1096d75fa4f0bc52c8b66728bce8ad4fbf326fa57e3f82948fb8377", 
+            "size": "576046029", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "polaris": [
         {
             "date": "2020-06-29", 
