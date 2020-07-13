@@ -97,12 +97,12 @@
     ], 
     "enchilada": [
         {
-            "date": "2019-12-31", 
-            "datetime": "20191231", 
-            "filename": "Arrow-v10.0-enchilada-OFFICIAL-20191231-GAPPS.zip", 
-            "filepath": "/arrow-10.0/enchilada/Arrow-v10.0-enchilada-OFFICIAL-20191231-GAPPS.zip", 
-            "sha256": "226653e61d686f8904d08b14bead85da523afdd35e5ec08d18eb7a1da6b3aad3", 
-            "size": 664470917, 
+            "date": "2020-07-13", 
+            "datetime": "20200713", 
+            "filename": "Arrow-v10.0-enchilada-OFFICIAL-20200713-GAPPS.zip", 
+            "filepath": "/arrow-10.0/enchilada/Arrow-v10.0-enchilada-OFFICIAL-20200713-GAPPS.zip", 
+            "sha256": "dd00d09b7bddda4caa6ada36ad4e0435b816c191773af57050b132317ee27115", 
+            "size": "600355567", 
             "type": "official", 
             "version": "v10.0"
         }
