@@ -38,6 +38,8 @@ def get_local_stuff():
 						if device != local_device:
 							print('Taking in local info for {}'.format(local_data[local_device][0]["filename"]), file=sys.stderr)
 							builds.setdefault(local_device, []).append({
+								'maintainer': local_data[local_device][0]["maintainer"],
+								'model': local_data[local_device][0]["model"],
 								'oem': local_data[local_device][0]["oem"],
 								'changelog': local_data[local_device][0]["changelog"],
 								'sha256': local_data[local_device][0]["sha256"],
@@ -66,6 +68,8 @@ if fnmatch.fnmatch(latest_zip, zip_pattern):
 		get_local_stuff()
 		print('Generating for new build of {}'.format(filename), file=sys.stderr)
 		builds.setdefault(device, []).append({
+			'maintainer': os.environ["TG_DEVICE_MAINTAINER"],
+			'model': os.environ["TG_DEVICE_MODEL"],
 			'oem': os.environ["TG_DEVICE_OEM"],
 			'changelog': os.environ["TG_DEVICE_CHANGELOG"],
 			'sha256': os.environ["BUILD_ARTIFACT_SHA256"],
