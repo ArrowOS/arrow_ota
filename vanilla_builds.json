@@ -129,16 +129,16 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": "", 
-            "date": "2020-07-28", 
-            "datetime": "20200728", 
-            "filename": "Arrow-v10.0-cheeseburger-OFFICIAL-20200728-VANILLA.zip", 
-            "filepath": "/arrow-10.0/cheeseburger/Arrow-v10.0-cheeseburger-OFFICIAL-20200728-VANILLA.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "fc8cd0f23ba87ab7630ee0d09fdab962a2495d05c57a66a1d55fe2f91a9b5f3c", 
-            "size": "734227244", 
+            "changelog": "- Selinux enforcing\\n- Fixed issue with volte calls\\n- Volume panel on left\\n- Kernel upstream", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-cheeseburger-OFFICIAL-20200802-VANILLA.zip", 
+            "filepath": "/arrow-10.0/cheeseburger/Arrow-v10.0-cheeseburger-OFFICIAL-20200802-VANILLA.zip", 
+            "maintainer": "Bauuuuu", 
+            "model": "ONEPLUS A5000", 
+            "oem": "OnePlus", 
+            "sha256": "d98ac07394f7a7dbb8fcd9163d09ad259f234d1dd2707cebb09e58b5eeeea631", 
+            "size": "758660853", 
             "type": "official", 
             "version": "v10.0"
         }
