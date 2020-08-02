@@ -161,16 +161,16 @@
     ], 
     "mido": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-mido-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "784656ab99cc1e7a2e354cd4641999ffdb03ffb82902ac98e4a321f7f5b97f89", 
-            "size": "701803677", 
+            "changelog": "- Misc changes and bug fixes", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-mido-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "Ganesh Varma, Giammarco Senatore.zip", 
+            "model": "Redmi Note 4", 
+            "oem": "Xiaomi", 
+            "sha256": "3bb5ecb98ae43b0e7181328683620ac439c9d9fc9004653cdb26dd27f6e86bef", 
+            "size": "717009793", 
             "type": "official", 
             "version": "v10.0"
         }
