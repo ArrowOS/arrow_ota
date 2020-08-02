@@ -145,16 +145,16 @@
     ], 
     "land": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-land-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "d1e31329489de8f6d6a1f90f887f4c63fd6ea59b34f7ed2a2f7530f2bba1d0f7", 
-            "size": "700485306", 
+            "changelog": "- Upstream changes.", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-land-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "Bauuuuu", 
+            "model": "arrow_land", 
+            "oem": "Xiaomi", 
+            "sha256": "92978b74e58c20851905bb335aa97900a47f5b41d05c4b3f5eda40e32a0fde41", 
+            "size": "700396061", 
             "type": "official", 
             "version": "v10.0"
         }
