@@ -161,16 +161,16 @@
     ], 
     "chiron": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-chiron-OFFICIAL-20200726-VANILLA.zip", 
-            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200726-VANILLA.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "7d4357044edbdb8c313167e5bc84af35070c3622abd59c9ed71d6dda03ef55b6", 
-            "size": "663536256", 
+            "changelog": "https://arrowos.net/download.php", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-chiron-OFFICIAL-20200802-VANILLA.zip", 
+            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200802-VANILLA.zip", 
+            "maintainer": "Perfectime94", 
+            "model": "Mi MIX 2", 
+            "oem": "Xiaomi", 
+            "sha256": "1ccc8f73a54ceb3491c0421a4cf19ab2670cfd3aea791a220a0aeb4ea34cf60c", 
+            "size": "663553819", 
             "type": "official", 
             "version": "v10.0"
         }
