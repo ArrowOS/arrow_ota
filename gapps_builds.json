@@ -337,16 +337,16 @@
     ], 
     "z2_row": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-z2_row-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "29188168c6d8bfdf7f83463a1045dcdda665a8856ab5f1825c8386745ddaac7b", 
-            "size": "761852074", 
+            "changelog": "- Misc fixes and changes", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-z2_row-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "kubersharma001, weimerd", 
+            "model": "ZUK Z2121", 
+            "oem": "ZUK", 
+            "sha256": "14ecc64b441f35bf2c4d0ce9fdae7e9620b5dd78c6ef64d18349ec1abe3ad39c", 
+            "size": "761820436", 
             "type": "official", 
             "version": "v10.0"
         }
