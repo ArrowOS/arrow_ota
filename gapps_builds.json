@@ -81,16 +81,16 @@
     ], 
     "chiron": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-chiron-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "dcc1c4953d833d777581766897156ef7a44d6bd71c417e794812d800df298d23", 
-            "size": "773081705", 
+            "changelog": "-", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-chiron-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "Perfectime94", 
+            "model": "Mi MIX 2", 
+            "oem": "Xiaomi", 
+            "sha256": "b2f025e2b35143d805265608c4a4f61841178226556ea0d3fa4ca33d984b1dc0", 
+            "size": "772968260", 
             "type": "official", 
             "version": "v10.0"
         }
