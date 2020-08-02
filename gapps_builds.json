@@ -257,16 +257,16 @@
     ], 
     "sanders": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-sanders-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/sanders/Arrow-v10.0-sanders-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "3c52d06df6a21acf28531c943c71bd78dadc0a752032132ae44f147f06c53222", 
-            "size": "732996115", 
+            "changelog": "-", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-sanders-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/sanders/Arrow-v10.0-sanders-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "Ashwatthama", 
+            "model": "Moto G (5S) Plus", 
+            "oem": "motorola", 
+            "sha256": "d1ae0c4ed958c455bc38b35e35bd595fc5a25f506a97230e6c81b435a9dfc7c3", 
+            "size": "731900652", 
             "type": "official", 
             "version": "v10.0"
         }
