@@ -225,16 +225,16 @@
     ], 
     "potter": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-potter-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "b2a7ec80f1c9395415b6f74ade023487d1923ca8aeb1a7a841ebe9f121372278", 
-            "size": "758165674", 
+            "changelog": "- Misc changes, bug fixes etc", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-potter-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "kubersharma001.zip", 
+            "model": "arrow_potter", 
+            "oem": "motorola", 
+            "sha256": "fc36150656e4da4e99b5e1b6d4b7e55eb74af411cc88be2730c7d8b14ee6788e", 
+            "size": "758195157", 
             "type": "official", 
             "version": "v10.0"
         }
