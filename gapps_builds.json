@@ -209,16 +209,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "efdd5f77568ea92b4140998720db5691f1c140a25be4e88113db4ac55b4042a5", 
-            "size": "897513874", 
+            "changelog": "- Switch to common QTI power HAL\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "palaych", 
+            "model": "Mi MIX 2S", 
+            "oem": "Xiaomi", 
+            "sha256": "e09ce02f5389602f31d613f4a4eb89622bdca86c03f722b7d16e379758151f6f", 
+            "size": "897408882", 
             "type": "official", 
             "version": "v10.0"
         }
