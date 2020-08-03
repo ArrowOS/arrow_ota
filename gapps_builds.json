@@ -17,16 +17,16 @@
     ], 
     "I01WD": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-I01WD-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/I01WD/Arrow-v10.0-I01WD-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "439c345fb6a7755ca395858b8c93ccd6bd7c14800ce40d376bc2cf2e56f54f8a", 
-            "size": "711608857", 
+            "changelog": "- Upstream changes", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-I01WD-OFFICIAL-20200802-GAPPS.zip", 
+            "filepath": "/arrow-10.0/I01WD/Arrow-v10.0-I01WD-OFFICIAL-20200802-GAPPS.zip", 
+            "maintainer": "Perfectime94", 
+            "model": "ASUS_I01WD", 
+            "oem": "asus", 
+            "sha256": "bcc27e45023b2fffe2392ed9185a28e72b513fca024a954d80948da6dfd7b654", 
+            "size": "711620001", 
             "type": "official", 
             "version": "v10.0"
         }
