@@ -177,16 +177,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "", 
-            "date": "2020-07-27", 
-            "datetime": "20200727", 
-            "filename": "Arrow-v10.0-perseus-OFFICIAL-20200727-GAPPS.zip", 
-            "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20200727-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "1c3d4d6970ec8a83a48af78647edd028cac5e81b757fcaad682b51721f50598b", 
-            "size": "1024105367", 
+            "changelog": "- Misc fixes and upstream changes.", 
+            "date": "2020-08-03", 
+            "datetime": "20200803", 
+            "filename": "Arrow-v10.0-perseus-OFFICIAL-20200803-GAPPS.zip", 
+            "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20200803-GAPPS.zip", 
+            "maintainer": "joelh", 
+            "model": "Mi MIX 3", 
+            "oem": "Xiaomi", 
+            "sha256": "b35d06aa96e3d91c79fdaf10037064e8a698e0e43fbd989f14554ff6b088031d", 
+            "size": "1024337318", 
             "type": "official", 
             "version": "v10.0"
         }
