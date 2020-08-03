@@ -1,16 +1,16 @@
 {
     "A6020": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-A6020-OFFICIAL-20200726-VANILLA.zip", 
-            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20200726-VANILLA.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "7474ebc357c4ed894dd45b6ab9b4ac1a4cbf68d7fe4b6e4511f5c70a8ea574f2", 
-            "size": "572341534", 
+            "changelog": "- added omx media hal\r\n- fixed minor issues with time_daemon\r\n- improved wifi stability", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-A6020-OFFICIAL-20200802-VANILLA.zip", 
+            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20200802-VANILLA.zip", 
+            "maintainer": "Adithya R", 
+            "model": "Vibe K5", 
+            "oem": "Lenovo", 
+            "sha256": "17f126c3ca8f11af8ffd5b2b016a2122e9be0c7f1d680a93fd8edc46f14ab2a0", 
+            "size": "572492476", 
             "type": "official", 
             "version": "v10.0"
         }
