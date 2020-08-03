@@ -305,16 +305,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200726-GAPPS.zip", 
-            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200726-GAPPS.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "dfb119da79cbe11bf88e1adcf9ff3d38c5a72c62ecdf374b34294471973d905d", 
-            "size": "800036745", 
+            "changelog": "- Add proper power hints for SD636\r\n- Kernel upstreamed to 4.4.232\r\n- Wireguard upstreamed to 1.0.20200729 snapshot\r\n- Import binder from android-4.19-q branch from android common \r\n- Merge LA.UM.8.2.r2-02300-sdm660.0 caf tag into the kernel\r\n- Fix ViLTE for Smartfren carrier \r\n- Misc changes", 
+            "date": "2020-08-03", 
+            "datetime": "20200803", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200803-GAPPS.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200803-GAPPS.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi Note 5", 
+            "oem": "Xiaomi", 
+            "sha256": "30fa51651686c2466e8c059f90e7eb3ba0ad9baed5a53469c52f4b5af6299f40", 
+            "size": "800147526", 
             "type": "official", 
             "version": "v10.0"
         }
