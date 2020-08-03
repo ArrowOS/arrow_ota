@@ -513,16 +513,16 @@
     ], 
     "wayne": [
         {
-            "changelog": "", 
-            "date": "2020-07-26", 
-            "datetime": "20200726", 
-            "filename": "Arrow-v10.0-wayne-OFFICIAL-20200726-VANILLA.zip", 
-            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20200726-VANILLA.zip", 
-            "maintainer": "", 
-            "model": "", 
-            "oem": "", 
-            "sha256": "c48e5a1eb22709d873515b6aef91260cc31c26a33cc2a4cbed8626119db5e70d", 
-            "size": "684218798", 
+            "changelog": "- Upstream changes", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-wayne-OFFICIAL-20200802-VANILLA.zip", 
+            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20200802-VANILLA.zip", 
+            "maintainer": "TH779", 
+            "model": "MI 6X", 
+            "oem": "Xiaomi", 
+            "sha256": "e3cb765d393b4e3e87985b69b0d0eb39053b33b4477b317da3c81d3909f418b9", 
+            "size": "685804885", 
             "type": "official", 
             "version": "v10.0"
         }
