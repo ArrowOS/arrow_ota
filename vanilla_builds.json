@@ -529,16 +529,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Add proper power hints for SD636\r\n- Kernel upstreamed to 4.4.232\r\n- Wireguard upstreamed to 1.0.20200729 snapshot\r\n- Import binder from android-4.19-q branch from android common \r\n- Merge LA.UM.8.2.r2-02300-sdm660.0 caf tag into the kernel\r\n- Fix ViLTE for Smartfren carrier \r\n- Misc changes", 
-            "date": "2020-08-03", 
-            "datetime": "20200803", 
-            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200803-VANILLA.zip", 
-            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200803-VANILLA.zip", 
+            "changelog": "- Update all blobs from jasmine-user-10-QKQ1.190910.002-V11.0.11.0.QDIMIXM-release-keys\r\n- Add back XiaomiDoze\r\n- Bump vendor security patch level\r\n- Misc changes and upstreams", 
+            "date": "2020-08-09", 
+            "datetime": "20200809", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200809-VANILLA.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200809-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "21a6c6d098eee2da5eed415d04110e90cef78d964acb2e3fdf77907b29eaa184", 
-            "size": "690636837", 
+            "sha256": "334ec93d971053a5c6d099874265d3ba122bfc454f531ce837a138cf3a5cde6f", 
+            "size": "688836486", 
             "type": "official", 
             "version": "v10.0"
         }
