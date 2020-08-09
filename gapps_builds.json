@@ -177,16 +177,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Misc fixes and upstream changes.", 
-            "date": "2020-08-03", 
-            "datetime": "20200803", 
-            "filename": "Arrow-v10.0-perseus-OFFICIAL-20200803-GAPPS.zip", 
-            "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20200803-GAPPS.zip", 
+            "changelog": "- Enable Color Display Mode\r\n- Audio: Switch to 24 bit for playback\r\n- Audio: Add HIFI mixer controls\r\n- Misc fixes and upstream changes.", 
+            "date": "2020-08-09", 
+            "datetime": "20200809", 
+            "filename": "Arrow-v10.0-perseus-OFFICIAL-20200809-GAPPS.zip", 
+            "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20200809-GAPPS.zip", 
             "maintainer": "joelh", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "b35d06aa96e3d91c79fdaf10037064e8a698e0e43fbd989f14554ff6b088031d", 
-            "size": "1024337318", 
+            "sha256": "9174d8dd3e68b8f5c48e1a0814db11356b96334707faff702f09c694f3932cd3", 
+            "size": "1079926741", 
             "type": "official", 
             "version": "v10.0"
         }
