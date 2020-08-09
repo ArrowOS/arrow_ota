@@ -2,15 +2,15 @@
     "A6020": [
         {
             "changelog": "- added omx media hal\r\n- fixed minor issues with time_daemon\r\n- improved wifi stability", 
-            "date": "2020-08-03", 
-            "datetime": "20200803", 
-            "filename": "Arrow-v10.0-A6020-OFFICIAL-20200803-GAPPS.zip", 
-            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20200803-GAPPS.zip", 
+            "date": "2020-08-09", 
+            "datetime": "20200809", 
+            "filename": "Arrow-v10.0-A6020-OFFICIAL-20200809-GAPPS.zip", 
+            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20200809-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Vibe K5", 
             "oem": "Lenovo", 
-            "sha256": "8a55552f49b2e4b736b5173d81075d6d3b914634e19c6e7342a8477416da961c", 
-            "size": "681693989", 
+            "sha256": "dc27adee81746ffcde9266ffb397c486a51140f469b26b4329759e88381cba15", 
+            "size": "736674923", 
             "type": "official", 
             "version": "v10.0"
         }
