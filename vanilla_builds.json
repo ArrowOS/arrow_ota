@@ -401,16 +401,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Switch to custom source compiled vendor\r\n- Upstream changes", 
-            "date": "2020-08-03", 
-            "datetime": "20200803", 
-            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200803-VANILLA.zip", 
-            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200803-VANILLA.zip", 
+            "changelog": "-", 
+            "date": "2020-08-09", 
+            "datetime": "20200809", 
+            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200809-VANILLA.zip", 
+            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200809-VANILLA.zip", 
             "maintainer": "harshv23, kubersharma001", 
-            "model": "Redmi K30", 
-            "oem": "Redmi", 
-            "sha256": "fa364e8c0dc242ae4dd1f075cbdf3c2892a1b2d99b1f917510ab43cacfa46f2b", 
-            "size": "942171585", 
+            "model": "POCO X2", 
+            "oem": "POCO", 
+            "sha256": "8d5c6ee2134f55ec1499a38a0941825322eec776e5075edb9d5e9141c9aa5468", 
+            "size": "942003825", 
             "type": "official", 
             "version": "v10.0"
         }
