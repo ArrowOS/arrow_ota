@@ -209,16 +209,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Switch to custom source compiled vendor\r\n- Upstream changes", 
-            "date": "2020-08-03", 
-            "datetime": "20200803", 
-            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200803-GAPPS.zip", 
-            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200803-GAPPS.zip", 
+            "changelog": "-", 
+            "date": "2020-08-10", 
+            "datetime": "20200810", 
+            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200810-GAPPS.zip", 
+            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200810-GAPPS.zip", 
             "maintainer": "harshv23, kubersharma001", 
-            "model": "Redmi K30", 
-            "oem": "Redmi", 
-            "sha256": "bc626f9fd9b0c6d8b2f2627f623f3f6593175294bab2c0a03d27cd2e534f7860", 
-            "size": "1052911224", 
+            "model": "POCO X2", 
+            "oem": "POCO", 
+            "sha256": "46bc4b424d56bb7ed28ca34393fe91515ec6f23e7a8a6a3cd52e5b1b91ebe20b", 
+            "size": "1107917504", 
             "type": "official", 
             "version": "v10.0"
         }
