@@ -113,16 +113,16 @@
     ], 
     "beryllium": [
         {
-            "changelog": "- Enable Color Display Mode\r\n- Audio: Switch to 24 bit for playback\r\n- Audio: Add HIFI mixer controls\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware.", 
-            "date": "2020-08-09", 
-            "datetime": "20200809", 
-            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20200809-VANILLA.zip", 
-            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20200809-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware.", 
+            "date": "2020-08-22", 
+            "datetime": "20200822", 
+            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20200822-VANILLA.zip", 
+            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20200822-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
-            "oem": "Xiaomi", 
-            "sha256": "40995b9a28e5625f1a58288258ce41d515f480620b34d9091ec6e7b13da6b7bd", 
-            "size": "776790124", 
+            "oem": "POCO", 
+            "sha256": "e29801355fae1eaf7d81d67e2b39b937e0aa826a75843309919af4d95f7fa2ec", 
+            "size": "776964512", 
             "type": "official", 
             "version": "v10.0"
         }
