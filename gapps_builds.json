@@ -321,16 +321,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Update all blobs from jasmine-user-10-QKQ1.190910.002-V11.0.11.0.QDIMIXM-release-keys\r\n- Add back XiaomiDoze\r\n- Bump vendor security patch level\r\n- Misc changes and upstreams", 
-            "date": "2020-08-09", 
-            "datetime": "20200809", 
-            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200809-GAPPS.zip", 
-            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200809-GAPPS.zip", 
+            "changelog": "- Update GPU drivers to v454\r\n- Fall back to thermals from jasmine V11.0.4.0.QDIMIXM\r\n- Fix weird brightness issues at high temps\r\n- Cleanup useless stuff\r\n- Add some rendering props\r\n- Misc changes", 
+            "date": "2020-08-22", 
+            "datetime": "20200822", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200822-GAPPS.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200822-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "7f513dd963056df720e551a10ef8bc7d917277961c15f51e3471573cd03d283b", 
-            "size": "852903565", 
+            "sha256": "f38815e7bf0c5dbb9dae1cda85629adaabe94e02c57fc94de7cd71430b726094", 
+            "size": "851598168", 
             "type": "official", 
             "version": "v10.0"
         }
