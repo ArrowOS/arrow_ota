@@ -417,16 +417,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Enable Color Display Mode\r\n- Audio: Switch to 24 bit for playback\r\n- Audio: Add HIFI mixer controls\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).", 
-            "date": "2020-08-09", 
-            "datetime": "20200809", 
-            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200809-VANILLA.zip", 
-            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200809-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).", 
+            "date": "2020-08-23", 
+            "datetime": "20200823", 
+            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200823-VANILLA.zip", 
+            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200823-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "1c6d61a5a08e3281588e86bd4b6ee002b936b924eb05f6fff8beb9e50c16e275", 
-            "size": "787929962", 
+            "sha256": "5408eaf9f6707285a43d46ebd93e13cbd7ae596508c01cded1179fa6779dee95", 
+            "size": "788217319", 
             "type": "official", 
             "version": "v10.0"
         }
