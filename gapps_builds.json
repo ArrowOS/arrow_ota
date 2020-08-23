@@ -81,16 +81,16 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": "Selinux enforcing \r\nFixed issue with volte calls\r\nVolume panel on left\r\nKernel upstream 4.4.232\r\nenable burnin protection for statusbar", 
-            "date": "2020-08-09", 
-            "datetime": "20200809", 
-            "filename": "Arrow-v10.0-cheeseburger-OFFICIAL-20200809-GAPPS.zip", 
-            "filepath": "/arrow-10.0/cheeseburger/Arrow-v10.0-cheeseburger-OFFICIAL-20200809-GAPPS.zip", 
+            "changelog": "-", 
+            "date": "2020-08-23", 
+            "datetime": "20200823", 
+            "filename": "Arrow-v10.0-cheeseburger-OFFICIAL-20200823-GAPPS.zip", 
+            "filepath": "/arrow-10.0/cheeseburger/Arrow-v10.0-cheeseburger-OFFICIAL-20200823-GAPPS.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5000", 
             "oem": "OnePlus", 
-            "sha256": "eedda57616b53360a5820825ce3c366c5810e049136dc40c34d7f4c413fb1a96", 
-            "size": "925472493", 
+            "sha256": "600f81616a7ae6f69fa9aad54a42d44f12397ac2de810abb95c2714dce0b348b", 
+            "size": "924555959", 
             "type": "official", 
             "version": "v10.0"
         }
