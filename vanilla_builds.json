@@ -577,16 +577,16 @@
     ], 
     "z2_plus": [
         {
-            "changelog": "- Misc fixes and changes", 
-            "date": "2020-08-09", 
-            "datetime": "20200809", 
-            "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20200809-VANILLA.zip", 
-            "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20200809-VANILLA.zip", 
+            "changelog": "-", 
+            "date": "2020-08-24", 
+            "datetime": "20200824", 
+            "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20200824-VANILLA.zip", 
+            "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20200824-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Z2 Plus", 
             "oem": "ZUK", 
-            "sha256": "9ecd2b618f7ce5873ea8e51da122a95c62f3e0e858f6b5648667e6a6300db74f", 
-            "size": "650572852", 
+            "sha256": "80a8f8b43745330efeaecc8bdfba13fdb71e76cad4db2c5439f4b64c5ecc2bdc", 
+            "size": "650730572", 
             "type": "official", 
             "version": "v10.0"
         }
