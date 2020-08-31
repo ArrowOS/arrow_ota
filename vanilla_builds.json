@@ -450,15 +450,15 @@
     "raphael": [
         {
             "changelog": "- Initial Official build.\r\n- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware", 
-            "date": "2020-08-23", 
-            "datetime": "20200823", 
-            "filename": "Arrow-v10.0-raphael-OFFICIAL-20200823-VANILLA.zip", 
-            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200823-VANILLA.zip", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-raphael-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200831-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "arrow_raphael", 
             "oem": "Xiaomi", 
-            "sha256": "2a2fb972ee75301fb31fcdb86499a3edc9d7f82803309f114514755ffe7b7143", 
-            "size": "581339016", 
+            "sha256": "92b45fc5042ecd370f009add8ba30c4a1f4fc15fd0c49ed4e57b9d7c7fd4b7d2", 
+            "size": "581348746", 
             "type": "official", 
             "version": "v10.0"
         }
