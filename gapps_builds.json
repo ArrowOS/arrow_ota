@@ -322,15 +322,15 @@
     "wayne": [
         {
             "changelog": "- Fixed OTG / headset.", 
-            "date": "2020-08-24", 
-            "datetime": "20200824", 
-            "filename": "Arrow-v10.0-wayne-OFFICIAL-20200824-GAPPS.zip", 
-            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20200824-GAPPS.zip", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-wayne-OFFICIAL-20200831-GAPPS.zip", 
+            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20200831-GAPPS.zip", 
             "maintainer": "TH779", 
             "model": "MI 6X", 
             "oem": "Xiaomi", 
-            "sha256": "9b724d34bab5d419a76b7759a797dfb1ad57e6abfede85c77e422e7a1f2d29c1", 
-            "size": "847266588", 
+            "sha256": "9b6639a1853c78cbc3ef211562513e161d8dc0617b44c50a320e436ba586db05", 
+            "size": "847225919", 
             "type": "official", 
             "version": "v10.0"
         }
