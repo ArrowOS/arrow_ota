@@ -337,16 +337,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Update GPU drivers to v454\r\n- Fall back to thermals from jasmine V11.0.4.0.QDIMIXM\r\n- Fix weird brightness issues at high temps\r\n- Cleanup useless stuff\r\n- Add some rendering props\r\n- Misc changes", 
-            "date": "2020-08-22", 
-            "datetime": "20200822", 
-            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200822-GAPPS.zip", 
-            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200822-GAPPS.zip", 
+            "changelog": "- Fixed NightLight \r\n- Kernel upstreams\r\n- Misc Changes", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200831-GAPPS.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200831-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "f38815e7bf0c5dbb9dae1cda85629adaabe94e02c57fc94de7cd71430b726094", 
-            "size": "851598168", 
+            "sha256": "817ffdbdb369933c521eee6300293e0b70554b31143443098ceb1d0a21562592", 
+            "size": "851626947", 
             "type": "official", 
             "version": "v10.0"
         }
