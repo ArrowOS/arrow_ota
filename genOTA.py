@@ -8,13 +8,29 @@ import fnmatch
 import sys
 
 cwd=os.getcwd()
+is_test = os.environ["IS_TEST"]
+build_type = os.environ["TG_BUILD_TYPE"]
+build_version = os.environ["TG_BUILD_VERSION"]
 build_zip_type = os.environ["TG_BUILD_ZIP_TYPE"]
-zip_pattern = "*OFFICIAL*.zip"
+
+if len(build_version.strip()) != 0:
+	filename_prefix = build_version
+
+if len(build_type.strip()) != 0:
+	filename_suffix = build_type.lower()
+
+# If for some reason its an official test build make sure not to alter in official json file
+if 'OFFICIAL' in build_type and is_test == 'yes':
+	filename_suffix = 'UNOFFICIAL'
+
+# Explicitly handle filename suffix of community beta builds
+if 'COMMUNITY' in build_type and is_test == 'yes':
+	filename_suffix = filename_suffix + '_UNOFFICIAL'
 
 if build_zip_type == 'VANILLA':
-	json_file = '/vanilla_builds.json'
+	json_file = '/' + filename_prefix + '_vanilla_builds_' + filename_suffix + '.json'
 elif build_zip_type == 'GAPPS':
-	json_file = '/gapps_builds.json'
+	json_file = '/' + filename_prefix + '_gapps_builds_' + filename_suffix + '.json'
 else:
 	json_file = '/pie_builds.json'
 
@@ -58,31 +74,30 @@ def get_local_stuff():
 
 latest_zip = os.environ["BUILD_ARTIFACT"]
 print('Latest zip is ' + latest_zip)
-if fnmatch.fnmatch(latest_zip, zip_pattern):
-	try:
-		filename=latest_zip
-		if build_zip_type == 'VANILLA' or build_zip_type == 'GAPPS':
-			_, version, device, buildtype, builddate, ziptype = os.path.splitext(filename)[0].split('-')
-		else:
-			_, version, device, buildtype, builddate = os.path.splitext(filename)[0].split('-')
-		get_local_stuff()
-		print('Generating for new build of {}'.format(filename), file=sys.stderr)
-		builds.setdefault(device, []).append({
-			'maintainer': os.environ["TG_DEVICE_MAINTAINER"],
-			'model': os.environ["TG_DEVICE_MODEL"],
-			'oem': os.environ["TG_DEVICE_OEM"],
-			'changelog': os.environ["TG_DEVICE_CHANGELOG"],
-			'sha256': os.environ["BUILD_ARTIFACT_SHA256"],
-			'size': os.environ["BUILD_ARTIFACT_SIZE"],
-			'date': '{}-{}-{}'.format(builddate[0:4], builddate[4:6], builddate[6:8]),
-			'datetime': '{}{}{}'.format(builddate[0:4], builddate[4:6], builddate[6:8]),
-			'filename': filename,
-			'filepath': '/{}/{}/{}'.format('arrow-' + version.split('v')[1], device, filename),
-			'version': version,
-			'type': buildtype.lower()
-		})
-	except IndexError:
-		print('Something went wrong could not find the zip!!', file=sys.stderr)
+try:
+	filename=latest_zip
+	if build_zip_type == 'VANILLA' or build_zip_type == 'GAPPS':
+		_, version, device, buildtype, builddate, ziptype = os.path.splitext(filename)[0].split('-')
+	else:
+		_, version, device, buildtype, builddate = os.path.splitext(filename)[0].split('-')
+	get_local_stuff()
+	print('Generating for new build of {}'.format(filename), file=sys.stderr)
+	builds.setdefault(device, []).append({
+		'maintainer': os.environ["TG_DEVICE_MAINTAINER"],
+		'model': os.environ["TG_DEVICE_MODEL"],
+		'oem': os.environ["TG_DEVICE_OEM"],
+		'changelog': os.environ["TG_DEVICE_CHANGELOG"],
+		'sha256': os.environ["BUILD_ARTIFACT_SHA256"],
+		'size': os.environ["BUILD_ARTIFACT_SIZE"],
+		'date': '{}-{}-{}'.format(builddate[0:4], builddate[4:6], builddate[6:8]),
+		'datetime': '{}{}{}'.format(builddate[0:4], builddate[4:6], builddate[6:8]),
+		'filename': filename,
+		'filepath': '/{}/{}/{}'.format('arrow-' + version.split('v')[1], device, filename),
+		'version': version,
+		'type': buildtype.lower()
+	})
+except IndexError:
+	print('Something went wrong could not find the zip!!', file=sys.stderr)
 
 for device in builds.keys():
     builds[device] = sorted(builds[device], key=lambda x: x['date'])
