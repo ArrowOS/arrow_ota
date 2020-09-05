@@ -1,338 +1,386 @@
 {
-    "A6020": [{
-        "changelog": "-",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-A6020-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "Adithya R",
-        "model": "Vibe K5",
-        "oem": "Lenovo",
-        "sha256": "78014af802841540b2e5b144651ada2fe9fef0b28e14044e80244ea1f6e9b056",
-        "size": "572684602",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "I01WD": [{
-        "changelog": "- Upstream changes",
-        "date": "2020-08-02",
-        "datetime": "20200802",
-        "filename": "Arrow-v10.0-I01WD-OFFICIAL-20200802-VANILLA.zip",
-        "filepath": "/arrow-10.0/I01WD/Arrow-v10.0-I01WD-OFFICIAL-20200802-VANILLA.zip",
-        "maintainer": "Perfectime94",
-        "model": "Asus 6z",
-        "oem": "asus",
-        "sha256": "457b8e9c7579eb89a517dcf6b3bd98906fba32b6498bdd3673cdec392fee8d44",
-        "size": "617333874",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "X01BD": [{
-        "changelog": "",
-        "date": "2020-04-14",
-        "datetime": "20200414",
-        "filename": "Arrow-v10.0-X01BD-OFFICIAL-20200414-VANILLA.zip",
-        "filepath": "/arrow-10.0/X01BD/Arrow-v10.0-X01BD-OFFICIAL-20200414-VANILLA.zip",
-        "maintainer": "bauuuuuu, kubersharma001",
-        "model": "Asus Max Pro M2",
-        "oem": "asus",
-        "sha256": "38027379772a1feabfb70490490ade608475d6a38f05bb458a8ff41fcb8e64a7",
-        "size": "703966186",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "angler": [{
-        "changelog": "-",
-        "date": "2020-08-23",
-        "datetime": "20200823",
-        "filename": "Arrow-v10.0-angler-OFFICIAL-20200823-VANILLA.zip",
-        "filepath": "/arrow-10.0/angler/Arrow-v10.0-angler-OFFICIAL-20200823-VANILLA.zip",
-        "maintainer": "Amartya",
-        "model": "Nexus 6P",
-        "oem": "google",
-        "sha256": "4ac06928dceb555433560e410ebfa72d74b82f0ea4572d3a611aa727cbbb34ec",
-        "size": "624793733",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "beryllium": [{
-        "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware.",
-        "date": "2020-08-30",
-        "datetime": "20200830",
-        "filename": "Arrow-v10.0-beryllium-OFFICIAL-20200830-VANILLA.zip",
-        "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20200830-VANILLA.zip",
-        "maintainer": "Ganesh Varma, kubersharma001",
-        "model": "POCOPHONE F1",
-        "oem": "POCO",
-        "sha256": "ce77b9fecc3820e34bbd72eeecf4e81b3661c5f1f3d017a2bfad157a23b4abe5",
-        "size": "776983035",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "cheeseburger": [{
-        "changelog": "-",
-        "date": "2020-08-30",
-        "datetime": "20200830",
-        "filename": "Arrow-v10.0-cheeseburger-OFFICIAL-20200830-VANILLA.zip",
-        "filepath": "/arrow-10.0/cheeseburger/Arrow-v10.0-cheeseburger-OFFICIAL-20200830-VANILLA.zip",
-        "maintainer": "Bauuuuu",
-        "model": "ONEPLUS A5000",
-        "oem": "OnePlus",
-        "sha256": "3f7e98d118afbaa41003e8428c249a1a8dcff549f433fc493f5613e9660f39ed",
-        "size": "758835358",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "chiron": [{
-        "changelog": "-",
-        "date": "2020-08-02",
-        "datetime": "20200802",
-        "filename": "Arrow-v10.0-chiron-OFFICIAL-20200802-VANILLA.zip",
-        "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200802-VANILLA.zip",
-        "maintainer": "Perfectime94",
-        "model": "Mi MIX 2",
-        "oem": "Xiaomi",
-        "sha256": "1ccc8f73a54ceb3491c0421a4cf19ab2670cfd3aea791a220a0aeb4ea34cf60c",
-        "size": "663553819",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "clover": [{
-        "changelog": "-",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-clover-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "TH779",
-        "model": "MI PAD 4",
-        "oem": "Xiaomi",
-        "sha256": "0c65fecff20d99e5af9bca1b43d32f00abee59cb8c22f6ced23543c3db43a717",
-        "size": "688894983",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "dumpling": [{
-        "changelog": "",
-        "date": "2020-06-29",
-        "datetime": "20200629",
-        "filename": "Arrow-v10.0-dumpling-OFFICIAL-20200629-VANILLA.zip",
-        "filepath": "/arrow-10.0/dumpling/Arrow-v10.0-dumpling-OFFICIAL-20200629-VANILLA.zip",
-        "maintainer": "",
-        "model": "ONEPLUS A5010",
-        "oem": "OnePlus",
-        "sha256": "a83f61a7dc050448c6ed011d94d3cc7d95bc84ba23f0494fb5a12c7fb743a4e8",
-        "size": "731269649",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "enchilada": [{
-        "changelog": "-",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-enchilada-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/enchilada/Arrow-v10.0-enchilada-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "Raj Jadeja",
-        "model": "OnePlus6",
-        "oem": "OnePlus",
-        "sha256": "d3c634dd7d16f382832e3833a2ebb1f70606a9e2ecf7561fb8722d98f653afeb",
-        "size": "505318295",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "land": [{
-        "changelog": "-",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-land-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "Bauuuuu",
-        "model": "arrow_land",
-        "oem": "Xiaomi",
-        "sha256": "8fcd06b28d4590f0a01a7a7477daf8ef602ecf5b8a358e087c881932680dd6a7",
-        "size": "591097593",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "mido": [{
-        "changelog": "-",
-        "date": "2020-08-30",
-        "datetime": "20200830",
-        "filename": "Arrow-v10.0-mido-OFFICIAL-20200830-VANILLA.zip",
-        "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-OFFICIAL-20200830-VANILLA.zip",
-        "maintainer": "Ganesh Varma, Giammarco Senatore",
-        "model": "Redmi Note 4",
-        "oem": "Xiaomi",
-        "sha256": "1b4eb7f7b17c541a4aa500c7fa09793ef010037002571c1e70eb2820ef6b28ba",
-        "size": "608011362",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "perseus": [{
-        "changelog": "- Misc fixes and upstream changes.",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-perseus-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "joelh",
-        "model": "Mi MIX 3",
-        "oem": "Xiaomi",
-        "sha256": "7aa6fca2f916882317939cc82605260152a13055dcbfd55433f81b306b3694c9",
-        "size": "913871906",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "phoenix": [{
-        "changelog": "- Fixed some sepolicy denials\r\n- power-HAL: fixes and improve\r\n- powerhint tunings for balanced performance and power\r\n- Update some blobs from liber\r\n- gps-HAL: Merge tag LA.UM.8.9.r1-10000-SM6xx.0\r\n- kernel: upstream to last linux version and caf tag\r\n- Fixed display HAL (displayfeature missing)\r\n- Fixed fingerprint extension HAL\r\n- Misc fixes and upstream changes.",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "harshv23, kubersharma001",
-        "model": "POCO X2",
-        "oem": "POCO",
-        "sha256": "e120a1f79897ee8896d134fdbd95591ad8e7c23c66f124bcfed3d032e8fb5131",
-        "size": "943757470",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "polaris": [{
-        "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-polaris-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "palaych",
-        "model": "Mi MIX 2S",
-        "oem": "Xiaomi",
-        "sha256": "7d9c7ff2989ddd87a56e5375b8f1ab2f3595af04cae3818a6255077b3d1bf4ef",
-        "size": "788225305",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "potter": [{
-        "changelog": "-",
-        "date": "2020-08-30",
-        "datetime": "20200830",
-        "filename": "Arrow-v10.0-potter-OFFICIAL-20200830-VANILLA.zip",
-        "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200830-VANILLA.zip",
-        "maintainer": "kubersharma001",
-        "model": "Moto G5 Plus",
-        "oem": "motorola",
-        "sha256": "129591980fbeef2b22b1a3735856fa2c7331370961018ec6bce420060072a775",
-        "size": "648731993",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "raphael": [{
-        "changelog": "- Switch to MIUI Blue OnPressed MIUI fod icon.\r\n- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware",
-        "date": "2020-09-01",
-        "datetime": "20200901",
-        "filename": "Arrow-v10.0-raphael-OFFICIAL-20200901-VANILLA.zip",
-        "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200901-VANILLA.zip",
-        "maintainer": "kubersharma001",
-        "model": "Redmi K20 Pro",
-        "oem": "Xiaomi",
-        "sha256": "65e303b9b9ba25bb25e5b4a2c8f680d960acf3f7dc9fed1df68cf209c235e1e5",
-        "size": "581359282",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "s2": [{
-        "changelog": "",
-        "date": "2020-01-26",
-        "datetime": "20200126",
-        "filename": "Arrow-v10.0-s2-OFFICIAL-20200126-VANILLA.zip",
-        "filepath": "/arrow-10.0/s2/Arrow-v10.0-s2-OFFICIAL-20200126-VANILLA.zip",
-        "maintainer": "",
-        "model": "LeEco Le 2",
-        "oem": "LeEco",
-        "sha256": "38821aeb8b71502639e94e89481290d417f834d68e546578160ffa2c77ac9806",
-        "size": "635959171",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "sanders": [{
-        "changelog": "-",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-sanders-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/sanders/Arrow-v10.0-sanders-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "Ashwatthama",
-        "model": "Moto G (5S) Plus",
-        "oem": "motorola",
-        "sha256": "e3ba0f26e5042c133ebf08696eedf35f360228326139f2f9643ca230eb386a96",
-        "size": "619863861",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "violet": [{
-        "changelog": "- Updated powerhint values",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-violet-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/violet/Arrow-v10.0-violet-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "Abhay Kshatriya",
-        "model": "Redmi Note 7 Pro",
-        "oem": "Xiaomi",
-        "sha256": "d68e0ba40c1849d0d829086a40601082604997d3b0c723206e23f6fbf907ed3c",
-        "size": "852047097",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "wayne": [{
-        "changelog": "- Fixed OTG / headset.",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-wayne-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "TH779",
-        "model": "MI 6X",
-        "oem": "Xiaomi",
-        "sha256": "d57778e1170f80b2f49c36923ea7ab990a7e7eb99ec67f50d68a0d771ec44073",
-        "size": "685901928",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "whyred": [{
-        "changelog": "- Fixed NightLight \r\n- Kernel upstreams\r\n- Misc Changes",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-whyred-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "Sreekanth",
-        "model": "Redmi Note 5",
-        "oem": "Xiaomi",
-        "sha256": "4140559968ee10833e97ad9e3d0bf685a31f130fe73b2337d82dc5ba382da73f",
-        "size": "688766762",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "z2_plus": [{
-        "changelog": "-",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "kubersharma001",
-        "model": "Z2 Plus",
-        "oem": "ZUK",
-        "sha256": "b53cff8970daeb9ba8eccd82c49c0c27664f245523b7349c96a0247a3dc664ab",
-        "size": "650679365",
-        "type": "official",
-        "version": "v10.0"
-    }],
-    "z2_row": [{
-        "changelog": "-",
-        "date": "2020-08-31",
-        "datetime": "20200831",
-        "filename": "Arrow-v10.0-z2_row-OFFICIAL-20200831-VANILLA.zip",
-        "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20200831-VANILLA.zip",
-        "maintainer": "kubersharma001, weimerd",
-        "model": "ZUK Z2121",
-        "oem": "ZUK",
-        "sha256": "5e70cee2b6fa980b550d7095619ebc61fe62b49c4f64005250d456cee2d2348f",
-        "size": "650841429",
-        "type": "official",
-        "version": "v10.0"
-    }]
+    "A6020": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-A6020-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "Adithya R", 
+            "model": "Vibe K5", 
+            "oem": "Lenovo", 
+            "sha256": "78014af802841540b2e5b144651ada2fe9fef0b28e14044e80244ea1f6e9b056", 
+            "size": "572684602", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "I01WD": [
+        {
+            "changelog": "- Upstream changes", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-I01WD-OFFICIAL-20200802-VANILLA.zip", 
+            "filepath": "/arrow-10.0/I01WD/Arrow-v10.0-I01WD-OFFICIAL-20200802-VANILLA.zip", 
+            "maintainer": "Perfectime94", 
+            "model": "Asus 6z", 
+            "oem": "asus", 
+            "sha256": "457b8e9c7579eb89a517dcf6b3bd98906fba32b6498bdd3673cdec392fee8d44", 
+            "size": "617333874", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "X01BD": [
+        {
+            "changelog": "", 
+            "date": "2020-04-14", 
+            "datetime": "20200414", 
+            "filename": "Arrow-v10.0-X01BD-OFFICIAL-20200414-VANILLA.zip", 
+            "filepath": "/arrow-10.0/X01BD/Arrow-v10.0-X01BD-OFFICIAL-20200414-VANILLA.zip", 
+            "maintainer": "bauuuuuu, kubersharma001", 
+            "model": "Asus Max Pro M2", 
+            "oem": "asus", 
+            "sha256": "38027379772a1feabfb70490490ade608475d6a38f05bb458a8ff41fcb8e64a7", 
+            "size": "703966186", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "angler": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-23", 
+            "datetime": "20200823", 
+            "filename": "Arrow-v10.0-angler-OFFICIAL-20200823-VANILLA.zip", 
+            "filepath": "/arrow-10.0/angler/Arrow-v10.0-angler-OFFICIAL-20200823-VANILLA.zip", 
+            "maintainer": "Amartya", 
+            "model": "Nexus 6P", 
+            "oem": "google", 
+            "sha256": "4ac06928dceb555433560e410ebfa72d74b82f0ea4572d3a611aa727cbbb34ec", 
+            "size": "624793733", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "beryllium": [
+        {
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware.", 
+            "date": "2020-08-30", 
+            "datetime": "20200830", 
+            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20200830-VANILLA.zip", 
+            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20200830-VANILLA.zip", 
+            "maintainer": "Ganesh Varma, kubersharma001", 
+            "model": "POCOPHONE F1", 
+            "oem": "POCO", 
+            "sha256": "ce77b9fecc3820e34bbd72eeecf4e81b3661c5f1f3d017a2bfad157a23b4abe5", 
+            "size": "776983035", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "cheeseburger": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-30", 
+            "datetime": "20200830", 
+            "filename": "Arrow-v10.0-cheeseburger-OFFICIAL-20200830-VANILLA.zip", 
+            "filepath": "/arrow-10.0/cheeseburger/Arrow-v10.0-cheeseburger-OFFICIAL-20200830-VANILLA.zip", 
+            "maintainer": "Bauuuuu", 
+            "model": "ONEPLUS A5000", 
+            "oem": "OnePlus", 
+            "sha256": "3f7e98d118afbaa41003e8428c249a1a8dcff549f433fc493f5613e9660f39ed", 
+            "size": "758835358", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "chiron": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-02", 
+            "datetime": "20200802", 
+            "filename": "Arrow-v10.0-chiron-OFFICIAL-20200802-VANILLA.zip", 
+            "filepath": "/arrow-10.0/chiron/Arrow-v10.0-chiron-OFFICIAL-20200802-VANILLA.zip", 
+            "maintainer": "Perfectime94", 
+            "model": "Mi MIX 2", 
+            "oem": "Xiaomi", 
+            "sha256": "1ccc8f73a54ceb3491c0421a4cf19ab2670cfd3aea791a220a0aeb4ea34cf60c", 
+            "size": "663553819", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "clover": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-clover-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "TH779", 
+            "model": "MI PAD 4", 
+            "oem": "Xiaomi", 
+            "sha256": "0c65fecff20d99e5af9bca1b43d32f00abee59cb8c22f6ced23543c3db43a717", 
+            "size": "688894983", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "dumpling": [
+        {
+            "changelog": "", 
+            "date": "2020-06-29", 
+            "datetime": "20200629", 
+            "filename": "Arrow-v10.0-dumpling-OFFICIAL-20200629-VANILLA.zip", 
+            "filepath": "/arrow-10.0/dumpling/Arrow-v10.0-dumpling-OFFICIAL-20200629-VANILLA.zip", 
+            "maintainer": "", 
+            "model": "ONEPLUS A5010", 
+            "oem": "OnePlus", 
+            "sha256": "a83f61a7dc050448c6ed011d94d3cc7d95bc84ba23f0494fb5a12c7fb743a4e8", 
+            "size": "731269649", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "enchilada": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-enchilada-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/enchilada/Arrow-v10.0-enchilada-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "Raj Jadeja", 
+            "model": "OnePlus6", 
+            "oem": "OnePlus", 
+            "sha256": "d3c634dd7d16f382832e3833a2ebb1f70606a9e2ecf7561fb8722d98f653afeb", 
+            "size": "505318295", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "land": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-land-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "Bauuuuu", 
+            "model": "arrow_land", 
+            "oem": "Xiaomi", 
+            "sha256": "8fcd06b28d4590f0a01a7a7477daf8ef602ecf5b8a358e087c881932680dd6a7", 
+            "size": "591097593", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "mido": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-30", 
+            "datetime": "20200830", 
+            "filename": "Arrow-v10.0-mido-OFFICIAL-20200830-VANILLA.zip", 
+            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-OFFICIAL-20200830-VANILLA.zip", 
+            "maintainer": "Ganesh Varma, Giammarco Senatore", 
+            "model": "Redmi Note 4", 
+            "oem": "Xiaomi", 
+            "sha256": "1b4eb7f7b17c541a4aa500c7fa09793ef010037002571c1e70eb2820ef6b28ba", 
+            "size": "608011362", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "perseus": [
+        {
+            "changelog": "- Misc fixes and upstream changes.", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-perseus-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "joelh", 
+            "model": "Mi MIX 3", 
+            "oem": "Xiaomi", 
+            "sha256": "7aa6fca2f916882317939cc82605260152a13055dcbfd55433f81b306b3694c9", 
+            "size": "913871906", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "phoenix": [
+        {
+            "changelog": "- Fixed some sepolicy denials\r\n- power-HAL: fixes and improve\r\n- powerhint tunings for balanced performance and power\r\n- Update some blobs from liber\r\n- gps-HAL: Merge tag LA.UM.8.9.r1-10000-SM6xx.0\r\n- kernel: upstream to last linux version and caf tag\r\n- Fixed display HAL (displayfeature missing)\r\n- Fixed fingerprint extension HAL\r\n- Misc fixes and upstream changes.", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "harshv23, kubersharma001", 
+            "model": "POCO X2", 
+            "oem": "POCO", 
+            "sha256": "e120a1f79897ee8896d134fdbd95591ad8e7c23c66f124bcfed3d032e8fb5131", 
+            "size": "943757470", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "polaris": [
+        {
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "palaych", 
+            "model": "Mi MIX 2S", 
+            "oem": "Xiaomi", 
+            "sha256": "7d9c7ff2989ddd87a56e5375b8f1ab2f3595af04cae3818a6255077b3d1bf4ef", 
+            "size": "788225305", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "potter": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-30", 
+            "datetime": "20200830", 
+            "filename": "Arrow-v10.0-potter-OFFICIAL-20200830-VANILLA.zip", 
+            "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200830-VANILLA.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Moto G5 Plus", 
+            "oem": "motorola", 
+            "sha256": "129591980fbeef2b22b1a3735856fa2c7331370961018ec6bce420060072a775", 
+            "size": "648731993", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "raphael": [
+        {
+            "changelog": "- Switch to MIUI Blue OnPressed MIUI fod icon.\r\n- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware", 
+            "date": "2020-09-05", 
+            "datetime": "20200905", 
+            "filename": "Arrow-v10.0-raphael-OFFICIAL-20200905-VANILLA.zip", 
+            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200905-VANILLA.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Redmi K20 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "325e3c7b7146fdbd550fe21f020b7502f8a40ea5f61926d5c4fb130ac9e6ba21", 
+            "size": "582053114", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "s2": [
+        {
+            "changelog": "", 
+            "date": "2020-01-26", 
+            "datetime": "20200126", 
+            "filename": "Arrow-v10.0-s2-OFFICIAL-20200126-VANILLA.zip", 
+            "filepath": "/arrow-10.0/s2/Arrow-v10.0-s2-OFFICIAL-20200126-VANILLA.zip", 
+            "maintainer": "", 
+            "model": "LeEco Le 2", 
+            "oem": "LeEco", 
+            "sha256": "38821aeb8b71502639e94e89481290d417f834d68e546578160ffa2c77ac9806", 
+            "size": "635959171", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "sanders": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-sanders-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/sanders/Arrow-v10.0-sanders-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "Ashwatthama", 
+            "model": "Moto G (5S) Plus", 
+            "oem": "motorola", 
+            "sha256": "e3ba0f26e5042c133ebf08696eedf35f360228326139f2f9643ca230eb386a96", 
+            "size": "619863861", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "violet": [
+        {
+            "changelog": "- Updated powerhint values", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-violet-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/violet/Arrow-v10.0-violet-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "Abhay Kshatriya", 
+            "model": "Redmi Note 7 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "d68e0ba40c1849d0d829086a40601082604997d3b0c723206e23f6fbf907ed3c", 
+            "size": "852047097", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "wayne": [
+        {
+            "changelog": "- Fixed OTG / headset.", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-wayne-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/wayne/Arrow-v10.0-wayne-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "TH779", 
+            "model": "MI 6X", 
+            "oem": "Xiaomi", 
+            "sha256": "d57778e1170f80b2f49c36923ea7ab990a7e7eb99ec67f50d68a0d771ec44073", 
+            "size": "685901928", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "whyred": [
+        {
+            "changelog": "- Fixed NightLight \r\n- Kernel upstreams\r\n- Misc Changes", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi Note 5", 
+            "oem": "Xiaomi", 
+            "sha256": "4140559968ee10833e97ad9e3d0bf685a31f130fe73b2337d82dc5ba382da73f", 
+            "size": "688766762", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "z2_plus": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Z2 Plus", 
+            "oem": "ZUK", 
+            "sha256": "b53cff8970daeb9ba8eccd82c49c0c27664f245523b7349c96a0247a3dc664ab", 
+            "size": "650679365", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
+    "z2_row": [
+        {
+            "changelog": "-", 
+            "date": "2020-08-31", 
+            "datetime": "20200831", 
+            "filename": "Arrow-v10.0-z2_row-OFFICIAL-20200831-VANILLA.zip", 
+            "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20200831-VANILLA.zip", 
+            "maintainer": "kubersharma001, weimerd", 
+            "model": "ZUK Z2121", 
+            "oem": "ZUK", 
+            "sha256": "5e70cee2b6fa980b550d7095619ebc61fe62b49c4f64005250d456cee2d2348f", 
+            "size": "650841429", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ]
 }
