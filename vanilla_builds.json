@@ -257,16 +257,16 @@
     ], 
     "raphael": [
         {
-            "changelog": "- Switch to MIUI Blue OnPressed MIUI fod icon.\r\n- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware", 
-            "date": "2020-09-05", 
-            "datetime": "20200905", 
-            "filename": "Arrow-v10.0-raphael-OFFICIAL-20200905-VANILLA.zip", 
-            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200905-VANILLA.zip", 
+            "changelog": "- Switch to MIUI OnPressed MIUI fod icon.\r\n- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware", 
+            "date": "2020-09-06", 
+            "datetime": "20200906", 
+            "filename": "Arrow-v10.0-raphael-OFFICIAL-20200906-VANILLA.zip", 
+            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200906-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "325e3c7b7146fdbd550fe21f020b7502f8a40ea5f61926d5c4fb130ac9e6ba21", 
-            "size": "582053114", 
+            "sha256": "51d24d8ead2217496d0eb1831ca672827ad69c153f963a85befbcab68ec57494", 
+            "size": "582142701", 
             "type": "official", 
             "version": "v10.0"
         }
