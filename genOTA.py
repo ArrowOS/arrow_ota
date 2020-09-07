@@ -8,15 +8,15 @@ import fnmatch
 import sys
 
 cwd=os.getcwd()
-is_test = os.environ["IS_TEST"]
-build_type = os.environ["TG_BUILD_TYPE"]
-build_version = os.environ["TG_BUILD_VERSION"]
-build_zip_type = os.environ["TG_BUILD_ZIP_TYPE"]
+is_test = os.environ["IS_TEST"].strip()
+build_type = os.environ["TG_BUILD_TYPE"].strip()
+build_version = os.environ["TG_BUILD_VERSION"].strip()
+build_zip_type = os.environ["TG_BUILD_ZIP_TYPE"].strip()
 
-if len(build_version.strip()) != 0:
+if len(build_version) != 0:
 	filename_prefix = build_version
 
-if len(build_type.strip()) != 0:
+if len(build_type) != 0:
 	filename_suffix = build_type.lower()
 
 # If for some reason its an official test build make sure not to alter in official json file
