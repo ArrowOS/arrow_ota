@@ -21,11 +21,11 @@ if len(build_type.strip()) != 0:
 
 # If for some reason its an official test build make sure not to alter in official json file
 if 'OFFICIAL' in build_type and is_test == 'yes':
-	filename_suffix = 'UNOFFICIAL'
+	filename_suffix = 'unofficial'
 
 # Explicitly handle filename suffix of community beta builds
 if 'COMMUNITY' in build_type and is_test == 'yes':
-	filename_suffix = filename_suffix + '_UNOFFICIAL'
+	filename_suffix = filename_suffix + '_unofficial'
 
 if build_zip_type == 'VANILLA':
 	json_file = '/' + filename_prefix + '_vanilla_builds_' + filename_suffix + '.json'
