@@ -14,5 +14,21 @@
             "type": "official", 
             "version": "v10.0"
         }
+    ], 
+    "davinci": [
+        {
+            "changelog": "- Upstream changes", 
+            "date": "2020-09-08", 
+            "datetime": "20200908", 
+            "filename": "Arrow-v10.0-davinci-UNOFFICIAL-20200908-VANILLA.zip", 
+            "filepath": "/arrow-10.0/davinci/Arrow-v10.0-davinci-UNOFFICIAL-20200908-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Mi 9T", 
+            "oem": "Xiaomi", 
+            "sha256": "569604d1c4046d22323252b372f402b4ae6410796fa3f20ea5db170b0c815882", 
+            "size": "869014710", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
     ]
 }
