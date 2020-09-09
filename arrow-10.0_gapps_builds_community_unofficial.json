@@ -2,15 +2,15 @@
     "deen": [
         {
             "changelog": "- Initial build\r\n- August security patches\r\n- Synced with Electimon DT\r\n- OC GPU to 700MHz\r\n- Added Simple GPU Algorithm\r\n- Undervolted CPU by 20mV\r\n- July CAF Tag included\r\n- CPU minimal frequency is now 307Mhz \r\n- Adreno Team Thermals included\r\n- Configure wifi tcp buffersizes (wifi peformance)\r\n- Adden Wifi configs from stock\r\n- Wifi Prima driver updated from CAF tag\r\n- GPU Drivers Updated\r\n- exFAT support added", 
-            "date": "2020-09-07", 
-            "datetime": "20200907", 
-            "filename": "Arrow-v10.0-deen-COMMUNITY-20200907-GAPPS.zip", 
-            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200907-GAPPS.zip", 
+            "date": "2020-09-09", 
+            "datetime": "20200909", 
+            "filename": "Arrow-v10.0-deen-COMMUNITY-20200909-GAPPS.zip", 
+            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200909-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Motorola One", 
             "oem": "motorola", 
-            "sha256": "d78ecb13817b6838404216f1d651af56c2c178f011e8d64e0da0a93168c9682a", 
-            "size": "698176647", 
+            "sha256": "84c57ea65d9b2e27c9d2ec79f0dff01b91bdbf947f79fad05826802defd182b9", 
+            "size": "698661945", 
             "type": "community", 
             "version": "v10.0"
         }
