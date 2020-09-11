@@ -225,16 +225,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).", 
-            "date": "2020-08-31", 
-            "datetime": "20200831", 
-            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200831-VANILLA.zip", 
-            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200831-VANILLA.zip", 
+            "changelog": "- Drop Lawnchair and switch Launcher3\r\n- Set bootanimation res to 1080p\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).", 
+            "date": "2020-09-11", 
+            "datetime": "20200911", 
+            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200911-VANILLA.zip", 
+            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200911-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "7d9c7ff2989ddd87a56e5375b8f1ab2f3595af04cae3818a6255077b3d1bf4ef", 
-            "size": "788225305", 
+            "sha256": "afdb712ef717d97cb15967fbc4d53275c672bf5004ce36dab80c92c2710fb8b0", 
+            "size": "786495607", 
             "type": "official", 
             "version": "v10.0"
         }
