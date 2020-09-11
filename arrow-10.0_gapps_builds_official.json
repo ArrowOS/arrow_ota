@@ -337,16 +337,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Fixed NightLight \r\n- Kernel upstreams\r\n- Misc Changes", 
-            "date": "2020-08-31", 
-            "datetime": "20200831", 
-            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200831-GAPPS.zip", 
-            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200831-GAPPS.zip", 
+            "changelog": "- Misc Changes", 
+            "date": "2020-09-11", 
+            "datetime": "20200911", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200911-GAPPS.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200911-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "817ffdbdb369933c521eee6300293e0b70554b31143443098ceb1d0a21562592", 
-            "size": "851626947", 
+            "sha256": "86b49062a3e7b51bbf63052b69ebf99596babf3501f874623e9d71a011b38cac", 
+            "size": "851114981", 
             "type": "official", 
             "version": "v10.0"
         }
