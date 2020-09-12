@@ -225,16 +225,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Fixed some sepolicy denials\r\n- power-HAL: fixes and improve\r\n- powerhint tunings for balanced performance and power\r\n- Update some blobs from liber\r\n- gps-HAL: Merge tag LA.UM.8.9.r1-10000-SM6xx.0\r\n- kernel: upstream to last linux version and caf tag\r\n- Fixed display HAL (displayfeature missing)\r\n- Fixed fingerprint extension HAL\r\n- Misc fixes and upstream changes.", 
-            "date": "2020-08-31", 
-            "datetime": "20200831", 
-            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200831-VANILLA.zip", 
-            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200831-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.", 
+            "date": "2020-09-12", 
+            "datetime": "20200912", 
+            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200912-VANILLA.zip", 
+            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200912-VANILLA.zip", 
             "maintainer": "harshv23, kubersharma001", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "e120a1f79897ee8896d134fdbd95591ad8e7c23c66f124bcfed3d032e8fb5131", 
-            "size": "943757470", 
+            "sha256": "0e289844c94497e885a9fe3b63455599bee259958fbd615e53f9e482b60e5154", 
+            "size": "945649750", 
             "type": "official", 
             "version": "v10.0"
         }
