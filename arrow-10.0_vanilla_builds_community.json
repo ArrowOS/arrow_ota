@@ -1,1 +1,18 @@
-{}
+{
+    "vince": [
+        {
+            "changelog": "Initial Build", 
+            "date": "2020-09-12", 
+            "datetime": "20200912", 
+            "filename": "Arrow-v10.0-vince-COMMUNITY-20200912-VANILLA.zip", 
+            "filepath": "/arrow-10.0/vince/Arrow-v10.0-vince-COMMUNITY-20200912-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Redmi 5 Plus", 
+            "oem": "Xiaomi", 
+            "sha256": "2b74964e8fed04edbc87507a54126137bfa7cc70b41d1e4ee770fcb32b2885ca", 
+            "size": "635850067", 
+            "type": "community", 
+            "version": "v10.0"
+        }
+    ]
+}
