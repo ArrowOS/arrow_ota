@@ -257,16 +257,16 @@
     ], 
     "potter": [
         {
-            "changelog": "-", 
-            "date": "2020-09-11", 
-            "datetime": "20200911", 
-            "filename": "Arrow-v10.0-potter-OFFICIAL-20200911-GAPPS.zip", 
-            "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200911-GAPPS.zip", 
+            "changelog": "- Switch to AOSP Launcher\r\n- fixup BT audio after sep ASB tag", 
+            "date": "2020-09-12", 
+            "datetime": "20200912", 
+            "filename": "Arrow-v10.0-potter-OFFICIAL-20200912-GAPPS.zip", 
+            "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200912-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Moto G5 Plus", 
             "oem": "motorola", 
-            "sha256": "dc8546456407fe583f4d6b7c183fa1e2e6c8f69d70d14ce0d8cd4df695ef13a7", 
-            "size": "812215935", 
+            "sha256": "fb66f19abbd0256acbca06027b6094e372cc4633aab0b3d7fdda56fc08a847c6", 
+            "size": "812349816", 
             "type": "official", 
             "version": "v10.0"
         }
