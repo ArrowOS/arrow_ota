@@ -14,5 +14,21 @@
             "type": "community", 
             "version": "v10.0"
         }
+    ], 
+    "vince": [
+        {
+            "changelog": "-", 
+            "date": "2020-09-12", 
+            "datetime": "20200912", 
+            "filename": "Arrow-v10.0-vince-COMMUNITY-20200912-GAPPS.zip", 
+            "filepath": "/arrow-10.0/vince/Arrow-v10.0-vince-COMMUNITY-20200912-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Redmi 5 Plus", 
+            "oem": "Xiaomi", 
+            "sha256": "652fb117ecf5a868da8a5097da7ecdad99892333efd542e0590c4cd06c6c84fe", 
+            "size": "797614206", 
+            "type": "community", 
+            "version": "v10.0"
+        }
     ]
 }
