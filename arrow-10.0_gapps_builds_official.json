@@ -207,6 +207,22 @@
             "version": "v10.0"
         }
     ], 
+    "miatoll": [
+        {
+            "changelog": "- Switched to pixel-libperfmgr powerhal with pixel 4A R scheduler\r\n- Compiled with Clang-12.0.0 LTO\r\n- Added XiaomiDoze & Dirac\r\n- Included ANXCamera\r\n- Added some graphics props from pixels\r\n- Added AOSP color modes\r\n- Upstreamed Kernel to 4.14.197\r\n- Added KCAL & KLAPSE color control\r\n- Added Boeffla wakelock blocker\r\n- Added fsyn on/off support(disabled by default)\r\n- Added force fast charge\r\n- Added Adreno boost(disabled by default)\r\n- Added Backlight Dimmer\r\n- Switched to SLMK", 
+            "date": "2020-09-12", 
+            "datetime": "20200912", 
+            "filename": "Arrow-v10.0-miatoll-OFFICIAL-20200912-GAPPS.zip", 
+            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-OFFICIAL-20200912-GAPPS.zip", 
+            "maintainer": "SonalSingh18", 
+            "model": "SM6250", 
+            "oem": "Xiaomi", 
+            "sha256": "ccdbf7c6746e3f118d24dc36939f2fe810f41cf31ccace7e8bd1fb7150bccea1", 
+            "size": "1508498396", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "mido": [
         {
             "changelog": "-", 
