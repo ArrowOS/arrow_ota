@@ -1,4 +1,20 @@
 {
+    "deen": [
+        {
+            "changelog": "- August security patches\r\n- Undervolted CPU by 20mV\r\n- OC GPU to 700MHz\r\n- Added Simple GPU Algorithm\r\n- Updated device fingerprints\r\n- GCam 7.2 by Urnyx05 included\r\n- PixelLiveWallpapers included\r\n- Newest CAF Tag included\r\n- CPU minimal frequency is now 307Mhz \r\n- Adreno Team Thermals included\r\n- Configure wifi tcp buffersizes (wifi peformance)\r\n- Adden Wifi configs from stock\r\n- Wifi Prima driver updated from CAF tag\r\n- GPU Drivers Updated\r\n- exFAT support added", 
+            "date": "2020-09-12", 
+            "datetime": "20200912", 
+            "filename": "Arrow-v10.0-deen-COMMUNITY-20200912-GAPPS.zip", 
+            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200912-GAPPS.zip", 
+            "maintainer": "Zimek", 
+            "model": "Motorola One", 
+            "oem": "motorola", 
+            "sha256": "2ee8470e0c1ffd5f5695bf79a315752c58309ec929c6787c37b3756a41d91e97", 
+            "size": "854363932", 
+            "type": "community", 
+            "version": "v10.0"
+        }
+    ], 
     "vince": [
         {
             "changelog": "Initial Build", 
