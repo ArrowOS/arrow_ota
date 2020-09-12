@@ -175,6 +175,22 @@
             "version": "v10.0"
         }
     ], 
+    "ginkgo": [
+        {
+            "changelog": "- initial release", 
+            "date": "2020-09-12", 
+            "datetime": "20200912", 
+            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20200912-GAPPS.zip", 
+            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20200912-GAPPS.zip", 
+            "maintainer": "Adithya R", 
+            "model": "Redmi Note 8", 
+            "oem": "Xiaomi", 
+            "sha256": "7cbd59b4fb7b6a2097cb67ad40d094b1c098329293e5dd76a8bc5f5aac5e6850", 
+            "size": "985991940", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "land": [
         {
             "changelog": "-", 
