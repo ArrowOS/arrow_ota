@@ -1,4 +1,20 @@
 {
+    "davinci": [
+        {
+            "changelog": "- Initial official build\r\n- Increased performance by adding libperfmgr\r\n\r\nNotes: \r\nMinimum firmware is MIUI V12.0.2.0 Global\r\nClean flash is required if coming from the unofficial version", 
+            "date": "2020-09-13", 
+            "datetime": "20200913", 
+            "filename": "Arrow-v10.0-davinci-UNOFFICIAL-20200913-GAPPS.zip", 
+            "filepath": "/arrow-10.0/davinci/Arrow-v10.0-davinci-UNOFFICIAL-20200913-GAPPS.zip", 
+            "maintainer": "daniml3", 
+            "model": "Mi 9T", 
+            "oem": "Xiaomi", 
+            "sha256": "df5079923ddbd05d69dd5de18d40b46e7f6d507ec4c600b323ba9258d8593419", 
+            "size": "1033703926", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
+    ], 
     "phoenix": [
         {
             "changelog": "- Misc fixes and upstream changes.", 
