@@ -1,1 +1,18 @@
-{}
+{
+    "phoenix": [
+        {
+            "changelog": "- Misc fixes and upstream changes.", 
+            "date": "2020-09-13", 
+            "datetime": "20200913", 
+            "filename": "Arrow-v10.0-phoenix-OFFICIAL-20200913-GAPPS.zip", 
+            "filepath": "/arrow-10.0/phoenix/Arrow-v10.0-phoenix-OFFICIAL-20200913-GAPPS.zip", 
+            "maintainer": "harshv23, kubersharma001", 
+            "model": "POCO X2", 
+            "oem": "POCO", 
+            "sha256": "921f5ce1defdb2ea2f4d755996aff12220254baeed6c3ab5213a87290095e480", 
+            "size": "1109275042", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ]
+}
