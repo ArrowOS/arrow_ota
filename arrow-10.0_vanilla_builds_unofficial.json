@@ -46,5 +46,21 @@
             "type": "official", 
             "version": "v10.0"
         }
+    ], 
+    "violet": [
+        {
+            "changelog": "- Updated powerhint values", 
+            "date": "2020-09-14", 
+            "datetime": "20200914", 
+            "filename": "Arrow-v10.0-violet-UNOFFICIAL-20200914-VANILLA.zip", 
+            "filepath": "/arrow-10.0/violet/Arrow-v10.0-violet-UNOFFICIAL-20200914-VANILLA.zip", 
+            "maintainer": "Abhay Kshatriya", 
+            "model": "Redmi Note 7 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "5cf908500a94223274651b1ae57f4344604d4570d8a99c2fc862eea2bb07cc1a", 
+            "size": "852776793", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
     ]
 }
