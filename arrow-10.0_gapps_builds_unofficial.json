@@ -30,5 +30,21 @@
             "type": "official", 
             "version": "v10.0"
         }
+    ], 
+    "potter": [
+        {
+            "changelog": "- fixup BT audio after sep ASB tag", 
+            "date": "2020-09-14", 
+            "datetime": "20200914", 
+            "filename": "Arrow-v10.0-potter-OFFICIAL-20200914-GAPPS.zip", 
+            "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20200914-GAPPS.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Moto G5 Plus", 
+            "oem": "motorola", 
+            "sha256": "d7edaf3535c4ec0b6335a8145ca3f0febf9a435949998aa369bd668483baaa19", 
+            "size": "812357151", 
+            "type": "official", 
+            "version": "v10.0"
+        }
     ]
 }
