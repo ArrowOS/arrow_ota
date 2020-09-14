@@ -31,6 +31,22 @@
             "version": "v10.0"
         }
     ], 
+    "polaris": [
+        {
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new).", 
+            "date": "2020-09-14", 
+            "datetime": "20200914", 
+            "filename": "Arrow-v10.0-polaris-OFFICIAL-20200914-GAPPS.zip", 
+            "filepath": "/arrow-10.0/polaris/Arrow-v10.0-polaris-OFFICIAL-20200914-GAPPS.zip", 
+            "maintainer": "palaych", 
+            "model": "Mi MIX 2S", 
+            "oem": "Xiaomi", 
+            "sha256": "15553c62cb2305feb6c51e8b43c0290b81f3cfee3b96a45b8100b5e63db3a56a", 
+            "size": "948524759", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "potter": [
         {
             "changelog": "- fixup BT audio after sep ASB tag", 
