@@ -1,16 +1,16 @@
 {
     "deen": [
         {
-            "changelog": "- Undervolted CPU by 20mV\r\n- OC GPU to 700MHz\r\n- Added Simple GPU Algorithm\r\n- Updated device fingerprints\r\n- GCam 7.2 by Urnyx05 included\r\n- PixelLiveWallpapers included\r\n- Newest CAF Tag included\r\n- CPU minimal frequency is now 307Mhz \r\n- Adreno Team Thermals included\r\n- Configure wifi tcp buffersizes (wifi peformance)\r\n- Adden Wifi configs from stock\r\n- Wifi Prima driver updated from CAF tag\r\n- GPU Drivers Updated\r\n- exFAT support added", 
-            "date": "2020-09-15", 
-            "datetime": "20200915", 
-            "filename": "Arrow-v10.0-deen-COMMUNITY-20200915-VANILLA.zip", 
-            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200915-VANILLA.zip", 
+            "changelog": "- Undervolted CPU by 20mV\r\n- OC GPU to 700MHz\r\n- Added Simple GPU Algorithm\r\n- Updated device fingerprints\r\n- GCam 7.2 by Urnyx05 included\r\n- PixelLiveWallpapers included\r\n- Newest CAF Tag included\r\n- CPU minimal frequency is now 307Mhz \r\n- Adreno Team Thermals included\r\n- Boeffla_wl_blocker added\r\n- Configure wifi tcp buffersizes (wifi peformance)\r\n- Adden Wifi configs from stock\r\n- Wifi Prima driver updated from CAF tag\r\n- GPU Drivers Updated\r\n- exFAT support added", 
+            "date": "2020-09-16", 
+            "datetime": "20200916", 
+            "filename": "Arrow-v10.0-deen-COMMUNITY-20200916-VANILLA.zip", 
+            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200916-VANILLA.zip", 
             "maintainer": "Zimek", 
             "model": "Motorola One", 
             "oem": "motorola", 
-            "sha256": "1441948acd7da0e73e5a200819fa7a670e7e1c31a5cb0ae998b63fd8c72b9e85", 
-            "size": "715702268", 
+            "sha256": "07c179b3c295cfeecb170f9b05c0bb49b2210d422ebd7551d3b68d153fb46b5d", 
+            "size": "715950287", 
             "type": "community", 
             "version": "v10.0"
         }
