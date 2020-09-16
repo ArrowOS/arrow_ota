@@ -402,15 +402,15 @@
     "z2_plus": [
         {
             "changelog": "-", 
-            "date": "2020-09-12", 
-            "datetime": "20200912", 
-            "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20200912-VANILLA.zip", 
-            "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20200912-VANILLA.zip", 
+            "date": "2020-09-16", 
+            "datetime": "20200916", 
+            "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20200916-VANILLA.zip", 
+            "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20200916-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Z2 Plus", 
             "oem": "ZUK", 
-            "sha256": "9ccdbfa16e80bed08664d6581159d977e1303e01681b7068fa49b3aa1cf6cfbd", 
-            "size": "652235731", 
+            "sha256": "fb615be269f8eacf335728e16c964d22b42ae99cb737982d7c1b4bcba63bb12c", 
+            "size": "652182665", 
             "type": "official", 
             "version": "v10.0"
         }
