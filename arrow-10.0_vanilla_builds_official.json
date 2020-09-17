@@ -177,16 +177,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- initial release", 
-            "date": "2020-09-16", 
-            "datetime": "20200916", 
-            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20200916-VANILLA.zip", 
-            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20200916-VANILLA.zip", 
+            "changelog": "- updated blobs from miui 20.7.16\r\n- reduced cpu usage during audio playback\r\n- fixed minor issues with fp\r\n- merged upstream linux 4.14.198 \r\n- reduced scheduler latency\r\n- fixed power button issue for some users\r\n- fixed potential random reboots while using 4g\r\n- blocked qup_uart wakelock when BT connected", 
+            "date": "2020-09-17", 
+            "datetime": "20200917", 
+            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20200917-VANILLA.zip", 
+            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20200917-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "4b894675c86ed229a35f0499a76cab92bcd040425f7d8616b6cf6220c78f1d5c", 
-            "size": "822492899", 
+            "sha256": "23b64073e96ae843eeb9af6de478f9564079f3d93c5f5629f1a7e63163104c9f", 
+            "size": "822237288", 
             "type": "official", 
             "version": "v10.0"
         }
