@@ -209,16 +209,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "- Switched to pixel-libperfmgr powerhal with pixel 4A R scheduler\r\n- Compiled with Clang-12.0.0 LTO\r\n- Added XiaomiDoze & Dirac\r\n- Included ANXCamera\r\n- Added some graphics props from pixels\r\n- Added AOSP color modes\r\n- Upstreamed Kernel to 4.14.197\r\n- Added KCAL & KLAPSE color control\r\n- Added Boeffla wakelock blocker\r\n- Added fsyn on/off support(disabled by default)\r\n- Added force fast charge\r\n- Added Adreno boost(disabled by default)\r\n- Added Backlight Dimmer\r\n- Switched to SLMK", 
-            "date": "2020-09-12", 
-            "datetime": "20200912", 
-            "filename": "Arrow-v10.0-miatoll-OFFICIAL-20200912-VANILLA.zip", 
-            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-OFFICIAL-20200912-VANILLA.zip", 
+            "changelog": "? Fixed front camera crash in ANXcamera\r\n? Switched to Coral R sept 2020 fingerprint\r\n? Added Touchboost\r\n? Added Adreno Idler\r\n? Added Wireguard\r\n? Fix f_sync toggle permission\r\n? Introduce kernelspace battery saver mode\r\n? Added XiaomiParts", 
+            "date": "2020-09-17", 
+            "datetime": "20200917", 
+            "filename": "Arrow-v10.0-miatoll-OFFICIAL-20200917-VANILLA.zip", 
+            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-OFFICIAL-20200917-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "848c2cf94d17bc77248bdf262d778757c91608ccc1deb704418eb091bca30deb", 
-            "size": "1343732618", 
+            "sha256": "edc46c5a398d36a380557b3100917ed4ec377e6552ca6b23a1f305d9b2ccbe13", 
+            "size": "1348408232", 
             "type": "official", 
             "version": "v10.0"
         }
