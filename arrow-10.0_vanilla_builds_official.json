@@ -129,16 +129,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Initial official build\r\n- Increased performance by adding libperfmgr\r\n\r\nNotes: \r\nMinimum firmware is MIUI V12.0.2.0 Global\r\nClean flash is required if coming from the unofficial version", 
-            "date": "2020-09-11", 
-            "datetime": "20200911", 
-            "filename": "Arrow-v10.0-davinci-OFFICIAL-20200911-VANILLA.zip", 
-            "filepath": "/arrow-10.0/davinci/Arrow-v10.0-davinci-OFFICIAL-20200911-VANILLA.zip", 
+            "changelog": "- Added support for auxiliar cameras by default\r\n- Upstreamed the kernel to Linux 4.14.198\r\n- Fixed status bar padding\r\n\r\nNotes: \r\n- Minimum firmware is MIUI V12.0.2.0 Global\r\n- Do not flash any custom kernel unless it uses new led nodes", 
+            "date": "2020-09-17", 
+            "datetime": "20200917", 
+            "filename": "Arrow-v10.0-davinci-OFFICIAL-20200917-VANILLA.zip", 
+            "filepath": "/arrow-10.0/davinci/Arrow-v10.0-davinci-OFFICIAL-20200917-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "49106292624e0a71f33842404d9569a6d5b3fd5bc4e317aa282da4cfd4219277", 
-            "size": "871940232", 
+            "sha256": "d6db9e233bd73f96b6f119ba01ba43110b74b3328462b1329675a88a7128406c", 
+            "size": "872609709", 
             "type": "official", 
             "version": "v10.0"
         }
