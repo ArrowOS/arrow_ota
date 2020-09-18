@@ -1,16 +1,16 @@
 {
     "deen": [
         {
-            "changelog": "- Undervolted CPU by 20mV\r\n- OC GPU to 700MHz\r\n- Added Simple GPU Algorithm\r\n- Updated device fingerprints\r\n- GCam 7.2 by Urnyx05 included\r\n- PixelLiveWallpapers included\r\n- Newest CAF Tag included\r\n- CPU minimal frequency is now 307Mhz \r\n- Adreno Team Thermals included\r\n- Boeffla_wl_blocker added\r\n- Configure wifi tcp buffersizes (wifi peformance)\r\n- Adden Wifi configs from stock\r\n- Wifi Prima driver updated from CAF tag\r\n- GPU Drivers Updated\r\n- exFAT support added", 
-            "date": "2020-09-17", 
-            "datetime": "20200917", 
-            "filename": "Arrow-v10.0-deen-COMMUNITY-20200917-GAPPS.zip", 
-            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200917-GAPPS.zip", 
+            "changelog": "- Undervolted CPU by 20mV\r\n- OC GPU to 700MHz\r\n- Added Simple GPU Algorithm\r\n- Updated device fingerprints\r\n- GCam 7.2 by Urnyx05 included\r\n- PixelLiveWallpapers included\r\n- Newest CAF Tag included\r\n- CPU minimal frequency is now 307Mhz \r\n- Adreno Team Thermals included\r\n- Boeffla_wl_blocker added\r\n- Configure wifi tcp buffersizes (wifi peformance)\r\n- Adden Wifi configs from stock\r\n- Wifi Prima driver updated from CAF tag\r\n- GPU Drivers Updated\r\n- exFAT support added\r\n- Add schedutil, pixel_schedutil and blu_schedutil governors", 
+            "date": "2020-09-18", 
+            "datetime": "20200918", 
+            "filename": "Arrow-v10.0-deen-COMMUNITY-20200918-GAPPS.zip", 
+            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200918-GAPPS.zip", 
             "maintainer": "Zimek", 
             "model": "Motorola One", 
             "oem": "motorola", 
-            "sha256": "4d08fbe9d5b5815e0bde5d6c3526dc5f2be54a3cb319ff002950a08eb897757d", 
-            "size": "854363972", 
+            "sha256": "15c09cdc8b172d476baaa372952331e24c94e0122af4c4e68c4a63d42c682cab", 
+            "size": "854363500", 
             "type": "community", 
             "version": "v10.0"
         }
