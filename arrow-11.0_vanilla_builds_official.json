@@ -1,16 +1,16 @@
 {
     "cheeseburger": [
         {
-            "changelog": "- Initial android R build", 
-            "date": "2020-09-18", 
-            "datetime": "20200918", 
-            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20200918-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20200918-VANILLA.zip", 
+            "changelog": "- fixed chrome crash", 
+            "date": "2020-09-19", 
+            "datetime": "20200919", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20200919-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20200919-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "Oneplus A5000", 
             "oem": "OnePlus", 
-            "sha256": "7f8c41dfc01b67ba04aae9af60277dec68e78a63d641be05438cfb72b9cf1fd9", 
-            "size": "775294215", 
+            "sha256": "c2708dd1627aac242710b7abbf11c216315b2edf", 
+            "size": "778970896", 
             "type": "official", 
             "version": "v11.0"
         }
