@@ -1,16 +1,16 @@
 {
     "deen": [
         {
-            "changelog": "- Undervolted CPU by 20mV\r\n- OC GPU to 700MHz\r\n- Added Simple GPU Algorithm\r\n- Updated device fingerprints\r\n- GCam 7.2 by Urnyx05 included\r\n- PixelLiveWallpapers included\r\n- Newest CAF Tag included\r\n- CPU minimal frequency is now 307Mhz \r\n- Adreno Team Thermals included\r\n- Boeffla_wl_blocker added\r\n- Configure wifi tcp buffersizes (wifi peformance)\r\n- Adden Wifi configs from stock\r\n- Wifi Prima driver updated from CAF tag\r\n- GPU Drivers Updated\r\n- exFAT support added\r\n- Add schedutil, pixel_schedutil and blu_schedutil governors", 
+            "changelog": "- Boeffla_wl_blocker added\r\n- Relax CPU latency requirements to save power\r\n- Changed Lawnchair Launcher to AOSP Launcher\r\n- Changed boot animation res to 720\r\n- Add D2TW support\r\n- Add Turbopower changers support", 
             "date": "2020-09-19", 
             "datetime": "20200919", 
             "filename": "Arrow-v10.0-deen-COMMUNITY-20200919-VANILLA.zip", 
             "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200919-VANILLA.zip", 
-            "maintainer": "Zimek", 
+            "maintainer": "ZimekXD", 
             "model": "Motorola One", 
             "oem": "motorola", 
-            "sha256": "c4f33090983a1637029c810aaaab1b02791247159308a2346a4e841ca1dedebe", 
-            "size": "715951042", 
+            "sha256": "2ec2d94c5d9231e8259c1abf68a70b188e81ffc7134f8fde9ba5d3d0478eecd3", 
+            "size": "715376025", 
             "type": "community", 
             "version": "v10.0"
         }
