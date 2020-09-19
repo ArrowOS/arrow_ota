@@ -14,5 +14,21 @@
             "type": "official", 
             "version": "v11.0"
         }
+    ], 
+    "dumpling": [
+        {
+            "changelog": "- initial build", 
+            "date": "2020-09-19", 
+            "datetime": "20200919", 
+            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20200919-VANILLA.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20200919-VANILLA.zip", 
+            "maintainer": "ArrowTeam", 
+            "model": "Oneplus 5T", 
+            "oem": "OnePlus", 
+            "sha256": "ea17b194f0882917b541d8bf5debba69efd53301d68531952dfa158a644ec6dd", 
+            "size": "779299734", 
+            "type": "official", 
+            "version": "v11.0"
+        }
     ]
 }
