@@ -1,1 +1,18 @@
-{}
+{
+    "dumpling": [
+        {
+            "changelog": "initial build", 
+            "date": "2020-09-19", 
+            "datetime": "20200919", 
+            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20200919-VANILLA.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20200919-VANILLA.zip", 
+            "maintainer": "ArrowTeam", 
+            "model": "Oneplys 5T", 
+            "oem": "OnePlus", 
+            "sha256": "87bad62887c2bb4a136899601c8e41a24d623a8f", 
+            "size": "779299734", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ]
+}
