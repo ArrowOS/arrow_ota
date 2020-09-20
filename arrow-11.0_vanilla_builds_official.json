@@ -46,5 +46,21 @@
             "type": "official", 
             "version": "v11.0"
         }
+    ], 
+    "z2_plus": [
+        {
+            "changelog": "- Initial android R release", 
+            "date": "2020-09-19", 
+            "datetime": "20200919", 
+            "filename": "Arrow-v11.0-z2_plus-OFFICIAL-20200919-VANILLA.zip", 
+            "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-OFFICIAL-20200919-VANILLA.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Z2 Plus", 
+            "oem": "ZUK", 
+            "sha256": "6c639b26d4cfb0b18fe65bbca769cdc709cd4ade1d89be7dc04240bb615f5c4a", 
+            "size": "687313394", 
+            "type": "official", 
+            "version": "v11.0"
+        }
     ]
 }
