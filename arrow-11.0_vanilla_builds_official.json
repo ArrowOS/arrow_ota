@@ -62,5 +62,21 @@
             "type": "official", 
             "version": "v11.0"
         }
+    ], 
+    "z2_row": [
+        {
+            "changelog": "- Initial android R release", 
+            "date": "2020-09-19", 
+            "datetime": "20200919", 
+            "filename": "Arrow-v11.0-z2_row-OFFICIAL-20200919-VANILLA.zip", 
+            "filepath": "/arrow-11.0/z2_row/Arrow-v11.0-z2_row-OFFICIAL-20200919-VANILLA.zip", 
+            "maintainer": "kubersharma001, weimerd", 
+            "model": "ZUK Z2121", 
+            "oem": "ZUK", 
+            "sha256": "16b0e79fe7a2eff35306dd468e8ef62f4fe5bfdee6e3d6d87188fea739596021", 
+            "size": "687410040", 
+            "type": "official", 
+            "version": "v11.0"
+        }
     ]
 }
