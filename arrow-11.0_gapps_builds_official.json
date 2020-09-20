@@ -1,4 +1,20 @@
 {
+    "beryllium": [
+        {
+            "changelog": "- Initial android R release", 
+            "date": "2020-09-20", 
+            "datetime": "20200920", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20200920-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20200920-GAPPS.zip", 
+            "maintainer": "ganeshvarma, kubersharma001", 
+            "model": "POCOPHONE F1", 
+            "oem": "POCO", 
+            "sha256": "62b85bdadb6089244c6ed8b9cc08bf7af2a9d153f1f4609ded3e8987294bf848", 
+            "size": "1035299759", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "cheeseburger": [
         {
             "changelog": "- fixed chrome crash", 
