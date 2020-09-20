@@ -17,16 +17,16 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": "- fixed chrome crash", 
-            "date": "2020-09-19", 
-            "datetime": "20200919", 
-            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20200919-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20200919-GAPPS.zip", 
+            "changelog": "- more updates to device tree /n -themepicker /n added accents /n misc changes /n updated gapps with pixel wizard /n google back and restore", 
+            "date": "2020-09-20", 
+            "datetime": "20200920", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20200920-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20200920-GAPPS.zip", 
             "maintainer": "Bauuuuu", 
             "model": "Oneplus A5000", 
             "oem": "OnePlus", 
-            "sha256": "19d03d2b752268500fee865fa49004ca096cab2136c9cf1f60e6aa5445f149fe", 
-            "size": "1030783623", 
+            "sha256": "dc35b65d1e8ff9e49cbd913d32cb13874b4f0be977e84e77ed5de81639bab2be", 
+            "size": "1039035397", 
             "type": "official", 
             "version": "v11.0"
         }
