@@ -17,16 +17,16 @@
     ], 
     "vince": [
         {
-            "changelog": "-", 
-            "date": "2020-09-12", 
-            "datetime": "20200912", 
-            "filename": "Arrow-v10.0-vince-COMMUNITY-20200912-GAPPS.zip", 
-            "filepath": "/arrow-10.0/vince/Arrow-v10.0-vince-COMMUNITY-20200912-GAPPS.zip", 
+            "changelog": "Initial Build", 
+            "date": "2020-09-21", 
+            "datetime": "20200921", 
+            "filename": "Arrow-v10.0-vince-COMMUNITY-20200921-GAPPS.zip", 
+            "filepath": "/arrow-10.0/vince/Arrow-v10.0-vince-COMMUNITY-20200921-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "c991cc16ab980c600d491568fd3b292eba914e5f802364856cf4ab01c2e88fd7", 
-            "size": "797618641", 
+            "sha256": "661afc5dfef89b947896497fce7e165fcd1a0dedfa937703d6167cb10eceb32d", 
+            "size": "797621323", 
             "type": "community", 
             "version": "v10.0"
         }
