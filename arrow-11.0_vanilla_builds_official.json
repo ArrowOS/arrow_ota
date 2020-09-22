@@ -17,7 +17,7 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": "- more updates to device tree \n -themepicker \n added accents \n misc changes \n updated gapps with pixel wizard \n google back and restore",
+            "changelog": "- more updates to device tree \n -themepicker \n added accents \n misc changes \n updated gapps with pixel wizard \n google back and restore", 
             "date": "2020-09-20", 
             "datetime": "20200920", 
             "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20200920-VANILLA.zip", 
@@ -43,6 +43,22 @@
             "oem": "OnePlus", 
             "sha256": "ea17b194f0882917b541d8bf5debba69efd53301d68531952dfa158a644ec6dd", 
             "size": "779299734", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
+    "land": [
+        {
+            "changelog": "-Initial R release", 
+            "date": "2020-09-22", 
+            "datetime": "20200922", 
+            "filename": "Arrow-v11.0-land-OFFICIAL-20200922-VANILLA.zip", 
+            "filepath": "/arrow-11.0/land/Arrow-v11.0-land-OFFICIAL-20200922-VANILLA.zip", 
+            "maintainer": "Bauuuu", 
+            "model": "Redmi 3S/3X", 
+            "oem": "Xiaomi", 
+            "sha256": "79d01852d34476894445d7e5fda4e600f9f94186e5a6ec66aefcf9654ecbe616", 
+            "size": "655837686", 
             "type": "official", 
             "version": "v11.0"
         }
