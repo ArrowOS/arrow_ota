@@ -1,16 +1,16 @@
 {
     "deen": [
         {
-            "changelog": "- Boeffla_wl_blocker added\r\n- Relax CPU latency requirements to save power\r\n- Changed Lawnchair Launcher to AOSP Launcher\r\n- Changed boot animation res to 720\r\n- Add D2TW support\r\n- Add Turbopower changers support", 
-            "date": "2020-09-19", 
-            "datetime": "20200919", 
-            "filename": "Arrow-v10.0-deen-COMMUNITY-20200919-VANILLA.zip", 
-            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200919-VANILLA.zip", 
+            "changelog": "- Boeffla_wl_blocker added\r\n- Relax CPU latency requirements to save power\r\n- Changed Lawnchair Launcher to AOSP Launcher\r\n- Changed boot animation res to 720\r\n- Updated ZRAM size", 
+            "date": "2020-09-23", 
+            "datetime": "20200923", 
+            "filename": "Arrow-v10.0-deen-COMMUNITY-20200923-VANILLA.zip", 
+            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20200923-VANILLA.zip", 
             "maintainer": "ZimekXD", 
             "model": "Motorola One", 
             "oem": "motorola", 
-            "sha256": "2ec2d94c5d9231e8259c1abf68a70b188e81ffc7134f8fde9ba5d3d0478eecd3", 
-            "size": "715376025", 
+            "sha256": "7d600dd49ebeaa292185f2be16fca738faffff04dad5b67c5cf9acbe36cf273e", 
+            "size": "715376475", 
             "type": "community", 
             "version": "v10.0"
         }
