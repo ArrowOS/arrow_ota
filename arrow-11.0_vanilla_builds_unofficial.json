@@ -1,1 +1,18 @@
-{}
+{
+    "davinci": [
+        {
+            "changelog": "- Initial R test build", 
+            "date": "2020-09-25", 
+            "datetime": "20200925", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20200925-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20200925-VANILLA.zip", 
+            "maintainer": "daniml3", 
+            "model": "Mi 9T", 
+            "oem": "Xiaomi", 
+            "sha256": "8ba0208903c556da0c4868a7c4f67738fedf7a1ed5865629dc379a5437b7947e", 
+            "size": "890917626", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ]
+}
