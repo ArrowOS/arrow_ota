@@ -49,16 +49,16 @@
     ], 
     "land": [
         {
-            "changelog": "-Initial R release", 
-            "date": "2020-09-22", 
-            "datetime": "20200922", 
-            "filename": "Arrow-v11.0-land-OFFICIAL-20200922-VANILLA.zip", 
-            "filepath": "/arrow-11.0/land/Arrow-v11.0-land-OFFICIAL-20200922-VANILLA.zip", 
-            "maintainer": "Bauuuu", 
-            "model": "Redmi 3S/3X", 
+            "changelog": "- Fixed night light \\n -new themes/styles  \\n -screenshot sound disable option \\n - unlink notification and ring volume \\n kernel upstream \\n FP auth vibration linked to haptic feedback", 
+            "date": "2020-09-27", 
+            "datetime": "20200927", 
+            "filename": "Arrow-v11.0-land-OFFICIAL-20200927-VANILLA.zip", 
+            "filepath": "/arrow-11.0/land/Arrow-v11.0-land-OFFICIAL-20200927-VANILLA.zip", 
+            "maintainer": "Bauuuuu", 
+            "model": "land", 
             "oem": "Xiaomi", 
-            "sha256": "79d01852d34476894445d7e5fda4e600f9f94186e5a6ec66aefcf9654ecbe616", 
-            "size": "655837686", 
+            "sha256": "9c6dd5245e33fe1baef715104df423da4aa3482fd05e041dc1b718b665e8e9de", 
+            "size": "650294544", 
             "type": "official", 
             "version": "v11.0"
         }
