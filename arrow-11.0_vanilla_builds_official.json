@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "davinci": [
+        {
+            "changelog": "- Initial Android 11 release\r\n\r\nChanges from unofficial build:\r\n- Low microphone volume should be fixed\r\n- Fixed VoLTE\r\n- Added Pixel Power HAL (libperfmgr)", 
+            "date": "2020-09-27", 
+            "datetime": "20200927", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20200927-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20200927-VANILLA.zip", 
+            "maintainer": "daniml3", 
+            "model": "Mi 9T", 
+            "oem": "Xiaomi", 
+            "sha256": "e7e59d95d6935d00baf76604c63cdc9b74fd32858c5af39dc769e61821543a21", 
+            "size": "890869199", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "dumpling": [
         {
             "changelog": "- initial build", 
@@ -78,7 +94,7 @@
             "type": "official", 
             "version": "v11.0"
         }
-    ],
+    ], 
     "z2_plus": [
         {
             "changelog": "- Initial android R release", 
