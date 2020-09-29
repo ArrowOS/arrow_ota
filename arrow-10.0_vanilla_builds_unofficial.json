@@ -1,16 +1,16 @@
 {
     "beryllium": [
         {
-            "changelog": "- Misc fixes and upstream changes.Note- From now on it is required to be on Q firmware.", 
-            "date": "2020-09-07", 
-            "datetime": "20200907", 
-            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20200907-VANILLA.zip", 
-            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20200907-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware.", 
+            "date": "2020-09-29", 
+            "datetime": "20200929", 
+            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20200929-VANILLA.zip", 
+            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20200929-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "ce77b9fecc3820e34bbd72eeecf4e81b3661c5f1f3d017a2bfad157a23b4abe5", 
-            "size": "777400000", 
+            "sha256": "0aff410fe8d703b0ca9578fdfc0076dda3f98137a51e12b886c61fb1c5f59890", 
+            "size": "779829180", 
             "type": "official", 
             "version": "v10.0"
         }
