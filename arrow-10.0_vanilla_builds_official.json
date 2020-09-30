@@ -306,15 +306,15 @@
     "raphael": [
         {
             "changelog": "- Switch to AOSP launcher \r\n- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware", 
-            "date": "2020-09-16", 
-            "datetime": "20200916", 
-            "filename": "Arrow-v10.0-raphael-OFFICIAL-20200916-VANILLA.zip", 
-            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200916-VANILLA.zip", 
+            "date": "2020-09-30", 
+            "datetime": "20200930", 
+            "filename": "Arrow-v10.0-raphael-OFFICIAL-20200930-VANILLA.zip", 
+            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20200930-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "04fbff0124b7b60546f9ab25b1a7ded96bae1ac852e3031bb4ca881602ee6e6c", 
-            "size": "583907887", 
+            "sha256": "1011f24017cf0e6f8249e86a4abba36128c0f1c8060c0e021d548f93defaf74c", 
+            "size": "584063788", 
             "type": "official", 
             "version": "v10.0"
         }
