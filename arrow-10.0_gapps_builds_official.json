@@ -209,16 +209,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "? Fixed front camera crash in ANXcamera\r\n? Switched to Coral R sept 2020 fingerprint\r\n? Added Touchboost\r\n? Added Adreno Idler\r\n? Added Wireguard\r\n? Fix f_sync toggle permission\r\n? Introduce kernelspace battery saver mode\r\n? Added XiaomiParts", 
-            "date": "2020-09-17", 
-            "datetime": "20200917", 
-            "filename": "Arrow-v10.0-miatoll-OFFICIAL-20200917-GAPPS.zip", 
-            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-OFFICIAL-20200917-GAPPS.zip", 
+            "changelog": "\u2022 Kernel upstreamed to 4.14.199\r\n\u2022 Fixed selfie portrait crash in ANXCamera\r\n\u2022 Fixed KCAL (no night light toggling needed now)\r\n\u2022 Rearranged XiaomiParts Preference\r\n\u2022 Improved XiaomiParts dashboard icon\r\n\u2022 Added PixelLiveWallpaper\r\n\u2022 Added Moto Dolby\r\n\u2022 Set correct punch hole overlays\r\n\u2022 Increased statusbar height a bit", 
+            "date": "2020-10-01", 
+            "datetime": "20201001", 
+            "filename": "Arrow-v10.0-miatoll-OFFICIAL-20201001-GAPPS.zip", 
+            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-OFFICIAL-20201001-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "1da346305a3c8d032d6c2d86335b1fb8ae0fd44fb8eb437e95f223a0718eedeb", 
-            "size": "1513656718", 
+            "sha256": "e5f4b6aaaf6875dc3c2f8aa44846b8b6ddafda299cef2803ba9b97fa74c9a856", 
+            "size": "1619116358", 
             "type": "official", 
             "version": "v10.0"
         }
