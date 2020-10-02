@@ -385,16 +385,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Rebased Kernel\r\n- Misc Changes", 
-            "date": "2020-09-16", 
-            "datetime": "20200916", 
-            "filename": "Arrow-v10.0-whyred-OFFICIAL-20200916-GAPPS.zip", 
-            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20200916-GAPPS.zip", 
+            "changelog": "- Upstream kernel to Linux version 4.4.238\r\n- Merge LA.UM.8.2.r1-07300-sdm660.0 caf tag into the kernel\r\n- Use Westwood as the default TCP congestion algorithm\r\n- Use wlan drivers from LA.UM.7.2.r1-07200-sdm660.0 caf tag\r\n- Upstream wireguard to 1.0.20200908 snapshot\r\n- Cleaned up some stuff in kernel\r\n- Add support for multi-anchor conference calls\r\n- Enable IMS feature flags for supported carriers\r\n- Update LPA interface version\r\n- Add IImsFactory and uceservice HAL entry\r\n- More misc changes", 
+            "date": "2020-10-02", 
+            "datetime": "20201002", 
+            "filename": "Arrow-v10.0-whyred-OFFICIAL-20201002-GAPPS.zip", 
+            "filepath": "/arrow-10.0/whyred/Arrow-v10.0-whyred-OFFICIAL-20201002-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "f38adbd798562a9f1282ab68dcce081874ebb902bd95a924bf80d98aadbb375a", 
-            "size": "851113605", 
+            "sha256": "eff996a7c24cb59122b896a386be266348cf587499fb60dd281841485d41e0e0", 
+            "size": "851465365", 
             "type": "official", 
             "version": "v10.0"
         }
