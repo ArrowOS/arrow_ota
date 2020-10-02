@@ -1,16 +1,16 @@
 {
     "davinci": [
         {
-            "changelog": "- Initial Android 11 release", 
-            "date": "2020-09-26", 
-            "datetime": "20200926", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20200926-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20200926-VANILLA.zip", 
+            "changelog": "- Fingerprint will now work on third party apps\r\n- Fixed offline charging\r\n- Stereo sound is now working\r\n- Fixed constant NFC service crash on Indian devices", 
+            "date": "2020-10-02", 
+            "datetime": "20201002", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201002-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201002-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "d82ec7e97596c841e7ad3723a2e2685de2929c1dc0d932e058c5294dd87b47f1", 
-            "size": "891040440", 
+            "sha256": "fb76b01a33f811ae81f305842824b4d13307f2d646e6743c69433fae764718c1", 
+            "size": "891473437", 
             "type": "unofficial", 
             "version": "v11.0"
         }
