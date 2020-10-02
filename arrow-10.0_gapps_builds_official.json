@@ -209,16 +209,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Kernel upstreamed to 4.14.199\r\n\u2022 Fixed selfie portrait crash in ANXCamera\r\n\u2022 Fixed KCAL (no night light toggling needed now)\r\n\u2022 Rearranged XiaomiParts Preference\r\n\u2022 Improved XiaomiParts dashboard icon\r\n\u2022 Added PixelLiveWallpaper\r\n\u2022 Added Moto Dolby\r\n\u2022 Set correct punch hole overlays\r\n\u2022 Increased statusbar height a bit", 
-            "date": "2020-10-01", 
-            "datetime": "20201001", 
-            "filename": "Arrow-v10.0-miatoll-OFFICIAL-20201001-GAPPS.zip", 
-            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-OFFICIAL-20201001-GAPPS.zip", 
+            "changelog": "\u2022 Kernel upstreamed to 4.14.200\r\n\u2022 Merged tag LA.UM.8.9.r1-10600-SM6xx.0 treewide \r\n\u2022 Fixed selfie portrait crash in ANXCamera\r\n\u2022 Fixed watermark for Poco M2 Pro in ANXCamera\r\n\u2022 Fixed KCAL (no night light toggling needed now)\r\n\u2022 Rearranged XiaomiParts Preference\r\n\u2022 Improved XiaomiParts dashboard icon\r\n\u2022 Added PixelLiveWallpapers\r\n\u2022 Added Moto Dolby\r\n\u2022 Set correct punch hole overlays", 
+            "date": "2020-10-02", 
+            "datetime": "20201002", 
+            "filename": "Arrow-v10.0-miatoll-OFFICIAL-20201002-GAPPS.zip", 
+            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-OFFICIAL-20201002-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "e5f4b6aaaf6875dc3c2f8aa44846b8b6ddafda299cef2803ba9b97fa74c9a856", 
-            "size": "1619116358", 
+            "sha256": "939603c005f99be2f1c2d24efde82b579b33d1424ce48242e8d819fb269f5dc6", 
+            "size": "1619892856", 
             "type": "official", 
             "version": "v10.0"
         }
