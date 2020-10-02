@@ -177,16 +177,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- updated blobs from miui 20.7.16\r\n- reduced cpu usage during audio playback\r\n- fixed minor issues with fp\r\n- merged upstream linux 4.14.198 \r\n- reduced scheduler latency\r\n- fixed power button issue for some users\r\n- fixed potential random reboots while using 4g\r\n- blocked qup_uart wakelock when BT connected", 
-            "date": "2020-09-17", 
-            "datetime": "20200917", 
-            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20200917-GAPPS.zip", 
-            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20200917-GAPPS.zip", 
+            "changelog": "- updated blobs from miui V12.0.2.0.QCOCNXM\r\n- display/graphics stack updated from CAF LA.UM.8.11.r1-04300-NICOBAR.0\r\n- kernel upstreamed to v4.14.199 and merged latest CAF tag\r\n- improved scheduler performance\r\n- switched to fixed 2gb zram size\r\n- dedicated battery saver mode in kernel activated with android battery saver\r\n- fixed kcal requiring night light toggle to reflect changes\r\n- added usb force fast charge support in kernel", 
+            "date": "2020-10-02", 
+            "datetime": "20201002", 
+            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20201002-GAPPS.zip", 
+            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20201002-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "6a57e870ecd6c1942ab2efb72187d6134cda1fad1e599db0aacec66a6e675d64", 
-            "size": "985688207", 
+            "sha256": "d5ddc709b5b9c6580f0e5eb31320a876d1d16e83ee4f351f9bd8e739559904c8", 
+            "size": "986102127", 
             "type": "official", 
             "version": "v10.0"
         }
