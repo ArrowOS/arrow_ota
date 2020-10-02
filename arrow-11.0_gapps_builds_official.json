@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Initial Android 11 release\r\n\r\nChanges from unofficial build:\r\n- Low microphone volume should be fixed\r\n- Fixed VoLTE\r\n- Added Pixel Power HAL (libperfmgr)", 
-            "date": "2020-09-27", 
-            "datetime": "20200927", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20200927-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20200927-GAPPS.zip", 
+            "changelog": "- Fingerprint will now work on third party apps\r\n- Fixed offline charging\r\n- Stereo sound is now working\r\n- Fixed constant NFC service crash on Indian devices", 
+            "date": "2020-10-02", 
+            "datetime": "20201002", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201002-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201002-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "2de8174b977856bd52f64b2b33626d7f1543a4ff8eab29578894d66daaaef55e", 
-            "size": "1047767037", 
+            "sha256": "82fd3bf2f34c511fe40016f265600d1111b725ccf5cde63bf6f0ae0f4681b57f", 
+            "size": "1048514837", 
             "type": "official", 
             "version": "v11.0"
         }
