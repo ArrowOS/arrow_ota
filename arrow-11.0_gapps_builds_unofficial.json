@@ -1,4 +1,20 @@
 {
+    "beryllium": [
+        {
+            "changelog": "- Inline bluetooth QTI stack\r\n- More upstream changes.", 
+            "date": "2020-10-03", 
+            "datetime": "20201003", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201003-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201003-GAPPS.zip", 
+            "maintainer": "Ganesh Varma, kubersharma001", 
+            "model": "POCOPHONE F1", 
+            "oem": "POCO", 
+            "sha256": "8b796b7d1ffcadcbd51b0dcc8d387831bae5ab38be55830bf95d1e46e04c1c45", 
+            "size": "934427465", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "- Initial Android 11 release\r\n\r\nChanges from unofficial build:\r\n- Low microphone volume should be fixed\r\n- Fixed VoLTE\r\n- Added Pixel Power HAL (libperfmgr)", 
