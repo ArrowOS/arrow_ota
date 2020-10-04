@@ -81,16 +81,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Initial Android 11 release\r\n- Update blobs to MIUI V12.0.1.0\r\n- Use AOSP NFC v1.2 HAL\r\n- Adapt for R\r\n- Drop encryption support (temporarily)\r\n- Selinux status permissive (temporarily)\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Request clean flash with format data -> yes.", 
-            "date": "2020-09-28", 
-            "datetime": "20200928", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20200928-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20200928-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+            "date": "2020-10-04", 
+            "datetime": "20201004", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201004-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201004-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "238ff72141155731c6d1eccd0ad66ed0a3e45ad4925e48eb4c5cc3fee657f8cf", 
-            "size": "791973140", 
+            "sha256": "dbb365e571dee1fde90b2819cc3357013d29f1a8b3de225f1a1d9083d82b617c", 
+            "size": "792157023", 
             "type": "official", 
             "version": "v11.0"
         }
