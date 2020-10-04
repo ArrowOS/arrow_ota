@@ -1,16 +1,16 @@
 {
     "beryllium": [
         {
-            "changelog": "- Inline bluetooth QTI stack\r\n- More upstream changes.", 
-            "date": "2020-10-03", 
-            "datetime": "20201003", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201003-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201003-GAPPS.zip", 
+            "changelog": "- More upstream changes.", 
+            "date": "2020-10-04", 
+            "datetime": "20201004", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201004-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201004-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "8b796b7d1ffcadcbd51b0dcc8d387831bae5ab38be55830bf95d1e46e04c1c45", 
-            "size": "934427465", 
+            "sha256": "f94c298fbcf1dfd2e4c49173ced94e41d93e02ac46ed9522a259de26ca2e5d32", 
+            "size": "934499086", 
             "type": "official", 
             "version": "v11.0"
         }
