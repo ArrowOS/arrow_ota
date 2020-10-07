@@ -30,5 +30,21 @@
             "type": "official", 
             "version": "v11.0"
         }
+    ], 
+    "whyred": [
+        {
+            "changelog": "- Test build", 
+            "date": "2020-10-07", 
+            "datetime": "20201007", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201007-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201007-VANILLA.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi Note 5", 
+            "oem": "Xiaomi", 
+            "sha256": "6292ab2aeb53c5f8ee4c29b76b7314fb325a6faafa855b57679c1f620661a264", 
+            "size": "695179928", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
     ]
 }
