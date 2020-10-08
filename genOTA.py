@@ -86,7 +86,7 @@ try:
 		'maintainer': os.environ["TG_DEVICE_MAINTAINER"],
 		'model': os.environ["TG_DEVICE_MODEL"],
 		'oem': os.environ["TG_DEVICE_OEM"],
-		'changelog': os.environ["TG_DEVICE_CHANGELOG"],
+		'changelog': os.getenv("TG_DEVICE_CHANGELOG"),
 		'sha256': os.environ["BUILD_ARTIFACT_SHA256"],
 		'size': os.environ["BUILD_ARTIFACT_SIZE"],
 		'date': '{}-{}-{}'.format(builddate[0:4], builddate[4:6], builddate[6:8]),
