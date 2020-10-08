@@ -46,5 +46,21 @@
             "type": "official", 
             "version": "v11.0"
         }
+    ], 
+    "z2_row": [
+        {
+            "changelog": "- Misc changes and fixes", 
+            "date": "2020-10-08", 
+            "datetime": "20201008", 
+            "filename": "Arrow-v11.0-z2_row-OFFICIAL-20201008-GAPPS.zip", 
+            "filepath": "/arrow-11.0/z2_row/Arrow-v11.0-z2_row-OFFICIAL-20201008-GAPPS.zip", 
+            "maintainer": "kubersharma001, weimerd", 
+            "model": "ZUK Z2121", 
+            "oem": "ZUK", 
+            "sha256": "ebb971ad3d5e3fdfafd4ef48c766485924679223b2ef88e59009b344d875770f", 
+            "size": "841351878", 
+            "type": "official", 
+            "version": "v11.0"
+        }
     ]
 }
