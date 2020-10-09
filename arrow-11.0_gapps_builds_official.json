@@ -95,6 +95,22 @@
             "version": "v11.0"
         }
     ], 
+    "potter": [
+        {
+            "changelog": "- Misc changes and fixes\r\n- Fix MotoActions\r\n- Fix MotoSensors\r\n- More bug fixes\r\n- Minor optimizations for low ram variants", 
+            "date": "2020-10-09", 
+            "datetime": "20201009", 
+            "filename": "Arrow-v11.0-potter-OFFICIAL-20201009-GAPPS.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20201009-GAPPS.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Moto G5 Plus", 
+            "oem": "motorola", 
+            "sha256": "926537269e4b527d68b488480761f3d63d341ac95f0da8233efef6cfb101ac34", 
+            "size": "825902920", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "whyred": [
         {
             "changelog": "- Initial public release", 
