@@ -1,16 +1,16 @@
 {
     "davinci": [
         {
-            "changelog": "- Fixed aptX", 
-            "date": "2020-10-06", 
-            "datetime": "20201006", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201006-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201006-VANILLA.zip", 
+            "changelog": "- Added addon.d support", 
+            "date": "2020-10-09", 
+            "datetime": "20201009", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201009-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201009-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "5554bb5a5373fdf78ac16078cd8794b93a538e68c3123f4805028fda35c31844", 
-            "size": "891471226", 
+            "sha256": "b674ab0a92f5c2cea87d37d077c9f48304fe1646e8ec177763299fd053e65dcd", 
+            "size": "891851169", 
             "type": "unofficial", 
             "version": "v11.0"
         }
