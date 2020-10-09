@@ -97,16 +97,16 @@
     ], 
     "potter": [
         {
-            "changelog": "-Initial android 11 release!", 
-            "date": "2020-09-26", 
-            "datetime": "20200926", 
-            "filename": "Arrow-v11.0-potter-OFFICIAL-20200926-VANILLA.zip", 
-            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20200926-VANILLA.zip", 
+            "changelog": "- Misc changes and fixes\r\n- Fix MotoActions\r\n- Fix MotoSensors\r\n- More bug fixes\r\n- Minor optimizations for low ram variants", 
+            "date": "2020-10-09", 
+            "datetime": "20201009", 
+            "filename": "Arrow-v11.0-potter-OFFICIAL-20201009-VANILLA.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20201009-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Moto G5 Plus", 
             "oem": "motorola", 
-            "sha256": "e2c2dd059821cbceafd52fac7828ba88381a7c192c64e0715147c043113c4ad1", 
-            "size": "665158471", 
+            "sha256": "019a60d76140fd402cd5450a5364d54cf7ad0fed00e0572a34e2da0a6029a7e3", 
+            "size": "670014624", 
             "type": "official", 
             "version": "v11.0"
         }
