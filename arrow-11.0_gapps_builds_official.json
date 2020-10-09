@@ -94,5 +94,21 @@
             "type": "official", 
             "version": "v11.0"
         }
+    ], 
+    "whyred": [
+        {
+            "changelog": "- Initial public release", 
+            "date": "2020-10-09", 
+            "datetime": "20201009", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201009-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201009-GAPPS.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi Note 5", 
+            "oem": "Xiaomi", 
+            "sha256": "a68229ac0b312337a625c5dd999cb01af332503f01333ac2080a66006dc2c8da", 
+            "size": "850687718", 
+            "type": "official", 
+            "version": "v11.0"
+        }
     ]
 }
