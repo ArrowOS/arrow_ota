@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Fingerprint will now work on third party apps\r\n- Fixed offline charging\r\n- Stereo sound is now working\r\n- Fixed constant NFC service crash on Indian devices", 
-            "date": "2020-10-02", 
-            "datetime": "20201002", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201002-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201002-GAPPS.zip", 
+            "changelog": "- Fixed aptX\r\n- Removed \"SIM is HD capable\" notification", 
+            "date": "2020-10-10", 
+            "datetime": "20201010", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201010-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201010-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "82fd3bf2f34c511fe40016f265600d1111b725ccf5cde63bf6f0ae0f4681b57f", 
-            "size": "1048514837", 
+            "sha256": "c4f7694154c7c8623874cea56e486cc8eeb8ec318e56ad90055bd31c03ed9d65", 
+            "size": "1048832480", 
             "type": "official", 
             "version": "v11.0"
         }
