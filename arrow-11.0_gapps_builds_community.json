@@ -1,1 +1,18 @@
-{}
+{
+    "lavender": [
+        {
+            "changelog": "- Initial Community build support", 
+            "date": "2020-10-10", 
+            "datetime": "20201010", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201010-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201010-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Redmi Note 7", 
+            "oem": "Xiaomi", 
+            "sha256": "4928698df9d65bec0623dcf8f55e7060183c3121bcd2a0e4bc76cce828355805", 
+            "size": "999541842", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ]
+}
