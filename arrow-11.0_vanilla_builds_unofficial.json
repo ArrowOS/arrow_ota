@@ -49,16 +49,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Test build\r\n- Uprev DrmFactory/clearkey to 1.3", 
-            "date": "2020-10-10", 
-            "datetime": "20201010", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201010-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201010-VANILLA.zip", 
+            "changelog": "- Test build\r\n- Uprev some DRM stuff", 
+            "date": "2020-10-11", 
+            "datetime": "20201011", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201011-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201011-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "b787368a61f560f8bb1ca3927e2c8765246a777eca9da2c0a888c0f28f603344", 
-            "size": "695376112", 
+            "sha256": "4a08c18a6f1752804eb2bbc38bb9a813bdeb5a27752c13244f61908dec70b10a", 
+            "size": "695365614", 
             "type": "unofficial", 
             "version": "v11.0"
         }
