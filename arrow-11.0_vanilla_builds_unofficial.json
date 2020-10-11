@@ -49,7 +49,7 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Test build\r\n- Uprev some DRM stuff", 
+            "changelog": "- Test build\r\n- Fixed Netlix issues\r\n- Fixed offline charging (needs testing)", 
             "date": "2020-10-11", 
             "datetime": "20201011", 
             "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201011-VANILLA.zip", 
@@ -57,8 +57,8 @@
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "4a08c18a6f1752804eb2bbc38bb9a813bdeb5a27752c13244f61908dec70b10a", 
-            "size": "695365614", 
+            "sha256": "b5bde37d55cf599f39b76efabc94ebdaca920884de9d1fda72b00c51400b5b04", 
+            "size": "695105727", 
             "type": "unofficial", 
             "version": "v11.0"
         }
