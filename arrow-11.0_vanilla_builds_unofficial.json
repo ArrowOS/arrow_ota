@@ -50,16 +50,16 @@
     "potter": [
         {
             "changelog": "- Misc changes and fixes\r\n- Fix MotoActions\r\n- Fix MotoSensors\r\n- More bug fixes", 
-            "date": "2020-10-10", 
-            "datetime": "20201010", 
-            "filename": "Arrow-v11.0-potter-OFFICIAL-20201010-VANILLA.zip", 
-            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20201010-VANILLA.zip", 
+            "date": "2020-10-12", 
+            "datetime": "20201012", 
+            "filename": "Arrow-v11.0-potter-UNOFFICIAL-20201012-VANILLA.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-UNOFFICIAL-20201012-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Moto G5 Plus", 
             "oem": "motorola", 
-            "sha256": "c0c8e8ed334ddc0067377988091cec069d863727e669f3919c40d45830d72c47", 
-            "size": "670021236", 
-            "type": "official", 
+            "sha256": "72ff8fbde59dc2deea911300a9787d6f17f2b0b2f5d43c80454de518f2b14b92", 
+            "size": "668393052", 
+            "type": "unofficial", 
             "version": "v11.0"
         }
     ], 
