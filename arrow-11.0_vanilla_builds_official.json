@@ -17,16 +17,16 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": "- Fixed Bluetooth AUdio \\n - new themes/styles \\n -fixed NFC tile \\n -screenshot sound disable option \\n - unlink notification and ring volume \\n kernel upstream", 
-            "date": "2020-09-26", 
-            "datetime": "20200926", 
-            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20200926-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20200926-VANILLA.zip", 
-            "maintainer": "bauuuuu", 
+            "changelog": "-", 
+            "date": "2020-10-12", 
+            "datetime": "20201012", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20201012-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20201012-VANILLA.zip", 
+            "maintainer": "Bauuuuu", 
             "model": "Oneplus A5000", 
             "oem": "OnePlus", 
-            "sha256": "ee1c47aab4b945f99605f1c1ffee9181765a1f204d7f5dc2584750518e8a6b12", 
-            "size": "773981404", 
+            "sha256": "4758ac5fd0fb7e114dca9f4a415418a0a861c465d9f91103b736f614d3b1fa83", 
+            "size": "774179411", 
             "type": "official", 
             "version": "v11.0"
         }
