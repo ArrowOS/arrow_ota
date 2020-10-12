@@ -63,6 +63,22 @@
             "version": "v11.0"
         }
     ], 
+    "enchilada": [
+        {
+            "changelog": "-", 
+            "date": "2020-10-12", 
+            "datetime": "20201012", 
+            "filename": "Arrow-v11.0-enchilada-OFFICIAL-20201012-VANILLA.zip", 
+            "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-OFFICIAL-20201012-VANILLA.zip", 
+            "maintainer": "Raj Jadeja", 
+            "model": "OnePlus6", 
+            "oem": "OnePlus", 
+            "sha256": "d35b53041319b3e2962a9ca477b47ace56f2334c2e7d51fcc8e3658f57dd3229", 
+            "size": "536710976", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "land": [
         {
             "changelog": "- Fixed night light \\n -new themes/styles  \\n -screenshot sound disable option \\n - unlink notification and ring volume \\n kernel upstream \\n FP auth vibration linked to haptic feedback", 
