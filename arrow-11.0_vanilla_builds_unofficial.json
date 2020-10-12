@@ -15,6 +15,22 @@
             "version": "v11.0"
         }
     ], 
+    "enchilada": [
+        {
+            "changelog": "-", 
+            "date": "2020-10-11", 
+            "datetime": "20201011", 
+            "filename": "Arrow-v11.0-enchilada-UNOFFICIAL-20201011-VANILLA.zip", 
+            "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-UNOFFICIAL-20201011-VANILLA.zip", 
+            "maintainer": "Raj Jadeja", 
+            "model": "OnePlus6", 
+            "oem": "OnePlus", 
+            "sha256": "7adcd6045d5d0e9218e2f7a97db2ec15df0f3405ccf2684288acfedbfea12ef8", 
+            "size": "534979858", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "polaris": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
