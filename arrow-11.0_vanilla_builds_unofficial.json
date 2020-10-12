@@ -65,16 +65,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Test build\r\n- Fixed Netlix issues\r\n- Fixed offline charging (needs testing)", 
-            "date": "2020-10-11", 
-            "datetime": "20201011", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201011-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201011-VANILLA.zip", 
+            "changelog": "- Test build\r\n- Added pixel offline charger", 
+            "date": "2020-10-12", 
+            "datetime": "20201012", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201012-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201012-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "934d2a23077476d2e3e6f9fe377f6d9405606fc221fdebf420845c412fa06e2c", 
-            "size": "695088669", 
+            "sha256": "41af23d13db8ae72183af7446a431900b61308721d4e6d94182892953ce46e75", 
+            "size": "695654398", 
             "type": "unofficial", 
             "version": "v11.0"
         }
