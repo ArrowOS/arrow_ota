@@ -81,16 +81,16 @@
     ], 
     "land": [
         {
-            "changelog": "- Fixed night light \\n -new themes/styles  \\n -screenshot sound disable option \\n - unlink notification and ring volume \\n kernel upstream \\n FP auth vibration linked to haptic feedback", 
-            "date": "2020-09-27", 
-            "datetime": "20200927", 
-            "filename": "Arrow-v11.0-land-OFFICIAL-20200927-VANILLA.zip", 
-            "filepath": "/arrow-11.0/land/Arrow-v11.0-land-OFFICIAL-20200927-VANILLA.zip", 
+            "changelog": "-", 
+            "date": "2020-10-12", 
+            "datetime": "20201012", 
+            "filename": "Arrow-v11.0-land-OFFICIAL-20201012-VANILLA.zip", 
+            "filepath": "/arrow-11.0/land/Arrow-v11.0-land-OFFICIAL-20201012-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
-            "model": "land", 
+            "model": "Land", 
             "oem": "Xiaomi", 
-            "sha256": "9c6dd5245e33fe1baef715104df423da4aa3482fd05e041dc1b718b665e8e9de", 
-            "size": "650294544", 
+            "sha256": "101053a86058ebf851d8f9fb8e648b8a12fc6d20029c3984820458ea6100828f", 
+            "size": "650851555", 
             "type": "official", 
             "version": "v11.0"
         }
