@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "oneplus3": [
+        {
+            "changelog": null, 
+            "date": "2020-10-12", 
+            "datetime": "20201012", 
+            "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20201012-VANILLA.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20201012-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "arrow_oneplus3", 
+            "oem": "OnePlus", 
+            "sha256": "1624282fed0a86b3b3411bbd90182f8b1b899c60f703013d419a9d68195f7346", 
+            "size": "641659038", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "polaris": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
