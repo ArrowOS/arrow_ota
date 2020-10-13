@@ -1,16 +1,16 @@
 {
     "beryllium": [
         {
-            "changelog": "- Fixed safety net(no magisk needed) \\n - Fix thermal issues \\n - Switch to audio HAL v6 \\n - Fixed offline charging issue \\n - Fixed data usage \\n - Update blobs to MIUI v12 \\n - Added Theme Picker and ColorBucket themes(partially) \\n - More upstream changes and fixes.", 
-            "date": "2020-09-27", 
-            "datetime": "20200927", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20200927-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20200927-VANILLA.zip", 
+            "changelog": "- Selinux Enforcing. - Address a camera crash issue. - ART optimizations. - More upstream changes.", 
+            "date": "2020-10-13", 
+            "datetime": "20201013", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201013-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201013-VANILLA.zip", 
             "maintainer": "ganeshvarma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "aa9aa5a6a11761373d9c8d842ada22bd22adf3f1eb5036ff12f9308392e09fe9", 
-            "size": "778655085", 
+            "sha256": "eead7f65ddf568a14d1dd71bd642c9776d1ba123b1a471142cabb230d2ade1aa", 
+            "size": "779508578", 
             "type": "official", 
             "version": "v11.0"
         }
