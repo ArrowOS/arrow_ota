@@ -79,6 +79,22 @@
             "version": "v11.0"
         }
     ], 
+    "raphael": [
+        {
+            "changelog": "-", 
+            "date": "2020-10-12", 
+            "datetime": "20201012", 
+            "filename": "Arrow-v11.0-raphael-UNOFFICIAL-20201012-VANILLA.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-UNOFFICIAL-20201012-VANILLA.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Redmi K20 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "07afb2a2932ce33fd4e3b2c2a6b21acf504248c8810d9fb50fbb847a6b29d98f", 
+            "size": "609587563", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "whyred": [
         {
             "changelog": "- Test build\r\n- Added pixel offline charger", 
