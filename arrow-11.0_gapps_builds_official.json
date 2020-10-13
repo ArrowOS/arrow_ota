@@ -127,6 +127,22 @@
             "version": "v11.0"
         }
     ], 
+    "raphael": [
+        {
+            "changelog": "-", 
+            "date": "2020-10-13", 
+            "datetime": "20201013", 
+            "filename": "Arrow-v11.0-raphael-OFFICIAL-20201013-GAPPS.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20201013-GAPPS.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Redmi K20 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "4763116b22031f3fa6b98cd7c2072589b8f06d900085d42b2894e38db62cd8fe", 
+            "size": "766048522", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "whyred": [
         {
             "changelog": "- Initial public release", 
