@@ -17,16 +17,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Added addon.d support", 
-            "date": "2020-10-09", 
-            "datetime": "20201009", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201009-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201009-GAPPS.zip", 
+            "changelog": "- SELinux is now enforcing", 
+            "date": "2020-10-14", 
+            "datetime": "20201014", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201014-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201014-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "f9875aee585d48eb66a0ce840290f251f38bdad47479ccc0d6edffdba3d915bc", 
-            "size": "1048661325", 
+            "sha256": "4329b87f724457d03152ec1e99271fbbf79daf5b0549523b7ec1b7e596c8ef74", 
+            "size": "1049379147", 
             "type": "unofficial", 
             "version": "v11.0"
         }
