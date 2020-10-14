@@ -1,16 +1,16 @@
 {
     "davinci": [
         {
-            "changelog": "- Added addon.d support", 
-            "date": "2020-10-09", 
-            "datetime": "20201009", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201009-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201009-VANILLA.zip", 
+            "changelog": "- SELinux is now enforcing", 
+            "date": "2020-10-14", 
+            "datetime": "20201014", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201014-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201014-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "b674ab0a92f5c2cea87d37d077c9f48304fe1646e8ec177763299fd053e65dcd", 
-            "size": "891851169", 
+            "sha256": "a238a68a851f6e8f5a56d281185b3a1a81be76a715f6b76777a5523a024e20f9", 
+            "size": "892405111", 
             "type": "unofficial", 
             "version": "v11.0"
         }
