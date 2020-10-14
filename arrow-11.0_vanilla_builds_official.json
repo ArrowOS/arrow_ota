@@ -145,16 +145,16 @@
     ], 
     "raphael": [
         {
-            "changelog": "-", 
-            "date": "2020-10-13", 
-            "datetime": "20201013", 
-            "filename": "Arrow-v11.0-raphael-OFFICIAL-20201013-VANILLA.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20201013-VANILLA.zip", 
+            "changelog": "- Initial arrow-11.0 build\r\n\r\nNote:\r\n- Requires the latest MIUI vendor and firmware.\r\n- Uses MIUI perf kernel", 
+            "date": "2020-10-14", 
+            "datetime": "20201014", 
+            "filename": "Arrow-v11.0-raphael-OFFICIAL-20201014-VANILLA.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20201014-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "b4ac5fe017be7666b6ae7ce455175dbcafa2a26a46c8c9d31b6b331a8a46ccd7", 
-            "size": "609574952", 
+            "sha256": "769b5bda2981fcc25f1fc353321caca823292baaeeb84aad379a168ded86e56a", 
+            "size": "609531090", 
             "type": "official", 
             "version": "v11.0"
         }
