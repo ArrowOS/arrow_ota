@@ -95,6 +95,22 @@
             "version": "v11.0"
         }
     ], 
+    "perseus": [
+        {
+            "changelog": "Initial Android 11.0.0 builds.\r\n\r\n- Set bootanimation res to 1080p\r\n- Fix SafetyNet Pass with Magisk\r\n- Fix Warning after everyboot\r\n- Update to MIUI V12.0.1.0.QEEMIXM blobs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).\r\n- It is required to clean flash with formate data.", 
+            "date": "2020-10-13", 
+            "datetime": "20201013", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201013-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201013-GAPPS.zip", 
+            "maintainer": "palaych", 
+            "model": "Mi MIX 3", 
+            "oem": "Xiaomi", 
+            "sha256": "309e7cfa4388e26daeaac4752280588c1b447ee7d7692072afef9b5016246f2b", 
+            "size": "1075975791", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "polaris": [
         {
             "changelog": "- Add AOSP RCS packages\r\n- Add RRO WifiOverlay\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
