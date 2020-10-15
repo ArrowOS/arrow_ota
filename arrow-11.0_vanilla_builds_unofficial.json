@@ -65,16 +65,16 @@
     ], 
     "potter": [
         {
-            "changelog": "- Misc changes and fixes\r\n- Update DRM blobs to Q\r\n- Update and uprev DRM widevine to 1.2\r\n- More bug fixes", 
-            "date": "2020-10-14", 
-            "datetime": "20201014", 
-            "filename": "Arrow-v11.0-potter-UNOFFICIAL-20201014-VANILLA.zip", 
-            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-UNOFFICIAL-20201014-VANILLA.zip", 
+            "changelog": "- Misc changes and fixes\r\n- Update DRM blobs to Q\r\n- Update and uprev DRM widevine to 1.2\r\n- Completely fix hotspot\r\n- More bug fixes", 
+            "date": "2020-10-15", 
+            "datetime": "20201015", 
+            "filename": "Arrow-v11.0-potter-UNOFFICIAL-20201015-VANILLA.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-UNOFFICIAL-20201015-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Moto G5 Plus", 
             "oem": "motorola", 
-            "sha256": "de368118ae89bdc37e1dc224f035fab19157acf0e6a77a04a6db91a4eadf4d5f", 
-            "size": "667761064", 
+            "sha256": "31ee63e113331f9ceecc060db189eca5bf35bfe8433199fac1e1d877ef19224a", 
+            "size": "667979626", 
             "type": "unofficial", 
             "version": "v11.0"
         }
