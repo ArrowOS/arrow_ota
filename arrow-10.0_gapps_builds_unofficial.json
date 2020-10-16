@@ -15,6 +15,22 @@
             "version": "v10.0"
         }
     ], 
+    "land": [
+        {
+            "changelog": "-", 
+            "date": "2020-10-16", 
+            "datetime": "20201016", 
+            "filename": "Arrow-v10.0-land-UNOFFICIAL-20201016-GAPPS.zip", 
+            "filepath": "/arrow-10.0/land/Arrow-v10.0-land-UNOFFICIAL-20201016-GAPPS.zip", 
+            "maintainer": "Bauuuuu", 
+            "model": "Redmi 3S/3X", 
+            "oem": "Xiaomi", 
+            "sha256": "6fddbc3d7247acad9e7aa9db832be2ce7146bd191c29949bf886d3b093e1f6b9", 
+            "size": "759715609", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
+    ], 
     "lmi": [
         {
             "changelog": "first test build for lmi", 
