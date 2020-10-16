@@ -95,6 +95,22 @@
             "version": "v11.0"
         }
     ], 
+    "oneplus3": [
+        {
+            "changelog": "- Initial release", 
+            "date": "2020-10-16", 
+            "datetime": "20201016", 
+            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201016-VANILLA.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201016-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "arrow_oneplus3", 
+            "oem": "OnePlus", 
+            "sha256": "f516d733b6000ba737080ff1538e0c552dc187930176cc3ed8fd8d117a8ccd00", 
+            "size": "641768348", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "perseus": [
         {
             "changelog": "Initial Android 11.0.0 builds.\r\n\r\n- Set bootanimation res to 1080p\r\n- Fix SafetyNet Pass with Magisk\r\n- Fix Warning after everyboot\r\n- Update to MIUI V12.0.1.0.QEEMIXM blobs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).\r\n- It is required to clean flash with formate data.", 
