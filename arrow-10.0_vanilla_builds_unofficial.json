@@ -31,6 +31,22 @@
             "version": "v10.0"
         }
     ], 
+    "lmi": [
+        {
+            "changelog": "first test build for lmi", 
+            "date": "2020-10-16", 
+            "datetime": "20201016", 
+            "filename": "Arrow-v10.0-lmi-UNOFFICIAL-20201016-VANILLA.zip", 
+            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-UNOFFICIAL-20201016-VANILLA.zip", 
+            "maintainer": "TH779, lamp216", 
+            "model": "POCO F2 PRO", 
+            "oem": "POCO", 
+            "sha256": "492187fc87bc4769611fd03439b2dc60a54065a6066ea9d053f04122350084ca", 
+            "size": "599340679", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
+    ], 
     "potter": [
         {
             "changelog": "- fixup BT audio after sep ASB tag", 
