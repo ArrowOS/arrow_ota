@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": null, 
-            "date": "2020-10-14", 
-            "datetime": "20201014", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201014-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201014-GAPPS.zip", 
-            "maintainer": "Hazama25", 
+            "changelog": "- nuked deprecated thermal hal 1.0\r\n- switch to pixel thermal hal\r\n- update thermal blobs from MIUI V11.0.5.0 Q\r\n- move qti-telephony to system_ext\r\n- use qti-telephony from cmi\r\n- clean up init", 
+            "date": "2020-10-16", 
+            "datetime": "20201016", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201016-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201016-GAPPS.zip", 
+            "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "e060e7d9ac5a29c40bc1daa6ee555fcead49b741cede098c0aade7eeeacf2036", 
-            "size": "999996748", 
+            "sha256": "016f37d5c20aa8cda63299669efec5dc9175e4af88f9076ab21386264c5805ef", 
+            "size": "1001066948", 
             "type": "community", 
             "version": "v11.0"
         }
