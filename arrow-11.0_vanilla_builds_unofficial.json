@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "sanders": [
+        {
+            "changelog": "Beta Build", 
+            "date": "2020-10-16", 
+            "datetime": "20201016", 
+            "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201016-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201016-VANILLA.zip", 
+            "maintainer": "Ashwatthama", 
+            "model": "Moto G (5S) Plus", 
+            "oem": "motorola", 
+            "sha256": "8c44e72c7d3f44fef2e05479c4201f49754985eb829f98d57aa606e951fb7ad7", 
+            "size": "665813792", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "whyred": [
         {
             "changelog": "- Test build\r\n- Added pixel offline charger", 
