@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Fixed aptX\r\n- Removed \"SIM is HD capable\" notification", 
-            "date": "2020-10-10", 
-            "datetime": "20201010", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201010-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201010-VANILLA.zip", 
+            "changelog": "- SELinux is now enforcing\r\n- Fixed FOD after using screen recording\r\n- Fixed frame drops when using screen recording", 
+            "date": "2020-10-18", 
+            "datetime": "20201018", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201018-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201018-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "a5c82ac101f4fb84edbe6e365b8ec71c08c6e700db783e07b40c3130f7bc9ba3", 
-            "size": "891893668", 
+            "sha256": "5dd3799c9878bcb7deda1b3dcb44a3a85af85207a56889a8894a1fc112bd6075", 
+            "size": "893420167", 
             "type": "official", 
             "version": "v11.0"
         }
