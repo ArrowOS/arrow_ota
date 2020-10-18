@@ -129,16 +129,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Test build\r\n- Added pixel offline charger", 
-            "date": "2020-10-12", 
-            "datetime": "20201012", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201012-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201012-VANILLA.zip", 
+            "changelog": "- Fix Deepsleep (needs testing)", 
+            "date": "2020-10-17", 
+            "datetime": "20201017", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201017-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201017-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "605407aa5c01eafb8b3da255412550111c18ec33fd570982286bf9e185d6e1d3", 
-            "size": "695689554", 
+            "sha256": "f8da8a28b93598d6a81733e1e9b8b8afb9a116233f53b33e7926ac07d89bd4b2", 
+            "size": "695649676", 
             "type": "unofficial", 
             "version": "v11.0"
         }
