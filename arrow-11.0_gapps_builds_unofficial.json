@@ -63,6 +63,22 @@
             "version": "v11.0"
         }
     ], 
+    "perseus": [
+        {
+            "changelog": "- Fix SafetyNet Pass (new method)\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+            "date": "2020-10-19", 
+            "datetime": "20201019", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201019-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201019-GAPPS.zip", 
+            "maintainer": "palaych", 
+            "model": "Mi MIX 3", 
+            "oem": "Xiaomi", 
+            "sha256": "05d9142517473da4bcd1930fa98bd7bd82bb79951d709dcc2c4ae76b5b407818", 
+            "size": "1072266701", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "polaris": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
