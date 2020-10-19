@@ -14,5 +14,21 @@
             "type": "community", 
             "version": "v11.0"
         }
+    ], 
+    "potter": [
+        {
+            "changelog": "-", 
+            "date": "2020-10-18", 
+            "datetime": "20201018", 
+            "filename": "Arrow-v11.0-potter-COMMUNITY-20201018-VANILLA.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201018-VANILLA.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Moto G5 Plus", 
+            "oem": "motorola", 
+            "sha256": "c7e466c1d586ace03e3b0c0b754fd7b74894c7d3748fc3ef9111bf2fb7863a6e", 
+            "size": "668475836", 
+            "type": "community", 
+            "version": "v11.0"
+        }
     ]
 }
