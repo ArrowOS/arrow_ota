@@ -33,16 +33,16 @@
     ], 
     "lmi": [
         {
-            "changelog": "first test build for lmi", 
-            "date": "2020-10-16", 
-            "datetime": "20201016", 
-            "filename": "Arrow-v10.0-lmi-UNOFFICIAL-20201016-GAPPS.zip", 
-            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-UNOFFICIAL-20201016-GAPPS.zip", 
+            "changelog": "- Fixed audio", 
+            "date": "2020-10-19", 
+            "datetime": "20201019", 
+            "filename": "Arrow-v10.0-lmi-UNOFFICIAL-20201019-GAPPS.zip", 
+            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-UNOFFICIAL-20201019-GAPPS.zip", 
             "maintainer": "TH779, lamp216", 
             "model": "POCO F2 PRO", 
             "oem": "POCO", 
-            "sha256": "d19624235246c534e023fe00e6c42f9a0ee8713a0fb797c14ad90bbb78616da7", 
-            "size": "763574692", 
+            "sha256": "dcc24bc74c16580bd5dd7b0283c6d18fa659664b24bc33de0abf23f8a58efb76", 
+            "size": "761062092", 
             "type": "unofficial", 
             "version": "v10.0"
         }
