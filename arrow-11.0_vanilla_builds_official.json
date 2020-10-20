@@ -175,6 +175,22 @@
             "version": "v11.0"
         }
     ], 
+    "sanders": [
+        {
+            "changelog": "-", 
+            "date": "2020-10-20", 
+            "datetime": "20201020", 
+            "filename": "Arrow-v11.0-sanders-OFFICIAL-20201020-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20201020-VANILLA.zip", 
+            "maintainer": "Ashwatthama", 
+            "model": "Moto G (5S) Plus", 
+            "oem": "motorola", 
+            "sha256": "ed21eebb220cd04779c04e46a0d06d774f6a0586fa6337825988cbb9a5b5a868", 
+            "size": "666663575", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "whyred": [
         {
             "changelog": "- Initial public release", 
