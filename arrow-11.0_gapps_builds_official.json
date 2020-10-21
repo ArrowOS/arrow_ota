@@ -95,6 +95,22 @@
             "version": "v11.0"
         }
     ], 
+    "miatoll": [
+        {
+            "changelog": null, 
+            "date": "2020-10-21", 
+            "datetime": "20201021", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201021-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201021-GAPPS.zip", 
+            "maintainer": "SonalSingh18", 
+            "model": "SM6250", 
+            "oem": "Xiaomi", 
+            "sha256": "8e0e3b992c44fc9439131906ebdea05841780b631b5d1c4695bbd77d6dc2b959", 
+            "size": "1189010016", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "perseus": [
         {
             "changelog": "Initial Android 11.0.0 builds.\r\n\r\n- Set bootanimation res to 1080p\r\n- Fix SafetyNet Pass with Magisk\r\n- Fix Warning after everyboot\r\n- Update to MIUI V12.0.1.0.QEEMIXM blobs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).\r\n- It is required to clean flash with formate data.", 
