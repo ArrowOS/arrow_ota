@@ -95,6 +95,22 @@
             "version": "v11.0"
         }
     ], 
+    "miatoll": [
+        {
+            "changelog": null, 
+            "date": "2020-10-21", 
+            "datetime": "20201021", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201021-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201021-VANILLA.zip", 
+            "maintainer": "SonalSingh18", 
+            "model": "SM6250", 
+            "oem": "Xiaomi", 
+            "sha256": "0e5caa817b78dc40e1565b92f4363faafa69442ddfc1e43ce46fa710bb89edfb", 
+            "size": "1029780941", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "oneplus3": [
         {
             "changelog": "- Initial release", 
