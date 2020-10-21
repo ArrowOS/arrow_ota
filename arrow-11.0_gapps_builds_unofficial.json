@@ -95,22 +95,6 @@
             "version": "v11.0"
         }
     ], 
-    "potter": [
-        {
-            "changelog": "- Misc changes and fixes", 
-            "date": "2020-10-17", 
-            "datetime": "20201017", 
-            "filename": "Arrow-v11.0-potter-UNOFFICIAL-20201017-GAPPS.zip", 
-            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-UNOFFICIAL-20201017-GAPPS.zip", 
-            "maintainer": "kubersharma001", 
-            "model": "Moto G5 Plus", 
-            "oem": "motorola", 
-            "sha256": "56d800f0f9909b97df2a1bb359f093d55f389e19cc64d352f83c2ac98a4c16c5", 
-            "size": "823651615", 
-            "type": "unofficial", 
-            "version": "v11.0"
-        }
-    ], 
     "raphael": [
         {
             "changelog": "- Initial arrow-11.0 build\r\n\r\nNote:\r\n- Requires the latest MIUI vendor and firmware.\r\n- Uses MIUI perf kernel", 

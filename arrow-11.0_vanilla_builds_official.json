@@ -143,22 +143,6 @@
             "version": "v11.0"
         }
     ], 
-    "potter": [
-        {
-            "changelog": "- Misc changes and fixes\r\n- Update DRM blobs to Q\r\n- Update and uprev DRM widevine to 1.2\r\n- Completely fix hotspot\r\n- More bug fixes", 
-            "date": "2020-10-15", 
-            "datetime": "20201015", 
-            "filename": "Arrow-v11.0-potter-OFFICIAL-20201015-VANILLA.zip", 
-            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20201015-VANILLA.zip", 
-            "maintainer": "kubersharma001", 
-            "model": "Moto G5 Plus", 
-            "oem": "motorola", 
-            "sha256": "7f5cf9f824e0e42f5e38b74aa3544906b32ff9904603bb6ba649250b76743431", 
-            "size": "667759621", 
-            "type": "official", 
-            "version": "v11.0"
-        }
-    ], 
     "raphael": [
         {
             "changelog": "- Initial arrow-11.0 build\r\n\r\nNote:\r\n- Requires the latest MIUI vendor and firmware.\r\n- Uses MIUI perf kernel", 
