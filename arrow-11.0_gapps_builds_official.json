@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- SELinux is now enforcing\r\n- Fixed FOD after using screen recording\r\n- Fixed frame drops when using screen recording", 
-            "date": "2020-10-18", 
-            "datetime": "20201018", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201018-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201018-GAPPS.zip", 
+            "changelog": "- Switched to rebased VantomKernel\r\n- Updated blobs from MIUI V12.0.5.0.QFJMIXM\r\n\r\nNotes:\r\n- Clean flash is mandatory from previous release", 
+            "date": "2020-10-21", 
+            "datetime": "20201021", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201021-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201021-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "218766e865d067695455ed4cb5597a75a347efd53cce2c9faec3f82d79f2ffce", 
-            "size": "1050252521", 
+            "sha256": "879089860f2c1199714dc9ae9e584875a72631c93be8d7e64a0a1c9cf140bf04", 
+            "size": "1056139646", 
             "type": "official", 
             "version": "v11.0"
         }
