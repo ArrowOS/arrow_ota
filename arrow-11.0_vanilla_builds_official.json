@@ -145,16 +145,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Add AOSP RCS packages\r\n- Add RRO WifiOverlay\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2020-10-13", 
-            "datetime": "20201013", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201013-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201013-VANILLA.zip", 
+            "changelog": "- Set selinux enforce\r\n- Switch R AIDL QCOM PowerHAL\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+            "date": "2020-10-22", 
+            "datetime": "20201022", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201022-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201022-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "53648f553741adf0d32a154579019a1c533d8866ed0396ee07902d22edaabbd6", 
-            "size": "792686482", 
+            "sha256": "21c8f0c29e4936b161783a5b669f8cff6c3b6a42dcdf5d19e16a81d7801fb6e0", 
+            "size": "799328068", 
             "type": "official", 
             "version": "v11.0"
         }
