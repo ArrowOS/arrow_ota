@@ -129,16 +129,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "Initial Android 11.0.0 builds.\r\n\r\n- Set bootanimation res to 1080p\r\n- Fix SafetyNet Pass with Magisk\r\n- Fix Warning after everyboot\r\n- Update to MIUI V12.0.1.0.QEEMIXM blobs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).\r\n- It is required to clean flash with formate data.", 
-            "date": "2020-10-13", 
-            "datetime": "20201013", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201013-VANILLA.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201013-VANILLA.zip", 
+            "changelog": "- Fix SafetyNet Pass (new method)\r\n- Switch R AIDL QCOM PowerHAL\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+            "date": "2020-10-22", 
+            "datetime": "20201022", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201022-VANILLA.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201022-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "2cfcb647ef60ec81137216b8813e806d068ebfedb827fb55bea97834226b7e05", 
-            "size": "918839586", 
+            "sha256": "5ddefcdec681da3cae7c0ce6382ad9fde4229dc8fa55c96948f97df18c09ab6c", 
+            "size": "925498825", 
             "type": "official", 
             "version": "v11.0"
         }
