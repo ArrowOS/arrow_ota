@@ -145,7 +145,7 @@
     ], 
     "raphael": [
         {
-            "changelog": "- Misc changes and fixes\r\n- SELinux enforcing\r\n\r\nNote:\r\n- Requires the latest MIUI vendor and firmware.\r\n- Uses MIUI perf kernel", 
+            "changelog": "- Misc changes and fixes\r\n\r\nNote:\r\n- Requires the latest MIUI vendor and firmware.\r\n- Uses MIUI perf kernel", 
             "date": "2020-10-22", 
             "datetime": "20201022", 
             "filename": "Arrow-v11.0-raphael-OFFICIAL-20201022-GAPPS.zip", 
@@ -153,8 +153,8 @@
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "1300fd5e0679aa433f4cfc7e69700b567afcb86b81757b3eb787ff9518bd46a1", 
-            "size": "771896394", 
+            "sha256": "e3e9270882aacb2b160114d466f0597e11c4099f91e1e521abd78d0008f70fd4", 
+            "size": "771851055", 
             "type": "official", 
             "version": "v11.0"
         }
