@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Initial Community build support", 
-            "date": "2020-10-10", 
-            "datetime": "20201010", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201010-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201010-VANILLA.zip", 
-            "maintainer": "hazama25", 
+            "changelog": "- switch to pixel thermal hal 2.0\r\n- switch to new aidl power hal\r\n- uprev Health HAL\r\n- enable dex2oat64\r\n- Qti telephony from cmi\r\n- Add wifi and tether overlays", 
+            "date": "2020-10-22", 
+            "datetime": "20201022", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201022-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201022-VANILLA.zip", 
+            "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "a0cb42ecf7f66703dcdd69b301823c49dc780fb3a7583de2ecb795efae2fded5", 
-            "size": "842688926", 
+            "sha256": "2b9c1456a311a6bfc3cee9eb2d20fd861403bc897bdd9dc6fd6d477109cc03f6", 
+            "size": "851443628", 
             "type": "community", 
             "version": "v11.0"
         }
