@@ -1,16 +1,16 @@
 {
     "beryllium": [
         {
-            "changelog": "- Selinux Enforcing. - Address a camera crash issue. - ART optimizations. - More upstream changes.", 
-            "date": "2020-10-13", 
-            "datetime": "20201013", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201013-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201013-GAPPS.zip", 
-            "maintainer": "ganeshvarma, kubersharma001", 
+            "changelog": "- Switch to R qcom power aidl.\r\n- More upstream changes.", 
+            "date": "2020-10-22", 
+            "datetime": "20201022", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201022-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201022-GAPPS.zip", 
+            "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "f9a23665919ad154235fb7d98992d62841cf28438c24716dbb3d3de58fc7130c", 
-            "size": "935239346", 
+            "sha256": "e830ded4d1fa0385c1dc309781f395a03448b0bf80ff1e9ee52d275bd43c11e7", 
+            "size": "941663584", 
             "type": "official", 
             "version": "v11.0"
         }
