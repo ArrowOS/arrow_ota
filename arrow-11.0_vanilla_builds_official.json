@@ -193,16 +193,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Initial public release", 
-            "date": "2020-10-09", 
-            "datetime": "20201009", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201009-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201009-VANILLA.zip", 
+            "changelog": "- Enable v1.3 clearkey drm plugin\r\n- Update Widevine HIDL service to 1.2.\r\n- Fixed offline charging\r\n- Kang libdpmframework.so from oneplus8\r\n- Add TUI, 3.0 and 4.0 IMapper instances to device manifest\r\n- Upstream kernel to linux version 4.4.240\r\n- Fixed deepsleep issues\r\n- Fixed freezing issues with apps like Netflix, Sonyliv, Gpay etc", 
+            "date": "2020-10-21", 
+            "datetime": "20201021", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201021-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201021-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "cbf9aa570760cfa718f728dd413221d278a8eea17694a6d321599c9089ee120e", 
-            "size": "695116297", 
+            "sha256": "f0977163e83f526b2d999379ac8525c146bfb6f08e0321ff343ccd7e7b7d5e04", 
+            "size": "702418674", 
             "type": "official", 
             "version": "v11.0"
         }
