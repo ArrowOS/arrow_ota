@@ -162,16 +162,16 @@
     "z2_row": [
         {
             "changelog": "- Misc changes and fixes", 
-            "date": "2020-10-09", 
-            "datetime": "20201009", 
-            "filename": "Arrow-v11.0-z2_row-OFFICIAL-20201009-VANILLA.zip", 
-            "filepath": "/arrow-11.0/z2_row/Arrow-v11.0-z2_row-OFFICIAL-20201009-VANILLA.zip", 
+            "date": "2020-10-23", 
+            "datetime": "20201023", 
+            "filename": "Arrow-v11.0-z2_row-UNOFFICIAL-20201023-VANILLA.zip", 
+            "filepath": "/arrow-11.0/z2_row/Arrow-v11.0-z2_row-UNOFFICIAL-20201023-VANILLA.zip", 
             "maintainer": "kubersharma001, weimerd", 
             "model": "ZUK Z2121", 
             "oem": "ZUK", 
-            "sha256": "75327a630c30889fbf0d11682fdbdad4226fda6280b02cb13a56f89237f01a81", 
-            "size": "683768436", 
-            "type": "official", 
+            "sha256": "afb91daf17dad048a03c8d9227cc2b9fc3823d08858db64b905a5efd25f57f0f", 
+            "size": "690485224", 
+            "type": "unofficial", 
             "version": "v11.0"
         }
     ]
