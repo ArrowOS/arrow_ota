@@ -81,16 +81,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2020-10-11", 
-            "datetime": "20201011", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201011-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201011-VANILLA.zip", 
+            "changelog": "- Sepolicy: Address denials\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+            "date": "2020-10-23", 
+            "datetime": "20201023", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201023-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201023-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "c60a87051b50ccc28a1e04d9954db65adc0080960192d42c2f9d3044cbba5931", 
-            "size": "792664641", 
+            "sha256": "654fac41569aa7cc4046312c9938aba160e1fc50087e82a2da1beeda09eb006a", 
+            "size": "798944093", 
             "type": "official", 
             "version": "v11.0"
         }
