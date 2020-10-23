@@ -190,21 +190,5 @@
             "type": "official", 
             "version": "v11.0"
         }
-    ], 
-    "z2_plus": [
-        {
-            "changelog": "- Misc changes and improvements", 
-            "date": "2020-10-22", 
-            "datetime": "20201022", 
-            "filename": "Arrow-v11.0-z2_plus-OFFICIAL-20201022-GAPPS.zip", 
-            "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-OFFICIAL-20201022-GAPPS.zip", 
-            "maintainer": "kubersharma001", 
-            "model": "Z2 Plus", 
-            "oem": "ZUK", 
-            "sha256": "d240385b183b78fb4fca9f98a9b0bf8721d535d9e077ef87daf5de1aa7dadd8e", 
-            "size": "847943811", 
-            "type": "official", 
-            "version": "v11.0"
-        }
     ]
 }
