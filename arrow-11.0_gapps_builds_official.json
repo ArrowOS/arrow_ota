@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "oneplus3": [
+        {
+            "changelog": "- Fixed NFC\r\n- Uprev Few Hals\r\n- Added Few WiFi Overlay", 
+            "date": "2020-10-24", 
+            "datetime": "20201024", 
+            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201024-GAPPS.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201024-GAPPS.zip", 
+            "maintainer": "Gaurav24", 
+            "model": "arrow_oneplus3", 
+            "oem": "OnePlus", 
+            "sha256": "8acc1138439c1ea11a01093708c9b157d553ea6745465c36660aaa4aabd487a6", 
+            "size": "862865570", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "perseus": [
         {
             "changelog": "- Fix SafetyNet Pass (new method)\r\n- Switch R AIDL QCOM PowerHAL\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
