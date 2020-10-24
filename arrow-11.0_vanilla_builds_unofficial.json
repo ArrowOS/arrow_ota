@@ -129,16 +129,16 @@
     ], 
     "sanders": [
         {
-            "changelog": "test biometric sensors", 
-            "date": "2020-10-22", 
-            "datetime": "20201022", 
-            "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201022-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201022-VANILLA.zip", 
+            "changelog": "test biometric sensors\r\nrecovery shot too", 
+            "date": "2020-10-24", 
+            "datetime": "20201024", 
+            "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201024-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201024-VANILLA.zip", 
             "maintainer": "Ashwatthama", 
             "model": "Moto G (5S) Plus", 
             "oem": "motorola", 
-            "sha256": "b9e42df7570ae41545d47de9273e50e7495c576a1fba95b8c644b040d96c3e9e", 
-            "size": "672274058", 
+            "sha256": "51d097808a874ca45930d2607c4b4ec27e46f53d3ac3f6673fe0a8763dcef379", 
+            "size": "672365242", 
             "type": "unofficial", 
             "version": "v11.0"
         }
