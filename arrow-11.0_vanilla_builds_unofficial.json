@@ -65,16 +65,16 @@
     ], 
     "oneplus3": [
         {
-            "changelog": null, 
-            "date": "2020-10-15", 
-            "datetime": "20201015", 
-            "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20201015-VANILLA.zip", 
-            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20201015-VANILLA.zip", 
-            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "changelog": "- Initial release", 
+            "date": "2020-10-24", 
+            "datetime": "20201024", 
+            "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20201024-VANILLA.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20201024-VANILLA.zip", 
+            "maintainer": "Gaurav24", 
             "model": "arrow_oneplus3", 
             "oem": "OnePlus", 
-            "sha256": "4ba67a8ba7e456f5b2bb71fac4031838cd170731137897b788f225a6cfbbbbf9", 
-            "size": "641758673", 
+            "sha256": "ccb436300c0edaffd0898845033e84cf42dd8e7058095aa1fb1337378e8bec69", 
+            "size": "648474416", 
             "type": "unofficial", 
             "version": "v11.0"
         }
