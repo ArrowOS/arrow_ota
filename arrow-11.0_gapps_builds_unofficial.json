@@ -82,15 +82,15 @@
     "polaris": [
         {
             "changelog": "- Sepolicy: Address denials\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2020-10-24", 
-            "datetime": "20201024", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201024-GAPPS.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201024-GAPPS.zip", 
+            "date": "2020-10-25", 
+            "datetime": "20201025", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201025-GAPPS.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201025-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "c3236a9b86686cbcb6d8e075d54aaa8241985d4d64e1201a4539f482d79dd0d3", 
-            "size": "1010477955", 
+            "sha256": "a030bcfba448f8940c270b32d64c6accc1865cca493dbd10aaf56eb53990b9f2", 
+            "size": "1010378626", 
             "type": "official", 
             "version": "v11.0"
         }
