@@ -63,6 +63,22 @@
             "version": "v11.0"
         }
     ], 
+    "mido": [
+        {
+            "changelog": "- Initial build", 
+            "date": "2020-10-25", 
+            "datetime": "20201025", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20201025-GAPPS.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201025-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Redmi Note 4", 
+            "oem": "Xiaomi", 
+            "sha256": "35e33e1cb754ce517098700cf182af4c94c1a84c752281b583d9d4bdbf29adc9", 
+            "size": "848524006", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "perseus": [
         {
             "changelog": "- Fix SafetyNet Pass (new method)\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
