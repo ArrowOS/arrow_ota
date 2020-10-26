@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "mido": [
+        {
+            "changelog": "- Initial build", 
+            "date": "2020-10-26", 
+            "datetime": "20201026", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20201026-GAPPS.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201026-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Redmi Note 4", 
+            "oem": "Xiaomi", 
+            "sha256": "3e2652b73851ac41103e35516d8fa7f38e1ffd982358ea3211a7037808d2bdc2", 
+            "size": "848519852", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "oneplus3": [
         {
             "changelog": "- Fixed NFC\r\n- Uprev Few Hals\r\n- Added Few WiFi Overlay", 
