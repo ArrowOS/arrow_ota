@@ -161,16 +161,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Fix Deepsleep (needs testing)", 
-            "date": "2020-10-18", 
-            "datetime": "20201018", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201018-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201018-VANILLA.zip", 
+            "changelog": "- test build", 
+            "date": "2020-10-26", 
+            "datetime": "20201026", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201026-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201026-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "27736898dc5183b080e57a4fa8acb7b43b72d88843bc4b107b9de0224608b777", 
-            "size": "696513745", 
+            "sha256": "747efd9107d08e1c93a8f76f30d8778160a8a074ba40669cb58709e29e0309bd", 
+            "size": "704642764", 
             "type": "unofficial", 
             "version": "v11.0"
         }
