@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- switch to pixel thermal hal\r\n- update thermal blobs MIUI Q\r\n- move qti-telephony to system_ext\r\n- use qti-telephony from cmi\r\n- clean up init", 
-            "date": "2020-10-18", 
-            "datetime": "20201018", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201018-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201018-GAPPS.zip", 
+            "changelog": "- Switch to EAS\r\n- Predator X3.9 Kernel inline", 
+            "date": "2020-10-27", 
+            "datetime": "20201027", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201027-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201027-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "cc5c8cea9198adf3f878b6d868862ee7492929464836acc0c55286468fba3c77", 
-            "size": "1000958509", 
+            "sha256": "53d6e7eccecf6131109a3e1ddd968c2ed8a35cb699d5ec0bd8ac4b3b37e6df7b", 
+            "size": "1064407070", 
             "type": "community", 
             "version": "v11.0"
         }
