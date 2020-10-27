@@ -17,16 +17,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- SELinux is now enforcing\r\n- Fixed FOD after screen record\r\n- Fixed frame drops when using screen recording", 
-            "date": "2020-10-17", 
-            "datetime": "20201017", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201017-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201017-VANILLA.zip", 
+            "changelog": "- Added dynamic thermal profiles\r\n- Added motor calibration\r\n- Fixed low microphone volume on some apps", 
+            "date": "2020-10-27", 
+            "datetime": "20201027", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201027-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201027-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "10ad91a152764d00a30561a0a32f6d32ef4c88745011fb04eddff8c54a45050c", 
-            "size": "892413178", 
+            "sha256": "3b8696e6e699b2e946203b0d561b8d5058e6ea2746deaf81466d283c31ffe1b7", 
+            "size": "900584593", 
             "type": "unofficial", 
             "version": "v11.0"
         }
