@@ -18,15 +18,15 @@
     "davinci": [
         {
             "changelog": "- Added dynamic thermal profiles\r\n- Added motor calibration\r\n- Fixed low microphone volume on some apps", 
-            "date": "2020-10-27", 
-            "datetime": "20201027", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201027-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201027-GAPPS.zip", 
+            "date": "2020-10-28", 
+            "datetime": "20201028", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201028-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201028-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "4c634920206d888bb2bea92b7d1a70921823b6d43ceaae038847e556130cbf92", 
-            "size": "1113609421", 
+            "sha256": "45e4e698e32c62e5158997e83d951bccf1f51c7c52fb4c929a044f31f0b03336", 
+            "size": "1117516521", 
             "type": "unofficial", 
             "version": "v11.0"
         }
