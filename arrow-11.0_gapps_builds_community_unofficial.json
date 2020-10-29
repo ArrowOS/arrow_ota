@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Switch to EAS\r\n- Predator X3.9 Kernel inline", 
-            "date": "2020-10-27", 
-            "datetime": "20201027", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201027-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201027-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2020-10-29", 
+            "datetime": "20201029", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201029-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201029-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "53d6e7eccecf6131109a3e1ddd968c2ed8a35cb699d5ec0bd8ac4b3b37e6df7b", 
-            "size": "1064407070", 
+            "sha256": "5b53f64e2ca966e32db86ba660739544f79bf4e12582c0117dee2262a97a61d1", 
+            "size": "1067768134", 
             "type": "community", 
             "version": "v11.0"
         }
