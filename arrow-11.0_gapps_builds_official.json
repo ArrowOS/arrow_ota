@@ -1,16 +1,16 @@
 {
     "beryllium": [
         {
-            "changelog": "- Switch to R qcom power aidl.\r\n- More upstream changes.", 
-            "date": "2020-10-22", 
-            "datetime": "20201022", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201022-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201022-GAPPS.zip", 
+            "changelog": "- Sepolicy: Address denials\r\n- Fixed cacert crash\r\n- Bring back telephony-ext\r\n- More upstream changes.", 
+            "date": "2020-10-29", 
+            "datetime": "20201029", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201029-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201029-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "e830ded4d1fa0385c1dc309781f395a03448b0bf80ff1e9ee52d275bd43c11e7", 
-            "size": "941663584", 
+            "sha256": "0349fdfe65839fe83108cd05976abfebe2115b4416184d0a040de472e2dae9e7", 
+            "size": "1002450679", 
             "type": "official", 
             "version": "v11.0"
         }
