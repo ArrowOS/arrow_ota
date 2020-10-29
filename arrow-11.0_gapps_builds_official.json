@@ -161,16 +161,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Set selinux enforce\r\n- Switch R AIDL QCOM PowerHAL\r\n- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2020-10-22", 
-            "datetime": "20201022", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201022-GAPPS.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201022-GAPPS.zip", 
+            "changelog": "- Sepolicy: Address denials\r\n- Fixed cacert crash\r\n- Bring back telephony-ext\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+            "date": "2020-10-29", 
+            "datetime": "20201029", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201029-GAPPS.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201029-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "24039fc7dbaed666b6698e31cbb617755256bf90544367cfcf65692c7d643c71", 
-            "size": "955469591", 
+            "sha256": "ab6dd9891b62ffbf69c792b30482ad811dd1ab5d5475f02c0c94186a501fd860", 
+            "size": "1015294153", 
             "type": "official", 
             "version": "v11.0"
         }
