@@ -209,16 +209,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Enable v1.3 clearkey drm plugin\r\n- Update Widevine HIDL service to 1.2.\r\n- Fixed offline charging\r\n- Kang libdpmframework.so from oneplus8\r\n- Add TUI, 3.0 and 4.0 IMapper instances to device manifest\r\n- Upstream kernel to linux version 4.4.240\r\n- Fixed deepsleep issues\r\n- Fixed freezing issues with apps like Netflix, Sonyliv, Gpay etc", 
-            "date": "2020-10-22", 
-            "datetime": "20201022", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201022-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201022-GAPPS.zip", 
+            "changelog": "- Add overlays for call recording support\r\n- Use 3x4 qs tiles by default\r\n- Add back Dirac\r\n- Use device specific data-ipa-cfg-mgr and merge LA.UM.8.1.r1-14500-sm8150.0 caf tag into it\r\n- Kernel upstreamed to Linux version 4.4.241\r\n- Some misc changes and upstreams", 
+            "date": "2020-10-29", 
+            "datetime": "20201029", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201029-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201029-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "1a970375933a9aafe9debe9ec91d2b6262f1773c5e9903608d0139f49f188383", 
-            "size": "858256801", 
+            "sha256": "80db938304fee66b378dc2dcd05ca5aa867c802bfcd04e10de9f5eae16248a92", 
+            "size": "920715282", 
             "type": "official", 
             "version": "v11.0"
         }
