@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- switch to pixel thermal hal 2.0\r\n- switch to new aidl power hal\r\n- uprev Health HAL\r\n- enable dex2oat64\r\n- Qti telephony from cmi\r\n- Add wifi and tether overlays", 
-            "date": "2020-10-22", 
-            "datetime": "20201022", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201022-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201022-VANILLA.zip", 
+            "changelog": "- Switched to EAS\r\n- Predator StormBreaker X3.9 EAS Kernel as default\r\n- Adjusted powerhint for lavender\r\n- QSPanel Columns and Rows set to 2x4 my default\r\n- Perfd stack from taimen\r\n- Resolved some audio denials\r\n- Addressed some missing manifest entries\r\n- Added XiaomiDoze\r\n- Added Dirac", 
+            "date": "2020-10-29", 
+            "datetime": "20201029", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201029-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201029-VANILLA.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "2b9c1456a311a6bfc3cee9eb2d20fd861403bc897bdd9dc6fd6d477109cc03f6", 
-            "size": "851443628", 
+            "sha256": "cd80e223b44a097084ad6a177ad6c6ae127a6ca89b3d840132797ab8a2340bb0", 
+            "size": "856568898", 
             "type": "community", 
             "version": "v11.0"
         }
