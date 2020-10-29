@@ -113,16 +113,16 @@
     ], 
     "mido": [
         {
-            "changelog": "- Initial build", 
-            "date": "2020-10-26", 
-            "datetime": "20201026", 
-            "filename": "Arrow-v11.0-mido-OFFICIAL-20201026-VANILLA.zip", 
-            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201026-VANILLA.zip", 
+            "changelog": "- Enabled call recording option for dialer.", 
+            "date": "2020-10-29", 
+            "datetime": "20201029", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20201029-VANILLA.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201029-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi Note 4", 
             "oem": "Xiaomi", 
-            "sha256": "3943947ab2486c5665fbab79de24e42350ad5b3e32da15d56de6269887022a21", 
-            "size": "637761594", 
+            "sha256": "d111e3597770021e4509757b58e278d91c5122f286174e92923708a89b5ef3bf", 
+            "size": "642897570", 
             "type": "official", 
             "version": "v11.0"
         }
