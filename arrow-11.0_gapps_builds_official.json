@@ -145,16 +145,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Fix SafetyNet Pass (new method)\r\n- Switch R AIDL QCOM PowerHAL\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
-            "date": "2020-10-22", 
-            "datetime": "20201022", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201022-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201022-GAPPS.zip", 
+            "changelog": "- Sepolicy: Address denials\r\n- Fixed cacert crash\r\n- Bring back telephony-ext\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+            "date": "2020-10-30", 
+            "datetime": "20201030", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201030-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201030-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "259367e479aec74ccad38a4aad7a00fb6a8f0decec4b31c2fb61527d43b21cb7", 
-            "size": "1082776375", 
+            "sha256": "b3d36b2fa40c058371f915909f3ea07212da161d27ae2a03058349b292c6513a", 
+            "size": "1143542730", 
             "type": "official", 
             "version": "v11.0"
         }
