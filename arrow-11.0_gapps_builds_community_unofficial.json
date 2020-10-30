@@ -1,16 +1,16 @@
 {
     "jasmine_sprout": [
         {
-            "changelog": "Try fix for dtw2  and hotspot", 
-            "date": "2020-10-28", 
-            "datetime": "20201028", 
-            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201028-GAPPS.zip", 
-            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201028-GAPPS.zip", 
+            "changelog": "fix for hotspot and enable live blur and some cam stuff and fix for dt2w and add TWRP and whatsapp web scanner", 
+            "date": "2020-10-30", 
+            "datetime": "20201030", 
+            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201030-GAPPS.zip", 
+            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201030-GAPPS.zip", 
             "maintainer": "Immanuel_Raj", 
             "model": "Mi A2", 
             "oem": "Xiaomi", 
-            "sha256": "b6d3848fa67ec4d0295f30ac59db6968336c2bbdd594fd0d563496c31e69e31d", 
-            "size": "972528067", 
+            "sha256": "27db1226f7032191ac2be8440cddffa22429338eb8fe9ac3a423cb6a83f2682b", 
+            "size": "972377479", 
             "type": "community", 
             "version": "v11.0"
         }
