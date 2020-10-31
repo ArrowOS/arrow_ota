@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Added dynamic thermal profiles\r\n- Added motor calibration\r\n- Fixed low microphone volume on some apps\r\n- Upstreamed the kernel to Linux 4.14.202\r\n\r\nNotes:\r\n- Recommended firmware is MIUI V12.0.5.0.QFJMIXM", 
-            "date": "2020-10-30", 
-            "datetime": "20201030", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201030-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201030-VANILLA.zip", 
+            "changelog": "Notes:\r\n- Recommended firmware is MIUI V12.0.5.0.QFJMIXM", 
+            "date": "2020-10-31", 
+            "datetime": "20201031", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201031-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201031-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "6e878d8ad99ac45c1fd470fd14b26261fd44725eaaecf5fa92c94477eebb14d1", 
-            "size": "965042948", 
+            "sha256": "8a2b1f28a938570425787943ca40ad06dfc3fcfb14d3fc48fb50387c16685f90", 
+            "size": "965646166", 
             "type": "unofficial", 
             "version": "v11.0"
         }
