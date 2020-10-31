@@ -207,6 +207,22 @@
             "version": "v11.0"
         }
     ], 
+    "violet": [
+        {
+            "changelog": "-Initial Build\r\n\r\nNote:\r\n- Build is Decrypted by default.\r\n- Clean flash needed", 
+            "date": "2020-10-31", 
+            "datetime": "20201031", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201031-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201031-GAPPS.zip", 
+            "maintainer": "Aftab Ashrafi", 
+            "model": "Redmi Note 7 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "9a114fa675b9230ab0c73516e9912428df69f8776a3c298a3c4304d81f502f58", 
+            "size": "1129702846", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "whyred": [
         {
             "changelog": "- Add back mac randomization support\r\n- Revert overlay for using 3x4 qs tiles by default\r\n- Fixed chrome fc/stutter issues\r\n- Misc changes", 
