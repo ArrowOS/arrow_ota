@@ -15,6 +15,22 @@
             "version": "v11.0"
         }
     ], 
+    "cheeseburger": [
+        {
+            "changelog": null, 
+            "date": "2020-10-31", 
+            "datetime": "20201031", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20201031-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20201031-VANILLA.zip", 
+            "maintainer": "Bauuuuu", 
+            "model": "ONEPLUS A5000", 
+            "oem": "OnePlus", 
+            "sha256": "38a68e1b0beaa7bf7cecc4be06f7752d4c435058908336d00f73657d769e844a", 
+            "size": "847737148", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "- Added dynamic thermal profiles\r\n- Added motor calibration\r\n- Fixed low microphone volume on some apps\r\n- Upstreamed the kernel to Linux 4.14.202\r\n\r\nNotes:\r\n- Recommended firmware is MIUI V12.0.5.0.QFJMIXM", 
