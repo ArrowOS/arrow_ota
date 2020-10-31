@@ -130,15 +130,15 @@
     "oneplus3": [
         {
             "changelog": "- Fixed NFC\r\n- Uprev Few Hals\r\n- Added Few WiFi Overlay", 
-            "date": "2020-10-29", 
-            "datetime": "20201029", 
-            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201029-VANILLA.zip", 
-            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201029-VANILLA.zip", 
+            "date": "2020-10-31", 
+            "datetime": "20201031", 
+            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201031-VANILLA.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201031-VANILLA.zip", 
             "maintainer": "Gaurav24", 
             "model": "arrow_oneplus3", 
             "oem": "OnePlus", 
-            "sha256": "90494cfae67d030a76d935cae0ce9e7da20361f966adb054ebb501655ee9234f", 
-            "size": "653442683", 
+            "sha256": "6f602d06ee998af210a2978f3076fd89d79518e2a6a7f88176bf0dd4a3de27d8", 
+            "size": "714276888", 
             "type": "official", 
             "version": "v11.0"
         }
