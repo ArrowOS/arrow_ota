@@ -209,16 +209,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Add overlays for call recording support\r\n- Use 3x4 qs tiles by default\r\n- Add back Dirac\r\n- Use device specific data-ipa-cfg-mgr and merge LA.UM.8.1.r1-14500-sm8150.0 caf tag into it\r\n- Kernel upstreamed to Linux version 4.4.241\r\n- Some misc changes and upstreams", 
-            "date": "2020-10-29", 
-            "datetime": "20201029", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201029-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201029-VANILLA.zip", 
+            "changelog": "- Add back mac randomization support\r\n- Revert overlay for using 3x4 qs tiles by default\r\n- Fixed chrome fc/stutter issues\r\n- Misc changes", 
+            "date": "2020-10-31", 
+            "datetime": "20201031", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201031-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201031-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "9e63c78d7f037c4467cef6f008f6e6c7ebdb9985a9acfe70c6d84a3600564e47", 
-            "size": "709632113", 
+            "sha256": "f9ac9f83cc84aa41ff71e12867a3b46b6c8a2bab7ba8f86f1cee959081a8f32e", 
+            "size": "770376682", 
             "type": "official", 
             "version": "v11.0"
         }
