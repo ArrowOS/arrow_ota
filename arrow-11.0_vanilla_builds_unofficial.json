@@ -175,6 +175,22 @@
             "version": "v11.0"
         }
     ], 
+    "violet": [
+        {
+            "changelog": null, 
+            "date": "2020-10-31", 
+            "datetime": "20201031", 
+            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201031-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201031-VANILLA.zip", 
+            "maintainer": "Aftab Ashrafi", 
+            "model": "Redmi Note 7 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "a3fe5f42483ce4294c8528ad48459f335855a377e36a27c432abee5086127c0d", 
+            "size": "917113784", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "whyred": [
         {
             "changelog": "- test build \r\n- fix qs issues(needs testing)", 
