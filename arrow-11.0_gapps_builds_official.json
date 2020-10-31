@@ -145,16 +145,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Sepolicy: Address denials\r\n- Fixed cacert crash\r\n- Bring back telephony-ext\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
-            "date": "2020-10-30", 
-            "datetime": "20201030", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201030-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201030-GAPPS.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+            "date": "2020-10-31", 
+            "datetime": "20201031", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201031-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201031-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "b3d36b2fa40c058371f915909f3ea07212da161d27ae2a03058349b292c6513a", 
-            "size": "1143542730", 
+            "sha256": "b4a6be9cc8f735e2ccc7b462d0c5d9022e4e6de7dc6b25da87c32b7931c73f9d", 
+            "size": "1205116074", 
             "type": "official", 
             "version": "v11.0"
         }
