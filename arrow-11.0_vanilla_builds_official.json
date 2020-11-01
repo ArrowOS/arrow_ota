@@ -226,15 +226,15 @@
     "whyred": [
         {
             "changelog": "- Add back mac randomization support\r\n- Revert overlay for using 3x4 qs tiles by default\r\n- Fixed chrome fc/stutter issues\r\n- Misc changes", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201031-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201031-VANILLA.zip", 
+            "date": "2020-11-01", 
+            "datetime": "20201101", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201101-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201101-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "f9ac9f83cc84aa41ff71e12867a3b46b6c8a2bab7ba8f86f1cee959081a8f32e", 
-            "size": "770376682", 
+            "sha256": "4aee68b2c8adeb28f3b13fc0d272cd86f929a4a6a26222bd4dfa0a41582e89b3", 
+            "size": "770231126", 
             "type": "official", 
             "version": "v11.0"
         }
