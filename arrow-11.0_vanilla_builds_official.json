@@ -193,16 +193,16 @@
     ], 
     "sanders": [
         {
-            "changelog": "-", 
-            "date": "2020-10-20", 
-            "datetime": "20201020", 
-            "filename": "Arrow-v11.0-sanders-OFFICIAL-20201020-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20201020-VANILLA.zip", 
+            "changelog": "test biometric sensors\r\nrecovery shot too\r\ncheck encryption\r\noffline charging", 
+            "date": "2020-11-01", 
+            "datetime": "20201101", 
+            "filename": "Arrow-v11.0-sanders-OFFICIAL-20201101-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20201101-VANILLA.zip", 
             "maintainer": "Ashwatthama", 
             "model": "Moto G (5S) Plus", 
             "oem": "motorola", 
-            "sha256": "ed21eebb220cd04779c04e46a0d06d774f6a0586fa6337825988cbb9a5b5a868", 
-            "size": "666663575", 
+            "sha256": "a9d38b9444ba0f4090a589c085890972b9ab548db1be7f84607da11642b5902c", 
+            "size": "737872904", 
             "type": "official", 
             "version": "v11.0"
         }
