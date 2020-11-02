@@ -207,6 +207,22 @@
             "version": "v10.0"
         }
     ], 
+    "lmi": [
+        {
+            "changelog": "- First Official Build", 
+            "date": "2020-11-02", 
+            "datetime": "20201102", 
+            "filename": "Arrow-v10.0-lmi-OFFICIAL-20201102-VANILLA.zip", 
+            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-OFFICIAL-20201102-VANILLA.zip", 
+            "maintainer": "TH779, lamp216", 
+            "model": "POCO F2 PRO", 
+            "oem": "POCO", 
+            "sha256": "c20e0edcf6751c5793586c24dbc8041aba48f99862426e6d00ee1af63bca97a8", 
+            "size": "600470994", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "miatoll": [
         {
             "changelog": "\u2022 Kernel upstreamed to 4.14.200\r\n\u2022 Merged tag LA.UM.8.9.r1-10600-SM6xx.0 treewide \r\n\u2022 Fixed selfie portrait crash in ANXCamera\r\n\u2022 Fixed watermark for Poco M2 Pro in ANXCamera\r\n\u2022 Fixed KCAL (no night light toggling needed now)\r\n\u2022 Rearranged XiaomiParts Preference\r\n\u2022 Improved XiaomiParts dashboard icon\r\n\u2022 Added PixelLiveWallpapers\r\n\u2022 Added Moto Dolby\r\n\u2022 Set correct punch hole overlays", 
