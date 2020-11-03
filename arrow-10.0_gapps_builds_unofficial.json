@@ -47,6 +47,22 @@
             "version": "v10.0"
         }
     ], 
+    "miatoll": [
+        {
+            "changelog": null, 
+            "date": "2020-11-03", 
+            "datetime": "20201103", 
+            "filename": "Arrow-v10.0-miatoll-UNOFFICIAL-20201103-GAPPS.zip", 
+            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-UNOFFICIAL-20201103-GAPPS.zip", 
+            "maintainer": "SonalSingh18", 
+            "model": "SM6250", 
+            "oem": "Xiaomi", 
+            "sha256": "dde634f16bbf78fe176d185537cef16f6d18d401bb02012f989fb2936b8ef84f", 
+            "size": "1510531999", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
+    ], 
     "phoenix": [
         {
             "changelog": "- Misc fixes and upstream changes.", 
