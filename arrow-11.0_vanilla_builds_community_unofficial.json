@@ -1,16 +1,16 @@
 {
     "jasmine_sprout": [
         {
-            "changelog": "Test upstream kernel  Build test wfd/xiaomiparts", 
-            "date": "2020-11-02", 
-            "datetime": "20201102", 
-            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201102-VANILLA.zip", 
-            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201102-VANILLA.zip", 
+            "changelog": "Test new kernel tag", 
+            "date": "2020-11-03", 
+            "datetime": "20201103", 
+            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201103-VANILLA.zip", 
+            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201103-VANILLA.zip", 
             "maintainer": "Immanuel_Raj", 
             "model": "Mi A2", 
             "oem": "Xiaomi", 
-            "sha256": "b401c3ed5b0ce5e1854b8b5cd071bc1958808b8a3457dfc9e51bb4e921524791", 
-            "size": "1041449082", 
+            "sha256": "7f7dafa3d23c07a81c2abe487d5727e37efcfe0ca93f425b4adea3dd260dd4df", 
+            "size": "1041450218", 
             "type": "community", 
             "version": "v11.0"
         }
