@@ -129,16 +129,16 @@
     ], 
     "oneplus3": [
         {
-            "changelog": "- Fixed NFC\r\n- Uprev Few Hals\r\n- Added Few WiFi Overlay", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201031-VANILLA.zip", 
-            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201031-VANILLA.zip", 
+            "changelog": "- AliPay and We Chat Support\r\n- Uprev Few Hals\r\n- Call Recording Added\r\n- Encryption Supported\r\n- Added Few Camera Shims", 
+            "date": "2020-11-05", 
+            "datetime": "20201105", 
+            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201105-VANILLA.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201105-VANILLA.zip", 
             "maintainer": "Gaurav24", 
             "model": "arrow_oneplus3", 
             "oem": "OnePlus", 
-            "sha256": "6f602d06ee998af210a2978f3076fd89d79518e2a6a7f88176bf0dd4a3de27d8", 
-            "size": "714276888", 
+            "sha256": "460ecc547539f8a715f4996eabeca6189ecda9026a6dc538417df6c53c295ca3", 
+            "size": "715119059", 
             "type": "official", 
             "version": "v11.0"
         }
