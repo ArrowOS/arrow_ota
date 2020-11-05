@@ -225,16 +225,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Add back mac randomization support\r\n- Revert overlay for using 3x4 qs tiles by default\r\n- Fixed chrome fc/stutter issues\r\n- Misc changes", 
-            "date": "2020-11-01", 
-            "datetime": "20201101", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201101-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201101-VANILLA.zip", 
+            "changelog": "- Fixed fingerprint sensor scanner  in 3rd party apps and banking apps\r\n- Merge LA.UM.8.2.r2-03000-sdm660.0 caf tag into the kernel\r\n- Msm: performance: Prevent the driver from handling userspace min freq CPU boost hints\r\n- Soc: qcom: msm_perf: Kill max freq handling too\r\n- Nuke UFSHCD \r\n- Disable msm8998 drivers\r\n- Kernel upstreams and more misc changes", 
+            "date": "2020-11-05", 
+            "datetime": "20201105", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201105-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201105-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "4aee68b2c8adeb28f3b13fc0d272cd86f929a4a6a26222bd4dfa0a41582e89b3", 
-            "size": "770231126", 
+            "sha256": "74a9a3cba14ebaa69f37124714b930448a0aed1caf7e55a033c01a7e46d2473c", 
+            "size": "769952626", 
             "type": "official", 
             "version": "v11.0"
         }
