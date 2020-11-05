@@ -145,16 +145,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201031-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201031-GAPPS.zip", 
+            "changelog": "- Sepolicy: Address denials\r\n- Add TetheringOverlay\r\n- Biometrics.fingerprint: Uprev to 2.2\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+            "date": "2020-11-05", 
+            "datetime": "20201105", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201105-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201105-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "b4a6be9cc8f735e2ccc7b462d0c5d9022e4e6de7dc6b25da87c32b7931c73f9d", 
-            "size": "1205116074", 
+            "sha256": "1ebedddccb36a5efdc797b813974512c7b7e828e727f064958dc9b2eed81c82d", 
+            "size": "1205595689", 
             "type": "official", 
             "version": "v11.0"
         }
