@@ -1,16 +1,16 @@
 {
     "beryllium": [
         {
-            "changelog": "- More upstream changes.", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201031-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201031-VANILLA.zip", 
+            "changelog": "- Sepolicy: Address denials\r\n- Add TetheringOverlay\r\n- Biometrics.fingerprint: Uprev to 2.2\r\n- Misc fixes and upstream changes.", 
+            "date": "2020-11-05", 
+            "datetime": "20201105", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201105-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201105-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "de7a6f6b671d7a55e4174bd9ad2ad53bc7abd2dc3652ea2d84e2f255bd4923f1", 
-            "size": "852093668", 
+            "sha256": "0547563a4fa5596e7a5f182d866811fd794849fe86a984a85309d6d5a6362895", 
+            "size": "852688651", 
             "type": "official", 
             "version": "v11.0"
         }
