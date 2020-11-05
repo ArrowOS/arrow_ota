@@ -161,16 +161,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201031-GAPPS.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201031-GAPPS.zip", 
+            "changelog": "- Sepolicy: Address denials\r\n- Add TetheringOverlay\r\n- Biometrics.fingerprint: Uprev to 2.2\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+            "date": "2020-11-05", 
+            "datetime": "20201105", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201105-GAPPS.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201105-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "0112bd10e5f55e1230680d7c10c061b59b42b2a63189e740e5c81061224260d7", 
-            "size": "1076490169", 
+            "sha256": "6a3e53db2dc1d17c3766233881a827fa3ee2dcbd1caab1642d7ec0ba08f49009", 
+            "size": "1076776661", 
             "type": "official", 
             "version": "v11.0"
         }
