@@ -193,16 +193,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "TEST BUILD\r\n- Exfat sd card fix (needs testing)", 
-            "date": "2020-11-01", 
-            "datetime": "20201101", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201101-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201101-VANILLA.zip", 
+            "changelog": "TEST BUILD\r\n- FPS on 3rd party apps", 
+            "date": "2020-11-05", 
+            "datetime": "20201105", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201105-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201105-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "0c95d4e9310774a7377f855549a9ee2cda43ddef790eb2254a29804fe14a6fb2", 
-            "size": "771017262", 
+            "sha256": "0d5394ba1d6646a5b971679000b960e52187794a3af0b2ba00bf188ce2b4b157", 
+            "size": "769667225", 
             "type": "unofficial", 
             "version": "v11.0"
         }
