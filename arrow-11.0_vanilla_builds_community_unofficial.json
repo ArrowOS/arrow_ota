@@ -1,16 +1,16 @@
 {
     "jasmine_sprout": [
         {
-            "changelog": "Call recording and some minor selinux stuff testing with night light too", 
-            "date": "2020-11-03", 
-            "datetime": "20201103", 
-            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201103-VANILLA.zip", 
-            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201103-VANILLA.zip", 
+            "changelog": "Call recording and encryption", 
+            "date": "2020-11-05", 
+            "datetime": "20201105", 
+            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201105-VANILLA.zip", 
+            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201105-VANILLA.zip", 
             "maintainer": "Immanuel_Raj", 
             "model": "Mi A2", 
             "oem": "Xiaomi", 
-            "sha256": "fad2abdf2da8d212282a5884fb2d8f6dc64c1279d05b6c587968734455b4de66", 
-            "size": "1041379643", 
+            "sha256": "18a7926df8004f891b9d2eea7d8f430b2e1b09a32a8a746555ba6f87e2cc5e6f", 
+            "size": "1041416819", 
             "type": "community", 
             "version": "v11.0"
         }
