@@ -33,16 +33,16 @@
     ], 
     "potter": [
         {
-            "changelog": "- Fixed random reboots while on low range of WiFi\r\n- Misc improvements and bug fixes", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-potter-COMMUNITY-20201031-VANILLA.zip", 
-            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201031-VANILLA.zip", 
+            "changelog": "- Misc improvements and bug fixes", 
+            "date": "2020-11-06", 
+            "datetime": "20201106", 
+            "filename": "Arrow-v11.0-potter-COMMUNITY-20201106-VANILLA.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201106-VANILLA.zip", 
             "maintainer": "aniket_jaiswal, kubersharma001, vinyas", 
             "model": "Moto G5 Plus", 
             "oem": "motorola", 
-            "sha256": "ae6db32b10beec2b1b5657ad94617b4b0672cead4b3c0401f500e0c57a0c7861", 
-            "size": "741227904", 
+            "sha256": "7d6afacab51806bffef666b4d24c44ca4d6f9b359a8dc19a207c56021087ff97", 
+            "size": "741219527", 
             "type": "community", 
             "version": "v11.0"
         }
