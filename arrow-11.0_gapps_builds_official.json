@@ -209,16 +209,16 @@
     ], 
     "violet": [
         {
-            "changelog": "-Initial Build\r\n\r\nNote:\r\n- Build is Decrypted by default.\r\n- Clean flash needed", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20201031-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201031-GAPPS.zip", 
+            "changelog": "- Fingerprint works in 3rd party apps\r\n- CTS should pass without Magisk\r\n- Call recording in AOSP Dialer\r\n- Adjust status bar icon padding on the lock screen\r\n- Turned off AOD as it is useless on LCD screens\r\n- Little cleanup", 
+            "date": "2020-11-06", 
+            "datetime": "20201106", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201106-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201106-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "9a114fa675b9230ab0c73516e9912428df69f8776a3c298a3c4304d81f502f58", 
-            "size": "1129702846", 
+            "sha256": "6cda630a5a6e439ccdaeb5bb286cfe371fa0ad940434c49ff6e304aebe323a7b", 
+            "size": "1129340666", 
             "type": "official", 
             "version": "v11.0"
         }
