@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Switched to EAS\r\n- Predator StormBreaker X3.9 EAS Kernel as default\r\n- Adjusted powerhint for lavender\r\n- QSPanel Columns and Rows set to 2x4 my default\r\n- Perfd stack from taimen\r\n- Resolved some audio denials\r\n- Addressed some missing manifest entries\r\n- Added XiaomiDoze\r\n- Added Dirac", 
-            "date": "2020-11-02", 
-            "datetime": "20201102", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201102-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201102-GAPPS.zip", 
+            "changelog": "- update to coral november FP\r\n- upstream with latest ArrowOS source\r\n- GPS Fix (Need to check)\r\n- Enable sys.use_fifo_ui prop", 
+            "date": "2020-11-06", 
+            "datetime": "20201106", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201106-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201106-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "02459d3d799bd30527a3defac0c6381fb79ee742a1c35d03e48dea13a30682a2", 
-            "size": "1129381895", 
+            "sha256": "1e943302f0cdc810b52acdd487b3bd21c96bcbcce40d61f8b20b9f4f6f5ae8fe", 
+            "size": "1129036124", 
             "type": "community", 
             "version": "v11.0"
         }
