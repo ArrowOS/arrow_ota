@@ -47,6 +47,22 @@
             "version": "v10.0"
         }
     ], 
+    "mido": [
+        {
+            "changelog": "-", 
+            "date": "2020-11-07", 
+            "datetime": "20201107", 
+            "filename": "Arrow-v10.0-mido-UNOFFICIAL-20201107-VANILLA.zip", 
+            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-UNOFFICIAL-20201107-VANILLA.zip", 
+            "maintainer": "Ganesh Varma, Giammarco Senatore", 
+            "model": "Redmi Note 4", 
+            "oem": "Xiaomi", 
+            "sha256": "bd2d44758b57eba5a3fdeea3dc2b74756f4e788aac7c4187e8439dbfdcbfce2e", 
+            "size": "709561999", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
+    ], 
     "potter": [
         {
             "changelog": "- fixup BT audio after sep ASB tag", 
