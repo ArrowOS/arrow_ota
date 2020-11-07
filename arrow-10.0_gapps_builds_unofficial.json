@@ -63,6 +63,22 @@
             "version": "v10.0"
         }
     ], 
+    "mido": [
+        {
+            "changelog": "-", 
+            "date": "2020-11-07", 
+            "datetime": "20201107", 
+            "filename": "Arrow-v10.0-mido-UNOFFICIAL-20201107-GAPPS.zip", 
+            "filepath": "/arrow-10.0/mido/Arrow-v10.0-mido-UNOFFICIAL-20201107-GAPPS.zip", 
+            "maintainer": "Ganesh Varma, Giammarco Senatore", 
+            "model": "Redmi Note 4", 
+            "oem": "Xiaomi", 
+            "sha256": "bfe4cff4d8058af77e3e8a8e76a3dd00b2665979d4ba119926b0dbe10410dbd1", 
+            "size": "868917074", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
+    ], 
     "phoenix": [
         {
             "changelog": "- Misc fixes and upstream changes.", 
