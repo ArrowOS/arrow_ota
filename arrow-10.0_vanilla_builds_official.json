@@ -322,15 +322,15 @@
     "raphael": [
         {
             "changelog": "- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware", 
-            "date": "2020-10-21", 
-            "datetime": "20201021", 
-            "filename": "Arrow-v10.0-raphael-OFFICIAL-20201021-VANILLA.zip", 
-            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20201021-VANILLA.zip", 
+            "date": "2020-11-08", 
+            "datetime": "20201108", 
+            "filename": "Arrow-v10.0-raphael-OFFICIAL-20201108-VANILLA.zip", 
+            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20201108-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "d7172529da4d2f908e082e286b890d5c4d8134f23757cdb47fc1c8d187741553", 
-            "size": "584009481", 
+            "sha256": "32d61ea7b12bcdccf88e1628fced3ff4ee0933f0f744730acd717011d7fab034", 
+            "size": "584975038", 
             "type": "official", 
             "version": "v10.0"
         }
