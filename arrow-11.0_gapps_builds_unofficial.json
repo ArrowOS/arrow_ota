@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "oneplus3": [
+        {
+            "changelog": "- AliPay and We Chat Support\r\n- Uprev Few Hals\r\n- Call Recording Added\r\n- Encryption Supported\r\n- Added Few Camera Shims", 
+            "date": "2020-11-09", 
+            "datetime": "20201109", 
+            "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20201109-GAPPS.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20201109-GAPPS.zip", 
+            "maintainer": "Gaurav24", 
+            "model": "arrow_oneplus3", 
+            "oem": "OnePlus", 
+            "sha256": "e52eafb392042b806cb21cd18efcc01fd75fd160fb8c820c1a148af2167e5ab1", 
+            "size": "929546701", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "perseus": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
