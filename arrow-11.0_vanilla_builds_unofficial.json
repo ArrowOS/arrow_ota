@@ -209,16 +209,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Update wifi drivers from LA.UM.7.2.r1-09400-sdm660.0 \r\n- Fixed Hotspot issues \r\n- Misc changes", 
-            "date": "2020-11-07", 
-            "datetime": "20201107", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201107-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201107-VANILLA.zip", 
+            "changelog": "- Exfat and Ntfs support", 
+            "date": "2020-11-09", 
+            "datetime": "20201109", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201109-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201109-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "ef2cca5df1d2f37cb6e90f3f7e75583e7be5a243992984676fc8c7746b62acfa", 
-            "size": "770076239", 
+            "sha256": "d5f596a4c389de3b3cc223d5f1a465000437bfa67052a7367f98cd307cd277e3", 
+            "size": "770188839", 
             "type": "unofficial", 
             "version": "v11.0"
         }
