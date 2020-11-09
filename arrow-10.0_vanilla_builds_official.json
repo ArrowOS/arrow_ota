@@ -177,16 +177,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- updated blobs from miui V12.0.2.0.QCOCNXM\r\n- display/graphics stack updated from CAF LA.UM.8.11.r1-04300-NICOBAR.0\r\n- kernel upstreamed to v4.14.199 and merged latest CAF tag\r\n- improved scheduler performance\r\n- switched to fixed 2gb zram size\r\n- dedicated battery saver mode in kernel activated with android battery saver\r\n- fixed kcal requiring night light toggle to reflect changes\r\n- added usb force fast charge support in kernel", 
-            "date": "2020-10-02", 
-            "datetime": "20201002", 
-            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20201002-VANILLA.zip", 
-            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20201002-VANILLA.zip", 
+            "changelog": "- fixed deepsleep with BT on\r\n- enabled zygote preforking (USAP pool)\r\n- kernel upstreamed to v4.14.203\r\n- merged LA.UM.8.1.r1-16200-sm8150.0 CAF tag\r\n- scheduler improvements and other fixes", 
+            "date": "2020-11-09", 
+            "datetime": "20201109", 
+            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20201109-VANILLA.zip", 
+            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20201109-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "96de1caddf5bdaf373ecbcc4354dcf5dfb8512eb3d2d80c987b5b44403b75785", 
-            "size": "823123369", 
+            "sha256": "68f058034dff5a883260b8f2e45204e83b539d135b147328ecc1687fbf205ba4", 
+            "size": "820228541", 
             "type": "official", 
             "version": "v10.0"
         }
