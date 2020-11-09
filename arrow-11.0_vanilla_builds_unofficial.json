@@ -209,7 +209,7 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Exfat and Ntfs support", 
+            "changelog": "- Exfat support", 
             "date": "2020-11-09", 
             "datetime": "20201109", 
             "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201109-VANILLA.zip", 
@@ -217,8 +217,8 @@
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "d5f596a4c389de3b3cc223d5f1a465000437bfa67052a7367f98cd307cd277e3", 
-            "size": "770188839", 
+            "sha256": "798916347d6df63bcb1fb82e34466a035ce8b2ca6d91a437e6808bac5a5f5e5f", 
+            "size": "770049145", 
             "type": "unofficial", 
             "version": "v11.0"
         }
