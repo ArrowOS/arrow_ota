@@ -258,15 +258,15 @@
     "perseus": [
         {
             "changelog": "- Misc fixes and upstream changes.", 
-            "date": "2020-10-02", 
-            "datetime": "20201002", 
-            "filename": "Arrow-v10.0-perseus-OFFICIAL-20201002-GAPPS.zip", 
-            "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20201002-GAPPS.zip", 
-            "maintainer": "joelh", 
+            "date": "2020-11-09", 
+            "datetime": "20201109", 
+            "filename": "Arrow-v10.0-perseus-OFFICIAL-20201109-GAPPS.zip", 
+            "filepath": "/arrow-10.0/perseus/Arrow-v10.0-perseus-OFFICIAL-20201109-GAPPS.zip", 
+            "maintainer": "joelh, palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "89b815662913a7868b2e7b0f0666a3c3f4c989c9aaef0174596c8e1b64ebf078", 
-            "size": "1079703770", 
+            "sha256": "4040620e853cb10102e2e3ca33cf370b8e54f87aa1c0fd59fce0b6d1b674989b", 
+            "size": "1078066516", 
             "type": "official", 
             "version": "v10.0"
         }
