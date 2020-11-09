@@ -129,16 +129,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Fixed USB OTG issues\r\n\r\nNotes: \r\n- Minimum firmware is MIUI V12.0.2.0 Global\r\n- Do not flash any custom kernel unless it uses new led nodes", 
-            "date": "2020-10-02", 
-            "datetime": "20201002", 
-            "filename": "Arrow-v10.0-davinci-OFFICIAL-20201002-VANILLA.zip", 
-            "filepath": "/arrow-10.0/davinci/Arrow-v10.0-davinci-OFFICIAL-20201002-VANILLA.zip", 
+            "changelog": "- Minimum firmware is MIUI V12.0.2.0 Global", 
+            "date": "2020-11-09", 
+            "datetime": "20201109", 
+            "filename": "Arrow-v10.0-davinci-OFFICIAL-20201109-VANILLA.zip", 
+            "filepath": "/arrow-10.0/davinci/Arrow-v10.0-davinci-OFFICIAL-20201109-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "230061b71f5766f18018a3e5aa536b5b95f298a26f53149c40f5f63f11fa527d", 
-            "size": "873131930", 
+            "sha256": "723e8088a8b0fda746ad886f1eeef61a76f29313e6aebf88d67cc30f4015d245", 
+            "size": "874159680", 
             "type": "official", 
             "version": "v10.0"
         }
