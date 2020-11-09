@@ -1,16 +1,16 @@
 {
     "deen": [
         {
-            "changelog": "- Boeffla_wl_blocker added\r\n- Relax CPU latency requirements to save power\r\n- Changed Lawnchair Launcher to AOSP Launcher\r\n- Changed boot animation res to 720\r\n- Updated ZRAM size", 
-            "date": "2020-10-04", 
-            "datetime": "20201004", 
-            "filename": "Arrow-v10.0-deen-COMMUNITY-20201004-GAPPS.zip", 
-            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20201004-GAPPS.zip", 
-            "maintainer": "ZimekXD", 
+            "changelog": null, 
+            "date": "2020-11-09", 
+            "datetime": "20201109", 
+            "filename": "Arrow-v10.0-deen-COMMUNITY-20201109-GAPPS.zip", 
+            "filepath": "/arrow-10.0/deen/Arrow-v10.0-deen-COMMUNITY-20201109-GAPPS.zip", 
+            "maintainer": "ZimekOnTheDeen", 
             "model": "Motorola One", 
             "oem": "motorola", 
-            "sha256": "cfa784c136cb1072ee651a2cb8dcfb4a89e05fa455f816f755934bb81e2cb37e", 
-            "size": "853279318", 
+            "sha256": "1795b107f46d5f0ded098a11d37c378785412fded8cd286efb1d08b1782fbb52", 
+            "size": "793727768", 
             "type": "community", 
             "version": "v10.0"
         }
