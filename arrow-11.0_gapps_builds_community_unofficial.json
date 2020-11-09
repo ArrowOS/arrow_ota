@@ -18,15 +18,15 @@
     "lavender": [
         {
             "changelog": "- update to coral november FP\r\n- upstream with latest ArrowOS source\r\n- GPS Fix (Need to check)\r\n- Enable sys.use_fifo_ui prop", 
-            "date": "2020-11-06", 
-            "datetime": "20201106", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201106-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201106-GAPPS.zip", 
+            "date": "2020-11-09", 
+            "datetime": "20201109", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201109-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201109-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "1e943302f0cdc810b52acdd487b3bd21c96bcbcce40d61f8b20b9f4f6f5ae8fe", 
-            "size": "1129036124", 
+            "sha256": "3d67869e9c1679c986136ee04ee53f0816047f698665d228932f6908af18a245", 
+            "size": "1130552289", 
             "type": "community", 
             "version": "v11.0"
         }
