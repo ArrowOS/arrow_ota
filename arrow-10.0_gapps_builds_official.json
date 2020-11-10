@@ -209,16 +209,16 @@
     ], 
     "lmi": [
         {
-            "changelog": "- First Official Build", 
-            "date": "2020-11-02", 
-            "datetime": "20201102", 
-            "filename": "Arrow-v10.0-lmi-OFFICIAL-20201102-GAPPS.zip", 
-            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-OFFICIAL-20201102-GAPPS.zip", 
+            "changelog": "- dirty flash is broken, be aware of this for updating", 
+            "date": "2020-11-10", 
+            "datetime": "20201110", 
+            "filename": "Arrow-v10.0-lmi-OFFICIAL-20201110-GAPPS.zip", 
+            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-OFFICIAL-20201110-GAPPS.zip", 
             "maintainer": "TH779, lamp216", 
             "model": "POCO F2 PRO", 
             "oem": "POCO", 
-            "sha256": "7e770db628ce95a904450ad521273687b37d737cc2b4a9fbe36bdabbb2e3a212", 
-            "size": "762255564", 
+            "sha256": "b51e1bc03ba311626e471eaa3e1aef7945c2ea4773e95ef3e7dae70801050fa6", 
+            "size": "762228098", 
             "type": "official", 
             "version": "v10.0"
         }
