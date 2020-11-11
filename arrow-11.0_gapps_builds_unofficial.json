@@ -81,16 +81,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Upstreamed kernel to 4.14.203\r\n\u2022 Fixed Call recording in stock dialer\r\n\u2022 Update to coral november build fp", 
-            "date": "2020-11-05", 
-            "datetime": "20201105", 
-            "filename": "Arrow-v11.0-miatoll-UNOFFICIAL-20201105-GAPPS.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-UNOFFICIAL-20201105-GAPPS.zip", 
+            "changelog": "\u2022 Upstreamed kernel to 4.14.204\r\n\u2022 Fixed Call recording in stock dialer\r\n\u2022 Update to coral november build fp", 
+            "date": "2020-11-11", 
+            "datetime": "20201111", 
+            "filename": "Arrow-v11.0-miatoll-UNOFFICIAL-20201111-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-UNOFFICIAL-20201111-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "9a7cd3a0fb270864714cdedf9ecc649c5c3bbbdd33b970b9859e72b0065a4210", 
-            "size": "1311442822", 
+            "sha256": "e46ddb65809e3b0a2f2b5a8cb21f2a5bc5e2570fb4fcfa319bd6845d1d826248", 
+            "size": "1315931194", 
             "type": "unofficial", 
             "version": "v11.0"
         }
