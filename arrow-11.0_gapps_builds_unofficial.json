@@ -97,17 +97,17 @@
     ], 
     "mido": [
         {
-            "changelog": "- Enabled call recording option for dialer.", 
-            "date": "2020-11-04", 
-            "datetime": "20201104", 
-            "filename": "Arrow-v11.0-mido-UNOFFICIAL-20201104-GAPPS.zip", 
-            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-UNOFFICIAL-20201104-GAPPS.zip", 
+            "changelog": "- Enabled call recording option for dialer.\r\n- Fixed Hotspot tethering\r\n- Fixed Bluetooth Calling audio", 
+            "date": "2020-11-11", 
+            "datetime": "20201111", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20201111-GAPPS.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201111-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi Note 4", 
             "oem": "Xiaomi", 
-            "sha256": "dd5942a538df911cfa4843a41e6e9b94ed9cad9bb420a5f718f5c522b15bb631", 
-            "size": "914714625", 
-            "type": "unofficial", 
+            "sha256": "e49ebb13ffa472b7cc01fd46f3806eb66740b6edcca3adbbc30628da41c749af", 
+            "size": "916321651", 
+            "type": "official", 
             "version": "v11.0"
         }
     ], 
