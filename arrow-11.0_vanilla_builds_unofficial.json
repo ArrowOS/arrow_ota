@@ -146,15 +146,15 @@
     "raphael": [
         {
             "changelog": "- SELinux is enforcing\r\n- Misc changes and fixes\r\n\r\nNote:\r\n- Requires the latest MIUI Q vendor and firmware.", 
-            "date": "2020-11-04", 
-            "datetime": "20201104", 
-            "filename": "Arrow-v11.0-raphael-UNOFFICIAL-20201104-VANILLA.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-UNOFFICIAL-20201104-VANILLA.zip", 
+            "date": "2020-11-11", 
+            "datetime": "20201111", 
+            "filename": "Arrow-v11.0-raphael-UNOFFICIAL-20201111-VANILLA.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-UNOFFICIAL-20201111-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "15596aa09c647694fa493340d5e237ea69f54d0789914467374d78565641365e", 
-            "size": "685884125", 
+            "sha256": "20e202f87829487b42f6626812029e20c7ca1e969974d036ce696df88cbbab78", 
+            "size": "682759758", 
             "type": "unofficial", 
             "version": "v11.0"
         }
