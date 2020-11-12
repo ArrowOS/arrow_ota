@@ -225,16 +225,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Exfat support", 
-            "date": "2020-11-09", 
-            "datetime": "20201109", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201109-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201109-VANILLA.zip", 
+            "changelog": "TEST BUILD\r\n- Whatsapp QR bug (Needs testing)\r\n- Added exfat and ntfs sd card support\r\n- Misc changes", 
+            "date": "2020-11-12", 
+            "datetime": "20201112", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201112-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201112-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "798916347d6df63bcb1fb82e34466a035ce8b2ca6d91a437e6808bac5a5f5e5f", 
-            "size": "770049145", 
+            "sha256": "750e3c3a86f5df57a99483d8453a4e74255560d5af2ecdce1fa789120eaba119", 
+            "size": "770705989", 
             "type": "unofficial", 
             "version": "v11.0"
         }
