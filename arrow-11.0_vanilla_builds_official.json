@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "Fixed hotspot\r\n\r\nNotes:\r\n- Recommended firmware is MIUI V12.0.5.0.QFJMIXM", 
-            "date": "2020-10-31", 
-            "datetime": "20201031", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201031-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201031-VANILLA.zip", 
+            "changelog": "Updated blobs from MIUI 20.10.30 (Android 11)\r\nSwitched to QTI Bluetooth\r\nAdjusted biometric dialog for FOD\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20", 
+            "date": "2020-11-12", 
+            "datetime": "20201112", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201112-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201112-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "0463b9078a0ae942d80346559bbf5eb44adae6c4673323be4de7ee3e5cebd6b9", 
-            "size": "965734065", 
+            "sha256": "078ec2c79ddee61335a882ecd96b739982d7e176b3d989757efa9b6696370c61", 
+            "size": "972076955", 
             "type": "official", 
             "version": "v11.0"
         }
