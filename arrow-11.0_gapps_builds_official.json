@@ -225,16 +225,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Update wifi drivers from LA.UM.7.2.r1-09400-sdm660.0 \r\n- Fixed Hotspot issues \r\n- Misc changes", 
-            "date": "2020-11-07", 
-            "datetime": "20201107", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201107-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201107-GAPPS.zip", 
+            "changelog": "- Fixed Whatsapp QR Scanner bug\r\n- Added exfat and ntfs sd card support\r\n- Misc changes", 
+            "date": "2020-11-12", 
+            "datetime": "20201112", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201112-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201112-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "e1b0cecd462910d6f31dee7d2759fce8d108b9764c40faec993849d2f69beb7f", 
-            "size": "981366349", 
+            "sha256": "eff72e44732256def926d0db41c37aefd954237e02906907486bad9e975bb89e", 
+            "size": "982674766", 
             "type": "official", 
             "version": "v11.0"
         }
