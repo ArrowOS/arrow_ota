@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- update to coral november FP\r\n- upstream with latest ArrowOS source\r\n- GPS Fix (Need to check)\r\n- Enable sys.use_fifo_ui prop", 
-            "date": "2020-11-06", 
-            "datetime": "20201106", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201106-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201106-VANILLA.zip", 
+            "changelog": "- update sensor blobs", 
+            "date": "2020-11-13", 
+            "datetime": "20201113", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201113-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201113-VANILLA.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "a1b94ba9bdbe2c87bfdb741335a7e2dae4f46cc68aaae31851d3953e6fdcc97a", 
-            "size": "918447638", 
+            "sha256": "a9870169b9a33acab8e2891a3e3a782a237b8cba85d44415430b4eac463b4b05", 
+            "size": "919257133", 
             "type": "community", 
             "version": "v11.0"
         }
