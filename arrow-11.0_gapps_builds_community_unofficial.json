@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": null, 
-            "date": "2020-11-12", 
-            "datetime": "20201112", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201112-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201112-GAPPS.zip", 
+            "changelog": "- update sensor blobs\r\n- build thermal 2.0", 
+            "date": "2020-11-14", 
+            "datetime": "20201114", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201114-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201114-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "8bec55d7e585d21a0980470abd7c8f2eb8b14b2898174b6a232c3e597e437b1d", 
-            "size": "1131396539", 
+            "sha256": "ecab7126499f8655faf35834402390085ff88ad4c79007af97ec1993767da575", 
+            "size": "1130540638", 
             "type": "community", 
             "version": "v11.0"
         }
