@@ -17,7 +17,7 @@
     ], 
     "lavender": [
         {
-            "changelog": "- update sensor blobs\r\n- build thermal 2.0", 
+            "changelog": "- update sensor blobs\r\n- build new thermal 2.0\r\n- build new vibrator qti", 
             "date": "2020-11-14", 
             "datetime": "20201114", 
             "filename": "Arrow-v11.0-lavender-COMMUNITY-20201114-GAPPS.zip", 
@@ -25,8 +25,8 @@
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "ecab7126499f8655faf35834402390085ff88ad4c79007af97ec1993767da575", 
-            "size": "1130540638", 
+            "sha256": "35a4b63f7eded8289a4fc57fb5c84de7fa59d23906975a1f56a58937e8944c3e", 
+            "size": "1130364451", 
             "type": "community", 
             "version": "v11.0"
         }
