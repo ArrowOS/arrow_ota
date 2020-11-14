@@ -65,17 +65,17 @@
     ], 
     "land": [
         {
-            "changelog": null, 
+            "changelog": "-", 
             "date": "2020-11-14", 
             "datetime": "20201114", 
-            "filename": "Arrow-v11.0-land-UNOFFICIAL-20201114-VANILLA.zip", 
-            "filepath": "/arrow-11.0/land/Arrow-v11.0-land-UNOFFICIAL-20201114-VANILLA.zip", 
+            "filename": "Arrow-v11.0-land-OFFICIAL-20201114-VANILLA.zip", 
+            "filepath": "/arrow-11.0/land/Arrow-v11.0-land-OFFICIAL-20201114-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "Redmi 3S", 
             "oem": "Xiaomi", 
-            "sha256": "289a407376c8a0690397e88ceec1fc51da03d24bb11cf901689417ab6bcc40d4", 
-            "size": "723840799", 
-            "type": "unofficial", 
+            "sha256": "b7533f460bd7f5226ad6ac3966d6d08cba1098d886626649e9f00bc2eabd507a", 
+            "size": "725368480", 
+            "type": "official", 
             "version": "v11.0"
         }
     ], 
