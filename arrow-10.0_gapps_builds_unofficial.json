@@ -49,16 +49,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": null, 
-            "date": "2020-11-03", 
-            "datetime": "20201103", 
-            "filename": "Arrow-v10.0-miatoll-UNOFFICIAL-20201103-GAPPS.zip", 
-            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-UNOFFICIAL-20201103-GAPPS.zip", 
+            "changelog": "\u2022 Upstreamed kernel to 4.14.204\r\n\u2022 Fixed call recording overlay\r\n\u2022 Updated Build FP to coral November", 
+            "date": "2020-11-14", 
+            "datetime": "20201114", 
+            "filename": "Arrow-v10.0-miatoll-UNOFFICIAL-20201114-GAPPS.zip", 
+            "filepath": "/arrow-10.0/miatoll/Arrow-v10.0-miatoll-UNOFFICIAL-20201114-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "dde634f16bbf78fe176d185537cef16f6d18d401bb02012f989fb2936b8ef84f", 
-            "size": "1510531999", 
+            "sha256": "23465fd4b8e6e0d822ecb380f154f618ade542baec0a47be95d8e77e89321a93", 
+            "size": "1252379027", 
             "type": "unofficial", 
             "version": "v10.0"
         }
