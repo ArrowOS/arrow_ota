@@ -209,7 +209,7 @@
     ], 
     "violet": [
         {
-            "changelog": null, 
+            "changelog": "- Upstreamed Kernel.\r\n- Updated Gps, Ant, Radio, Cne, Qmi Blobs.\r\n- Fixed offline charging animation.\r\n- Boosted Audio output, added mixer controls, switched to 24-bit playback, increased mic gain, and many more.\r\n- Few graphics changes.\r\n- Too many under the hood changes.", 
             "date": "2020-11-16", 
             "datetime": "20201116", 
             "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201116-VANILLA.zip", 
@@ -217,8 +217,8 @@
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "0ad0fa0d9122d0cf425adacef2b2a3f2b5ca86e2636ae3f561cb391b87157b61", 
-            "size": "920751040", 
+            "sha256": "01f578595c2bd55b2d3f335ef5f0c81cb02857bf17728ca4f280f1266b98fedd", 
+            "size": "920362883", 
             "type": "unofficial", 
             "version": "v11.0"
         }
