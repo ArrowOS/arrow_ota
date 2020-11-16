@@ -1,4 +1,32 @@
 {
+  "miatoll": [
+    {
+      "changelog": null, 
+      "maintainer": "SonalSingh18", 
+      "model": "SM6250", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-miatoll-UNOFFICIAL-20201116-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-UNOFFICIAL-20201116-GAPPS.zip", 
+                  "sha256": "8a16d46a4a54c725c840c72d1ff37a70939ccfa7b04108b2e084c394d4948d96", 
+                  "size": "1316357066", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "mido": [
     {
       "changelog": null, 
