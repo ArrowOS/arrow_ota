@@ -1,4 +1,32 @@
 {
+  "lavender": [
+    {
+      "changelog": "- update sensor blobs\r\n- build new thermal 2.0\r\n- build new vibrator qti\r\n- exfat support added", 
+      "maintainer": "Hazama25, ak940s", 
+      "model": "Redmi Note 7", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201116-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201116-GAPPS.zip", 
+                  "sha256": "1956e6715bdaa760646af928473a911a314eefa4dae809550dd646d15d80022e", 
+                  "size": "1131113343", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "miatoll": [
     {
       "changelog": null, 
