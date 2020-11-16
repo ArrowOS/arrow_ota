@@ -121,6 +121,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201116-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201116-GAPPS.zip", 
+                  "sha256": "54b9e9b32232de8731458b9946054b348b4677bac1b7c23cf78b5b5679722697", 
+                  "size": "1133684417", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-16", 
