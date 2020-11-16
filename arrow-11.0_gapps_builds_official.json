@@ -225,16 +225,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Fixed Whatsapp QR Scanner bug\r\n- Added exfat and ntfs sd card support\r\n- Misc changes", 
-            "date": "2020-11-12", 
-            "datetime": "20201112", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201112-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201112-GAPPS.zip", 
+            "changelog": "- Linux Upstremed to 4.4.243\r\n- Upstream wireguard to 1.0.20201112 snapshot\r\n- Merged LA.UM.8.2.r2-03200-sdm660.0 caf tag into the kernel\r\n- Added multi anchor conference support\r\n- Update LPA interface version 1.1\r\n- Add IImsFactory and uceservice HAL entry\r\n- Grant rw permission to hgsl node\r\n- Update ueventd rules and init rc for new audio drivers\r\n- Set Netflix and media property based on target\r\n- Added Chinese Simplified for XiaomiDoze\r\n- Many more misc changes", 
+            "date": "2020-11-16", 
+            "datetime": "20201116", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201116-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201116-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "eff72e44732256def926d0db41c37aefd954237e02906907486bad9e975bb89e", 
-            "size": "982674766", 
+            "sha256": "5b8b16eec18ca3467272621bee9d6e6174a11856260d0113208251199141cab8", 
+            "size": "982839931", 
             "type": "official", 
             "version": "v11.0"
         }

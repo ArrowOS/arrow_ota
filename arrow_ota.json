@@ -229,6 +229,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20201116-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201116-GAPPS.zip", 
+                  "sha256": "5b8b16eec18ca3467272621bee9d6e6174a11856260d0113208251199141cab8", 
+                  "size": "982839931", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-16", 
