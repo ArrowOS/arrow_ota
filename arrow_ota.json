@@ -110,5 +110,33 @@
         }
       ]
     }
+  ], 
+  "violet": [
+    {
+      "changelog": null, 
+      "maintainer": "Aftab Ashrafi", 
+      "model": "Redmi Note 7 Pro", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201116-VANILLA.zip", 
+                  "sha256": "0ad0fa0d9122d0cf425adacef2b2a3f2b5ca86e2636ae3f561cb391b87157b61", 
+                  "size": "920751040", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
