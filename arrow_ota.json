@@ -111,6 +111,34 @@
       ]
     }
   ], 
+  "surya": [
+    {
+      "changelog": "- Initial build", 
+      "maintainer": "Ganesh Varma", 
+      "model": "POCO X3 NFC", 
+      "oem": "POCO", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20201116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201116-VANILLA.zip", 
+                  "sha256": "0f563d7d175ca5d542ef8d9b56a5137538a65821a33a43ec52232343b169a5c0", 
+                  "size": "667910824", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "violet": [
     {
       "changelog": "- Upstreamed Kernel.\r\n- Updated Gps, Ant, Radio, Cne, Qmi Blobs.\r\n- Fixed offline charging animation.\r\n- Boosted Audio output, added mixer controls, switched to 24-bit playback, increased mic gain, and many more.\r\n- Few graphics changes.\r\n- Too many under the hood changes.", 
