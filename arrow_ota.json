@@ -139,6 +139,34 @@
       ]
     }
   ], 
+  "oneplus3": [
+    {
+      "changelog": "- AliPay and We Chat Support\r\n- Uprev Few Hals\r\n- Call Recording Added\r\n- Encryption Supported\r\n- Added Few Camera Shims", 
+      "maintainer": "Gaurav24", 
+      "model": "arrow_oneplus3", 
+      "oem": "OnePlus", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201116-VANILLA.zip", 
+                  "sha256": "65b9a1483925d8bc9dc214a654b71be1b0dcdb265b7216822b755bbae602bf2c", 
+                  "size": "717118640", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "surya": [
     {
       "changelog": "- Initial build", 
