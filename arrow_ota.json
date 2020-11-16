@@ -1,4 +1,32 @@
 {
+  "davinci": [
+    {
+      "changelog": "Fixed FOD on AOD\r\nFixed Google Recorder\r\nUpdated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY from previous releases\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+      "maintainer": "daniml3", 
+      "model": "Mi 9T", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201116-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201116-GAPPS.zip", 
+                  "sha256": "d9c142e42b68358e12ed6b0b76076bcd26d3cc199f15d278f70f4c614e238ca8", 
+                  "size": "1184085707", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "lavender": [
     {
       "changelog": "- update sensor blobs\r\n- build new thermal 2.0\r\n- build new vibrator qti\r\n- exfat support added", 
