@@ -7,6 +7,22 @@
       "oem": "Xiaomi", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201116-VANILLA.zip", 
+                  "sha256": "243964dc93b74c1005d90da9f8aaacbb2dd4d4571341afa49d5e8ee39d7d589e", 
+                  "size": "972939269", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
