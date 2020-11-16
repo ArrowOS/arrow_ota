@@ -121,6 +121,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20201116-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201116-GAPPS.zip", 
+                  "sha256": "021487caf4459b1a3ca77c1b1b49d921b776d61ad9a5e78112e8f3015c7d1466", 
+                  "size": "881166281", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-16", 
