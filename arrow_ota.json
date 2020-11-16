@@ -172,6 +172,18 @@
                   "type": "official", 
                   "version": "v11.0"
                 }
+              ], 
+              "VANILLA": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-mido-OFFICIAL-20201116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201116-VANILLA.zip", 
+                  "sha256": "c2a7d72d232ed36fec0b15b62a6f09108c250b668f4f15b365735775bb009be1", 
+                  "size": "706194528", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
               ]
             }
           ]
