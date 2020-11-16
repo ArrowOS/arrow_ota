@@ -149,6 +149,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201116-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201116-GAPPS.zip", 
+                  "sha256": "1e7fd451c240116606ce45a054196385d82cea3155ea359da203d32dcfff64a6", 
+                  "size": "931547266", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-16", 
