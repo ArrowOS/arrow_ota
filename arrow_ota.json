@@ -1,4 +1,32 @@
 {
+  "beryllium": [
+    {
+      "changelog": "- Misc fixes and upstream changes.", 
+      "maintainer": "Ganesh Varma, kubersharma001", 
+      "model": "POCOPHONE F1", 
+      "oem": "POCO", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-16", 
+                  "datetime": "20201116", 
+                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201116-VANILLA.zip", 
+                  "sha256": "bf57a00a8e898ddb17df2df3986b3a5ca914b6f0bcaa009f64b88c712eba0062", 
+                  "size": "853601460", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "davinci": [
     {
       "changelog": "Fixed FOD on AOD\r\nFixed Google Recorder\r\nUpdated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY from previous releases\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
