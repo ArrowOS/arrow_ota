@@ -125,12 +125,28 @@
   ], 
   "miatoll": [
     {
-      "changelog": null, 
+      "changelog": "\u2022 Upstreamed kernel to 4.14.206\r\n\u2022 Rebased trees to be more oss now", 
       "maintainer": "SonalSingh18", 
       "model": "SM6250", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201117-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201117-VANILLA.zip", 
+                  "sha256": "3faaee50caad0c52d7e3b5af199239c3a53c148d86e89a9dfd02c8a5d0c10616", 
+                  "size": "1103165047", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
