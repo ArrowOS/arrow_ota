@@ -349,6 +349,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20201117-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20201117-GAPPS.zip", 
+                  "sha256": "5d05095bde090257268466578111c38be04e10801254b42cac1598d8d5be43e2", 
+                  "size": "896229864", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-17", 
