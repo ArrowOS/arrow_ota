@@ -193,16 +193,16 @@
     ], 
     "sanders": [
         {
-            "changelog": "Cake time", 
-            "date": "2020-11-07", 
-            "datetime": "20201107", 
-            "filename": "Arrow-v11.0-sanders-OFFICIAL-20201107-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20201107-VANILLA.zip", 
+            "changelog": "Fixed Offline Charging !", 
+            "date": "2020-11-17", 
+            "datetime": "20201117", 
+            "filename": "Arrow-v11.0-sanders-OFFICIAL-20201117-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20201117-VANILLA.zip", 
             "maintainer": "Ashwatthama", 
             "model": "Moto G (5S) Plus", 
             "oem": "motorola", 
-            "sha256": "654c33f58d70b357b29ad9174dc8fca10c9b270934d7589928c5610e67cce4d3", 
-            "size": "739127838", 
+            "sha256": "1ff53615300c4bcf0d9e570cd3b424a4a4e3cd8b0effcae1072192390d832f18", 
+            "size": "740855967", 
             "type": "official", 
             "version": "v11.0"
         }
