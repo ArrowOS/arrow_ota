@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- update sensor blobs", 
-            "date": "2020-11-13", 
-            "datetime": "20201113", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201113-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201113-GAPPS.zip", 
+            "changelog": "- update sensor blobs\r\n- build new thermal 2.0\r\n- build new vibrator qti\r\n- exfat support added", 
+            "date": "2020-11-17", 
+            "datetime": "20201117", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201117-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201117-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "8d944c539567a603c6f3010d08e2da0a0ca13e61819ae48cec178ef7137e4666", 
-            "size": "1131053370", 
+            "sha256": "b5149f341471eaff2671ab098080d4a3e626d6999b8b865ec8fc92551b441808", 
+            "size": "1131058132", 
             "type": "community", 
             "version": "v11.0"
         }
