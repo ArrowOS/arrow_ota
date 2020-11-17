@@ -39,6 +39,34 @@
       ]
     }
   ], 
+  "cheeseburger": [
+    {
+      "changelog": null, 
+      "maintainer": "Bauuuuu", 
+      "model": "ONEPLUS A5000", 
+      "oem": "OnePlus", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20201117-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20201117-VANILLA.zip", 
+                  "sha256": "ea4636eed39c46e24e410d8eb258e600dd0a4fab8ff33ea2d66e04eb4ca5762a", 
+                  "size": "849272982", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "davinci": [
     {
       "changelog": "Fixed FOD on AOD\r\nFixed Google Recorder\r\nUpdated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY from previous releases\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
