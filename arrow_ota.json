@@ -133,6 +133,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201117-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201117-GAPPS.zip", 
+                  "sha256": "5d67e2dcd89715b96ec5e335174709df3706a6f9bded783ba8a33051365219c9", 
+                  "size": "1317952512", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-17", 
