@@ -389,6 +389,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-sanders-OFFICIAL-20201117-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20201117-GAPPS.zip", 
+                  "sha256": "a7d3fbed1b5e8f3d27ff2650d36c7dee6147a0e217380bdd5255d233efc17cc1", 
+                  "size": "952118639", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-17", 
