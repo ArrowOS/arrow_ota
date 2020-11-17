@@ -130,15 +130,15 @@
     "oneplus3": [
         {
             "changelog": "- AliPay and We Chat Support\r\n- Uprev Few Hals\r\n- Call Recording Added\r\n- Encryption Supported\r\n- Added Few Camera Shims", 
-            "date": "2020-11-16", 
-            "datetime": "20201116", 
-            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201116-GAPPS.zip", 
-            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201116-GAPPS.zip", 
+            "date": "2020-11-17", 
+            "datetime": "20201117", 
+            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201117-GAPPS.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201117-GAPPS.zip", 
             "maintainer": "Gaurav24", 
             "model": "arrow_oneplus3", 
             "oem": "OnePlus", 
-            "sha256": "1e7fd451c240116606ce45a054196385d82cea3155ea359da203d32dcfff64a6", 
-            "size": "931547266", 
+            "sha256": "d95ce6a4513e13588f013a639d9d41a5ea53d84fd9f458c604c51d4943f7066e", 
+            "size": "931435469", 
             "type": "official", 
             "version": "v11.0"
         }
