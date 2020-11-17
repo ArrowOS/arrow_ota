@@ -34,15 +34,15 @@
     "davinci": [
         {
             "changelog": "Fixed FOD on AOD\r\nFixed Google Recorder\r\nUpdated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY from previous releases\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-11-16", 
-            "datetime": "20201116", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201116-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201116-VANILLA.zip", 
+            "date": "2020-11-17", 
+            "datetime": "20201117", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201117-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201117-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "243964dc93b74c1005d90da9f8aaacbb2dd4d4571341afa49d5e8ee39d7d589e", 
-            "size": "972939269", 
+            "sha256": "0dfa94b7ba21788899dd0aa3cd1b6bd69402168eded19908509d05552e15dd9d", 
+            "size": "972730429", 
             "type": "official", 
             "version": "v11.0"
         }
