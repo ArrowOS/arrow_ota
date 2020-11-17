@@ -146,15 +146,15 @@
     "perseus": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
-            "date": "2020-11-13", 
-            "datetime": "20201113", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201113-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201113-GAPPS.zip", 
+            "date": "2020-11-17", 
+            "datetime": "20201117", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201117-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201117-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "6331cfce2b726187b67503b9231b1225c18200f887e84b4024d287c2471c6957", 
-            "size": "1206899110", 
+            "sha256": "7f74f9c3dd2ff56ef246da18feaa1a189e008f4e46493c5f5be8d708903fc5b3", 
+            "size": "1206055868", 
             "type": "official", 
             "version": "v11.0"
         }
