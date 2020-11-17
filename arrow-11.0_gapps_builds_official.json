@@ -209,16 +209,16 @@
     ], 
     "violet": [
         {
-            "changelog": "- Fingerprint works in 3rd party apps\r\n- CTS should pass without Magisk\r\n- Call recording in AOSP Dialer\r\n- Adjust status bar icon padding on the lock screen\r\n- Turned off AOD as it is useless on LCD screens\r\n- Little cleanup", 
-            "date": "2020-11-06", 
-            "datetime": "20201106", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20201106-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201106-GAPPS.zip", 
+            "changelog": "- Upstreamed Kernel.\r\n- Enforcing Build.\r\n- Updated Gps, Ant, Radio, Cne, Qmi Blobs.\r\n- Fixed offline charging animation.\r\n- Boosted Audio output, added mixer controls, switched to 24-bit playback, increased mic gain, and many more.\r\n- Few graphics changes.\r\n- Too many under the hood changes and bug fixes.", 
+            "date": "2020-11-17", 
+            "datetime": "20201117", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201117-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201117-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "6cda630a5a6e439ccdaeb5bb286cfe371fa0ad940434c49ff6e304aebe323a7b", 
-            "size": "1129340666", 
+            "sha256": "d67416ca35e670472bf34595cdbb3d8c82f29470b40a60a27cbf52bc00c8cbf5", 
+            "size": "1134573224", 
             "type": "official", 
             "version": "v11.0"
         }
