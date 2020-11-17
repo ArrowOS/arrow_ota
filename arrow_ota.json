@@ -135,6 +135,34 @@
       ]
     }
   ], 
+  "land": [
+    {
+      "changelog": "-", 
+      "maintainer": "Bauuuuu", 
+      "model": "Redmi 3S", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-land-OFFICIAL-20201117-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/land/Arrow-v11.0-land-OFFICIAL-20201117-VANILLA.zip", 
+                  "sha256": "991f8fe3a0284b4650a917a790a392430ff02c06163e55c20b846ab48b96d1c8", 
+                  "size": "725362440", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "lavender": [
     {
       "changelog": "- update sensor blobs\r\n- build new thermal 2.0\r\n- build new vibrator qti\r\n- exfat support added", 
