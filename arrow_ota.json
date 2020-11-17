@@ -471,6 +471,34 @@
       ]
     }
   ], 
+  "potter": [
+    {
+      "changelog": "- Misc improvements and bug fixes", 
+      "maintainer": "aniket_jaiswal, kubersharma001, vinyas", 
+      "model": "Moto G5 Plus", 
+      "oem": "motorola", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-potter-COMMUNITY-20201117-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201117-VANILLA.zip", 
+                  "sha256": "51de43ada3207c114c0d4fd956b164e788f8a7e1f774cf03fa0dfdd096c43997", 
+                  "size": "742552549", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "raphael": [
     {
       "changelog": "- Misc changes and fixes\r\n\r\nNote:\r\n- Requires the latest MIUI Q vendor and firmware.", 
