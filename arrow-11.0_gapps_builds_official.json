@@ -209,16 +209,16 @@
     ], 
     "violet": [
         {
-            "changelog": "- Upstreamed Kernel.\r\n- Enforcing Build.\r\n- Updated Gps, Ant, Radio, Cne, Qmi Blobs.\r\n- Fixed offline charging animation.\r\n- Boosted Audio output, added mixer controls, switched to 24-bit playback, increased mic gain, and many more.\r\n- Few graphics changes.\r\n- Too many under the hood changes and bug fixes.", 
-            "date": "2020-11-17", 
-            "datetime": "20201117", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20201117-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201117-GAPPS.zip", 
+            "changelog": "- Fixed USB tethering issue for some users.", 
+            "date": "2020-11-18", 
+            "datetime": "20201118", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201118-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201118-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "d67416ca35e670472bf34595cdbb3d8c82f29470b40a60a27cbf52bc00c8cbf5", 
-            "size": "1134573224", 
+            "sha256": "d1ab5e362f333058139eab6099211899b384566b97cb9b906a1ef34c960e24ab", 
+            "size": "1135486561", 
             "type": "official", 
             "version": "v11.0"
         }
