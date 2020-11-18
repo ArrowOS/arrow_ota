@@ -213,6 +213,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-18", 
+                  "datetime": "20201118", 
+                  "filename": "Arrow-v11.0-karna-OFFICIAL-20201118-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201118-GAPPS.zip", 
+                  "sha256": "64d687ad3ee275036ca94f1b406f9ab1f285311aa1177de0bbf17c599255d1dc", 
+                  "size": "878514075", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-18", 
