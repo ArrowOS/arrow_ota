@@ -527,6 +527,34 @@
       ]
     }
   ], 
+  "phoenix": [
+    {
+      "changelog": "- Initial release", 
+      "maintainer": "Sreekanth", 
+      "model": "Redmi K30", 
+      "oem": "Redmi", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-18", 
+                  "datetime": "20201118", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201118-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201118-VANILLA.zip", 
+                  "sha256": "e81c107772c25f12683793b858de60684211f9957c8786a9e82db703b952ba6d", 
+                  "size": "663823649", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "polaris": [
     {
       "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
