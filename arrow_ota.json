@@ -797,7 +797,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Linux Upstremed to 4.4.243\r\n- Upstream wireguard to 1.0.20201112 snapshot\r\n- Merged LA.UM.8.2.r2-03200-sdm660.0 caf tag into the kernel\r\n- Added multi anchor conference support\r\n- Update LPA interface version 1.1\r\n- Add IImsFactory and uceservice HAL entry\r\n- Grant rw permission to hgsl node\r\n- Update ueventd rules and init rc for new audio drivers\r\n- Set Netflix and media property based on target\r\n- Added Chinese Simplified for XiaomiDoze\r\n- Many more misc changes", 
+      "changelog": "- Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -819,12 +819,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-17", 
-                  "datetime": "20201117", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20201117-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201117-VANILLA.zip", 
-                  "sha256": "a5eb6d8f55df53eb2cad4b87c0c28d3eddb3dbabf1523fe0deea7cbbc233ff20", 
-                  "size": "771035259", 
+                  "date": "2020-11-18", 
+                  "datetime": "20201118", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20201118-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201118-VANILLA.zip", 
+                  "sha256": "db5ac0a681f65c0fa54782616163712b788498151077890d3386dd311c5a6c33", 
+                  "size": "771478669", 
                   "type": "official", 
                   "version": "v11.0"
                 }
