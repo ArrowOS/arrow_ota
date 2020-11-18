@@ -135,6 +135,34 @@
       ]
     }
   ], 
+  "enchilada": [
+    {
+      "changelog": null, 
+      "maintainer": "Raj Jadeja", 
+      "model": "OnePlus6", 
+      "oem": "OnePlus", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-17", 
+                  "datetime": "20201117", 
+                  "filename": "Arrow-v11.0-enchilada-UNOFFICIAL-20201117-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-UNOFFICIAL-20201117-VANILLA.zip", 
+                  "sha256": "a1aa385f1bbf2b3862075ea3ecb775aa01a1b008e46339873d53f151fe384b65", 
+                  "size": "660654921", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "jasmine_sprout": [
     {
       "changelog": "New caf tag test", 
