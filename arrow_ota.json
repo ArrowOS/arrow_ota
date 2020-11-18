@@ -143,6 +143,22 @@
       "oem": "OnePlus", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-18", 
+                  "datetime": "20201118", 
+                  "filename": "Arrow-v11.0-enchilada-OFFICIAL-20201118-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-OFFICIAL-20201118-VANILLA.zip", 
+                  "sha256": "e58c86655b049f22172d33ddac4557dfc9be8c56c35491deb91f812cd24c4370", 
+                  "size": "662678995", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "VANILLA": [
