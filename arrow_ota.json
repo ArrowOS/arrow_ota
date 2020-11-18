@@ -537,6 +537,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-18", 
+                  "datetime": "20201118", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201118-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201118-GAPPS.zip", 
+                  "sha256": "1328ba27fae9ffd4d3c011bf41d644ec1790cd5701cd02553ba427ec8d9f0e6a", 
+                  "size": "880032973", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-18", 
