@@ -239,6 +239,22 @@
             "version": "v11.0"
         }
     ], 
+    "surya": [
+        {
+            "changelog": "- Initial official release\r\n- Switch selinux to enforcing\r\n- Enable compositor background blurring\r\n- Misc fixes and upstream changes.", 
+            "date": "2020-11-19", 
+            "datetime": "20201119", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201119-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201119-VANILLA.zip", 
+            "maintainer": "Ganesh Varma", 
+            "model": "POCO X3 NFC", 
+            "oem": "POCO", 
+            "sha256": "6952ddafa9158db0bab0e0eaa94837b696f84918e37c3a94b779f6179fa237f9", 
+            "size": "681240205", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "violet": [
         {
             "changelog": null, 
