@@ -225,16 +225,16 @@
     ], 
     "violet": [
         {
-            "changelog": "- Fixed USB tethering issue for some users.", 
-            "date": "2020-11-18", 
-            "datetime": "20201118", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20201118-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201118-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2020-11-19", 
+            "datetime": "20201119", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201119-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201119-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "54dc1162eec193795e9823788ceec5bccaed11e6f31b49bbc340ea2b18ff2e53", 
-            "size": "922240683", 
+            "sha256": "d5362575574c9e2ddd9924634960a1da3349abae79ccc3d4b93140764276ceba", 
+            "size": "921879061", 
             "type": "official", 
             "version": "v11.0"
         }
