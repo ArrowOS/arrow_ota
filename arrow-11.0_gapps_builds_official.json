@@ -79,6 +79,22 @@
             "version": "v11.0"
         }
     ], 
+    "karna": [
+        {
+            "changelog": "- Initial official release", 
+            "date": "2020-11-19", 
+            "datetime": "20201119", 
+            "filename": "Arrow-v11.0-karna-OFFICIAL-20201119-GAPPS.zip", 
+            "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201119-GAPPS.zip", 
+            "maintainer": "Ganesh Varma", 
+            "model": "POCO X3", 
+            "oem": "POCO", 
+            "sha256": "1a747304d4ad386077b5eb3bfb501631f7c5e422c940c901e84132c4be122609", 
+            "size": "892313917", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "land": [
         {
             "changelog": "-", 
