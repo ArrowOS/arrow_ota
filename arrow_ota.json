@@ -81,7 +81,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Fixed Google Recorder\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY from previous releases\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+      "changelog": "19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Fixed Google Recorder\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY from previous releases\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
       "maintainer": "daniml3", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -103,12 +103,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-18", 
-                  "datetime": "20201118", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201118-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201118-VANILLA.zip", 
-                  "sha256": "99f7bfb8dec425bc4b079765e01ce8dcf6310b23d8a99b0bd40efcc5c5e51f5f", 
-                  "size": "972709635", 
+                  "date": "2020-11-19", 
+                  "datetime": "20201119", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201119-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201119-VANILLA.zip", 
+                  "sha256": "8f82428426fd6796a490f29bb7e636d205fcc8748d298af73241ab2b3e022d8e", 
+                  "size": "972354171", 
                   "type": "official", 
                   "version": "v11.0"
                 }
