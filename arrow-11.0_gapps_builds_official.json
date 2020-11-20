@@ -177,16 +177,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Initial release", 
-            "date": "2020-11-18", 
-            "datetime": "20201118", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201118-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201118-GAPPS.zip", 
+            "changelog": "- Kernel upstreams", 
+            "date": "2020-11-20", 
+            "datetime": "20201120", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201120-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201120-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi K30", 
             "oem": "Redmi", 
-            "sha256": "1328ba27fae9ffd4d3c011bf41d644ec1790cd5701cd02553ba427ec8d9f0e6a", 
-            "size": "880032973", 
+            "sha256": "b59d6470df06d62ad774f8d8cc3f2367584df71a8703dbedaf380b419437259d", 
+            "size": "880175142", 
             "type": "official", 
             "version": "v11.0"
         }
