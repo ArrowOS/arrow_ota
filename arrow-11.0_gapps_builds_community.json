@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- update sensor blobs\r\n- build new thermal 2.0\r\n- build new vibrator qti\r\n- exfat support added", 
-            "date": "2020-11-19", 
-            "datetime": "20201119", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201119-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201119-GAPPS.zip", 
+            "changelog": "- Fixed Tether Issues\r\n- Switch to 1.0 Vibration\r\n- Upstream Predator Kernel EAS", 
+            "date": "2020-11-20", 
+            "datetime": "20201120", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201120-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201120-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "403baff11bfd2f7152a76cc4d6b943de6e65328272cc65bbbfffb06e3d8d8e81", 
-            "size": "1130732115", 
+            "sha256": "88e130f5ee6bf2d1e794fa691ea4ed4017e08d57f2e6ab6048a2e29966dc2669", 
+            "size": "1130333421", 
             "type": "community", 
             "version": "v11.0"
         }
