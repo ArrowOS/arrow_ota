@@ -529,7 +529,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- Initial release", 
+      "changelog": "- Kernel upstreams", 
       "maintainer": "Sreekanth", 
       "model": "Redmi K30", 
       "oem": "Redmi", 
@@ -551,12 +551,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-18", 
-                  "datetime": "20201118", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201118-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201118-VANILLA.zip", 
-                  "sha256": "e81c107772c25f12683793b858de60684211f9957c8786a9e82db703b952ba6d", 
-                  "size": "663823649", 
+                  "date": "2020-11-20", 
+                  "datetime": "20201120", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201120-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201120-VANILLA.zip", 
+                  "sha256": "5d2a53ec4227a3f8c365a3e1d8b7164a369ad7cd00d1e8597c602655c3548ac0", 
+                  "size": "663235851", 
                   "type": "official", 
                   "version": "v11.0"
                 }
