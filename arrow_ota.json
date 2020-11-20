@@ -689,7 +689,7 @@
   ], 
   "sanders": [
     {
-      "changelog": "Fixed Offline Charging !", 
+      "changelog": null, 
       "maintainer": "Ashwatthama", 
       "model": "Moto G (5S) Plus", 
       "oem": "motorola", 
@@ -718,6 +718,22 @@
                   "sha256": "656e9443b4e3e17f20e1962b5b0c26af58d85d8a27dfa038ec17f5593275942b", 
                   "size": "740690662", 
                   "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-20", 
+                  "datetime": "20201120", 
+                  "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201120-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201120-VANILLA.zip", 
+                  "sha256": "2475a817dfee619444af47ab26c0cd691394180e310cff04b863dfb4ed61587c", 
+                  "size": "739218209", 
+                  "type": "unofficial", 
                   "version": "v11.0"
                 }
               ]

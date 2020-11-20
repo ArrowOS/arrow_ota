@@ -193,16 +193,16 @@
     ], 
     "sanders": [
         {
-            "changelog": "Added I-Mapper instance to manifest  to stop spam.\r\nUpdated overlays in pinned files.\r\nUpdated paths to the new ART APEX. \r\nUpdated pinner list for new SystemUI location.\r\nAdded LMKD[Low Memory Killer Daemon] configuration properties.\r\nRemoved HD notification from Status Bar. Lets Peeps enjoy R interface fully.", 
-            "date": "2020-11-15", 
-            "datetime": "20201115", 
-            "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201115-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201115-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2020-11-20", 
+            "datetime": "20201120", 
+            "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201120-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201120-VANILLA.zip", 
             "maintainer": "Ashwatthama", 
             "model": "Moto G (5S) Plus", 
             "oem": "motorola", 
-            "sha256": "77ad21f4bc4207fd041500140b8e07a060684fd7dba25beeb32df5da64192c8e", 
-            "size": "739975404", 
+            "sha256": "2475a817dfee619444af47ab26c0cd691394180e310cff04b863dfb4ed61587c", 
+            "size": "739218209", 
             "type": "unofficial", 
             "version": "v11.0"
         }
