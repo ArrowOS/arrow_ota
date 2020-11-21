@@ -2,15 +2,15 @@
     "beryllium": [
         {
             "changelog": "- sdm845-common: Enable compositor background blurring\r\n- Misc fixes and upstream changes.", 
-            "date": "2020-11-20", 
-            "datetime": "20201120", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201120-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201120-GAPPS.zip", 
+            "date": "2020-11-21", 
+            "datetime": "20201121", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20201121-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20201121-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "8bf7f6834c8fcd86d9b6377fcccd1dec744394e343552da4f1ba7a39737871ab", 
-            "size": "1065720206", 
+            "sha256": "c7d05033e774df8c5279a468741a84c15ef75514d0c1fd3cf3801dfcdeba802f", 
+            "size": "1065128225", 
             "type": "official", 
             "version": "v11.0"
         }
