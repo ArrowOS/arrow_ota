@@ -34,15 +34,15 @@
     "davinci": [
         {
             "changelog": "19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Fixed Google Recorder\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-11-20", 
-            "datetime": "20201120", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201120-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201120-GAPPS.zip", 
+            "date": "2020-11-21", 
+            "datetime": "20201121", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201121-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201121-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "12dcdf297907ae5c27935785eabc849b007361e4adc8bcf3d3e50124087fa52b", 
-            "size": "1185492622", 
+            "sha256": "e8ea8e0975a9b83597a04949750ecf20a02c986d0f0bc3f98b3e1549a34546a9", 
+            "size": "1185433969", 
             "type": "official", 
             "version": "v11.0"
         }
