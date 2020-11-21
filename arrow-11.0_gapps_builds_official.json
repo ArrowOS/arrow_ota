@@ -113,16 +113,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Upstreamed kernel to 4.14.206\r\n\u2022 Rebased trees to be more oss now", 
-            "date": "2020-11-20", 
-            "datetime": "20201120", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201120-GAPPS.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201120-GAPPS.zip", 
+            "changelog": "\u2022 Upstreamed kernel to 4.14.207\r\n\u2022 Fixed offline charging animation\r\n\u2022 Fixed charging not detected with 33w chargers", 
+            "date": "2020-11-21", 
+            "datetime": "20201121", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201121-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201121-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "4d71747717fffc19d71f4c83a8d51e8e7d5752c7d20f42e78ef6b7e7f49a2896", 
-            "size": "1317784074", 
+            "sha256": "4f38f36023427b93ead051222a998c9cff114b5c16f10fa68fc1365d825a608a", 
+            "size": "1317953166", 
             "type": "official", 
             "version": "v11.0"
         }
