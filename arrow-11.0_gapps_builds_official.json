@@ -241,16 +241,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Initial official release\r\n- Switch selinux to enforcing\r\n- Enable compositor background blurring\r\n- Misc fixes and upstream changes.", 
-            "date": "2020-11-20", 
-            "datetime": "20201120", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201120-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201120-GAPPS.zip", 
+            "changelog": "- Address more selinux denials\r\n- Upstream blobs\r\n- Misc fixes/changes", 
+            "date": "2020-11-21", 
+            "datetime": "20201121", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201121-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201121-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "612d0162b63eca66721349751d67396996b2de4e0dade16d13bfba5f5124dff7", 
-            "size": "894829767", 
+            "sha256": "349b7090fcd62ad8cf22aafb70a3e0b2438300fcdb1a29d7523b157a37afce0e", 
+            "size": "895669755", 
             "type": "official", 
             "version": "v11.0"
         }
