@@ -77,6 +77,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-21", 
+                  "datetime": "20201121", 
+                  "filename": "Arrow-v11.0-cheeseburger-UNOFFICIAL-20201121-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-UNOFFICIAL-20201121-GAPPS.zip", 
+                  "sha256": "67538ed95473a01f6b3953e4d5a22a4e47b8142e145fc990944bdcfaa9f6e234", 
+                  "size": "1072727687", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-21", 
