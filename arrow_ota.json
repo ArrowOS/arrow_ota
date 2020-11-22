@@ -261,7 +261,7 @@
   ], 
   "karna": [
     {
-      "changelog": "- Fixed google hotword enrollment\r\n- Fixed notch fill overlay toggle\r\n- Misc fixes/changes", 
+      "changelog": "- Misc fixes/changes", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3", 
       "oem": "POCO", 
@@ -283,12 +283,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-21", 
-                  "datetime": "20201121", 
-                  "filename": "Arrow-v11.0-karna-OFFICIAL-20201121-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201121-VANILLA.zip", 
-                  "sha256": "fffb615b8c2b5fc92e70ef06580e5cfd044db02d9aedcec5bafb501870408fe0", 
-                  "size": "679947319", 
+                  "date": "2020-11-22", 
+                  "datetime": "20201122", 
+                  "filename": "Arrow-v11.0-karna-OFFICIAL-20201122-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201122-VANILLA.zip", 
+                  "sha256": "16e41d23b6342b931a1a903d4f85c24687006ca1042b69abda1d4d52aa079d6f", 
+                  "size": "679772397", 
                   "type": "official", 
                   "version": "v11.0"
                 }
