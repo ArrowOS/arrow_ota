@@ -341,7 +341,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed Tether Issues\r\n- Switch to 1.0 Vibration\r\n- Upstream Predator Kernel EAS", 
+      "changelog": "- Fixed Tether Issues\r\n- Enable QPower and Deep sleep at the same time\r\n- WFD patch (TEST)\r\n- Add new config overlay for call composer\r\n- Update ExFAT Driver\r\n- Switch to 1.0 Vibrator Hal\r\n- Upstream Predator Kernel EAS", 
       "maintainer": "Hazama25, ak940s", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -351,12 +351,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-11-20", 
-                  "datetime": "20201120", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201120-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201120-GAPPS.zip", 
-                  "sha256": "88e130f5ee6bf2d1e794fa691ea4ed4017e08d57f2e6ab6048a2e29966dc2669", 
-                  "size": "1130333421", 
+                  "date": "2020-11-22", 
+                  "datetime": "20201122", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201122-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201122-GAPPS.zip", 
+                  "sha256": "d219b1edfece023b3dd270c2776d7ec8f8c424a127010dbff22a4c5ffd419164", 
+                  "size": "1130766878", 
                   "type": "community", 
                   "version": "v11.0"
                 }
