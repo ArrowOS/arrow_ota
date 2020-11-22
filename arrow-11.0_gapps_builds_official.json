@@ -241,16 +241,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Address more selinux denials\r\n- Upstream blobs\r\n- Misc fixes/changes", 
-            "date": "2020-11-21", 
-            "datetime": "20201121", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201121-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201121-GAPPS.zip", 
+            "changelog": "- Misc fixes/changes", 
+            "date": "2020-11-22", 
+            "datetime": "20201122", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201122-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201122-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "349b7090fcd62ad8cf22aafb70a3e0b2438300fcdb1a29d7523b157a37afce0e", 
-            "size": "895669755", 
+            "sha256": "97434c1ad298778df1450929765f1bfe556a5945c1958df4211656c3708f5bd4", 
+            "size": "895559593", 
             "type": "official", 
             "version": "v11.0"
         }
