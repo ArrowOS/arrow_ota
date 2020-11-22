@@ -710,6 +710,22 @@
                 }
               ]
             }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-22", 
+                  "datetime": "20201122", 
+                  "filename": "Arrow-v11.0-raphael-UNOFFICIAL-20201122-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-UNOFFICIAL-20201122-VANILLA.zip", 
+                  "sha256": "9559d200afe947a9a394e86f68926d9799601874c4d20556a6aaa38ccd5fabc1", 
+                  "size": "690802068", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
           ]
         }
       ]
