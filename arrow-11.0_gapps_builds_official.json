@@ -81,16 +81,16 @@
     ], 
     "karna": [
         {
-            "changelog": "- Address more selinux denials\r\n- Upstream blobs\r\n- Misc fixes/changes", 
-            "date": "2020-11-21", 
-            "datetime": "20201121", 
-            "filename": "Arrow-v11.0-karna-OFFICIAL-20201121-GAPPS.zip", 
-            "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201121-GAPPS.zip", 
+            "changelog": "- Misc fixes/changes", 
+            "date": "2020-11-22", 
+            "datetime": "20201122", 
+            "filename": "Arrow-v11.0-karna-OFFICIAL-20201122-GAPPS.zip", 
+            "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201122-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "61beb60e16c5797684cbf493df2cd5286f589c0205ea9ea794404919fa472edb", 
-            "size": "892854514", 
+            "sha256": "c92e65b0bb9172f31ed7eb0ef87959d8ac1ff8d86ab467fab0a99afe65d2bb6b", 
+            "size": "892730693", 
             "type": "official", 
             "version": "v11.0"
         }
