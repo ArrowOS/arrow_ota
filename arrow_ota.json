@@ -261,7 +261,7 @@
   ], 
   "karna": [
     {
-      "changelog": "- Fixed notification led\r\n- Misc fixes/changes", 
+      "changelog": "- Fixed google hotword enrollment\r\n- Fixed notch fill overlay toggle\r\n- Misc fixes/changes", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3", 
       "oem": "POCO", 
@@ -275,8 +275,8 @@
                   "datetime": "20201122", 
                   "filename": "Arrow-v11.0-karna-OFFICIAL-20201122-GAPPS.zip", 
                   "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201122-GAPPS.zip", 
-                  "sha256": "5718c9369ed542b9866cd476c6e78ff444ecfaa9f4e2e4560efc5db99ab092d8", 
-                  "size": "927255751", 
+                  "sha256": "53c0baa211c8b523a238ab09b4d5498829f31b714e8214f8e0bb605b2d955f10", 
+                  "size": "927091598", 
                   "type": "official", 
                   "version": "v11.0"
                 }
