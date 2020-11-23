@@ -163,6 +163,34 @@
       ]
     }
   ], 
+  "dumpling": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "ONEPLUS A5010", 
+      "oem": "OnePlus", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-23", 
+                  "datetime": "20201123", 
+                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20201123-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20201123-VANILLA.zip", 
+                  "sha256": "9959a02e2969969c6894b3e978fad37482eaf7842a77fd055fd450ed585cab46", 
+                  "size": "842395619", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "enchilada": [
     {
       "changelog": null, 
