@@ -173,6 +173,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-11-23", 
+                  "datetime": "20201123", 
+                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20201123-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20201123-GAPPS.zip", 
+                  "sha256": "90e5ebcf9a8ba08273194075ddd215c0815e1b8ff2c86a284aaeeecbb0de978a", 
+                  "size": "1056621761", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-11-23", 
