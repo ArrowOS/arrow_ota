@@ -177,16 +177,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Kernel upstreams", 
-            "date": "2020-11-22", 
-            "datetime": "20201122", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201122-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201122-VANILLA.zip", 
+            "changelog": "- Kernel upstreamed to 4.14.208\r\n- Update wireguard to 1.0.20201112 snapshot\r\n- Fixed Hi - Fi audio in dirac settings\r\n- Misc changes", 
+            "date": "2020-11-23", 
+            "datetime": "20201123", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201123-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201123-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi K30", 
             "oem": "Redmi", 
-            "sha256": "18cf84252f1dba215d70607ed42bf5cdd789bb9efad9142449ebd1af72a2f1f3", 
-            "size": "663306611", 
+            "sha256": "7a47b7fbd194ab13494fb56050ca7472be6a536dde8424416235c4730f6bfa00", 
+            "size": "663247925", 
             "type": "official", 
             "version": "v11.0"
         }
