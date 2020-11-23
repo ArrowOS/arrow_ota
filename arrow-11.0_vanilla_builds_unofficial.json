@@ -159,6 +159,22 @@
             "version": "v11.0"
         }
     ], 
+    "phoenix": [
+        {
+            "changelog": "- Hi Fi audio", 
+            "date": "2020-11-23", 
+            "datetime": "20201123", 
+            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20201123-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20201123-VANILLA.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi K30", 
+            "oem": "Redmi", 
+            "sha256": "e4ab8aa009a643e209b2513ed1abd96fd65be489668a95153a6e17893322983e", 
+            "size": "662672892", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "polaris": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 

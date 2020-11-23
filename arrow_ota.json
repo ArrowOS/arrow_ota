@@ -597,7 +597,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- Kernel upstreams", 
+      "changelog": "- Hi Fi audio", 
       "maintainer": "Sreekanth", 
       "model": "Redmi K30", 
       "oem": "Redmi", 
@@ -626,6 +626,22 @@
                   "sha256": "18cf84252f1dba215d70607ed42bf5cdd789bb9efad9142449ebd1af72a2f1f3", 
                   "size": "663306611", 
                   "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-11-23", 
+                  "datetime": "20201123", 
+                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20201123-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20201123-VANILLA.zip", 
+                  "sha256": "e4ab8aa009a643e209b2513ed1abd96fd65be489668a95153a6e17893322983e", 
+                  "size": "662672892", 
+                  "type": "unofficial", 
                   "version": "v11.0"
                 }
               ]
