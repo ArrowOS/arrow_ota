@@ -274,15 +274,15 @@
     "whyred": [
         {
             "changelog": "- Kernel upstreamed to linux version 4.4.245\r\n- Merged LA.UM.8.2.r2-03200-sdm660.0 caf tag into the kernel\r\n- Misc changes", 
-            "date": "2020-11-23", 
-            "datetime": "20201123", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201123-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201123-VANILLA.zip", 
+            "date": "2020-11-24", 
+            "datetime": "20201124", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201124-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201124-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "9d35b11df4e845cc732841b2acae2ff31c91d7ae66e6694cfe9f376dffa57acc", 
-            "size": "771163303", 
+            "sha256": "50b0b73af08ace2ee5e9fa0583e17d48b53e73f9a25ccc47b586020c099ff067", 
+            "size": "771594792", 
             "type": "official", 
             "version": "v11.0"
         }
