@@ -897,7 +897,7 @@
   ], 
   "violet": [
     {
-      "changelog": null, 
+      "changelog": "- test theme fix", 
       "maintainer": "Aftab Ashrafi", 
       "model": "Redmi Note 7 Pro", 
       "oem": "Xiaomi", 
@@ -947,12 +947,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-16", 
-                  "datetime": "20201116", 
-                  "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201116-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201116-VANILLA.zip", 
-                  "sha256": "01f578595c2bd55b2d3f335ef5f0c81cb02857bf17728ca4f280f1266b98fedd", 
-                  "size": "920362883", 
+                  "date": "2020-11-24", 
+                  "datetime": "20201124", 
+                  "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201124-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201124-VANILLA.zip", 
+                  "sha256": "8f24797ec2f4cfb4611644836ce909456b06f84e68b333359706edd6e52d559f", 
+                  "size": "921255993", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
