@@ -114,15 +114,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Upstreamed kernel to 4.14.208\r\n\u2022 Fixed offline charging animation\r\n\u2022 Switched to MIUI offline charging animation\r\n\u2022 Fixed charging not detected with 30w chargers", 
-            "date": "2020-11-23", 
-            "datetime": "20201123", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201123-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201123-VANILLA.zip", 
+            "date": "2020-11-24", 
+            "datetime": "20201124", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201124-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201124-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "b49b4a5b2f94b5bff133e6263da699c1673dac7992e51387e5fc74ae1e069b2b", 
-            "size": "1103882218", 
+            "sha256": "70efef9447d186af61ab85080b631ddab27dab2bc17b02a5c734584d8c7ea5cf", 
+            "size": "1103309840", 
             "type": "official", 
             "version": "v11.0"
         }
