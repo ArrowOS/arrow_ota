@@ -49,16 +49,16 @@
     ], 
     "dumpling": [
         {
-            "changelog": null, 
-            "date": "2020-11-23", 
-            "datetime": "20201123", 
-            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20201123-GAPPS.zip", 
-            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20201123-GAPPS.zip", 
+            "changelog": "official release", 
+            "date": "2020-11-25", 
+            "datetime": "20201125", 
+            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20201125-GAPPS.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20201125-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "ONEPLUS A5010", 
             "oem": "OnePlus", 
-            "sha256": "90e5ebcf9a8ba08273194075ddd215c0815e1b8ff2c86a284aaeeecbb0de978a", 
-            "size": "1056621761", 
+            "sha256": "a1e7c07495551014064b4c0329f524048fa720c39d72e1b17426419bdceacf04", 
+            "size": "1056503168", 
             "type": "official", 
             "version": "v11.0"
         }
