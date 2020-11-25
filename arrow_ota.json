@@ -261,7 +261,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "New caf tag test", 
+      "changelog": "Test new caf rebased kernel call recording", 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "Xiaomi", 
@@ -287,8 +287,8 @@
                   "datetime": "20201125", 
                   "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201125-VANILLA.zip", 
                   "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201125-VANILLA.zip", 
-                  "sha256": "62e94508bbdbf88f77be58d999a7363cf44e0e6a56b814a0ec81e1596b49df97", 
-                  "size": "1042742290", 
+                  "sha256": "8bb747a77e161a52ae7d5667e7feb2732d31869369c5f0f6f31c5ecac5985261", 
+                  "size": "1046113508", 
                   "type": "community", 
                   "version": "v11.0"
                 }
