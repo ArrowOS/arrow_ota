@@ -299,46 +299,6 @@
       ]
     }
   ], 
-  "karna": [
-    {
-      "changelog": "- Misc fixes/changes", 
-      "maintainer": "Ganesh Varma", 
-      "model": "POCO X3", 
-      "oem": "POCO", 
-      "v11.0": [
-        {
-          "OFFICIAL": [
-            {
-              "GAPPS": [
-                {
-                  "date": "2020-11-22", 
-                  "datetime": "20201122", 
-                  "filename": "Arrow-v11.0-karna-OFFICIAL-20201122-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201122-GAPPS.zip", 
-                  "sha256": "c92e65b0bb9172f31ed7eb0ef87959d8ac1ff8d86ab467fab0a99afe65d2bb6b", 
-                  "size": "892730693", 
-                  "type": "official", 
-                  "version": "v11.0"
-                }
-              ], 
-              "VANILLA": [
-                {
-                  "date": "2020-11-22", 
-                  "datetime": "20201122", 
-                  "filename": "Arrow-v11.0-karna-OFFICIAL-20201122-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/karna/Arrow-v11.0-karna-OFFICIAL-20201122-VANILLA.zip", 
-                  "sha256": "16e41d23b6342b931a1a903d4f85c24687006ca1042b69abda1d4d52aa079d6f", 
-                  "size": "679772397", 
-                  "type": "official", 
-                  "version": "v11.0"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ], 
   "land": [
     {
       "changelog": "-", 
