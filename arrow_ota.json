@@ -165,7 +165,7 @@
   ], 
   "dumpling": [
     {
-      "changelog": null, 
+      "changelog": "official release", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "ONEPLUS A5010", 
       "oem": "OnePlus", 
@@ -187,12 +187,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-23", 
-                  "datetime": "20201123", 
-                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20201123-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20201123-VANILLA.zip", 
-                  "sha256": "9959a02e2969969c6894b3e978fad37482eaf7842a77fd055fd450ed585cab46", 
-                  "size": "842395619", 
+                  "date": "2020-11-25", 
+                  "datetime": "20201125", 
+                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20201125-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20201125-VANILLA.zip", 
+                  "sha256": "ca6e447681e160b785c589eb70210135ec6a83968a3a281c78b4e13befce79e2", 
+                  "size": "843051565", 
                   "type": "official", 
                   "version": "v11.0"
                 }
