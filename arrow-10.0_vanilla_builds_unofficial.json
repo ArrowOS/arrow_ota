@@ -33,16 +33,16 @@
     ], 
     "lmi": [
         {
-            "changelog": "first test build for lmi", 
-            "date": "2020-10-16", 
-            "datetime": "20201016", 
-            "filename": "Arrow-v10.0-lmi-UNOFFICIAL-20201016-VANILLA.zip", 
-            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-UNOFFICIAL-20201016-VANILLA.zip", 
+            "changelog": "- dirty flash is broken, be aware of this for updating", 
+            "date": "2020-11-26", 
+            "datetime": "20201126", 
+            "filename": "Arrow-v10.0-lmi-UNOFFICIAL-20201126-VANILLA.zip", 
+            "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-UNOFFICIAL-20201126-VANILLA.zip", 
             "maintainer": "TH779, lamp216", 
             "model": "POCO F2 PRO", 
             "oem": "POCO", 
-            "sha256": "492187fc87bc4769611fd03439b2dc60a54065a6066ea9d053f04122350084ca", 
-            "size": "599340679", 
+            "sha256": "9fdded032f5ed4dcc4d3df579bc09e5a9461e4c09d30e65f30f5d62d1eed15e0", 
+            "size": "600439606", 
             "type": "unofficial", 
             "version": "v10.0"
         }
