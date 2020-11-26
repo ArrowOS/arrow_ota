@@ -162,15 +162,15 @@
     "phoenix": [
         {
             "changelog": "- Kernel upstreamed to 4.14.209\r\n- Fixed low audio recording issues with some apps\r\n- Misc changes", 
-            "date": "2020-11-25", 
-            "datetime": "20201125", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201125-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201125-GAPPS.zip", 
+            "date": "2020-11-26", 
+            "datetime": "20201126", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201126-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201126-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi K30", 
             "oem": "Redmi", 
-            "sha256": "b5a4fa0d2d6071c6d501344e5e1bb0f3eefad6ad734eb07f0e58eb0381852a8d", 
-            "size": "879866496", 
+            "sha256": "ac4ea4d56b34c8393ebf4912f07308a552ab01da7b62a413fead6e8639a1498b", 
+            "size": "880884087", 
             "type": "official", 
             "version": "v11.0"
         }
