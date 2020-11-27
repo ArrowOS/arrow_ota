@@ -109,7 +109,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n23/11/2020\r\n-Properly fixed Google Recorder\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+      "changelog": "27/11/2020\r\n-Upstreamed the kernel to Linux 4.14.209\r\n26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
       "maintainer": "daniml3", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -153,6 +153,18 @@
                   "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201122-GAPPS.zip", 
                   "sha256": "14a962434ee059178f016fe1df73ac7731050d0ba20893d227fbd5a507cff0d3", 
                   "size": "1219168695", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
+              "VANILLA": [
+                {
+                  "date": "2020-11-27", 
+                  "datetime": "20201127", 
+                  "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201127-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201127-VANILLA.zip", 
+                  "sha256": "75947aa40a22cf53028df2c1cb4e14fc1f1a924082e793fd5b9c4c25ac74a170", 
+                  "size": "972673094", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
