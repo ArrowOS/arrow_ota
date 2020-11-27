@@ -226,15 +226,15 @@
     "surya": [
         {
             "changelog": "- Unified build\r\n- Switch to source built kernel\r\n- Upstream blobs\r\n- Misc fixes/changes\r\n\r\nNote:\r\n- From now on these are going to be unified builds. Both NFC and Non-NFC variants are supported under the surya codename.\r\n\r\n- Karna builds will be discontinued and no further new builds will be published under that codename.\r\n\r\n- Internally in the system the device codenames and device specific settings will be handled and addressed accordingly.", 
-            "date": "2020-11-26", 
-            "datetime": "20201126", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201126-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201126-VANILLA.zip", 
+            "date": "2020-11-27", 
+            "datetime": "20201127", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201127-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201127-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "006b4af482716d56feacd824422f0b4d0ee047ce846506b8bb77905cb5115fd8", 
-            "size": "708518989", 
+            "sha256": "6219c5d0f05015265dba4c54aadde14f00e3962caab26760cd2fc93814d4f0f0", 
+            "size": "708500929", 
             "type": "official", 
             "version": "v11.0"
         }
