@@ -113,16 +113,16 @@
     ], 
     "mido": [
         {
-            "changelog": null, 
-            "date": "2020-11-24", 
-            "datetime": "20201124", 
-            "filename": "Arrow-v11.0-mido-OFFICIAL-20201124-VANILLA.zip", 
-            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201124-VANILLA.zip", 
+            "changelog": "- hals upstream\r\n- misc fixes", 
+            "date": "2020-11-28", 
+            "datetime": "20201128", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20201128-VANILLA.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201128-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi Note 4", 
             "oem": "Xiaomi", 
-            "sha256": "22bea63b21ef15d51a89169d6aec4088c7ba2b43ff0ddd26e8bea3fef8f559a6", 
-            "size": "705331181", 
+            "sha256": "a9fbfcdd86046da2153ce06858df1e86820c1dd267e8010c8a8d0ae34cd6a318", 
+            "size": "706285623", 
             "type": "official", 
             "version": "v11.0"
         }
