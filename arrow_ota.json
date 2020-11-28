@@ -891,12 +891,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-27", 
-                  "datetime": "20201127", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20201127-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201127-VANILLA.zip", 
-                  "sha256": "6219c5d0f05015265dba4c54aadde14f00e3962caab26760cd2fc93814d4f0f0", 
-                  "size": "708500929", 
+                  "date": "2020-11-28", 
+                  "datetime": "20201128", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20201128-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201128-VANILLA.zip", 
+                  "sha256": "c376ec95a3a37504be4458e05b701b1f3a034bc003434dad877393e8a9fda3dc", 
+                  "size": "708626160", 
                   "type": "official", 
                   "version": "v11.0"
                 }
