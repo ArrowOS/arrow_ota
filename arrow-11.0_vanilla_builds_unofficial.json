@@ -254,37 +254,5 @@
             "type": "unofficial", 
             "version": "v11.0"
         }
-    ], 
-    "z2_plus": [
-        {
-            "changelog": "- Misc changes and improvements", 
-            "date": "2020-10-21", 
-            "datetime": "20201021", 
-            "filename": "Arrow-v11.0-z2_plus-UNOFFICIAL-20201021-VANILLA.zip", 
-            "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-UNOFFICIAL-20201021-VANILLA.zip", 
-            "maintainer": "kubersharma001", 
-            "model": "Z2 Plus", 
-            "oem": "ZUK", 
-            "sha256": "9ba790ca6294fae3c134686a82f493489400907bca10c73555769f0f553bd96c", 
-            "size": "684556974", 
-            "type": "unofficial", 
-            "version": "v11.0"
-        }
-    ], 
-    "z2_row": [
-        {
-            "changelog": "- Misc changes and fixes", 
-            "date": "2020-10-23", 
-            "datetime": "20201023", 
-            "filename": "Arrow-v11.0-z2_row-UNOFFICIAL-20201023-VANILLA.zip", 
-            "filepath": "/arrow-11.0/z2_row/Arrow-v11.0-z2_row-UNOFFICIAL-20201023-VANILLA.zip", 
-            "maintainer": "kubersharma001, weimerd", 
-            "model": "ZUK Z2121", 
-            "oem": "ZUK", 
-            "sha256": "afb91daf17dad048a03c8d9227cc2b9fc3823d08858db64b905a5efd25f57f0f", 
-            "size": "690485224", 
-            "type": "unofficial", 
-            "version": "v11.0"
-        }
-    ]
+    ] 
 }

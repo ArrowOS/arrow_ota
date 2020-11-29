@@ -715,24 +715,24 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-11-27", 
-                  "datetime": "20201127", 
-                  "filename": "Arrow-v11.0-potter-COMMUNITY-20201127-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201127-GAPPS.zip", 
-                  "sha256": "23f61408db5ca8988c68e2a39d6051681729807b6c29bf32fa43e04dcd84c2bc", 
-                  "size": "953652719", 
+                  "date": "2020-11-22", 
+                  "datetime": "20201122", 
+                  "filename": "Arrow-v11.0-potter-COMMUNITY-20201122-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201122-GAPPS.zip", 
+                  "sha256": "745e9ed1e5201185181280ed56f2e9c7890524f66bb62f427ff6bd5fbb8d62b5", 
+                  "size": "952747427", 
                   "type": "community", 
                   "version": "v11.0"
                 }
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-27", 
-                  "datetime": "20201127", 
-                  "filename": "Arrow-v11.0-potter-COMMUNITY-20201127-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201127-VANILLA.zip", 
-                  "sha256": "237c97c427f80200572a3b8fc7b850f118a3164b6f5f00101cd296b9afe4a4f1", 
-                  "size": "743584964", 
+                  "date": "2020-11-22", 
+                  "datetime": "20201122", 
+                  "filename": "Arrow-v11.0-potter-COMMUNITY-20201122-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-COMMUNITY-20201122-VANILLA.zip", 
+                  "sha256": "4696433e52aa7c8171029dc81136c16ed4f7e171012fac0abb6d9d280711fb05", 
+                  "size": "742477510", 
                   "type": "community", 
                   "version": "v11.0"
                 }
