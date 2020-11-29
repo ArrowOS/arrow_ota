@@ -109,7 +109,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "28/11/2020\r\n-Added display color settings (KCAL)\r\n-Fixed default camera app\r\n27/11/2020\r\n-Upstreamed the kernel to Linux 4.14.209\r\n26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+      "changelog": "29/11/2020\r\n-Fixed default camera app (you may need to clear its storage)\r\n28/11/2020\r\n-Added display color settings (KCAL)\r\n27/11/2020\r\n-Upstreamed the kernel to Linux 4.14.209\r\n26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
       "maintainer": "daniml3", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -131,12 +131,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-11-28", 
-                  "datetime": "20201128", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201128-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201128-VANILLA.zip", 
-                  "sha256": "088a0d55dc561f1ef44a731fc8e65eb0f54d23639821bf034a9309a6011c461b", 
-                  "size": "974113058", 
+                  "date": "2020-11-29", 
+                  "datetime": "20201129", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201129-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201129-VANILLA.zip", 
+                  "sha256": "ea7bb7f09fa2542859dae687f5f30fb66d274c6eebb7938dbd32e86b5371ea1b", 
+                  "size": "973430153", 
                   "type": "official", 
                   "version": "v11.0"
                 }
