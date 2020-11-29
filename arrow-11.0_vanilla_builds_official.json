@@ -258,15 +258,15 @@
     "whyred": [
         {
             "changelog": "- Kernel upstreamed to linux version 4.4.246\r\n- Merged LA.UM.8.2.r1-07500-sdm660.0 caf tag into the kernel\r\n- Update aptx blobs from redfin-user-11-RD1A.201105.003.A1-6886512-release-keys\r\n- Added Gcam Go \r\n- Misc changes", 
-            "date": "2020-11-28", 
-            "datetime": "20201128", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201128-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201128-VANILLA.zip", 
+            "date": "2020-11-29", 
+            "datetime": "20201129", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201129-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201129-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "8daf29db1d4a3aee2ce28c9a15b9dca62f196c7bc087ab46c5567c347f990eaf", 
-            "size": "778916697", 
+            "sha256": "d0bca7f9e1b2647b631d2c731a56a58a854fd555884d79a9478766f51749d5e2", 
+            "size": "779282451", 
             "type": "official", 
             "version": "v11.0"
         }
