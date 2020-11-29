@@ -271,6 +271,34 @@
       ]
     }
   ], 
+  "ginkgo": [
+    {
+      "changelog": null, 
+      "maintainer": "Adithya R", 
+      "model": "Redmi Note 8", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2020-11-29", 
+                  "datetime": "20201129", 
+                  "filename": "Arrow-v11.0-ginkgo-UNOFFICIAL-20201129-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-UNOFFICIAL-20201129-GAPPS.zip", 
+                  "sha256": "3f15cb6729e3e42ea980c2e8823df0cb887ee5001c9911c1653b440cd610cf8e", 
+                  "size": "1215441468", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "jasmine_sprout": [
     {
       "changelog": "New caf tag test/callrecording", 
