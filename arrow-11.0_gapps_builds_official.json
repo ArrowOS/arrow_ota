@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "28/11/2020\r\n-Added display color settings (KCAL)\r\n-Fixed default camera app\r\n27/11/2020\r\n-Upstreamed the kernel to Linux 4.14.209\r\n26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-11-28", 
-            "datetime": "20201128", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201128-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201128-GAPPS.zip", 
+            "changelog": "29/11/2020\r\n-Fixed default camera app (you may need to clear its storage)\r\n28/11/2020\r\n-Added display color settings (KCAL)\r\n27/11/2020\r\n-Upstreamed the kernel to Linux 4.14.209\r\n26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2020-11-29", 
+            "datetime": "20201129", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201129-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201129-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "80fa3694fae276ca3ed1bfd19d9181bb72b2c164d0f886fcdba1eac96699b3af", 
-            "size": "1186627161", 
+            "sha256": "8f84bdbf1232427329dea55b0d77ce700994e491b7882775a587ba94926b95a0", 
+            "size": "1187368800", 
             "type": "official", 
             "version": "v11.0"
         }
