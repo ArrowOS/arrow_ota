@@ -177,16 +177,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- polaris: overlay: add rounded corner radius in the unit of dp\r\n- sdm845-common: Enable compositor background blurring\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2020-11-28", 
-            "datetime": "20201128", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201128-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201128-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+            "date": "2020-11-30", 
+            "datetime": "20201130", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20201130-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20201130-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "7cdfb8316d076403abb154a0df1134ad617bf6c1b38ec0dc68c86b1d1e6e8848", 
-            "size": "868427424", 
+            "sha256": "1b6c621a601ed42f7e9d4a6cfdbcb3e9ec3e21f8a1459a2a04b98a8283f3cab7", 
+            "size": "864068166", 
             "type": "official", 
             "version": "v11.0"
         }
