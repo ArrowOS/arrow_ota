@@ -145,16 +145,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- sdm845-common: Enable compositor background blurring\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
-            "date": "2020-11-28", 
-            "datetime": "20201128", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201128-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201128-GAPPS.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+            "date": "2020-11-30", 
+            "datetime": "20201130", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20201130-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20201130-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "a8218a823713efe5fc3e23dc9d06378db8bdfc0b86245bf275925f799da71a36", 
-            "size": "1207856193", 
+            "sha256": "67423f07ca513da333d5e06c540bc3110fbe41e0ab8085b9ddb25b5d12765093", 
+            "size": "1203574814", 
             "type": "official", 
             "version": "v11.0"
         }
