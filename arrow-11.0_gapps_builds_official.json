@@ -130,15 +130,15 @@
     "oneplus3": [
         {
             "changelog": null, 
-            "date": "2020-11-27", 
-            "datetime": "20201127", 
-            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201127-GAPPS.zip", 
-            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201127-GAPPS.zip", 
+            "date": "2020-12-01", 
+            "datetime": "20201201", 
+            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201201-GAPPS.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201201-GAPPS.zip", 
             "maintainer": "Gaurav24", 
-            "model": "arrow_oneplus3", 
+            "model": "OnePlus 3/3T", 
             "oem": "OnePlus", 
-            "sha256": "7cf078efbefae80c6b815213608f0e22ac3f8bcbb8ebe10648d7ba124032eae2", 
-            "size": "932775261", 
+            "sha256": "b314a20183c6651b2f6e8c0b15335340a074457a4f44e2f2836e9abea39522b8", 
+            "size": "934201235", 
             "type": "official", 
             "version": "v11.0"
         }
