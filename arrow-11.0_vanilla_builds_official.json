@@ -98,15 +98,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Upstream kernel to 4.14.209\r\n\u2022 treewide: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 fw-api: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 qca-wifi-host-cmn: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 qcacld-3.0: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 techpack: Merge tag LA.UM.8.9.r1-10900-SM6xx.0", 
-            "date": "2020-12-01", 
-            "datetime": "20201201", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201201-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201201-VANILLA.zip", 
+            "date": "2020-12-02", 
+            "datetime": "20201202", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201202-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201202-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "28d5f375f55dd435a6a3a4ff49ad4c93f6e02fbfa3bedc613163b7bd3bd78b6b", 
-            "size": "1109526834", 
+            "sha256": "8ea5d10ad698906f811e560a8faa0bf28584d20faaf1ce7f55ac3d848b8db68f", 
+            "size": "1109316358", 
             "type": "official", 
             "version": "v11.0"
         }
