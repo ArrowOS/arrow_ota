@@ -279,6 +279,22 @@
       "oem": "Xiaomi", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-12-02", 
+                  "datetime": "20201202", 
+                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20201202-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20201202-VANILLA.zip", 
+                  "sha256": "ed3ef6459a0637de22c4208238fdb0f1ccd9e133c43a8f6bf77d2b809845a913", 
+                  "size": "880925328", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
