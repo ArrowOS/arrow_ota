@@ -2,15 +2,15 @@
     "jasmine_sprout": [
         {
             "changelog": "New caf tag test/callrecording/tree/enforcing", 
-            "date": "2020-11-27", 
-            "datetime": "20201127", 
-            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201127-GAPPS.zip", 
-            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201127-GAPPS.zip", 
+            "date": "2020-12-04", 
+            "datetime": "20201204", 
+            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201204-GAPPS.zip", 
+            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201204-GAPPS.zip", 
             "maintainer": "Immanuel_Raj", 
             "model": "Mi A2", 
             "oem": "Xiaomi", 
-            "sha256": "ab539f5e4e0d248a9a43f5fad81abd8d786165d167ae3129d4c0a6e40ad82a4e", 
-            "size": "1046331980", 
+            "sha256": "89eda300e75a098a38d5453a31c23638c9ade2e607c3bc06fdf7dbea163b3c11", 
+            "size": "1148960082", 
             "type": "community", 
             "version": "v11.0"
         }
@@ -30,5 +30,5 @@
             "type": "community", 
             "version": "v11.0"
         }
-    ] 
+    ]
 }
