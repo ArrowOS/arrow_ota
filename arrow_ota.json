@@ -329,7 +329,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "New caf tag test/callrecording", 
+      "changelog": "New caf tag test/callrecording/tree/enforcing", 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "Xiaomi", 
@@ -351,12 +351,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-02", 
-                  "datetime": "20201202", 
-                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201202-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201202-VANILLA.zip", 
-                  "sha256": "bcd9e98cb35ab8e56075154d8dabb8dfce2bbe043b7b24bf827223142965d5e5", 
-                  "size": "1044467536", 
+                  "date": "2020-12-04", 
+                  "datetime": "20201204", 
+                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201204-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201204-VANILLA.zip", 
+                  "sha256": "7379e845a5345d1603bb552e33e9a6b54412f84fdc01446878438aa37ad799e4", 
+                  "size": "1148960114", 
                   "type": "community", 
                   "version": "v11.0"
                 }
