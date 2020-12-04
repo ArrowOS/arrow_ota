@@ -489,7 +489,7 @@
   ], 
   "miatoll": [
     {
-      "changelog": "\u2022 Upstream kernel to 4.14.209\r\n\u2022 treewide: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 fw-api: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 qca-wifi-host-cmn: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 qcacld-3.0: Merge tag LA.UM.8.9.r1-10900-SM6xx.0\r\n\u2022 techpack: Merge tag LA.UM.8.9.r1-10900-SM6xx.0", 
+      "changelog": "\u2022 Upstreamed kernel to 4.4.210\r\n\u2022 Fixed XiaomiParts icon in dark mode", 
       "maintainer": "SonalSingh18", 
       "model": "SM6250", 
       "oem": "Xiaomi", 
@@ -515,8 +515,8 @@
                   "datetime": "20201204", 
                   "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201204-VANILLA.zip", 
                   "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201204-VANILLA.zip", 
-                  "sha256": "cc54d81f2b970bf9277186ac22ddba98dd34ed2cd98ddff41f4770f15faa5911", 
-                  "size": "1109263670", 
+                  "sha256": "0402e3863f53eb83f277274f332832a0cf8d8441f031e5d7605f21999c3ae81b", 
+                  "size": "1108726667", 
                   "type": "official", 
                   "version": "v11.0"
                 }
