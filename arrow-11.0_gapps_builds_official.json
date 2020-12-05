@@ -34,15 +34,15 @@
     "davinci": [
         {
             "changelog": "04/11/2020\r\n-Fixed Google Recorder\r\n-Upstreamed the kernel to Linux 4.14.110\r\n01/12/2020\r\n-General improvements to FOD animations and FOD icon\r\n29/11/2020\r\n-Fixed default camera app (you may need to clear its storage)\r\n-Added more options to Display color settings and improve the UI\r\n28/11/2020\r\n-Added display color settings (KCAL)\r\n27/11/2020\r\n-Upstreamed the kernel to Linux 4.14.209\r\n26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-12-04", 
-            "datetime": "20201204", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201204-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201204-GAPPS.zip", 
+            "date": "2020-12-05", 
+            "datetime": "20201205", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201205-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201205-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "6f14acd1d69d8f9eabcef3819bf08ea4677193974a4233cce08647e7457355bf", 
-            "size": "1187410564", 
+            "sha256": "7091b67a188dccecfa95272b784258d3cb5fd1d549e918de5d2d9e703162fc38", 
+            "size": "1187398895", 
             "type": "official", 
             "version": "v11.0"
         }
