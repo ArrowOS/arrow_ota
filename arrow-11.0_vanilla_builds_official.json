@@ -145,16 +145,16 @@
     ], 
     "oneplus3": [
         {
-            "changelog": null, 
-            "date": "2020-12-01", 
-            "datetime": "20201201", 
-            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201201-VANILLA.zip", 
-            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201201-VANILLA.zip", 
+            "changelog": "- Hotspot Fixed (Tethering Issue Resolved)\r\n- Most of the config Updated from CAF.", 
+            "date": "2020-12-05", 
+            "datetime": "20201205", 
+            "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201205-VANILLA.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201205-VANILLA.zip", 
             "maintainer": "Gaurav24", 
             "model": "OnePlus 3/3T", 
             "oem": "OnePlus", 
-            "sha256": "1f7ab8f8e06afb2d5a79f18ffa5f17bc592d406d9d0132413e7904d216fb2fb3", 
-            "size": "719938986", 
+            "sha256": "d509c92a5955b92196c5794db918dee4c68337372daba88a9323f04e72671333", 
+            "size": "718728836", 
             "type": "official", 
             "version": "v11.0"
         }
