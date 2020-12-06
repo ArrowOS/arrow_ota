@@ -329,7 +329,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "New caf tag test/callrecording/tree/enforcing", 
+      "changelog": "Enforcing selinux and new stuff", 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "Xiaomi", 
@@ -351,12 +351,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-04", 
-                  "datetime": "20201204", 
-                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201204-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201204-VANILLA.zip", 
-                  "sha256": "d81045afc3005c5927aa781f330fb6e344682b151b7c285d98a7e1ee9615847e", 
-                  "size": "1149072161", 
+                  "date": "2020-12-06", 
+                  "datetime": "20201206", 
+                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201206-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201206-VANILLA.zip", 
+                  "sha256": "30676f35d9ae71da1cd595c247acafcae4e35ed76251e2ccbac43febfd47c2ff", 
+                  "size": "1045476581", 
                   "type": "community", 
                   "version": "v11.0"
                 }
