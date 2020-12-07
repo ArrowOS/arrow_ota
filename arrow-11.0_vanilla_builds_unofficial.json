@@ -193,16 +193,16 @@
     ], 
     "sanders": [
         {
-            "changelog": "Kernel Test", 
-            "date": "2020-11-27", 
-            "datetime": "20201127", 
-            "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201127-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201127-VANILLA.zip", 
+            "changelog": "Fixed Maps Force Close", 
+            "date": "2020-12-07", 
+            "datetime": "20201207", 
+            "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201207-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201207-VANILLA.zip", 
             "maintainer": "Ashwatthama", 
             "model": "Moto G (5S) Plus", 
             "oem": "motorola", 
-            "sha256": "596a73850af942951e5acc652164d03fe7d5a7e71c081819a278ff4012de773b", 
-            "size": "740556933", 
+            "sha256": "32f0c17bc1afb81fd7fd39b0a27c9f3a7d749168521fcffeb767479a3e8f8b92", 
+            "size": "740491775", 
             "type": "unofficial", 
             "version": "v11.0"
         }
