@@ -1065,7 +1065,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Kernel upstreamed to linux version 4.4.246\r\n- Merged LA.UM.8.2.r1-07500-sdm660.0 caf tag into the kernel\r\n- Update aptx blobs from redfin-user-11-RD1A.201105.003.A1-6886512-release-keys\r\n- Added Gcam Go \r\n- Misc changes", 
+      "changelog": "- Miui Chargeonlymode", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -1103,12 +1103,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2020-12-07", 
-                  "datetime": "20201207", 
-                  "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201207-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201207-VANILLA.zip", 
-                  "sha256": "e898263f2d48b58eef4db6a9bbbabd4138f4d6c9f54b01d78b05083fec838ebf", 
-                  "size": "779155961", 
+                  "date": "2020-12-08", 
+                  "datetime": "20201208", 
+                  "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201208-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201208-VANILLA.zip", 
+                  "sha256": "9e13d521c18943f185637201fc6496b43c16f96eac047336a2458b350d56bade", 
+                  "size": "778778421", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
