@@ -113,16 +113,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Upstreamed kernel to 4.4.210\r\n\u2022 Fixed XiaomiParts icon in dark mode", 
-            "date": "2020-12-05", 
-            "datetime": "20201205", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201205-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201205-VANILLA.zip", 
+            "changelog": "\u2022 Upstreamed kernel to 4.4.211", 
+            "date": "2020-12-09", 
+            "datetime": "20201209", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201209-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201209-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "0ad29708c712e942e1b3d43acc636f626e85469fac9730027859c5c5da893313", 
-            "size": "1108702202", 
+            "sha256": "9c26abf9cccc375b4fd28f0784d6c1259478c4f9aadaddf1ae64598596d2c81d", 
+            "size": "1113321100", 
             "type": "official", 
             "version": "v11.0"
         }
