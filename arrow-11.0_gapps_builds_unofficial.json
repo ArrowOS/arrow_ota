@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "27/11/2020\r\n-Upstreamed the kernel to Linux 4.14.209\r\n26/11/2020\r\n-Fixed proximity sensor not turning off AOD\r\n21/11/2020\r\n-All issues regarding FOD have been fixed\r\n-Upstreamed the kernel to Linux 4.14.207\r\n19/11/2020\r\n-Fixed FOD with hidden gesture pill\r\n18/11/2020\r\n-Added Spanish translations to device specific settings\r\n16/11/2020\r\n-Fixed FOD on AOD\r\n-Updated VantomKernel\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Clean flash is MANDATORY if coming from the OFFICIAL release from 12/11/2020 or earlier\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-11-27", 
-            "datetime": "20201127", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201127-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201127-GAPPS.zip", 
+            "changelog": "08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Fixed Google Recorder\r\n-Upstreamed the kernel to Linux 4.14.210\r\n01/12/2020\r\n-General improvements to FOD animations and FOD icon\r\n29/11/2020\r\n-Fixed default camera app (you may need to clear its storage)\r\n-Added more options to Display color settings and improve the UI\r\n28/11/2020\r\n-Added display color settings (KCAL)\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2020-12-09", 
+            "datetime": "20201209", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201209-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201209-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "14923305595cf99c8859b3851ae1fbb12029a598d4b0310dc69e87e48d68bb2c", 
-            "size": "1219854189", 
+            "sha256": "78883fa89ff25d23ce9345cf050ad262fc52ed356aa9f1b4a859064e6db7af58", 
+            "size": "1351168240", 
             "type": "unofficial", 
             "version": "v11.0"
         }
