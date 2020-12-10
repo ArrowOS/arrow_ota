@@ -209,16 +209,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Initial build", 
-            "date": "2020-11-17", 
-            "datetime": "20201117", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201117-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201117-GAPPS.zip", 
+            "changelog": "- Fixed recorder issue\r\n- Upstream power profile\r\n- Added 4k video recording support\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2020-12-10", 
+            "datetime": "20201210", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201210-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201210-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "0915b6f8274719c71d5da6ff4fbd317ac290cd297d7558e95eee0c446108b1c4", 
-            "size": "880733046", 
+            "sha256": "22f72803b51dff4e6aa15fa76f84d3fd17887ea34ed8f52d37da8d5ac62084a3", 
+            "size": "925306542", 
             "type": "official", 
             "version": "v11.0"
         }
