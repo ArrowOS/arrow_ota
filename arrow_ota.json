@@ -969,7 +969,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- Fixed inconsistencies in Wi-Fi range\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n\r\nNote:\r\n- Unified builds", 
+      "changelog": "- Fixed recorder issue\r\n- Upstream power profile\r\n- Added 4k video recording support\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -991,12 +991,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-09", 
-                  "datetime": "20201209", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20201209-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201209-VANILLA.zip", 
-                  "sha256": "04057f69eaa18b500fc7632ab98c0c2a7b6dd1ce5cfa20883737f91efb16d7cc", 
-                  "size": "712688136", 
+                  "date": "2020-12-10", 
+                  "datetime": "20201210", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20201210-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201210-VANILLA.zip", 
+                  "sha256": "632297d1742e12e4d883fd52a51c413f62b22065684004698bd5a46bf3f8eaa9", 
+                  "size": "714476456", 
                   "type": "official", 
                   "version": "v11.0"
                 }
