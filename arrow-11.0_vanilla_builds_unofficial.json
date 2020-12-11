@@ -225,16 +225,16 @@
     ], 
     "violet": [
         {
-            "changelog": "Xiaomi parts", 
-            "date": "2020-12-10", 
-            "datetime": "20201210", 
-            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201210-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201210-VANILLA.zip", 
+            "changelog": "Violet parts", 
+            "date": "2020-12-11", 
+            "datetime": "20201211", 
+            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201211-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201211-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "a029ca7e126564c69f277176a206b16c2b0716a1c4e3565d708001d7d1784be6", 
-            "size": "929907318", 
+            "sha256": "8ca59de27f11a497dc78a09d9f1ddbb7025b8818b82340805a50767719de7ca8", 
+            "size": "932669760", 
             "type": "unofficial", 
             "version": "v11.0"
         }
