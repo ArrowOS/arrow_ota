@@ -18,15 +18,15 @@
     "lavender": [
         {
             "changelog": "- Fixed Tether Issues\r\n- Enable QPower and Deep sleep at the same time\r\n- WFD patches\r\n- Add new config overlay for call composer\r\n- Update ExFAT Driver\r\n- Switch to 1.0 Vibrator Hal\r\n- Upstream Predator Kernel HMP", 
-            "date": "2020-12-09", 
-            "datetime": "20201209", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201209-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201209-VANILLA.zip", 
+            "date": "2020-12-11", 
+            "datetime": "20201211", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201211-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201211-VANILLA.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "232b51b5f840cecc415f3903eb757f4fb9b221b8b9a3e8e05afe389a6100eaf3", 
-            "size": "924969355", 
+            "sha256": "df38ddd73d3afb6acbcbea921f19f1bcea55c27fc0242cca8009aea4ca23eccf", 
+            "size": "925464783", 
             "type": "community", 
             "version": "v11.0"
         }
