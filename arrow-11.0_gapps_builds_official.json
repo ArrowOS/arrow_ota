@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "10/12/2020\r\n-Fixed KCAL settings not working sometimes\r\n08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Upstreamed the kernel to Linux 4.14.210\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-12-11", 
-            "datetime": "20201211", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201211-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201211-GAPPS.zip", 
+            "changelog": "12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n10/12/2020\r\n-Fixed KCAL settings not working sometimes\r\n08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Upstreamed the kernel to Linux 4.14.210\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2020-12-12", 
+            "datetime": "20201212", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201212-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201212-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "d74a25b8bb30b8c910d8f35ba9b68b18b0d23ca29aeb69ff74d52ab94e4726f7", 
-            "size": "1190763787", 
+            "sha256": "5c9f492bd422255a66b3d2d2e8fdca07ce938d0fb3b842ac97fdeed2bad78792", 
+            "size": "1315206139", 
             "type": "official", 
             "version": "v11.0"
         }
