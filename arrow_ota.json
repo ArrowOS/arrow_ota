@@ -34,6 +34,22 @@
                 }
               ]
             }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-12-12", 
+                  "datetime": "20201212", 
+                  "filename": "Arrow-v11.0-beryllium-UNOFFICIAL-20201212-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-UNOFFICIAL-20201212-VANILLA.zip", 
+                  "sha256": "6d56db5fbd1dc32636062f3f2a7e2ee7f4b1c068974e4eb0c3964a0dd5e863b7", 
+                  "size": "858149777", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
           ]
         }
       ]
