@@ -81,16 +81,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Added KCAL to xiaomi parts\r\n- Switched to AOSP clang for kernel build\r\n- Disabled deprecated configstore\r\n- Kernel upstreamed to v4.14.211 and LA.UM.9.11.r1-02400-NICOBAR.0\r\n- Misc changes for infra", 
-            "date": "2020-12-10", 
-            "datetime": "20201210", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20201210-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20201210-GAPPS.zip", 
+            "changelog": "- Fixed FM radio\r\n- Fixed wired headset buttons\r\n- Fixed random reboots in extended 4G sessions\r\n- Updated xiaomi parts translations", 
+            "date": "2020-12-12", 
+            "datetime": "20201212", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20201212-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20201212-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "188ebf305c8a9dfb7db1bb7aa6dd2e7ec6072a1679adbe1803fec98a3bd84a9c", 
-            "size": "1093933881", 
+            "sha256": "b3be4dfc05847f37d26a99c4ca3aefac709691d2d23f620d6fe18a31f0b4d639", 
+            "size": "1095391698", 
             "type": "official", 
             "version": "v11.0"
         }
