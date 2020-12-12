@@ -241,16 +241,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Fixed inconsistencies in Wi-Fi range\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2020-12-09", 
-            "datetime": "20201209", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201209-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201209-GAPPS.zip", 
+            "changelog": "- Fixed recorder issue\r\n- Upstream power profile\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Fixed a possible Gcam crash\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2020-12-12", 
+            "datetime": "20201212", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201212-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201212-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "1d0bb542081a914054bb3b8889118b1b9fe7cf266e3f8ee876fd162438c45716", 
-            "size": "924519721", 
+            "sha256": "75c0e44e797aafd29d77f24afc602c6ffab28e39b061145f91693fce6485dddf", 
+            "size": "904738117", 
             "type": "official", 
             "version": "v11.0"
         }
