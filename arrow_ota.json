@@ -405,6 +405,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-12-12", 
+                  "datetime": "20201212", 
+                  "filename": "Arrow-v11.0-land-UNOFFICIAL-20201212-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/land/Arrow-v11.0-land-UNOFFICIAL-20201212-GAPPS.zip", 
+                  "sha256": "f714fb304e3d76adee82ee9d8d484c542f052674d5309f933b369bd4632ff62f", 
+                  "size": "1049517223", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-12-10", 
