@@ -33,16 +33,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n10/12/2020\r\n-Fixed KCAL settings not working sometimes\r\n08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Upstreamed the kernel to Linux 4.14.210\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-12-12", 
-            "datetime": "20201212", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201212-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201212-VANILLA.zip", 
+            "changelog": "13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n10/12/2020\r\n-Fixed KCAL settings not working sometimes\r\n08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Upstreamed the kernel to Linux 4.14.210\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2020-12-13", 
+            "datetime": "20201213", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201213-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201213-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "10fd69bfe8d4ee3c335d8f19c2c7cae33ad04920c9861e692b6996df286c9568", 
-            "size": "991311502", 
+            "sha256": "55e1cbd1a0345f555ca7695560e5e5b6103aa4749f0b2623b2292871d280b9f5", 
+            "size": "991962596", 
             "type": "official", 
             "version": "v11.0"
         }
