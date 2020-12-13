@@ -241,16 +241,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Fixed offline charging\r\n- Fixed recorder issue\r\n- Upstream power profile\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Fixed a possible Gcam crash\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2020-12-12", 
-            "datetime": "20201212", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201212-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201212-GAPPS.zip", 
+            "changelog": "- Fixed HDR\r\n- Fixed offline charging\r\n- Fixed recorder issue\r\n- Upstream power profile\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Fixed a possible Gcam crash\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds\r\n- Google voice match should be working now while screen on.", 
+            "date": "2020-12-13", 
+            "datetime": "20201213", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201213-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201213-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "1b12131a78311988575d1aa1bf1a73a2d0d703167970e896ac50a2dfe1e71889", 
-            "size": "1002515573", 
+            "sha256": "37a9e2a1b86865088294b14eeb6e3f07fac578b49bc063d8133e7e427dfacd80", 
+            "size": "1003820708", 
             "type": "official", 
             "version": "v11.0"
         }
