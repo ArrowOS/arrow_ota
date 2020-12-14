@@ -81,16 +81,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Upstreamed kernel to 4.14.206\r\n\u2022 Fixed OK Google Hotword enrollment\r\n\u2022 Rebased trees to be more oss now", 
-            "date": "2020-11-14", 
-            "datetime": "20201114", 
-            "filename": "Arrow-v11.0-miatoll-UNOFFICIAL-20201114-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-UNOFFICIAL-20201114-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2020-12-14", 
+            "datetime": "20201214", 
+            "filename": "Arrow-v11.0-miatoll-UNOFFICIAL-20201214-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-UNOFFICIAL-20201214-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "8fc6b56f80bb5d3f7c9918c46a2a2f4197006e3ba08aae285f743aa72c34dd95", 
-            "size": "1102438697", 
+            "sha256": "447e2d6970dc22fe54b7cb56ed6d83db72479199f197a60695cbb2a63e893619", 
+            "size": "1112725715", 
             "type": "unofficial", 
             "version": "v11.0"
         }
