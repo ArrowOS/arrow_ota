@@ -238,5 +238,21 @@
             "type": "unofficial", 
             "version": "v11.0"
         }
+    ], 
+    "whyred": [
+        {
+            "changelog": "- Deepsleep YO!", 
+            "date": "2020-12-14", 
+            "datetime": "20201214", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201214-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201214-GAPPS.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi Note 5", 
+            "oem": "Xiaomi", 
+            "sha256": "d531131340f3e460b10cb6b0686759d822428c2693985cf2959bf60908a8f0a8", 
+            "size": "1102489644", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
     ]
 }
