@@ -81,16 +81,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Fixed FM radio\r\n- Fixed wired headset buttons\r\n- Fixed random reboots in extended 4G sessions\r\n- Updated xiaomi parts translations", 
-            "date": "2020-12-13", 
-            "datetime": "20201213", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20201213-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20201213-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2020-12-14", 
+            "datetime": "20201214", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20201214-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20201214-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "cea55311bdd46c7371d7a241dbb146bedff8d668a873d6f66521085fffefcfb2", 
-            "size": "1191877075", 
+            "sha256": "1cac9a2168d3aac89f8143e90b36f9c30f9d963f6ad64ec043727c3b22ace142", 
+            "size": "1192964124", 
             "type": "official", 
             "version": "v11.0"
         }
