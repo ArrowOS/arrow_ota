@@ -357,7 +357,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "Enforcing selinux and new stuff", 
+      "changelog": "New clean trees", 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "Xiaomi", 
@@ -379,12 +379,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-13", 
-                  "datetime": "20201213", 
-                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201213-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201213-VANILLA.zip", 
-                  "sha256": "2092dd7a74cb407acd8b41a6cdee26bf3ffe1d68a4e556fba0c16894eca794f5", 
-                  "size": "855424705", 
+                  "date": "2020-12-14", 
+                  "datetime": "20201214", 
+                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201214-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201214-VANILLA.zip", 
+                  "sha256": "e1f9fd51cc3e782a6d8b04b4bff6d2b90c88c613b200780bdc414a7629aeb118", 
+                  "size": "835988626", 
                   "type": "community", 
                   "version": "v11.0"
                 }
