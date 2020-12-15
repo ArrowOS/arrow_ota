@@ -34,15 +34,15 @@
     "davinci": [
         {
             "changelog": "13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n10/12/2020\r\n-Fixed KCAL settings not working sometimes\r\n08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Upstreamed the kernel to Linux 4.14.210\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-12-14", 
-            "datetime": "20201214", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201214-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201214-VANILLA.zip", 
+            "date": "2020-12-15", 
+            "datetime": "20201215", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201215-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201215-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "a2c8b3f6310a1e66311209aba9d8c3366a65f5a5499311f7dc10583dc8224fc8", 
-            "size": "992039341", 
+            "sha256": "baa1ef43a05ee2319003dcd67abd8a650d296010d581f5ea3645c2f5509075bb", 
+            "size": "992507540", 
             "type": "official", 
             "version": "v11.0"
         }
