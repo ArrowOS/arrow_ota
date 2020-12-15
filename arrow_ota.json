@@ -1061,7 +1061,7 @@
   ], 
   "violet": [
     {
-      "changelog": null, 
+      "changelog": "Updated DPM/DRM libs \r\nFixed some shutter while blur was enabled\r\nFixed GPS  crashing & warnings\r\nReverted back to 4.14.187 version of the kernel\r\nAdded Violet parts\r\nFew Wifi Fixes\r\nFix sepolicies", 
       "maintainer": "Aftab Ashrafi", 
       "model": "Redmi Note 7 Pro", 
       "oem": "Xiaomi", 
@@ -1111,12 +1111,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-14", 
-                  "datetime": "20201214", 
-                  "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201214-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201214-VANILLA.zip", 
-                  "sha256": "38f659a2fd60c304f67c5ffff1dda96f2f3bddaec808d7401bfaaa7fa17ce29b", 
-                  "size": "931445714", 
+                  "date": "2020-12-15", 
+                  "datetime": "20201215", 
+                  "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201215-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201215-VANILLA.zip", 
+                  "sha256": "9e3a6ae7ee04a01c79b5392b8267d0ac7cf99d8dd4ae8671c8bfed1ccb056a5b", 
+                  "size": "931759070", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
