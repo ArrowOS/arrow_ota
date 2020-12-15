@@ -274,15 +274,15 @@
     "whyred": [
         {
             "changelog": "- Fixed Deepsleep\r\n- Kernel upstreams\r\n- Misc changes", 
-            "date": "2020-12-14", 
-            "datetime": "20201214", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201214-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201214-GAPPS.zip", 
+            "date": "2020-12-15", 
+            "datetime": "20201215", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201215-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201215-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "c68ae4c56d42223d065f55c8cf40da9d4e1528519cd8171a7ef94e07578f8c57", 
-            "size": "1103008729", 
+            "sha256": "5567aeff972acf95bc70507de0f555b2e8f45d3e89ba02c376da71b1b989a6ad", 
+            "size": "1103308994", 
             "type": "official", 
             "version": "v11.0"
         }
