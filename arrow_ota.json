@@ -761,7 +761,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- Kernel upstreamed to 4.14.212\r\n- Fixed low audio recording issues with some apps\r\n- Added gcam go\r\n- Provide shim for libcameraservice.so\r\n- Misc changes", 
+      "changelog": "- Video Rec", 
       "maintainer": "Sreekanth", 
       "model": "Redmi K30", 
       "oem": "Redmi", 
@@ -799,12 +799,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2020-12-14", 
-                  "datetime": "20201214", 
-                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20201214-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20201214-VANILLA.zip", 
-                  "sha256": "2946e4a0fd895dce27e253601dc6bd28a663814d8bb910bd0d0ecdeb3509e1fc", 
-                  "size": "684517746", 
+                  "date": "2020-12-15", 
+                  "datetime": "20201215", 
+                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20201215-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20201215-VANILLA.zip", 
+                  "sha256": "13ac963a14c89eef456238785879218a8fb6da5e8a06ee05f6e70726aa596124", 
+                  "size": "696479745", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
