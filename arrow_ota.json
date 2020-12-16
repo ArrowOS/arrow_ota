@@ -465,7 +465,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed Tether Issues\r\n- Enable QPower and Deep sleep at the same time\r\n- WFD patches\r\n- Add new config overlay for call composer\r\n- Update ExFAT Driver\r\n- Switch to 1.0 Vibrator Hal\r\n- Upstream Predator Kernel HMP", 
+      "changelog": "- Fixed Deepsleep\r\n- Clean up XiaomiParts\r\n- Clean up Media stuffs\r\n- Shim for some libs\r\n- Redfin FP for December SPL\r\n- Predator-Stormbreaker HMP inline", 
       "maintainer": "Hazama25, ak940s", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -475,12 +475,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-15", 
-                  "datetime": "20201215", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201215-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201215-GAPPS.zip", 
-                  "sha256": "fdbfa35e32177fb1bd115252e3921ce541f1409771fa41aee6e3797f774aeeff", 
-                  "size": "1246297329", 
+                  "date": "2020-12-16", 
+                  "datetime": "20201216", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201216-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201216-GAPPS.zip", 
+                  "sha256": "ef5313f2220cb29d55434c0061ddd237c0ad8cff8e0a108bdc3c635fb429c98f", 
+                  "size": "1247524825", 
                   "type": "community", 
                   "version": "v11.0"
                 }
