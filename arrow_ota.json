@@ -1127,6 +1127,34 @@
       ]
     }
   ], 
+  "wayne": [
+    {
+      "changelog": "- Initial build.", 
+      "maintainer": "TH779", 
+      "model": "MI 6X", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2020-12-17", 
+                  "datetime": "20201217", 
+                  "filename": "Arrow-v11.0-wayne-UNOFFICIAL-20201217-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/wayne/Arrow-v11.0-wayne-UNOFFICIAL-20201217-GAPPS.zip", 
+                  "sha256": "738895fc53ede35ded3eda5b3ee6ac0524eb7d4a66141a3b362f4ad3c1e63d57", 
+                  "size": "1092709516", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "whyred": [
     {
       "changelog": "- Fixed Deepsleep\r\n- Kernel upstreams\r\n- Misc changes", 
