@@ -257,16 +257,16 @@
     ], 
     "violet": [
         {
-            "changelog": null, 
-            "date": "2020-12-16", 
-            "datetime": "20201216", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20201216-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201216-GAPPS.zip", 
+            "changelog": "Kernel Upstream to 4.14.206\r\nAdded Violet parts (Fps info, Selinux mode, USB Fast charge, Dirac)\r\nFixed Wifi Disconnect problem on low signal\r\nUpdated DPM/DRM libs \r\nFixed high idle drain\r\nFixed some shutter while blur was enabled\r\nFixed GPS crash and log spam related to it", 
+            "date": "2020-12-17", 
+            "datetime": "20201217", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201217-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201217-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "91c3a74d201e5af13d041e8e2559fcf048e125f0cbd4b3f8d9b70eaaeaf599c9", 
-            "size": "1250995247", 
+            "sha256": "e8cbc5b4b67912ce558cab8b387970ed6b95ec3d5c9c76493d38f2898f778c70", 
+            "size": "1257561557", 
             "type": "official", 
             "version": "v11.0"
         }
