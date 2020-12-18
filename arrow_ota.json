@@ -465,7 +465,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed Deepsleep\r\n- Clean up XiaomiParts\r\n- Clean up Media stuffs\r\n- Shim for some libs\r\n- Redfin FP for December SPL\r\n- Set QSPanel Rows to 2\r\n- Predator-Stormbreaker HMP inline", 
+      "changelog": "- Fixed Deepsleep\r\n- Clean up XiaomiParts\r\n- Clean up Media stuffs\r\n- Shim for some libs\r\n- Redfin FP for December SPL\r\n- Predator-Stormbreaker HMP inline", 
       "maintainer": "Hazama25, ak940s", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -487,12 +487,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-17", 
-                  "datetime": "20201217", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201217-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201217-VANILLA.zip", 
-                  "sha256": "8446c99bdcd3a8fcf28064bbf20eb62808c6c240c5ce433864845c2ada41cf25", 
-                  "size": "926783035", 
+                  "date": "2020-12-18", 
+                  "datetime": "20201218", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201218-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201218-VANILLA.zip", 
+                  "sha256": "a4344f4f3194dae8357f733341b9ea246e373f6da7e0069d9b7c69cf2ea44745", 
+                  "size": "926042449", 
                   "type": "community", 
                   "version": "v11.0"
                 }
