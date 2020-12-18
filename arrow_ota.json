@@ -1137,6 +1137,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-12-18", 
+                  "datetime": "20201218", 
+                  "filename": "Arrow-v11.0-wayne-OFFICIAL-20201218-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/wayne/Arrow-v11.0-wayne-OFFICIAL-20201218-GAPPS.zip", 
+                  "sha256": "2312bf26a2f688fbcb8f4b6ef932643b027bad99073d60b4638d7d1c0c4d5e17", 
+                  "size": "1094082672", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-12-18", 
