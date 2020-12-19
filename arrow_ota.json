@@ -1157,7 +1157,7 @@
   ], 
   "wayne": [
     {
-      "changelog": "- Initial build.", 
+      "changelog": null, 
       "maintainer": "TH779", 
       "model": "MI 6X", 
       "oem": "Xiaomi", 
@@ -1179,12 +1179,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-18", 
-                  "datetime": "20201218", 
-                  "filename": "Arrow-v11.0-wayne-OFFICIAL-20201218-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/wayne/Arrow-v11.0-wayne-OFFICIAL-20201218-VANILLA.zip", 
-                  "sha256": "5f26a7ad3966c0c4cec64b7a3436d2fd1955090c5bc2447fba041e7fffb47f23", 
-                  "size": "775013710", 
+                  "date": "2020-12-19", 
+                  "datetime": "20201219", 
+                  "filename": "Arrow-v11.0-wayne-OFFICIAL-20201219-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/wayne/Arrow-v11.0-wayne-OFFICIAL-20201219-VANILLA.zip", 
+                  "sha256": "0ab105aa0602f016662f9a2fcd74d3d2f3cc27a547405bb22d2e1e0ad4f7e270", 
+                  "size": "775730927", 
                   "type": "official", 
                   "version": "v11.0"
                 }
