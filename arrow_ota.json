@@ -145,6 +145,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-12-19", 
+                  "datetime": "20201219", 
+                  "filename": "Arrow-v11.0-clover-OFFICIAL-20201219-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/clover/Arrow-v11.0-clover-OFFICIAL-20201219-GAPPS.zip", 
+                  "sha256": "b202ebc04801d2f555df86dca6b6626dc7c221a475e842d3e2c7fff57ccd6c5a", 
+                  "size": "1096834566", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-12-19", 

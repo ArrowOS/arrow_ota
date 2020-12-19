@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "clover": [
+        {
+            "changelog": "- Initial build.", 
+            "date": "2020-12-19", 
+            "datetime": "20201219", 
+            "filename": "Arrow-v11.0-clover-OFFICIAL-20201219-GAPPS.zip", 
+            "filepath": "/arrow-11.0/clover/Arrow-v11.0-clover-OFFICIAL-20201219-GAPPS.zip", 
+            "maintainer": "TH779", 
+            "model": "MI PAD 4", 
+            "oem": "Xiaomi", 
+            "sha256": "b202ebc04801d2f555df86dca6b6626dc7c221a475e842d3e2c7fff57ccd6c5a", 
+            "size": "1096834566", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "18/12/2020\r\n-Fixed Google Recorder\r\n13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
