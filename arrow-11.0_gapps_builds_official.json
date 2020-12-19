@@ -258,15 +258,15 @@
     "surya": [
         {
             "changelog": "- Add keylayouts for headphone jack volume control\r\n- Fixed notification led\r\n- Fixed HDR\r\n- Fixed offline charging\r\n- Fixed recorder issue\r\n- Upstream power profile\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Fixed a possible Gcam crash\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds\r\n- Google voice match should be working now while screen on.", 
-            "date": "2020-12-18", 
-            "datetime": "20201218", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201218-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201218-GAPPS.zip", 
+            "date": "2020-12-19", 
+            "datetime": "20201219", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20201219-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201219-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "a94e1a84a5047c4d25bf7d5d8a44a3ecc7b3429b5ebf4ba6fa9982a00664527e", 
-            "size": "1017599816", 
+            "sha256": "f6154cbdcef59607dff53c8e8ed2cdef9c2eb852a1f9bd89adddf672c1a9498e", 
+            "size": "1017577863", 
             "type": "official", 
             "version": "v11.0"
         }
