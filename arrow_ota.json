@@ -1185,7 +1185,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Fixed Deepsleep\r\n- Kernel upstreams\r\n- Misc changes", 
+      "changelog": "- Rebased kernel", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -1235,12 +1235,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-14", 
-                  "datetime": "20201214", 
-                  "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201214-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201214-VANILLA.zip", 
-                  "sha256": "7c115c86e92417ac03fae6d02b43b344ed1278e1e8b9460af1d34ffa9cf0f315", 
-                  "size": "782181593", 
+                  "date": "2020-12-19", 
+                  "datetime": "20201219", 
+                  "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201219-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201219-VANILLA.zip", 
+                  "sha256": "acce96099230a609cfbcd5dcf3b4b15890baa1f6be1f9239c3cc4ae3d62e8128", 
+                  "size": "782555492", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
