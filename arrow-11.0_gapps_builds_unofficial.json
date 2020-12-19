@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "clover": [
+        {
+            "changelog": "- Initial build.", 
+            "date": "2020-12-19", 
+            "datetime": "20201219", 
+            "filename": "Arrow-v11.0-clover-UNOFFICIAL-20201219-GAPPS.zip", 
+            "filepath": "/arrow-11.0/clover/Arrow-v11.0-clover-UNOFFICIAL-20201219-GAPPS.zip", 
+            "maintainer": "TH779", 
+            "model": "MI PAD 4", 
+            "oem": "Xiaomi", 
+            "sha256": "482d1c1426931f95b3a957e8ad6b50fa3159aad46b7dc5653f1a42d5930663db", 
+            "size": "1096276092", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "10/12/2020\r\n-Fixed KCAL settings not working sometimes\r\n08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Upstreamed the kernel to Linux 4.14.210\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
