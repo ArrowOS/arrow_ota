@@ -543,12 +543,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-18", 
-                  "datetime": "20201218", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201218-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201218-VANILLA.zip", 
-                  "sha256": "a4344f4f3194dae8357f733341b9ea246e373f6da7e0069d9b7c69cf2ea44745", 
-                  "size": "926042449", 
+                  "date": "2020-12-20", 
+                  "datetime": "20201220", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20201220-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201220-VANILLA.zip", 
+                  "sha256": "a66939db09abd31fb8f111730555c1898e6f6f230f0c2561b7d98477aa1ebf0b", 
+                  "size": "926319645", 
                   "type": "community", 
                   "version": "v11.0"
                 }
