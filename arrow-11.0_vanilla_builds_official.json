@@ -273,16 +273,16 @@
     ], 
     "violet": [
         {
-            "changelog": "Kernel Upstream to 4.14.206\r\nAdded Violet parts (Fps info, Selinux mode, USB Fast charge, Dirac)\r\nFixed Wifi Disconnect problem on low signal\r\nUpdated DPM/DRM libs \r\nFixed high idle drain\r\nFixed some shutter while blur was enabled\r\nFixed GPS crash and log spam related to it", 
-            "date": "2020-12-19", 
-            "datetime": "20201219", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20201219-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201219-VANILLA.zip", 
+            "changelog": "ENCRYPTED BUILD IS HERE\r\nSwitched to azure R kernel (perf+ 4.14.212)", 
+            "date": "2020-12-21", 
+            "datetime": "20201221", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201221-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201221-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "85970e85ee337fe1590566a8d5e2a9d792bda019608089e167fbfb169fdb54cc", 
-            "size": "933913875", 
+            "sha256": "1a84393c5d96e96e4167bcee3c7ff320cfc9a37742beca1ebae57c8c8bcfa955", 
+            "size": "936798861", 
             "type": "official", 
             "version": "v11.0"
         }

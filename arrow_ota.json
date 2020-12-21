@@ -1117,7 +1117,7 @@
   ], 
   "violet": [
     {
-      "changelog": "kernel update should boot by default", 
+      "changelog": "ENCRYPTED BUILD IS HERE\r\nSwitched to azure R kernel (perf+ 4.14.212)", 
       "maintainer": "Aftab Ashrafi", 
       "model": "Redmi Note 7 Pro", 
       "oem": "Xiaomi", 
@@ -1139,12 +1139,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-19", 
-                  "datetime": "20201219", 
-                  "filename": "Arrow-v11.0-violet-OFFICIAL-20201219-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201219-VANILLA.zip", 
-                  "sha256": "85970e85ee337fe1590566a8d5e2a9d792bda019608089e167fbfb169fdb54cc", 
-                  "size": "933913875", 
+                  "date": "2020-12-21", 
+                  "datetime": "20201221", 
+                  "filename": "Arrow-v11.0-violet-OFFICIAL-20201221-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201221-VANILLA.zip", 
+                  "sha256": "1a84393c5d96e96e4167bcee3c7ff320cfc9a37742beca1ebae57c8c8bcfa955", 
+                  "size": "936798861", 
                   "type": "official", 
                   "version": "v11.0"
                 }
