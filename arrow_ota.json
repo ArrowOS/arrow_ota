@@ -669,7 +669,7 @@
   ], 
   "mido": [
     {
-      "changelog": "- hals upstream\r\n- misc fixes", 
+      "changelog": "- Upstream device source to 4.9", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Redmi Note 4", 
       "oem": "Xiaomi", 
@@ -679,12 +679,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-16", 
-                  "datetime": "20201216", 
-                  "filename": "Arrow-v11.0-mido-OFFICIAL-20201216-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201216-GAPPS.zip", 
-                  "sha256": "8060a58b0c23ea9b9ec588334cc4752099c2f5510977ad7b5b4555a6d605d73c", 
-                  "size": "1031352966", 
+                  "date": "2020-12-21", 
+                  "datetime": "20201221", 
+                  "filename": "Arrow-v11.0-mido-OFFICIAL-20201221-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201221-GAPPS.zip", 
+                  "sha256": "cd3f0d8b301578cbe6f8cd710834e345d58f42c8b16e91280180634208789a5e", 
+                  "size": "1034138207", 
                   "type": "official", 
                   "version": "v11.0"
                 }
