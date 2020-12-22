@@ -225,16 +225,16 @@
     ], 
     "violet": [
         {
-            "changelog": "kernel update should boot by default", 
-            "date": "2020-12-20", 
-            "datetime": "20201220", 
-            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201220-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201220-VANILLA.zip", 
+            "changelog": "old fstab", 
+            "date": "2020-12-22", 
+            "datetime": "20201222", 
+            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20201222-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20201222-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "8119112b70139e86caaa7e288f69c2b4a7073c3d3ab1f7a595c8bda48c7e450b", 
-            "size": "934659217", 
+            "sha256": "82f8735091d117b6f89e4798a69f4ffb0a22874b7e6ae7b6d036a7797b8e128e", 
+            "size": "934878812", 
             "type": "unofficial", 
             "version": "v11.0"
         }
