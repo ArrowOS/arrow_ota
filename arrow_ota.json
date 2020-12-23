@@ -561,9 +561,9 @@
   ], 
   "lmi": [
     {
-      "changelog": "- dirty flash is broken, be aware of this for updating", 
+      "changelog": "- trying new tree made by TH779, DT2W fixed", 
       "maintainer": "TH779, lamp216", 
-      "model": "POCO F2 PRO", 
+      "model": "Redmi K30 Pro", 
       "oem": "POCO", 
       "v10.0": [
         {
@@ -571,12 +571,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-11-26", 
-                  "datetime": "20201126", 
-                  "filename": "Arrow-v10.0-lmi-UNOFFICIAL-20201126-GAPPS.zip", 
-                  "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-UNOFFICIAL-20201126-GAPPS.zip", 
-                  "sha256": "9595e41f6c8abceda32fa1d7dbeb7c61409c19f5c0187f5182aa822dbe5d63e6", 
-                  "size": "761063532", 
+                  "date": "2020-12-23", 
+                  "datetime": "20201223", 
+                  "filename": "Arrow-v10.0-lmi-UNOFFICIAL-20201223-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-UNOFFICIAL-20201223-GAPPS.zip", 
+                  "sha256": "e4d68f6ce2ed019e49f2d213ae6ff5d2b4d165be8f6914095a2939f1911cd4b0", 
+                  "size": "737508095", 
                   "type": "unofficial", 
                   "version": "v10.0"
                 }
