@@ -49,16 +49,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "19/12/2020\r\n-Switched to BantomKernel\r\n-Minor FOD fix\r\n18/12/2020\r\n-Fixed Google Recorder\r\n13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-12-22", 
-            "datetime": "20201222", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201222-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201222-GAPPS.zip", 
+            "changelog": "23/12/2020\r\n-Upstreamed the kernel to Linux 4.14.212\r\n-Enabled Ambient Display related options\r\n19/12/2020\r\n-Switched to BantomKernel\r\n-Minor FOD fix\r\n18/12/2020\r\n-Fixed Google Recorder\r\n13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2020-12-23", 
+            "datetime": "20201223", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201223-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201223-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "fcdf3d56a5bead6e900ef96cbc1ec545a27b2eb5463d797193df7295b674f17d", 
-            "size": "1316464403", 
+            "sha256": "934fd7252713852d707b4944f3101edae0e222e98907371e5e657d64ee9f145d", 
+            "size": "1316125646", 
             "type": "official", 
             "version": "v11.0"
         }
