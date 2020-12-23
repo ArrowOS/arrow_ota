@@ -193,7 +193,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "19/12/2020\r\n-Switched to BantomKernel\r\n-Minor FOD fix\r\n18/12/2020\r\n-Fixed Google Recorder\r\n13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+      "changelog": "23/12/2020\r\n-Upstreamed the kernel to Linux 4.14.212\r\n-Enabled Ambient Display related options\r\n19/12/2020\r\n-Switched to BantomKernel\r\n-Minor FOD fix\r\n18/12/2020\r\n-Fixed Google Recorder\r\n13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
       "maintainer": "daniml3", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -215,12 +215,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-22", 
-                  "datetime": "20201222", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201222-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201222-VANILLA.zip", 
-                  "sha256": "b41fc0b42317f825ff8f4baf51658cfae77ed0d3360d1c6fc10969b4cd87886b", 
-                  "size": "992722812", 
+                  "date": "2020-12-23", 
+                  "datetime": "20201223", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201223-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201223-VANILLA.zip", 
+                  "sha256": "e45e0dc62ca7e12d5f2ba43dd1a2d74f44a5bc243c6fa29db8007c70f5460dc6", 
+                  "size": "992898143", 
                   "type": "official", 
                   "version": "v11.0"
                 }
