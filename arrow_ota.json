@@ -1241,7 +1241,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Rebased kernel", 
+      "changelog": "- Rebased kernel\r\n- Import carrier settings from redfin", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -1291,12 +1291,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-19", 
-                  "datetime": "20201219", 
-                  "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201219-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201219-VANILLA.zip", 
-                  "sha256": "acce96099230a609cfbcd5dcf3b4b15890baa1f6be1f9239c3cc4ae3d62e8128", 
-                  "size": "782555492", 
+                  "date": "2020-12-24", 
+                  "datetime": "20201224", 
+                  "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20201224-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20201224-VANILLA.zip", 
+                  "sha256": "80db190793bbf77e10b4a2028b1e82068c599f34e7cefbc72514926d443b9635", 
+                  "size": "783825260", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
