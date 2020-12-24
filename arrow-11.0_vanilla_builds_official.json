@@ -305,16 +305,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Rebased kernel", 
-            "date": "2020-12-23", 
-            "datetime": "20201223", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201223-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201223-VANILLA.zip", 
+            "changelog": "- Rebased kernel\r\n- Import CarrierSettings from redfin-user-11-RQ1A.201205.010-6953398-release-keys\r\n- Remove CarrierConfigs overlays and use CarrierSettings instead\r\n- Misc changes", 
+            "date": "2020-12-24", 
+            "datetime": "20201224", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20201224-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201224-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "6f007dbe242243127ac6123f790870b56dca2a4dd7db2510266b6eb5f8677926", 
-            "size": "784293806", 
+            "sha256": "bcd29e380ec59fd4ee5d958c404f741f6637ea4efd9a715c1fc2a53bb416dddd", 
+            "size": "785331829", 
             "type": "official", 
             "version": "v11.0"
         }
