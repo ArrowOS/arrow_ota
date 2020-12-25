@@ -273,16 +273,16 @@
     ], 
     "violet": [
         {
-            "changelog": "ENCRYPTED BUILD IS HERE\r\nSwitched to azure R kernel (perf+ 4.14.212)", 
-            "date": "2020-12-24", 
-            "datetime": "20201224", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20201224-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201224-VANILLA.zip", 
+            "changelog": "FIxed fingerprint with goodix sensor units.", 
+            "date": "2020-12-25", 
+            "datetime": "20201225", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20201225-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20201225-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "95922c0c1f481af0adf5e1871c762bd634953f6bb0e42e41d3d725033a7fe632", 
-            "size": "936916279", 
+            "sha256": "bb8673627452cb1c84e5da661ea33fc2df82632dd27c678f34c8e1f311b14427", 
+            "size": "939160536", 
             "type": "official", 
             "version": "v11.0"
         }
