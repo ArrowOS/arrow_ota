@@ -601,6 +601,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-12-27", 
+                  "datetime": "20201227", 
+                  "filename": "Arrow-v10.0-lmi-OFFICIAL-20201227-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-OFFICIAL-20201227-GAPPS.zip", 
+                  "sha256": "3613f3b1f9132fe40c920ce8355e3efc43bb72c8406e690be18a1578a217e4a3", 
+                  "size": "741013441", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-12-27", 
