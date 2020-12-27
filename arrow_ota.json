@@ -1462,5 +1462,33 @@
         }
       ]
     }
+  ], 
+  "z2_plus": [
+    {
+      "changelog": "-", 
+      "maintainer": "kubersharma001", 
+      "model": "Z2 Plus", 
+      "oem": "ZUK", 
+      "v10.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-12-27", 
+                  "datetime": "20201227", 
+                  "filename": "Arrow-v10.0-z2_plus-OFFICIAL-20201227-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/z2_plus/Arrow-v10.0-z2_plus-OFFICIAL-20201227-VANILLA.zip", 
+                  "sha256": "517131b6b0307fc87dcbb1eaee0b4d9f37ce43ca9128cb7398d5911a17e380a6", 
+                  "size": "659114951", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
