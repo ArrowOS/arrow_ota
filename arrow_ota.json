@@ -593,12 +593,28 @@
   ], 
   "lmi": [
     {
-      "changelog": "- trying new tree made by TH779, DT2W fixed\r\n\r\n- enable FOD, was disabled in last build", 
+      "changelog": "- trying new tree made by TH779, DT2W fixed\r\n\r\n- enable FOD, was disabled in last build\r\n\r\n- firmware require MIUI V12.0.8.0.QJKCNXM\r\n\r\n- clean flash recommended", 
       "maintainer": "TH779, lamp216", 
       "model": "POCO F2 Pro", 
       "oem": "POCO", 
       "v10.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-12-27", 
+                  "datetime": "20201227", 
+                  "filename": "Arrow-v10.0-lmi-OFFICIAL-20201227-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/lmi/Arrow-v10.0-lmi-OFFICIAL-20201227-VANILLA.zip", 
+                  "sha256": "b89ab9bfc7c22e5843cd9ac226167958b78adbff5944b1eb8027568942341062", 
+                  "size": "583188654", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
