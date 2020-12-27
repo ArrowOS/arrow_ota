@@ -817,7 +817,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- video recc", 
+      "changelog": "- Kernel upstreamed to 4.14.212\r\n- Wireguard upstreamed to 1.0.20201221 snapshot\r\n- Fixed low audio recording issues with some apps\r\n- Added gcam go\r\n- Provide shim for libcameraservice.so\r\n- Fixed video recording timestamp issue\r\n- Fix lag after reaching low battery percentage \r\n-  kang aptx blobs from redfin-user-11-RD1A.201105.003.A1-6886512-release-keys\r\n- Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi K30", 
       "oem": "Redmi", 
@@ -839,12 +839,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-26", 
-                  "datetime": "20201226", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201226-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201226-VANILLA.zip", 
-                  "sha256": "8a41569a4b13a7e2d9f6d406de3ae8597eabbe44ca74c065357fcd8c1f91fb22", 
-                  "size": "697900307", 
+                  "date": "2020-12-27", 
+                  "datetime": "20201227", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20201227-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20201227-VANILLA.zip", 
+                  "sha256": "59a6021638b0678df07381f2a6f2903ebf74007dbb551b6340fb54efecd84b06", 
+                  "size": "697353358", 
                   "type": "official", 
                   "version": "v11.0"
                 }
