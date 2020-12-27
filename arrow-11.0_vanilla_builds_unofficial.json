@@ -33,17 +33,17 @@
     ], 
     "davinci": [
         {
-            "changelog": "08/12/2020\r\n-Removed the \"SIM is HD capable\" notification\r\n06/12/2020\r\n-Added French and Italian translations to device specific settings\r\n04/12/2020\r\n-Upstreamed the kernel to Linux 4.14.210\r\n01/12/2020\r\n-General improvements to FOD animations and FOD icon\r\n29/11/2020\r\n-Fixed default camera app (you may need to clear its storage)\r\n-Added more options to Display color settings and improve the UI\r\n28/11/2020\r\n-Added display color settings (KCAL)\r\n\r\nNotes:\r\n- Minimum required firmware is MIUI 20.10.20 (China Beta)\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-12-10", 
-            "datetime": "20201210", 
-            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20201210-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20201210-VANILLA.zip", 
+            "changelog": "27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n23/12/2020\r\n-Upstreamed the kernel to Linux 4.14.212\r\n-Enabled Ambient Display related options\r\n19/12/2020\r\n-Switched to BantomKernel\r\n-Minor FOD fix\r\n18/12/2020\r\n-Fixed Google Recorder\r\n13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2020-12-27", 
+            "datetime": "20201227", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201227-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201227-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "2bd3fedc383adde1efdc092e56f036bf776059420c1f43f7724e0f7f6db01a7d", 
-            "size": "978442577", 
-            "type": "unofficial", 
+            "sha256": "d9a3bcac74b0b6c122046bd40b9c055f5666513a179fddd3cd03f99a5de10653", 
+            "size": "997846889", 
+            "type": "official", 
             "version": "v11.0"
         }
     ], 
