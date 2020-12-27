@@ -993,6 +993,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-12-27", 
+                  "datetime": "20201227", 
+                  "filename": "Arrow-v10.0-raphael-OFFICIAL-20201227-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20201227-GAPPS.zip", 
+                  "sha256": "67488fe06a0c23d24f47838e2e28e53dca9884f8c1ba6d810b277b0f6c1775c6", 
+                  "size": "747214544", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-12-27", 
