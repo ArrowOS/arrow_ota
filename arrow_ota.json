@@ -1513,6 +1513,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-12-28", 
+                  "datetime": "20201228", 
+                  "filename": "Arrow-v10.0-z2_row-OFFICIAL-20201228-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20201228-GAPPS.zip", 
+                  "sha256": "7bc930477ee1192aa879aaaf81691392b57ef71d817fd72fb58c7e37dc328cbb", 
+                  "size": "815451131", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-12-27", 
