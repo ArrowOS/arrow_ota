@@ -461,7 +461,7 @@
   ], 
   "ginkgo": [
     {
-      "changelog": "- fixed broken safetynet\r\n- improved xiaomi doze, added pickup sensor support\r\n- enabled display color management\r\n- enabled AAC codec for bluetooth audio\r\n- added KCAL in xiaomi parts and updated translations\r\n- upstreamed kernel to 4.14.212 and merged LA.UM.8.9.r1-11200-SM6xx.0 caf tag\r\n- few misc improvements", 
+      "changelog": null, 
       "maintainer": "Adithya R", 
       "model": "Redmi Note 8", 
       "oem": "Xiaomi", 
@@ -531,12 +531,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-11-29", 
-                  "datetime": "20201129", 
-                  "filename": "Arrow-v11.0-ginkgo-UNOFFICIAL-20201129-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-UNOFFICIAL-20201129-GAPPS.zip", 
-                  "sha256": "3f15cb6729e3e42ea980c2e8823df0cb887ee5001c9911c1653b440cd610cf8e", 
-                  "size": "1215441468", 
+                  "date": "2020-12-28", 
+                  "datetime": "20201228", 
+                  "filename": "Arrow-v11.0-ginkgo-UNOFFICIAL-20201228-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-UNOFFICIAL-20201228-GAPPS.zip", 
+                  "sha256": "8b3cbca9ea7ea30ecc9b4c4e2bf3bf4dc627d626f09d87851f6a568edd7a9c3f", 
+                  "size": "1197887442", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
