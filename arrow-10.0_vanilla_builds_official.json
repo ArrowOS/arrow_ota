@@ -177,16 +177,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- fixed deepsleep with BT on\r\n- enabled zygote preforking (USAP pool)\r\n- kernel upstreamed to v4.14.203\r\n- merged LA.UM.8.1.r1-16200-sm8150.0 CAF tag\r\n- scheduler improvements and other fixes", 
-            "date": "2020-11-09", 
-            "datetime": "20201109", 
-            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20201109-VANILLA.zip", 
-            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20201109-VANILLA.zip", 
+            "changelog": "- fixed broken safetynet\r\n- improved xiaomi doze, added pickup sensor support\r\n- enabled display color management\r\n- enabled AAC codec for bluetooth audio\r\n- added KCAL in xiaomi parts and updated translations\r\n- upstreamed kernel to 4.14.212 and merged LA.UM.8.9.r1-11200-SM6xx.0 caf tag\r\n- few misc improvements", 
+            "date": "2020-12-28", 
+            "datetime": "20201228", 
+            "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20201228-VANILLA.zip", 
+            "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20201228-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "68f058034dff5a883260b8f2e45204e83b539d135b147328ecc1687fbf205ba4", 
-            "size": "820228541", 
+            "sha256": "2899f99e2b52ce40afcf703376ebb48e3358fbb3b0567b93d15624e848119bbb", 
+            "size": "823680611", 
             "type": "official", 
             "version": "v10.0"
         }

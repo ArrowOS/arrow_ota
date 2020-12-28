@@ -461,10 +461,30 @@
   ], 
   "ginkgo": [
     {
-      "changelog": null, 
+      "changelog": "- fixed broken safetynet\r\n- improved xiaomi doze, added pickup sensor support\r\n- enabled display color management\r\n- enabled AAC codec for bluetooth audio\r\n- added KCAL in xiaomi parts and updated translations\r\n- upstreamed kernel to 4.14.212 and merged LA.UM.8.9.r1-11200-SM6xx.0 caf tag\r\n- few misc improvements", 
       "maintainer": "Adithya R", 
       "model": "Redmi Note 8", 
       "oem": "Xiaomi", 
+      "v10.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-12-28", 
+                  "datetime": "20201228", 
+                  "filename": "Arrow-v10.0-ginkgo-OFFICIAL-20201228-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/ginkgo/Arrow-v10.0-ginkgo-OFFICIAL-20201228-VANILLA.zip", 
+                  "sha256": "2899f99e2b52ce40afcf703376ebb48e3358fbb3b0567b93d15624e848119bbb", 
+                  "size": "823680611", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
       "v11.0": [
         {
           "OFFICIAL": [
