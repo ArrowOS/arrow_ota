@@ -169,10 +169,30 @@
   ], 
   "clover": [
     {
-      "changelog": "- Initial build.", 
+      "changelog": "-", 
       "maintainer": "TH779", 
       "model": "MI PAD 4", 
       "oem": "Xiaomi", 
+      "v10.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-12-28", 
+                  "datetime": "20201228", 
+                  "filename": "Arrow-v10.0-clover-OFFICIAL-20201228-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/clover/Arrow-v10.0-clover-OFFICIAL-20201228-VANILLA.zip", 
+                  "sha256": "22aeba677628540a20bb9bfb77f4026f4c836c4b706b6b786e5baaf3744a2539", 
+                  "size": "696968343", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
       "v11.0": [
         {
           "OFFICIAL": [
