@@ -18,15 +18,15 @@
     "lavender": [
         {
             "changelog": "- Fixed Deepsleep\r\n- Clean up XiaomiParts\r\n- Clean up Media stuffs\r\n- Shim for some libs\r\n- Redfin FP for December SPL\r\n- Predator-Stormbreaker HMP inline", 
-            "date": "2020-12-27", 
-            "datetime": "20201227", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201227-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201227-GAPPS.zip", 
+            "date": "2020-12-28", 
+            "datetime": "20201228", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20201228-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20201228-GAPPS.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "245c808f6a0b6f55775fc5de951035b911f361806835897dce37ad2b606592bb", 
-            "size": "1248833635", 
+            "sha256": "b47d9fd39451b689046c4033bb8b76b79dcdc4533b49c5103218bf7ba6d3adba", 
+            "size": "1248863115", 
             "type": "community", 
             "version": "v11.0"
         }
