@@ -9,6 +9,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2020-12-28", 
+                  "datetime": "20201228", 
+                  "filename": "Arrow-v10.0-A6020-OFFICIAL-20201228-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20201228-GAPPS.zip", 
+                  "sha256": "0067d9d73a467f5bc81eb33d886b4d5548474eac52c380e6fd6cb6e1eaf8a495", 
+                  "size": "735572547", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2020-12-28", 
