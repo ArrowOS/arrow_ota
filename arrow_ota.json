@@ -1502,5 +1502,33 @@
         }
       ]
     }
+  ], 
+  "z2_row": [
+    {
+      "changelog": "-", 
+      "maintainer": "kubersharma001, weimerd", 
+      "model": "ZUK Z2121", 
+      "oem": "ZUK", 
+      "v10.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2020-12-27", 
+                  "datetime": "20201227", 
+                  "filename": "Arrow-v10.0-z2_row-OFFICIAL-20201227-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/z2_row/Arrow-v10.0-z2_row-OFFICIAL-20201227-VANILLA.zip", 
+                  "sha256": "4a8e69d1f133acb675694aa77df29454312c6ce3e5afbf1c2bbde8571e53396c", 
+                  "size": "659241854", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
