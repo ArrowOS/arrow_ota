@@ -50,15 +50,15 @@
     "davinci": [
         {
             "changelog": "27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n23/12/2020\r\n-Upstreamed the kernel to Linux 4.14.212\r\n-Enabled Ambient Display related options\r\n19/12/2020\r\n-Switched to BantomKernel\r\n-Minor FOD fix\r\n18/12/2020\r\n-Fixed Google Recorder\r\n13/12/2020\r\n-Fixed WiFi Display\r\n12/12/2020\r\n-Added prebuilt Google Camera Go as default Camera App\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2020-12-28", 
-            "datetime": "20201228", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201228-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201228-GAPPS.zip", 
+            "date": "2020-12-29", 
+            "datetime": "20201229", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20201229-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201229-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "a03aa78b89a09f758e60874b2cff5983a4b17e713e02194b93ac79e6543e3cca", 
-            "size": "1317042845", 
+            "sha256": "cfc59ca1f4a633aa1de9026fbad3de46f3df0ba83c123a0638892a97620a7b49", 
+            "size": "1317056344", 
             "type": "official", 
             "version": "v11.0"
         }
