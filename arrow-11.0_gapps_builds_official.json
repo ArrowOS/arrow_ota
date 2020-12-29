@@ -97,16 +97,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": null, 
-            "date": "2020-12-28", 
-            "datetime": "20201228", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20201228-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20201228-GAPPS.zip", 
+            "changelog": "- Fixed encryption, ROM is now encrypted by default\r\n- Updated graphics, display and perf blobs to R (LA.UM.9.11.r1-02400-NICOBAR.0)\r\n- Tune post_boot script for better performance\r\n- Misc RIL improvements\r\n- Enabled QC dual wifi interface\r\n- Reduced shutdown timeout\r\n- Switched to Snapdragon LLVM for kernel build\r\n- Rebased kernel on latest CAF tag and upstreamed to v4.14.212\r\n- Misc fixes and improvements", 
+            "date": "2020-12-29", 
+            "datetime": "20201229", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20201229-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20201229-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "f1802dc3be86a4382554120ab1295155b3da141fd13242973109b192aa34ac89", 
-            "size": "1193002512", 
+            "sha256": "5d5af159d18cb6a7c73fbdf3318715eae0d33d84c56fe720045fb330ecbb7d04", 
+            "size": "1199603179", 
             "type": "official", 
             "version": "v11.0"
         }
