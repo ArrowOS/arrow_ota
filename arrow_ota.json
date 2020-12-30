@@ -1249,7 +1249,7 @@
   ], 
   "sanders": [
     {
-      "changelog": "Updated Sensor blobs (hope deep sleep works fine now)", 
+      "changelog": null, 
       "maintainer": "Ashwatthama", 
       "model": "Moto G (5S) Plus", 
       "oem": "motorola", 
@@ -1319,12 +1319,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2020-12-27", 
-                  "datetime": "20201227", 
-                  "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201227-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201227-VANILLA.zip", 
-                  "sha256": "cc4854ddb148b7be3459f10df69686937ddb0211a98a584a08b2bca1016467ae", 
-                  "size": "755216252", 
+                  "date": "2020-12-30", 
+                  "datetime": "20201230", 
+                  "filename": "Arrow-v11.0-sanders-UNOFFICIAL-20201230-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-UNOFFICIAL-20201230-VANILLA.zip", 
+                  "sha256": "e254336386836bb5f9268577dd0baba1cd46ce5a233dd0dfc2f1fe31ce25a777", 
+                  "size": "750308773", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
