@@ -873,7 +873,7 @@
   ], 
   "oneplus3": [
     {
-      "changelog": "- Hotspot Fixed (Tethering Issue Resolved).\r\n- Most of the config Updated from CAF.\r\n- Switched to AOSP NFC.", 
+      "changelog": "- Misc changes", 
       "maintainer": "Gaurav24", 
       "model": "OnePlus 3/3T", 
       "oem": "OnePlus", 
@@ -923,12 +923,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-08", 
-                  "datetime": "20201208", 
-                  "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20201208-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20201208-VANILLA.zip", 
-                  "sha256": "1b1d852bbc2070cedb8eb72b6925629c6318dad8da9599c8abc3abf1a17e1408", 
-                  "size": "721817000", 
+                  "date": "2020-12-30", 
+                  "datetime": "20201230", 
+                  "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20201230-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20201230-VANILLA.zip", 
+                  "sha256": "b92dcbb4cb22aa6a25e96037e8fd69b57cbcfeb468c2283824d69f4b8e96e5e8", 
+                  "size": "727307285", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
