@@ -321,16 +321,16 @@
     ], 
     "raphael": [
         {
-            "changelog": "- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 OEM vendor and firmware", 
-            "date": "2020-12-27", 
-            "datetime": "20201227", 
-            "filename": "Arrow-v10.0-raphael-OFFICIAL-20201227-GAPPS.zip", 
-            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20201227-GAPPS.zip", 
+            "changelog": "- Misc fixes and changes.\r\n\r\nNOTE: \r\n- Requires MIUI12 Q OEM vendor and firmware", 
+            "date": "2020-12-31", 
+            "datetime": "20201231", 
+            "filename": "Arrow-v10.0-raphael-OFFICIAL-20201231-GAPPS.zip", 
+            "filepath": "/arrow-10.0/raphael/Arrow-v10.0-raphael-OFFICIAL-20201231-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "67488fe06a0c23d24f47838e2e28e53dca9884f8c1ba6d810b277b0f6c1775c6", 
-            "size": "747214544", 
+            "sha256": "753459ae88413ba6ff61230cd37ffffc518675218a5e04cad0e73473e42bde63", 
+            "size": "747289253", 
             "type": "official", 
             "version": "v10.0"
         }
