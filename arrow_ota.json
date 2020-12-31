@@ -209,7 +209,7 @@
   ], 
   "clover": [
     {
-      "changelog": "- Initial build.", 
+      "changelog": null, 
       "maintainer": "TH779", 
       "model": "MI PAD 4", 
       "oem": "Xiaomi", 
@@ -279,12 +279,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-20", 
-                  "datetime": "20201220", 
-                  "filename": "Arrow-v11.0-clover-UNOFFICIAL-20201220-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/clover/Arrow-v11.0-clover-UNOFFICIAL-20201220-GAPPS.zip", 
-                  "sha256": "a00305944f632a25ef5f433d1e3a23e124d1f0d7d27cf959b72c69f483ef62b3", 
-                  "size": "1110754722", 
+                  "date": "2020-12-31", 
+                  "datetime": "20201231", 
+                  "filename": "Arrow-v11.0-clover-UNOFFICIAL-20201231-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/clover/Arrow-v11.0-clover-UNOFFICIAL-20201231-GAPPS.zip", 
+                  "sha256": "34057ec31c554a3f76374474014c15c1124b3771e74bf38330d9f6e818cc984a", 
+                  "size": "1106156353", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
