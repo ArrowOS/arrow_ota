@@ -142,7 +142,7 @@
   "cheeseburger": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "maintainer": "Bauuuuu", 
       "model": "ONEPLUS A5000", 
       "oem": "OnePlus", 
       "v11.0": [
@@ -163,12 +163,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-30", 
-                  "datetime": "20201230", 
-                  "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20201230-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20201230-VANILLA.zip", 
-                  "sha256": "8c63dd6a5fcbe71c6fcd4a7275bdce7cf264d17a27cf7f34f717f2e27cff06e4", 
-                  "size": "867357055", 
+                  "date": "2020-12-31", 
+                  "datetime": "20201231", 
+                  "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20201231-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20201231-VANILLA.zip", 
+                  "sha256": "5b2ddb85742ad86b129d4633bbb4cbcbec10086de650f88d8c84f1be11ab11a5", 
+                  "size": "867282763", 
                   "type": "official", 
                   "version": "v11.0"
                 }
