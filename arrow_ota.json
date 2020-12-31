@@ -1501,7 +1501,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Bluetooth", 
+      "changelog": "- Fixed bt issues\r\n- Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -1555,12 +1555,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-26", 
-                  "datetime": "20201226", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20201226-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201226-VANILLA.zip", 
-                  "sha256": "5e8371d0394c491da63727234439c0d9d17f0e924b7639cced591b62110b98a7", 
-                  "size": "784716120", 
+                  "date": "2020-12-31", 
+                  "datetime": "20201231", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20201231-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20201231-VANILLA.zip", 
+                  "sha256": "2deaf0aecadb7d6cd606abbac8eff8ba0d6a12fb6accb760958f34c2de6953ff", 
+                  "size": "789375907", 
                   "type": "official", 
                   "version": "v11.0"
                 }
