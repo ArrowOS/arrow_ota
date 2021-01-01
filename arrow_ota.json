@@ -787,12 +787,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-31", 
-                  "datetime": "20201231", 
-                  "filename": "Arrow-v11.0-miatoll-OFFICIAL-20201231-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20201231-VANILLA.zip", 
-                  "sha256": "0d10c7c9b95989bc5934e9a8ed8c03d5a52ecfa33785552fff8efe86e5933f21", 
-                  "size": "1119786127", 
+                  "date": "2021-01-01", 
+                  "datetime": "20210101", 
+                  "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210101-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210101-VANILLA.zip", 
+                  "sha256": "52dac8f72ed483ff620df85435a43748c05ab86837c73425aa9b68a29252595c", 
+                  "size": "1119958351", 
                   "type": "official", 
                   "version": "v11.0"
                 }
