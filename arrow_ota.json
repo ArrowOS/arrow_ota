@@ -1347,12 +1347,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-31", 
-                  "datetime": "20201231", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20201231-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201231-GAPPS.zip", 
-                  "sha256": "829b9e1604375e7e7fafc00ba079a819fd12b2243ab71cda55a54c79af7b759a", 
-                  "size": "1017373954", 
+                  "date": "2021-01-01", 
+                  "datetime": "20210101", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210101-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210101-GAPPS.zip", 
+                  "sha256": "3925f40224cd80d9d5a75d03ebaf8486a04fd9bee7551f8cc31518937492197b", 
+                  "size": "1017745321", 
                   "type": "official", 
                   "version": "v11.0"
                 }
