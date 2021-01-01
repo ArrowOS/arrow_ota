@@ -415,12 +415,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-31", 
-                  "datetime": "20201231", 
-                  "filename": "Arrow-v11.0-enchilada-OFFICIAL-20201231-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-OFFICIAL-20201231-GAPPS.zip", 
-                  "sha256": "dc073c382e3be05b08034f6a3d351cd7a94b78f1fa3bb1246abf41771b6cfac6", 
-                  "size": "955903420", 
+                  "date": "2021-01-01", 
+                  "datetime": "20210101", 
+                  "filename": "Arrow-v11.0-enchilada-OFFICIAL-20210101-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-OFFICIAL-20210101-GAPPS.zip", 
+                  "sha256": "12b89afd734a9ed16cd6b7409af32acb13dacc68d423439d11ed755537a72567", 
+                  "size": "955866977", 
                   "type": "official", 
                   "version": "v11.0"
                 }
