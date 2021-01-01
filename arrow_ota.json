@@ -307,12 +307,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-31", 
-                  "datetime": "20201231", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20201231-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20201231-GAPPS.zip", 
-                  "sha256": "555c75722c3bd2fdf3b78304d2d25ce97177bfcf1d1b739fe29972efc1cb37bd", 
-                  "size": "1319749568", 
+                  "date": "2021-01-01", 
+                  "datetime": "20210101", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210101-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210101-GAPPS.zip", 
+                  "sha256": "434f413382ac29b13b8edcdab86db7bcc62bd25190a0a63eb1665c94b6751e61", 
+                  "size": "1319752146", 
                   "type": "official", 
                   "version": "v11.0"
                 }
