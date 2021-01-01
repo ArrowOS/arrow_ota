@@ -1249,7 +1249,7 @@
   ], 
   "sanders": [
     {
-      "changelog": null, 
+      "changelog": "Fixed deep sleep\r\nFixed Freq stuck at some MHz\r\nMisc Improvements", 
       "maintainer": "Ashwatthama", 
       "model": "Moto G (5S) Plus", 
       "oem": "motorola", 
@@ -1307,8 +1307,8 @@
                   "datetime": "20210101", 
                   "filename": "Arrow-v11.0-sanders-OFFICIAL-20210101-VANILLA.zip", 
                   "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20210101-VANILLA.zip", 
-                  "sha256": "1fcd199cad63b725e0a49d88dd7cc3b865d48b307641d3809a622e3c8bbd8b74", 
-                  "size": "751818986", 
+                  "sha256": "7306147c6889385411f6759ebbbe8d6d383f72d99f543e627b20f8f9b62fefd7", 
+                  "size": "751776645", 
                   "type": "official", 
                   "version": "v11.0"
                 }
