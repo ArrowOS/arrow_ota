@@ -251,12 +251,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-31", 
-                  "datetime": "20201231", 
-                  "filename": "Arrow-v11.0-clover-OFFICIAL-20201231-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/clover/Arrow-v11.0-clover-OFFICIAL-20201231-GAPPS.zip", 
-                  "sha256": "2ebdd29a8e89dda3fc519a529db9254481298a4c824070b656bc0b31f10ba363", 
-                  "size": "1107201686", 
+                  "date": "2021-01-01", 
+                  "datetime": "20210101", 
+                  "filename": "Arrow-v11.0-clover-OFFICIAL-20210101-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/clover/Arrow-v11.0-clover-OFFICIAL-20210101-GAPPS.zip", 
+                  "sha256": "6195ce9a3a444f1bc274a79886c9f5cc28d069368a3b3efa7c4913b02c7da4af", 
+                  "size": "1107350452", 
                   "type": "official", 
                   "version": "v11.0"
                 }
