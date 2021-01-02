@@ -991,12 +991,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-01-01", 
-                  "datetime": "20210101", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210101-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210101-GAPPS.zip", 
-                  "sha256": "479a15eceb447d6b96a7cc34fe04d2800a673f206d8af82662fc30e4771cbfc9", 
-                  "size": "1022025431", 
+                  "date": "2021-01-02", 
+                  "datetime": "20210102", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210102-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210102-GAPPS.zip", 
+                  "sha256": "ce35cefdd03fef45701738a586f941456421007a6c72eb6a8965dc1fae146bf2", 
+                  "size": "1022025145", 
                   "type": "official", 
                   "version": "v11.0"
                 }
