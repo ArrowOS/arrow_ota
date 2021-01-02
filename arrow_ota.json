@@ -895,12 +895,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2020-12-31", 
-                  "datetime": "20201231", 
-                  "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20201231-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20201231-VANILLA.zip", 
-                  "sha256": "4e5258b55e3af9937fb357bd5eb3640aa17d62ae2a72d4d9783c59a1d28d4669", 
-                  "size": "728860917", 
+                  "date": "2021-01-01", 
+                  "datetime": "20210101", 
+                  "filename": "Arrow-v11.0-oneplus3-OFFICIAL-20210101-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-OFFICIAL-20210101-VANILLA.zip", 
+                  "sha256": "9ea887f3e8a20742df3d04087db4bff1c8dff69471664b816b1c20786d0374df", 
+                  "size": "728854051", 
                   "type": "official", 
                   "version": "v11.0"
                 }
