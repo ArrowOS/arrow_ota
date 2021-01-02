@@ -1117,6 +1117,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-02", 
+                  "datetime": "20210102", 
+                  "filename": "Arrow-v10.0-potter-OFFICIAL-20210102-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/potter/Arrow-v10.0-potter-OFFICIAL-20210102-GAPPS.zip", 
+                  "sha256": "56cd105ddc33d9aad01df2767c392b656d356426c0bd44a49f9d4a244a67c499", 
+                  "size": "812319370", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-02", 
