@@ -130,15 +130,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Upstreamed kernel to 4.4.212\r\n\u2022 Fixed rare green artifacts while playing videos", 
-            "date": "2021-01-01", 
-            "datetime": "20210101", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210101-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210101-VANILLA.zip", 
+            "date": "2021-01-02", 
+            "datetime": "20210102", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210102-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210102-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "52dac8f72ed483ff620df85435a43748c05ab86837c73425aa9b68a29252595c", 
-            "size": "1119958351", 
+            "sha256": "1a53dc1954137f5ef5939d20d5172f2af3a4d1457a14c56bd43e7782040150cc", 
+            "size": "1119801253", 
             "type": "official", 
             "version": "v11.0"
         }
