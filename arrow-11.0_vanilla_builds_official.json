@@ -145,16 +145,16 @@
     ], 
     "mido": [
         {
-            "changelog": "- hals upstream\r\n- misc fixes", 
-            "date": "2020-12-16", 
-            "datetime": "20201216", 
-            "filename": "Arrow-v11.0-mido-OFFICIAL-20201216-VANILLA.zip", 
-            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20201216-VANILLA.zip", 
+            "changelog": "Note:\r\n- These are still going to continue on 3.18 builds only.\r\n- Requests for 4.9 builds will be ignored.\r\n\r\nThis decision has been taken as per the equal no.of requests from both sides of the parties and concluded by the outcome of adverse performance affects.", 
+            "date": "2021-01-03", 
+            "datetime": "20210103", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20210103-VANILLA.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210103-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi Note 4", 
             "oem": "Xiaomi", 
-            "sha256": "65d11139c3756ac430e9822048c625cdd77b3785825240124f48c90c420bff5d", 
-            "size": "711158995", 
+            "sha256": "8c618993e762ffbfdba871c6c2b770036777868530b7aca0b5c68f517bd39d9b", 
+            "size": "716468041", 
             "type": "official", 
             "version": "v11.0"
         }
