@@ -49,16 +49,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n23/12/2020\r\n-Upstreamed the kernel to Linux 4.14.212\r\n-Enabled Ambient Display related options\r\n19/12/2020\r\n-Switched to BantomKernel\r\n-Minor FOD fix\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2021-01-04", 
-            "datetime": "20210104", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210104-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210104-VANILLA.zip", 
+            "changelog": "05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2021-01-05", 
+            "datetime": "20210105", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210105-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210105-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "245ce746c7d228c634500c8e9e2fda250db6949c2faeba2c611ed52008643ddc", 
-            "size": "1001165838", 
+            "sha256": "53a6c313d31d13e2c3a49d743ab05e7d161c81db5e4762b908dc12d10aadae06", 
+            "size": "1001089228", 
             "type": "official", 
             "version": "v11.0"
         }
