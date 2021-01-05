@@ -242,15 +242,15 @@
     "sanders": [
         {
             "changelog": "Clean flash must (kindly backup your data before flashing)\r\nFixed deep sleep\r\nFixed Freq stuck at some MHz\r\nMisc Improvements", 
-            "date": "2021-01-04", 
-            "datetime": "20210104", 
-            "filename": "Arrow-v11.0-sanders-OFFICIAL-20210104-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20210104-GAPPS.zip", 
+            "date": "2021-01-05", 
+            "datetime": "20210105", 
+            "filename": "Arrow-v11.0-sanders-OFFICIAL-20210105-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20210105-GAPPS.zip", 
             "maintainer": "Ashwatthama", 
             "model": "Moto G (5S) Plus", 
             "oem": "motorola", 
-            "sha256": "327dcde41120fa22d002ccf69f3b772672af482fc05a2acbec596fd771efb847", 
-            "size": "1066835421", 
+            "sha256": "8483038fa3c2f09bb1576d68ebedc869ebbe3e76f7f9216018908eafb884c850", 
+            "size": "1066885088", 
             "type": "official", 
             "version": "v11.0"
         }
