@@ -1421,7 +1421,7 @@
   ], 
   "violet": [
     {
-      "changelog": "try wifi", 
+      "changelog": "Fixed Bluetooth\r\nAdded GcamGO by default", 
       "maintainer": "Aftab Ashrafi", 
       "model": "Redmi Note 7 Pro", 
       "oem": "Xiaomi", 
@@ -1443,12 +1443,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-04", 
-                  "datetime": "20210104", 
-                  "filename": "Arrow-v11.0-violet-OFFICIAL-20210104-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210104-VANILLA.zip", 
-                  "sha256": "d4375e91ea5dc04a2f23b1c17784d3635abce8d6e0292f1895fe033d853f78c3", 
-                  "size": "957330071", 
+                  "date": "2021-01-05", 
+                  "datetime": "20210105", 
+                  "filename": "Arrow-v11.0-violet-OFFICIAL-20210105-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210105-VANILLA.zip", 
+                  "sha256": "1f262e92f9bcc5815c01196bc042ecf8ff4903fcb52313de3c895569563734d0", 
+                  "size": "957161416", 
                   "type": "official", 
                   "version": "v11.0"
                 }
