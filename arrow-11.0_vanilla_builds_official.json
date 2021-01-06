@@ -257,7 +257,7 @@
     ], 
     "surya": [
         {
-            "changelog": "- Fixed camera video recording issues.\r\n- Address a wfd denial\r\n- Fixed OTA auto flashing sepolicy denial\r\n- Add keylayouts for headphone jack volume control\r\n- Fixed notification led\r\n- Fixed HDR\r\n- Fixed offline charging\r\n- Fixed recorder issue\r\n- Upstream power profile\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Fixed a possible Gcam crash\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds\r\n- Google voice match should be working now while screen on.", 
+            "changelog": "- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds.", 
             "date": "2021-01-06", 
             "datetime": "20210106", 
             "filename": "Arrow-v11.0-surya-OFFICIAL-20210106-VANILLA.zip", 
