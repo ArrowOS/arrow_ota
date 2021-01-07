@@ -49,16 +49,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2021-01-06", 
-            "datetime": "20210106", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210106-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210106-VANILLA.zip", 
+            "changelog": "07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+            "date": "2021-01-07", 
+            "datetime": "20210107", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210107-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210107-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "417ad51e930693431f612d17924a91346b00270ee84cae76cfa85a84f189088d", 
-            "size": "1001316415", 
+            "sha256": "7b3aa1cc4a05a807adfcabddada87196927d31cd2ee0a89d42fc042e1d67e378", 
+            "size": "1000892363", 
             "type": "official", 
             "version": "v11.0"
         }
