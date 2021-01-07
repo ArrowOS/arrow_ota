@@ -257,16 +257,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds.", 
-            "date": "2021-01-06", 
-            "datetime": "20210106", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210106-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210106-VANILLA.zip", 
+            "changelog": "- Adjust brightness values\r\n- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2021-01-07", 
+            "datetime": "20210107", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210107-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210107-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "997eb7b784d7619616f2f8782582d87755547b333e1a9eb669d0904144960d6d", 
-            "size": "699366143", 
+            "sha256": "724c75810334799c9edd3cf1ab39f13d1473a9caa918f6df894c262a1324f65b", 
+            "size": "699653611", 
             "type": "official", 
             "version": "v11.0"
         }
