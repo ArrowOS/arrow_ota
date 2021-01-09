@@ -127,6 +127,22 @@
             "version": "v11.0"
         }
     ], 
+    "lmi": [
+        {
+            "changelog": "- Initial build.\r\n- Firmware and vendor require V12.2.1.0.RJKCNXM.", 
+            "date": "2021-01-09", 
+            "datetime": "20210109", 
+            "filename": "Arrow-v11.0-lmi-OFFICIAL-20210109-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lmi/Arrow-v11.0-lmi-OFFICIAL-20210109-VANILLA.zip", 
+            "maintainer": "TH779, lamp216", 
+            "model": "POCO F2 Pro", 
+            "oem": "POCO", 
+            "sha256": "3e3e3ad79bb362e01f6f8479ad8e22d8cab3c9e41efab356589c21cb9c40cc39", 
+            "size": "689295546", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "miatoll": [
         {
             "changelog": "\u2022 Upstreamed kernel to 4.4.212\r\n\u2022 Fixed rare green artifacts while playing videos", 
