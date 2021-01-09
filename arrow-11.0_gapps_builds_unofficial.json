@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "lmi": [
+        {
+            "changelog": "- Firmware and vendor require V12.2.1.0.RJKCNXM.", 
+            "date": "2021-01-09", 
+            "datetime": "20210109", 
+            "filename": "Arrow-v11.0-lmi-UNOFFICIAL-20210109-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lmi/Arrow-v11.0-lmi-UNOFFICIAL-20210109-GAPPS.zip", 
+            "maintainer": "TH779, lamp216", 
+            "model": "POCO F2 Pro", 
+            "oem": "POCO", 
+            "sha256": "ff0328bff28d0224553b8a219e6d9bcacc874143f3a0eb8b96b37b7a48c1ca3f", 
+            "size": "1006009172", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "miatoll": [
         {
             "changelog": null, 
