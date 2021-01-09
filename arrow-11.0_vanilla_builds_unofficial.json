@@ -145,7 +145,7 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- min refresh rate", 
+            "changelog": "- Brightness", 
             "date": "2021-01-09", 
             "datetime": "20210109", 
             "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210109-VANILLA.zip", 
@@ -153,8 +153,8 @@
             "maintainer": "Sreekanth", 
             "model": "Redmi K30", 
             "oem": "Redmi", 
-            "sha256": "b9c524518b947c18426398dba7e2576e3bd40fe1f0ebb1ca5541725efbb4b365", 
-            "size": "702097499", 
+            "sha256": "944d6367e04d78a91c7de486655456888990ecceffecc6f667667a337e7335de", 
+            "size": "702089267", 
             "type": "unofficial", 
             "version": "v11.0"
         }
