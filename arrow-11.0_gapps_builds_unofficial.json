@@ -191,6 +191,22 @@
             "version": "v11.0"
         }
     ], 
+    "phoenix": [
+        {
+            "changelog": "- incall vol and refresh rate settings", 
+            "date": "2021-01-09", 
+            "datetime": "20210109", 
+            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210109-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210109-GAPPS.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi K30", 
+            "oem": "Redmi", 
+            "sha256": "045191e3978754946b3786f88669a7251b8bdf353cac3fd983676835bf660f86", 
+            "size": "1021438406", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "polaris": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
