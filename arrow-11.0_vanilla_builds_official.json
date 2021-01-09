@@ -98,15 +98,15 @@
     "ginkgo": [
         {
             "changelog": "- Upstreamed kernel to v4.14.213\r\n- Performance improvements", 
-            "date": "2021-01-07", 
-            "datetime": "20210107", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210107-VANILLA.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210107-VANILLA.zip", 
+            "date": "2021-01-09", 
+            "datetime": "20210109", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210109-VANILLA.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210109-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "7ca3f249ee28e85a1e1a1c9227f0160303166f2aceca718a0652d1363e93d5ec", 
-            "size": "880638772", 
+            "sha256": "c09ad535e2d63f29fad5773c2f315b4f91329ce5ebaf07ac147182292bafa014", 
+            "size": "880663377", 
             "type": "official", 
             "version": "v11.0"
         }
