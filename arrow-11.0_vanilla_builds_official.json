@@ -257,16 +257,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Adjust brightness values\r\n- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-01-08", 
-            "datetime": "20210108", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210108-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210108-VANILLA.zip", 
+            "changelog": "- Upstream blobs from MIUI V12.0.8.0.QJGINXM \r\n- Add proper notch masking overlay to hide camera cutout\r\n- Fix crackling noise while playing some sounds\r\n- Adjust brightness values\r\n- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2021-01-09", 
+            "datetime": "20210109", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210109-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210109-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "9b8dabcc685e8a05ffcf44ead523496266c253a5feab8ae691b61981b26cda92", 
-            "size": "699666145", 
+            "sha256": "a2d662a7bb3ea269256f64a38a18eb34bcb66a5a2a51f58e6c314054ae45ade2", 
+            "size": "684044783", 
             "type": "official", 
             "version": "v11.0"
         }
