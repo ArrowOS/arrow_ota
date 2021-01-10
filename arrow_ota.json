@@ -217,6 +217,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-10", 
+                  "datetime": "20210110", 
+                  "filename": "Arrow-v11.0-chiron-COMMUNITY-20210110-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210110-GAPPS.zip", 
+                  "sha256": "70ae14d516634f8b5b30f69865c6e82b094866d2094c9a5fd8fb58e77de4530d", 
+                  "size": "1127246064", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-10", 
