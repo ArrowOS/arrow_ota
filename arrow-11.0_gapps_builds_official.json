@@ -209,16 +209,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Kernel upstreamed to 4.14.212\r\n- Wireguard upstreamed to 1.0.20201221 snapshot\r\n- Fixed low audio recording issues with some apps\r\n- Added gcam go\r\n- Provide shim for libcameraservice.so\r\n- Fixed video recording timestamp issue\r\n- Fix lag after reaching low battery percentage \r\n-  kang aptx blobs from redfin-user-11-RD1A.201105.003.A1-6886512-release-keys\r\n- Misc changes", 
-            "date": "2021-01-09", 
-            "datetime": "20210109", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210109-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210109-GAPPS.zip", 
+            "changelog": "- Kernel upstreamed to 4.14.214\r\n- light: Properly scale brightness range\r\n- light: Avoid uint32_t underflow\r\n- decrease in-call volume a bit", 
+            "date": "2021-01-10", 
+            "datetime": "20210110", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210110-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210110-GAPPS.zip", 
             "maintainer": "Sreekanth", 
-            "model": "Redmi K30", 
-            "oem": "Redmi", 
-            "sha256": "7edde0b781842fce2e8ebca8f2f53a892b9b6a31a180ce64f33c820256790788", 
-            "size": "1022656600", 
+            "model": "POCO X2", 
+            "oem": "POCO", 
+            "sha256": "5a8809540f0543de5ceebf47fbc2dc4cf399a6ac3b5be854f0b1ea1ea3b9c59b", 
+            "size": "1022777548", 
             "type": "official", 
             "version": "v11.0"
         }
