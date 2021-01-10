@@ -697,8 +697,8 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed Deepsleep\r\n- Redfin FP for January SPL\r\n- Predator-Stormbreaker HMP inline", 
-      "maintainer": "Hazama25, ak940s", 
+      "changelog": "- Fixed Deepsleep\r\n- Clean up XiaomiParts\r\n- Redfin FP for January SPL\r\n- Predator-Stormbreaker HMP inline\r\n- Dont dirty flash from community build (this is a test)", 
+      "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -707,12 +707,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-01-09", 
-                  "datetime": "20210109", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210109-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210109-GAPPS.zip", 
-                  "sha256": "ef5a251bb6a251123d9e24ca782da249c2a16508ddcf4ee985d98c2415d26cc0", 
-                  "size": "1249613948", 
+                  "date": "2021-01-10", 
+                  "datetime": "20210110", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210110-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210110-GAPPS.zip", 
+                  "sha256": "7d6ad426e67432c467a0a5e9130748054bc2fa9c93b8b3f7c0d3ba3ea9a8caa9", 
+                  "size": "1227769067", 
                   "type": "community", 
                   "version": "v11.0"
                 }
