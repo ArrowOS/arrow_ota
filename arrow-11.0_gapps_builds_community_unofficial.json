@@ -33,7 +33,7 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Fixed Deepsleep\r\n- Clean up XiaomiParts -> MemeParts\r\n- Redfin FP for January SPL\r\n- Predator-Stormbreaker HMP inline\r\n- Dont dirty flash from community build (this is a test)", 
+            "changelog": "- Fixed Deepsleep\r\n- Clean up XiaomiParts -> MemeParts\r\n- Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Predator-Stormbreaker HMP inline\r\n- Dont dirty flash from community build (this is a test)", 
             "date": "2021-01-11", 
             "datetime": "20210111", 
             "filename": "Arrow-v11.0-lavender-COMMUNITY-20210111-GAPPS.zip", 
@@ -41,8 +41,8 @@
             "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "85184e633a59c9a5338bb070b17c15bf1114f98edc963ee2c18ef15d36172c32", 
-            "size": "1227968038", 
+            "sha256": "6fb292e6d18fa2c4dc1315592bc614ef865a386d631e4bfdef7d1729e245dc6c", 
+            "size": "1242039556", 
             "type": "community", 
             "version": "v11.0"
         }
