@@ -377,7 +377,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
+      "changelog": "11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
       "maintainer": "daniml3", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -399,12 +399,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-11", 
-                  "datetime": "20210111", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210111-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210111-VANILLA.zip", 
-                  "sha256": "48e8d5e2ab524fc00aac3dac51662abc411793aa162af34154b1bb3a1bc9677e", 
-                  "size": "1001273189", 
+                  "date": "2021-01-12", 
+                  "datetime": "20210112", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210112-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210112-VANILLA.zip", 
+                  "sha256": "eeb2c269f8fe573a419b77c2fc464e3d652199dec3a4c477d852d3defce22ff4", 
+                  "size": "1001095261", 
                   "type": "official", 
                   "version": "v11.0"
                 }
