@@ -1,4 +1,20 @@
 {
+    "X00T": [
+        {
+            "changelog": null, 
+            "date": "2021-01-12", 
+            "datetime": "20210112", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210112-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210112-GAPPS.zip", 
+            "maintainer": "PranavKpr", 
+            "model": "ASUS_X00T", 
+            "oem": "asus", 
+            "sha256": "5238ad66a0c328866d74722dee9c3a7ad49499d8c32136c24e1625e17763087a", 
+            "size": "1063512649", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "beryllium": [
         {
             "changelog": "- Misc fixes and upstream changes.", 
