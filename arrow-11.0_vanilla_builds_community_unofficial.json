@@ -2,15 +2,15 @@
     "chiron": [
         {
             "changelog": "- added Gcam from AOSP-11 for Sagit\r\n- undervolted CPU", 
-            "date": "2021-01-10", 
-            "datetime": "20210110", 
-            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210110-VANILLA.zip", 
-            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210110-VANILLA.zip", 
+            "date": "2021-01-12", 
+            "datetime": "20210112", 
+            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210112-VANILLA.zip", 
+            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210112-VANILLA.zip", 
             "maintainer": "WhiterWalt", 
             "model": "Mi MIX 2", 
             "oem": "Xiaomi", 
-            "sha256": "32acf12efc7a71b155eabe5391115a238a2a4d789f5f26aa62590126ef220ba4", 
-            "size": "814471682", 
+            "sha256": "bcb8a3387c489b41e60ece1d8e6bba57e1f2bad481953ce3cdbd5808a7156fb7", 
+            "size": "811574549", 
             "type": "community", 
             "version": "v11.0"
         }
