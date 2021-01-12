@@ -49,16 +49,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2021-01-11", 
-            "datetime": "20210111", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210111-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210111-GAPPS.zip", 
+            "changelog": "11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-01-12", 
+            "datetime": "20210112", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210112-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210112-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "3bf0df953be5692bcb2d2f71171403a375ddb30bdf978482906f53ee4c9b69b6", 
-            "size": "1320059838", 
+            "sha256": "2867f52d0bcccfc0dba08b8abc43015c251fa9e7dc70de978550e5802f03250e", 
+            "size": "1320838229", 
             "type": "official", 
             "version": "v11.0"
         }
