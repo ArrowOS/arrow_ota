@@ -210,15 +210,15 @@
     "phoenix": [
         {
             "changelog": "- Kernel upstreamed to 4.14.214\r\n- light: Properly scale brightness range\r\n- light: Avoid uint32_t underflow\r\n- decrease in-call volume a bit", 
-            "date": "2021-01-11", 
-            "datetime": "20210111", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210111-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210111-VANILLA.zip", 
+            "date": "2021-01-12", 
+            "datetime": "20210112", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210112-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210112-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "fe6107d91d8f0cb63c613506674f0882fce5e102ed95643b56108212b6cbce01", 
-            "size": "702949945", 
+            "sha256": "e5ed7df08dfeb3642386fe93c2cf403dc2d3d64a57dcd6689a9a041a6e59caf3", 
+            "size": "703386329", 
             "type": "official", 
             "version": "v11.0"
         }
