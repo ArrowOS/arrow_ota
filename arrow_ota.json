@@ -919,6 +919,34 @@
       ]
     }
   ], 
+  "marlin": [
+    {
+      "changelog": null, 
+      "maintainer": "blckbear", 
+      "model": "Pixel XL", 
+      "oem": "Google", 
+      "v10.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-01-13", 
+                  "datetime": "20210113", 
+                  "filename": "Arrow-v10.0-marlin-UNOFFICIAL-20210113-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/marlin/Arrow-v10.0-marlin-UNOFFICIAL-20210113-VANILLA.zip", 
+                  "sha256": "721faf36a4ca4e5ae60fd3b47e58ce1e0212efd35272eee134c33f6f40aa7d50", 
+                  "size": "480209940", 
+                  "type": "unofficial", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "miatoll": [
     {
       "changelog": "\u2022 Upstreamed kernel to 4.4.214\r\n\u2022 Fixed safetynet", 
