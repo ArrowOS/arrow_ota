@@ -34,15 +34,15 @@
     "lavender": [
         {
             "changelog": "- Introduce Safailnet\r\n- Clean up MemeParts (Goodies) and move to System Section\r\n- Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Predator-Stormbreaker HMP inline\r\n- Dont dirty flash from community build (this is a test)", 
-            "date": "2021-01-12", 
-            "datetime": "20210112", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210112-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210112-GAPPS.zip", 
+            "date": "2021-01-13", 
+            "datetime": "20210113", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210113-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210113-GAPPS.zip", 
             "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "4ed6a4100fc7656ca5c60bf597ff2439af5538ea80b3b38f3664780b3776926e", 
-            "size": "1240724429", 
+            "sha256": "924643f57283f23b1e7bc3d89a7223ec65932e605f14fe8470b29b4d73480b36", 
+            "size": "1240732116", 
             "type": "community", 
             "version": "v11.0"
         }
