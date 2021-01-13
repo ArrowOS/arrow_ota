@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": null, 
-            "date": "2021-01-11", 
-            "datetime": "20210111", 
-            "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210111-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210111-GAPPS.zip", 
+            "changelog": "- Initial Build", 
+            "date": "2021-01-13", 
+            "datetime": "20210113", 
+            "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210113-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210113-GAPPS.zip", 
             "maintainer": "PranavKpr", 
             "model": "ASUS_X00T", 
             "oem": "asus", 
-            "sha256": "710110e90b84fc313e1012e1cd981f00af6cc8abb98aee775ba6cb885193f8dd", 
-            "size": "1062301870", 
+            "sha256": "07e2feef4645c6ecb1b6c619b91cdb087a33e9d339c33d21147976aae31cc713", 
+            "size": "1067218782", 
             "type": "unofficial", 
             "version": "v11.0"
         }
