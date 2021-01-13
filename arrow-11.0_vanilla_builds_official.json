@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": null, 
-            "date": "2021-01-12", 
-            "datetime": "20210112", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210112-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210112-VANILLA.zip", 
+            "changelog": "- Initial Build", 
+            "date": "2021-01-13", 
+            "datetime": "20210113", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210113-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210113-VANILLA.zip", 
             "maintainer": "PranavKpr", 
             "model": "ASUS_X00T", 
             "oem": "asus", 
-            "sha256": "aa76dfc4a4657b01ffd66217cdaa3eda45ff85e7e2e0d7242ca34b2f10de7f48", 
-            "size": "747921952", 
+            "sha256": "3783f24f9ea7fe416b255a2b1997158b2396c8081a848d7193bc538873fe71b0", 
+            "size": "750230796", 
             "type": "official", 
             "version": "v11.0"
         }
