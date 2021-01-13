@@ -1497,6 +1497,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-13", 
+                  "datetime": "20210113", 
+                  "filename": "Arrow-v10.0-sailfish-UNOFFICIAL-20210113-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/sailfish/Arrow-v10.0-sailfish-UNOFFICIAL-20210113-GAPPS.zip", 
+                  "sha256": "418644efd9038d3d5681361995679f02b52b46db2362d46272f4c19518eeb5be", 
+                  "size": "791089022", 
+                  "type": "unofficial", 
+                  "version": "v10.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-13", 
