@@ -1475,6 +1475,34 @@
       ]
     }
   ], 
+  "sailfish": [
+    {
+      "changelog": null, 
+      "maintainer": "blckbear", 
+      "model": "Pixel", 
+      "oem": "Google", 
+      "v10.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-01-13", 
+                  "datetime": "20210113", 
+                  "filename": "Arrow-v10.0-sailfish-UNOFFICIAL-20210113-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/sailfish/Arrow-v10.0-sailfish-UNOFFICIAL-20210113-VANILLA.zip", 
+                  "sha256": "eda588c0a6ba6f8ba2775440b40c1a79f3f24312237577f53235ae7543756c36", 
+                  "size": "577579993", 
+                  "type": "unofficial", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "sanders": [
     {
       "changelog": "Clean flash must (kindly backup your data before flashing)\r\nimproved  performance\r\nEnabled ZRAM by default\r\nTuned ZRAM for better performance\r\nCompiled with hwui for better performance\r\nSwitched to Mad Kernel 2.0", 
