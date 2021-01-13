@@ -47,6 +47,22 @@
             "version": "v10.0"
         }
     ], 
+    "marlin": [
+        {
+            "changelog": null, 
+            "date": "2021-01-13", 
+            "datetime": "20210113", 
+            "filename": "Arrow-v10.0-marlin-UNOFFICIAL-20210113-GAPPS.zip", 
+            "filepath": "/arrow-10.0/marlin/Arrow-v10.0-marlin-UNOFFICIAL-20210113-GAPPS.zip", 
+            "maintainer": "blckbear", 
+            "model": "Pixel XL", 
+            "oem": "Google", 
+            "sha256": "2a5a1a2129c8b3611a4e233fcf99ba1332db76024c6c0077588b3c300707b058", 
+            "size": "791132934", 
+            "type": "unofficial", 
+            "version": "v10.0"
+        }
+    ], 
     "miatoll": [
         {
             "changelog": "\u2022 Upstreamed kernel to 4.14.204\r\n\u2022 Fixed call recording overlay\r\n\u2022 Updated Build FP to coral November", 
