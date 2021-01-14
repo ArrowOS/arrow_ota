@@ -41,7 +41,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- Reverted to AOSP BT (Better audio quality)", 
+      "changelog": "- Initial Build", 
       "maintainer": "PranavKpr", 
       "model": "ASUS_X00T", 
       "oem": "asus", 
@@ -91,12 +91,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-13", 
-                  "datetime": "20210113", 
-                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210113-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210113-VANILLA.zip", 
-                  "sha256": "aaa54468fa0e70a0689254a753e4bb685455b0214bf3d0f46003beb75ecb42d5", 
-                  "size": "751453723", 
+                  "date": "2021-01-14", 
+                  "datetime": "20210114", 
+                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210114-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210114-VANILLA.zip", 
+                  "sha256": "27356c77e09d8cd265936e84d21c3da969d0ae797dc9facc52cba76dab6f63ad", 
+                  "size": "751455764", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
