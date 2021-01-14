@@ -306,15 +306,15 @@
     "violet": [
         {
             "changelog": "NOTE: Clean flash Recommended\r\n\r\nCHANGELOGS\r\n- Switched to R Hals\r\n- Enabled Gralloc 4\r\n- Updated almost every vendor blobs to R\r\n- Dropped prebuilt kernel\r\n- USB Fatcharge is back in violet parts\r\n- Fixed idle drains\r\n- Fixed Wifi and Hotspot problems\r\n- No more crashes with GCam 8\r\n- CTS pass out of the box without root\r\n- Merged LA.UM.9.1.r1-08300-SMxxx0.0 tag in the kernel\r\n- Lots of Audio and Media Playback improvements\r\n- Bug related to IR blaster is fixed\r\n- Many performance improvements and bug fixes\r\n- For more check trees\r\n\r\nKNOWN BUGS\r\n- FM Radio\r\n- SELinux status in violet parts", 
-            "date": "2021-01-13", 
-            "datetime": "20210113", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20210113-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210113-VANILLA.zip", 
+            "date": "2021-01-14", 
+            "datetime": "20210114", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20210114-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210114-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "c9b7ba4e1098aa57b30524e5513de9d20fa3736ca05144d35f621658deb12d17", 
-            "size": "957880308", 
+            "sha256": "2ad7d07668e86ef84c9134b396063dcecd2847e15a5e70bb701e64c6755f7d05", 
+            "size": "957881357", 
             "type": "official", 
             "version": "v11.0"
         }
