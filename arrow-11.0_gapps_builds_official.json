@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": "- Initial Build", 
-            "date": "2021-01-13", 
-            "datetime": "20210113", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210113-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210113-GAPPS.zip", 
+            "changelog": "- Reverted to AOSP BT (Better audio quality)", 
+            "date": "2021-01-14", 
+            "datetime": "20210114", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210114-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210114-GAPPS.zip", 
             "maintainer": "PranavKpr", 
             "model": "ASUS_X00T", 
             "oem": "asus", 
-            "sha256": "c0bbdfa240679cdedb5113e83a4e5374f53ad8d105f0ecced655ab9cf53edd10", 
-            "size": "1065896822", 
+            "sha256": "6a155437f08f5870ce2f89eba9a35687100dbf70fad68f586d67c1f38b3b3049", 
+            "size": "1068721922", 
             "type": "official", 
             "version": "v11.0"
         }
