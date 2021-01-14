@@ -289,16 +289,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Switch to latest caf tag upstreamed kernel\r\n- Upstream blobs from MIUI V12.0.8.0.QJGINXM \r\n- Add proper notch masking overlay to hide camera cutout\r\n- Fix crackling noise while playing some sounds\r\n- Adjust brightness values\r\n- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-01-13", 
-            "datetime": "20210113", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210113-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210113-VANILLA.zip", 
+            "changelog": "- Performance improvements & enhancements\r\n- Switch to latest caf tag upstreamed kernel\r\n- Upstream blobs from MIUI V12.0.8.0.QJGINXM \r\n- Add proper notch masking overlay to hide camera cutout\r\n- Fix crackling noise while playing some sounds\r\n- Adjust brightness values\r\n- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2021-01-14", 
+            "datetime": "20210114", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210114-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210114-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "797c10b848219d6dd825933a0ac146ff73b7bb4ef56fe63f48d3aad2cca3f520", 
-            "size": "687497827", 
+            "sha256": "161843e30b4758163c29685cd81850ea29164f5424f387d85bad04fef5d90dbd", 
+            "size": "687536871", 
             "type": "official", 
             "version": "v11.0"
         }
