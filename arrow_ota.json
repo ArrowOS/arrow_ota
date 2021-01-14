@@ -1793,7 +1793,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- SELinux enforcing\r\n- Drop deprecated android.hardware.thermal HAL\r\n- Switch to QTI thermal 2.0 hal\r\n- Add shim for libdpmframework\r\n- Build libhidltransport/libhwbinder from source\r\n- Kernel upstreamed to linux version 4.4.250\r\n- Misc changes", 
+      "changelog": "- user build", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -1879,8 +1879,8 @@
                   "datetime": "20210114", 
                   "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20210114-VANILLA.zip", 
                   "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20210114-VANILLA.zip", 
-                  "sha256": "1ab9e8c769a74ac5a8f6d6a3615487b9934dedbfb179f5603bf78bc5acfc9981", 
-                  "size": "792327169", 
+                  "sha256": "f7e2a7d3ee6426acf7e3ca4d5ffe1be6a8885ba42bc6290f8720e7730c774795", 
+                  "size": "787750148", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
