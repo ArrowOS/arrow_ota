@@ -109,8 +109,8 @@
   ], 
   "beryllium": [
     {
-      "changelog": "- Misc fixes and upstream changes.", 
-      "maintainer": "Ganesh Varma, kubersharma001", 
+      "changelog": "!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Switch FBE and drop FDE (enable force encryption)\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Fixed color display problems in some apps\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
+      "maintainer": "Ganesh Varma, kubersharma001, palaych", 
       "model": "POCOPHONE F1", 
       "oem": "POCO", 
       "v10.0": [
@@ -163,12 +163,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-01", 
-                  "datetime": "20210101", 
-                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210101-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210101-VANILLA.zip", 
-                  "sha256": "feb7162a18c6fa4a1ea3fdc03779a54968dc5680f91af72870bbe1829a4bc5c9", 
-                  "size": "864967463", 
+                  "date": "2021-01-14", 
+                  "datetime": "20210114", 
+                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210114-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210114-VANILLA.zip", 
+                  "sha256": "965ecd922b5ea7c9ca5d9e236ca8e506f486330cc4b90e36696c32e1cf1cc95d", 
+                  "size": "879627949", 
                   "type": "official", 
                   "version": "v11.0"
                 }
