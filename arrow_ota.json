@@ -1137,7 +1137,7 @@
   ], 
   "perseus": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+      "changelog": "!!!WARNING!!!\r\nRecommended clean flash\r\n\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Switch Arrow kernel\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
       "maintainer": "palaych", 
       "model": "Mi MIX 3", 
       "oem": "Xiaomi", 
@@ -1159,12 +1159,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-01", 
-                  "datetime": "20210101", 
-                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210101-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210101-VANILLA.zip", 
-                  "sha256": "b0d506e682f447afdb7a159842ad3016929d4fe526f35cd682277b85e182f2f8", 
-                  "size": "1004543378", 
+                  "date": "2021-01-14", 
+                  "datetime": "20210114", 
+                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210114-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210114-VANILLA.zip", 
+                  "sha256": "5295297700ccc96735d8eb3a91207def9e510713f09005270366e2397054d327", 
+                  "size": "1019324096", 
                   "type": "official", 
                   "version": "v11.0"
                 }
