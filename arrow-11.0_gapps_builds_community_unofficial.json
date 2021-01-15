@@ -33,16 +33,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Introduce Safailnet\r\n- Clean up MemeParts (Goodies) and move to System Section\r\n- Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Predator-Stormbreaker HMP inline\r\n- Dont dirty flash from community build (this is a test)", 
-            "date": "2021-01-13", 
-            "datetime": "20210113", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210113-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210113-GAPPS.zip", 
+            "changelog": "- Import XiaomiParts V4 and moved to System section in Settings\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Enable Force triple frame buffers\r\n- Label Clearkey DRM entry\r\n- Predator-Stormbreaker EAS inline\r\n- Dont dirty flash from community build (this is a test)", 
+            "date": "2021-01-15", 
+            "datetime": "20210115", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210115-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210115-GAPPS.zip", 
             "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "924643f57283f23b1e7bc3d89a7223ec65932e605f14fe8470b29b4d73480b36", 
-            "size": "1240732116", 
+            "sha256": "78696f670dd22791d07e00f71623df7e3b006e62133a4297dea4c00b4428e02d", 
+            "size": "1238280126", 
             "type": "community", 
             "version": "v11.0"
         }
