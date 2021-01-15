@@ -41,9 +41,9 @@
   ], 
   "X00T": [
     {
-      "changelog": "- Reverted to AOSP BT (Better audio quality)", 
+      "changelog": null, 
       "maintainer": "PranavKpr", 
-      "model": "ASUS_X00T", 
+      "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
       "v11.0": [
         {
@@ -91,12 +91,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-14", 
-                  "datetime": "20210114", 
-                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210114-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210114-VANILLA.zip", 
-                  "sha256": "27356c77e09d8cd265936e84d21c3da969d0ae797dc9facc52cba76dab6f63ad", 
-                  "size": "751455764", 
+                  "date": "2021-01-15", 
+                  "datetime": "20210115", 
+                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210115-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210115-VANILLA.zip", 
+                  "sha256": "d1a748c52b68b0bcd1fada47fada6669efe43f9e3e0e217f88924841a8141737", 
+                  "size": "752337019", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
