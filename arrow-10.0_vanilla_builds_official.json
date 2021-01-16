@@ -66,15 +66,15 @@
     "beryllium": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware.", 
-            "date": "2020-12-27", 
-            "datetime": "20201227", 
-            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20201227-VANILLA.zip", 
-            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20201227-VANILLA.zip", 
+            "date": "2021-01-16", 
+            "datetime": "20210116", 
+            "filename": "Arrow-v10.0-beryllium-OFFICIAL-20210116-VANILLA.zip", 
+            "filepath": "/arrow-10.0/beryllium/Arrow-v10.0-beryllium-OFFICIAL-20210116-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "eea19b07866c5610f3c4adeee30e869d29a8ec3f1276e724c92a2ea29b932dfa", 
-            "size": "781869994", 
+            "sha256": "e7051b7958b5dbeb45ee36e7296c02c988aa2f283695e46b134bec16be68a34f", 
+            "size": "784928958", 
             "type": "official", 
             "version": "v10.0"
         }
