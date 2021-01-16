@@ -929,6 +929,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-16", 
+                  "datetime": "20210116", 
+                  "filename": "Arrow-v10.0-marlin-OFFICIAL-20210116-GAPPS.zip", 
+                  "filepath": "/arrow-10.0/marlin/Arrow-v10.0-marlin-OFFICIAL-20210116-GAPPS.zip", 
+                  "sha256": "8aeb516e643e63267d2435ab52a69ea787ce8fb1517ad9fa9934edb0d44be803", 
+                  "size": "791133298", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-16", 
