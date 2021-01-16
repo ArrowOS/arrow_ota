@@ -367,6 +367,22 @@
             "version": "v10.0"
         }
     ], 
+    "sailfish": [
+        {
+            "changelog": null, 
+            "date": "2021-01-16", 
+            "datetime": "20210116", 
+            "filename": "Arrow-v10.0-sailfish-OFFICIAL-20210116-GAPPS.zip", 
+            "filepath": "/arrow-10.0/sailfish/Arrow-v10.0-sailfish-OFFICIAL-20210116-GAPPS.zip", 
+            "maintainer": "blckbear", 
+            "model": "Pixel", 
+            "oem": "Google", 
+            "sha256": "e2b084c497ae13cc49284d7967a886fb5d5a3cd332e4c1f4111213db193f1b8d", 
+            "size": "791088902", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "sanders": [
         {
             "changelog": "-", 
