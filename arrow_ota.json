@@ -927,6 +927,22 @@
       "oem": "Google", 
       "v10.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-01-16", 
+                  "datetime": "20210116", 
+                  "filename": "Arrow-v10.0-marlin-OFFICIAL-20210116-VANILLA.zip", 
+                  "filepath": "/arrow-10.0/marlin/Arrow-v10.0-marlin-OFFICIAL-20210116-VANILLA.zip", 
+                  "sha256": "8fe3221307ee8e979a413016dc6267ecfeb673cba1e536e0dc4ee14906b905e0", 
+                  "size": "576093269", 
+                  "type": "official", 
+                  "version": "v10.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
