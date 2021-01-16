@@ -367,6 +367,22 @@
             "version": "v10.0"
         }
     ], 
+    "sailfish": [
+        {
+            "changelog": null, 
+            "date": "2021-01-16", 
+            "datetime": "20210116", 
+            "filename": "Arrow-v10.0-sailfish-OFFICIAL-20210116-VANILLA.zip", 
+            "filepath": "/arrow-10.0/sailfish/Arrow-v10.0-sailfish-OFFICIAL-20210116-VANILLA.zip", 
+            "maintainer": "blckbear", 
+            "model": "Pixel", 
+            "oem": "Google", 
+            "sha256": "3a0b85f5b911e64acb36525dfde3082df9f9bab29bb359a82b9e3a513d65ceaa", 
+            "size": "575058054", 
+            "type": "official", 
+            "version": "v10.0"
+        }
+    ], 
     "sanders": [
         {
             "changelog": "-", 
