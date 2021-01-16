@@ -1245,7 +1245,7 @@
   ], 
   "polaris": [
     {
-      "changelog": "!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Enable force encryption\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
+      "changelog": "Note:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Enable force encryption\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
       "maintainer": "palaych", 
       "model": "Mi MIX 2S", 
       "oem": "Xiaomi", 
@@ -1299,12 +1299,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-14", 
-                  "datetime": "20210114", 
-                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210114-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210114-VANILLA.zip", 
-                  "sha256": "f3e5a4dd6cad3e5189ddbdfc215c45be0b8bd9094c312b0a27a1df386ebb9400", 
-                  "size": "891795219", 
+                  "date": "2021-01-16", 
+                  "datetime": "20210116", 
+                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210116-VANILLA.zip", 
+                  "sha256": "01912a857fa4c575e89c2ca40b5646d591dd5b7e3eea7be6beb28be06d03aeb5", 
+                  "size": "892420877", 
                   "type": "official", 
                   "version": "v11.0"
                 }
