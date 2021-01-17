@@ -33,16 +33,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Fixed Deepsleep\r\n- Redfin FP for January SPL\r\n- Predator-Stormbreaker HMP inline", 
-            "date": "2021-01-15", 
-            "datetime": "20210115", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210115-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210115-VANILLA.zip", 
+            "changelog": "- Fixed Deepsleep\r\n- Redfin FP for January SPL\r\n- Predator-Stormbreaker HMP inline\r\n- GCamGOPrebuilt as default camera", 
+            "date": "2021-01-16", 
+            "datetime": "20210116", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210116-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210116-VANILLA.zip", 
             "maintainer": "Hazama25, ak940s", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "29104a2d2e178a3251f4efd9aff2d4cf56901fe8ed4724ce237af7b9f3726352", 
-            "size": "935125771", 
+            "sha256": "f40dddca0424a97d13e27270cc42f7d3ecced856bd174714302a9c6184184886", 
+            "size": "934447028", 
             "type": "community", 
             "version": "v11.0"
         }
