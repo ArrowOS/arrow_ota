@@ -290,15 +290,15 @@
     "surya": [
         {
             "changelog": "- Performance improvements & enhancements\r\n- Switch to latest caf tag upstreamed kernel\r\n- Upstream blobs from MIUI V12.0.8.0.QJGINXM \r\n- Add proper notch masking overlay to hide camera cutout\r\n- Fix crackling noise while playing some sounds\r\n- Adjust brightness values\r\n- Revamp and organize tree\r\n- Dynamically set power profile according to device model\r\n- Update power HAL to support hints\r\n- Improve and optimize wifi conf\r\n- Performance/Optimization related props\r\n- Added clear speaker option\r\n- Refine parts with updated icons and strings\r\n- Doze functionality improvements\r\n- More translations dump for parts\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-01-16", 
-            "datetime": "20210116", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210116-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210116-GAPPS.zip", 
+            "date": "2021-01-17", 
+            "datetime": "20210117", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210117-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210117-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "1638e7984f8d0bd2c478479009b0283c4077a63b2bd11244472118129966ebe2", 
-            "size": "1006661580", 
+            "sha256": "f35d19aec2168152f34e2ea210e290684291e6c530ba5b67b6932c64ec28ffc4", 
+            "size": "1006514862", 
             "type": "official", 
             "version": "v11.0"
         }
