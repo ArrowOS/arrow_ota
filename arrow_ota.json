@@ -765,8 +765,8 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed Deepsleep\r\n- Redfin FP for January SPL\r\n- Predator-Stormbreaker HMP inline\r\n- GCamGOPrebuilt as default camera", 
-      "maintainer": "Hazama25, ak940s", 
+      "changelog": "- Import XiaomiParts V4 and moved to System section in Settings\r\n- Introduce Clear Speaker on XiaomiParts\r\n- Fix XiaomiParts Icon Color on Light Mode\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Enable Force triple frame buffers\r\n- Label Clearkey DRM entry\r\n- Predator-Stormbreaker EAS inline\r\n- Dont dirty flash from community build (this is a test)", 
+      "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -779,8 +779,8 @@
                   "datetime": "20210117", 
                   "filename": "Arrow-v11.0-lavender-COMMUNITY-20210117-GAPPS.zip", 
                   "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210117-GAPPS.zip", 
-                  "sha256": "6d978aaa8eb8d2fec7b95c6a731dc7e1e17dde52b56a3fb4866c886de98c704b", 
-                  "size": "1251918737", 
+                  "sha256": "44edcb7c5c61bdf331163cfc255c36a1121c2f8cb8d548e97dfc4a59736e4f2e", 
+                  "size": "1238396816", 
                   "type": "community", 
                   "version": "v11.0"
                 }
