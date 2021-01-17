@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": "- Enabled call recording for vanilla build\r\n- Enabled rounded corner app opening animations\r\n- Fixed no audio in video recording (GCam)\r\n- Fixed proximity check for screen-off/power button torch\r\n- Added GCamGo as the default camera app\r\n- Safety net passes without magisk", 
-            "date": "2021-01-16", 
-            "datetime": "20210116", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210116-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210116-GAPPS.zip", 
+            "changelog": "- Fixed goodix fingerprint \r\n- NFC works", 
+            "date": "2021-01-17", 
+            "datetime": "20210117", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210117-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210117-GAPPS.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "1084e6cdf8a36b29cd8d1a0cdd7c46710c2c278d692a2212a7a4b18d61eaac20", 
-            "size": "1080731752", 
+            "sha256": "175315fe0e5b19bd5178d5a787ef7508b9ca51b90c17f06946cb30c22a8510e3", 
+            "size": "1081647654", 
             "type": "official", 
             "version": "v11.0"
         }
