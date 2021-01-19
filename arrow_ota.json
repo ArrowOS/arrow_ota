@@ -765,8 +765,8 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed Deepsleep\r\n- Redfin FP for January SPL\r\n- Predator-Stormbreaker HMP inline\r\n- GCamGOPrebuilt as default camera", 
-      "maintainer": "Hazama25, ak940s", 
+      "changelog": "- Revert back to old XiaomiParts\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- Predator-Stormbreaker HMP inline", 
+      "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -775,12 +775,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-01-18", 
-                  "datetime": "20210118", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210118-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210118-GAPPS.zip", 
-                  "sha256": "083c796e80a72f87c15abb4cb5b96d60fbfb190b9ac49b74b0d80fc8e0c70ffa", 
-                  "size": "1251920549", 
+                  "date": "2021-01-19", 
+                  "datetime": "20210119", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210119-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210119-GAPPS.zip", 
+                  "sha256": "41021ceeb63f4891525bf53c362c36f9136f10d552365d4208987f154bccfe24", 
+                  "size": "1260860175", 
                   "type": "community", 
                   "version": "v11.0"
                 }

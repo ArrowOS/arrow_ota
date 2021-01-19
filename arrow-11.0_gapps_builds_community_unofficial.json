@@ -33,16 +33,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Import XiaomiParts V4 and moved to System section in Settings\r\n- Introduce Clear Speaker on XiaomiParts\r\n- Fix XiaomiParts Icon Color on Light Mode\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Enable Force triple frame buffers\r\n- Label Clearkey DRM entry\r\n- Predator-Stormbreaker EAS inline\r\n- Dont dirty flash from community build (this is a test)", 
-            "date": "2021-01-17", 
-            "datetime": "20210117", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210117-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210117-GAPPS.zip", 
+            "changelog": "- Revert back to old XiaomiParts\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- Predator-Stormbreaker HMP inline", 
+            "date": "2021-01-19", 
+            "datetime": "20210119", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210119-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210119-GAPPS.zip", 
             "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "44edcb7c5c61bdf331163cfc255c36a1121c2f8cb8d548e97dfc4a59736e4f2e", 
-            "size": "1238396816", 
+            "sha256": "41021ceeb63f4891525bf53c362c36f9136f10d552365d4208987f154bccfe24", 
+            "size": "1260860175", 
             "type": "community", 
             "version": "v11.0"
         }
