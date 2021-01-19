@@ -1273,7 +1273,7 @@
   ], 
   "polaris": [
     {
-      "changelog": "Note:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Enable force encryption\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
+      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Enable force encryption\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
       "maintainer": "palaych", 
       "model": "Mi MIX 2S", 
       "oem": "Xiaomi", 
@@ -1327,12 +1327,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-18", 
-                  "datetime": "20210118", 
-                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210118-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210118-VANILLA.zip", 
-                  "sha256": "efc965e74bafd78ead6d8f8b6ff08311155f3847f9a1924e4b9ebff474babb37", 
-                  "size": "891721149", 
+                  "date": "2021-01-19", 
+                  "datetime": "20210119", 
+                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210119-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210119-VANILLA.zip", 
+                  "sha256": "19401159c5f3f8ce787f49a5a1d983f9e50d4aba591baf938d1ca9e041a91006", 
+                  "size": "892284558", 
                   "type": "official", 
                   "version": "v11.0"
                 }
