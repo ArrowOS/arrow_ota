@@ -66,15 +66,15 @@
     "davinci": [
         {
             "changelog": "11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-01-19", 
-            "datetime": "20210119", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210119-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210119-GAPPS.zip", 
+            "date": "2021-01-20", 
+            "datetime": "20210120", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210120-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210120-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "5b04982a9f079beb547525868c05b2ad238d1f10aede4a2ccec8920f0a42ecbb", 
-            "size": "1322939530", 
+            "sha256": "f7814cb2ee12190e0f10041301ffd0a9a5d15a98f4c93b4f154c8d12b882a109", 
+            "size": "1323575727", 
             "type": "official", 
             "version": "v11.0"
         }
