@@ -209,16 +209,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Misc fixes and upstream changes.\r\n\r\n2021-01-14:\r\n\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Switch Arrow kernel\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
-            "date": "2021-01-19", 
-            "datetime": "20210119", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210119-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210119-GAPPS.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).\r\n\r\n2021-01-14:\r\n\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Switch Arrow kernel\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+            "date": "2021-01-20", 
+            "datetime": "20210120", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210120-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210120-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "0ad749e0f49813c60a2aa98ba5895645eddb3505f2bc10ab68c5a1ec11e0b5c3", 
-            "size": "1337583597", 
+            "sha256": "91278768cbe19a71dec2b3d59f3b9ff2140122577061d42e4ca323f81d4a5ff9", 
+            "size": "1337337591", 
             "type": "official", 
             "version": "v11.0"
         }
