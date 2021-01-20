@@ -41,7 +41,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- Fixed goodix fingerprint \r\n- NFC works", 
+      "changelog": null, 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -79,12 +79,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-01-18", 
-                  "datetime": "20210118", 
-                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210118-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210118-GAPPS.zip", 
-                  "sha256": "5f433ba4e476bc029b7d8bc02a952f65fa8af4db5a11ac17e81b8298cf8f5b3d", 
-                  "size": "1066809257", 
+                  "date": "2021-01-20", 
+                  "datetime": "20210120", 
+                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210120-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210120-GAPPS.zip", 
+                  "sha256": "6cc564c665ce0efe241f55e79d25f852f6c077fc4c9b949733945b56a0aaf5cc", 
+                  "size": "1066768796", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
