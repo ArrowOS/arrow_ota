@@ -549,6 +549,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-21", 
+                  "datetime": "20210121", 
+                  "filename": "Arrow-v11.0-enchilada-UNOFFICIAL-20210121-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-UNOFFICIAL-20210121-GAPPS.zip", 
+                  "sha256": "41d9e28b26267f3be7d71c51d60dcd8fa6b6fac159d491492421487da104caec", 
+                  "size": "958877438", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-21", 

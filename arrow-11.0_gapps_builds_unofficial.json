@@ -81,16 +81,16 @@
     ], 
     "enchilada": [
         {
-            "changelog": "-", 
-            "date": "2020-10-29", 
-            "datetime": "20201029", 
-            "filename": "Arrow-v11.0-enchilada-UNOFFICIAL-20201029-GAPPS.zip", 
-            "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-UNOFFICIAL-20201029-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2021-01-21", 
+            "datetime": "20210121", 
+            "filename": "Arrow-v11.0-enchilada-UNOFFICIAL-20210121-GAPPS.zip", 
+            "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-UNOFFICIAL-20210121-GAPPS.zip", 
             "maintainer": "Raj Jadeja", 
             "model": "OnePlus6", 
             "oem": "OnePlus", 
-            "sha256": "5c75a977aae4a6f54c2334bfd83aaf07015894fd42025634802e367179de3209", 
-            "size": "744919501", 
+            "sha256": "41d9e28b26267f3be7d71c51d60dcd8fa6b6fac159d491492421487da104caec", 
+            "size": "958877438", 
             "type": "unofficial", 
             "version": "v11.0"
         }
