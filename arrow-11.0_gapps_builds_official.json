@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": "- Fixed goodix fingerprint \r\n- NFC works", 
-            "date": "2021-01-20", 
-            "datetime": "20210120", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210120-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210120-GAPPS.zip", 
+            "changelog": "- Improved speaker audio quality", 
+            "date": "2021-01-21", 
+            "datetime": "20210121", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210121-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210121-GAPPS.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "a77558decd18759cf513369b88b7dbde5f323f280b56137aa9afc30f431564bc", 
-            "size": "1081431983", 
+            "sha256": "24b18ee9ece9051027587c899edb0ea98e58010d58382edd4e5565925fe3c8a5", 
+            "size": "1081398038", 
             "type": "official", 
             "version": "v11.0"
         }
