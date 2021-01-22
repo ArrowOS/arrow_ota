@@ -41,7 +41,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- Dropped unused blobs", 
+      "changelog": null, 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -91,12 +91,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-15", 
-                  "datetime": "20210115", 
-                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210115-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210115-VANILLA.zip", 
-                  "sha256": "d1a748c52b68b0bcd1fada47fada6669efe43f9e3e0e217f88924841a8141737", 
-                  "size": "752337019", 
+                  "date": "2021-01-22", 
+                  "datetime": "20210122", 
+                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210122-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210122-VANILLA.zip", 
+                  "sha256": "8e54ee9998829cfafd4c3b055194adb279fec9dcb494d1d4d60ff5ba248562ca", 
+                  "size": "760213765", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
