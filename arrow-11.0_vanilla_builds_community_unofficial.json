@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "cmi": [
+        {
+            "changelog": "First community build", 
+            "date": "2021-01-22", 
+            "datetime": "20210122", 
+            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210122-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210122-VANILLA.zip", 
+            "maintainer": "ChaptSand", 
+            "model": "MI 10 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "d07a0d7ba7964392af3789628c89e550127945af2677e205658cd11219a2e2e1", 
+            "size": "681734954", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "jasmine_sprout": [
         {
             "changelog": "New clean trees", 

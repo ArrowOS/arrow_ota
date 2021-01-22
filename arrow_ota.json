@@ -443,6 +443,34 @@
       ]
     }
   ], 
+  "cmi": [
+    {
+      "changelog": "First community build", 
+      "maintainer": "ChaptSand", 
+      "model": "MI 10 Pro", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-01-22", 
+                  "datetime": "20210122", 
+                  "filename": "Arrow-v11.0-cmi-COMMUNITY-20210122-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210122-VANILLA.zip", 
+                  "sha256": "d07a0d7ba7964392af3789628c89e550127945af2677e205658cd11219a2e2e1", 
+                  "size": "681734954", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "davinci": [
     {
       "changelog": "22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n19/01/2021\r\n-Bootanimation will start earlier now\r\n-Hidden the indicator text from the biometric dialog\r\n-Fixed minor issues with KCAL settings\r\n11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
