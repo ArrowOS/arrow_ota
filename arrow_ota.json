@@ -453,6 +453,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-22", 
+                  "datetime": "20210122", 
+                  "filename": "Arrow-v11.0-cmi-COMMUNITY-20210122-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210122-GAPPS.zip", 
+                  "sha256": "93a67254cad4470b372a7fb1825d105e5c2941f4ef324b7b16a5d59284322b6d", 
+                  "size": "1017261567", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-22", 
