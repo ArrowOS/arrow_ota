@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": "- Improved speaker audio quality", 
-            "date": "2021-01-21", 
-            "datetime": "20210121", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210121-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210121-VANILLA.zip", 
+            "changelog": "- Dropped unused blobs", 
+            "date": "2021-01-22", 
+            "datetime": "20210122", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210122-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210122-VANILLA.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "921dae4950a7161b228110d3b542adf92f3b783f701b0614627c2ee0144ca065", 
-            "size": "765961354", 
+            "sha256": "ee91748d177f71585fe7c713d44de87429569c559071278432935ba85c7a1e53", 
+            "size": "762082536", 
             "type": "official", 
             "version": "v11.0"
         }
