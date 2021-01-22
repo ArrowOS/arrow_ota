@@ -65,16 +65,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-01-21", 
-            "datetime": "20210121", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210121-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210121-VANILLA.zip", 
+            "changelog": "22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n19/01/2021\r\n-Bootanimation will start earlier now\r\n-Hidden the indicator text from the biometric dialog\r\n-Fixed minor issues with KCAL settings\r\n11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-01-22", 
+            "datetime": "20210122", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210122-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210122-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "12c8c45446a58083e7698804b1d2179c9ca034b9695fef2e03467ac8621e1f2a", 
-            "size": "1004419366", 
+            "sha256": "9382bd6a66b4ced18cf921f8ed3243c7e296be84b7b172cc69df7d0c48c08dba", 
+            "size": "1003968112", 
             "type": "official", 
             "version": "v11.0"
         }
