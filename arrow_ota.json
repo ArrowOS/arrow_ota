@@ -117,6 +117,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-22", 
+                  "datetime": "20210122", 
+                  "filename": "Arrow-v11.0-apollopro-COMMUNITY-20210122-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/apollopro/Arrow-v11.0-apollopro-COMMUNITY-20210122-GAPPS.zip", 
+                  "sha256": "24578ec4a3ca7d914f8b95c29fe589cf7e395d0f8bec918d97fd0f3132257e45", 
+                  "size": "1059364826", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-22", 
