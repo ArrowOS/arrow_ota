@@ -1785,6 +1785,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-22", 
+                  "datetime": "20210122", 
+                  "filename": "Arrow-v11.0-umi-COMMUNITY-20210122-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210122-GAPPS.zip", 
+                  "sha256": "fad06bf838c2df63a6656d6202e88043fd01aa98135a3374ad1fc55d41b376bd", 
+                  "size": "1017579746", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-22", 
