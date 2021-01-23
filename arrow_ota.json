@@ -1004,6 +1004,18 @@
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
+              ], 
+              "VANILLA": [
+                {
+                  "date": "2021-01-23", 
+                  "datetime": "20210123", 
+                  "filename": "Arrow-v11.0-lmi-UNOFFICIAL-20210123-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lmi/Arrow-v11.0-lmi-UNOFFICIAL-20210123-VANILLA.zip", 
+                  "sha256": "3453c3dcf7eda2c8e668692d8a1d7cf1d820fa5f7f072df1d42bcedd57d65571", 
+                  "size": "692126187", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
               ]
             }
           ]
