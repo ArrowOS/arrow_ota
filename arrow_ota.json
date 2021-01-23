@@ -715,12 +715,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-22", 
-                  "datetime": "20210122", 
-                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210122-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210122-VANILLA.zip", 
-                  "sha256": "b27f8285c8b104e167f87b0be6452c18c3436ed3585915ae3a425a637efa58bb", 
-                  "size": "883570236", 
+                  "date": "2021-01-23", 
+                  "datetime": "20210123", 
+                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210123-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210123-VANILLA.zip", 
+                  "sha256": "7bb45097b3e56359ef53e1114149be8c67cb226d7438593973851152f773ec31", 
+                  "size": "883562783", 
                   "type": "official", 
                   "version": "v11.0"
                 }
