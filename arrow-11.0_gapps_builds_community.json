@@ -78,5 +78,21 @@
             "type": "community", 
             "version": "v11.0"
         }
+    ], 
+    "umi": [
+        {
+            "changelog": "First community build", 
+            "date": "2021-01-23", 
+            "datetime": "20210123", 
+            "filename": "Arrow-v11.0-umi-COMMUNITY-20210123-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210123-GAPPS.zip", 
+            "maintainer": "ChaptSand", 
+            "model": "MI 10", 
+            "oem": "Xiaomi", 
+            "sha256": "559aed38297eca8195ae24469346b0c0a493cf88053cd0f2040a4ba9bb7e0f8c", 
+            "size": "1017579740", 
+            "type": "community", 
+            "version": "v11.0"
+        }
     ]
 }
