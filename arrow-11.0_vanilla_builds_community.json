@@ -78,5 +78,21 @@
             "type": "community", 
             "version": "v11.0"
         }
+    ], 
+    "umi": [
+        {
+            "changelog": "First community build", 
+            "date": "2021-01-23", 
+            "datetime": "20210123", 
+            "filename": "Arrow-v11.0-umi-COMMUNITY-20210123-VANILLA.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210123-VANILLA.zip", 
+            "maintainer": "ChaptSand", 
+            "model": "MI 10", 
+            "oem": "Xiaomi", 
+            "sha256": "061c36e92a2847d0a4d8bdf74a50e923bad72b8be4e0fac6fa89d7668f11689b", 
+            "size": "682169656", 
+            "type": "community", 
+            "version": "v11.0"
+        }
     ]
 }
