@@ -110,8 +110,8 @@
   "apollopro": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
-      "model": "Xiaomi Mi 10T", 
+      "maintainer": "ejbtrd", 
+      "model": "arrow_apollopro", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
@@ -131,12 +131,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-22", 
-                  "datetime": "20210122", 
-                  "filename": "Arrow-v11.0-apollopro-COMMUNITY-20210122-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollopro/Arrow-v11.0-apollopro-COMMUNITY-20210122-VANILLA.zip", 
-                  "sha256": "c4b9ea39274a17dd9f92a8ccf3d0b640a6abd23109c1b80855e5f2c2c4104266", 
-                  "size": "733971405", 
+                  "date": "2021-01-23", 
+                  "datetime": "20210123", 
+                  "filename": "Arrow-v11.0-apollopro-COMMUNITY-20210123-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollopro/Arrow-v11.0-apollopro-COMMUNITY-20210123-VANILLA.zip", 
+                  "sha256": "7c2310022a553dd4fd0f746051f53dd19aa539d7fafa1b45187a2a7698c90269", 
+                  "size": "734537552", 
                   "type": "community", 
                   "version": "v11.0"
                 }
