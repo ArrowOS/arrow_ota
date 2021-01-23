@@ -15,6 +15,22 @@
             "version": "v11.0"
         }
     ], 
+    "cmi": [
+        {
+            "changelog": "First community build", 
+            "date": "2021-01-23", 
+            "datetime": "20210123", 
+            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210123-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210123-VANILLA.zip", 
+            "maintainer": "ChaptSand", 
+            "model": "MI 10 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "4f24f4178c4ccb8181a7c0e33febf8495e47bc646cf2ce87f8a86d2a32403e13", 
+            "size": "681737639", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "jasmine_sprout": [
         {
             "changelog": "Enforcing selinux and new stuff", 
