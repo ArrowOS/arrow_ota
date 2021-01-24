@@ -17,16 +17,16 @@
     ], 
     "cmi": [
         {
-            "changelog": "First community build", 
-            "date": "2021-01-23", 
-            "datetime": "20210123", 
-            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210123-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210123-GAPPS.zip", 
+            "changelog": "Support wake up Ok Google when screen  locked", 
+            "date": "2021-01-24", 
+            "datetime": "20210124", 
+            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210124-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210124-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "89471d8daf3ea3a96d754635c1b274d6d6b0193b5c02a1dd4928fbbb88cac32a", 
-            "size": "1017259442", 
+            "sha256": "4d096787429dcb903bab06ccde0c8fee894760eabd3f6612ab885154386a5dcc", 
+            "size": "1017402192", 
             "type": "community", 
             "version": "v11.0"
         }
