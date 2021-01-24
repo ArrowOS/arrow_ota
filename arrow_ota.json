@@ -857,7 +857,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Moved XiaomiParts to System/XiaomiParts\r\n- 24 Bits Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Predator-Stormbreaker HMP inline", 
+      "changelog": "- Moved XiaomiParts to System/XiaomiParts\r\n- 24 Bits Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- Predator-Stormbreaker HMP inline", 
       "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -879,12 +879,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-22", 
-                  "datetime": "20210122", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210122-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210122-VANILLA.zip", 
-                  "sha256": "5417cc49d2507d3507a0b1539a65045cc3f0439f856d8641caecde48a14a91c8", 
-                  "size": "944467681", 
+                  "date": "2021-01-23", 
+                  "datetime": "20210123", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210123-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210123-VANILLA.zip", 
+                  "sha256": "e8861926bb84be6cec67110921906dc8e151b7030efc96599d45a9d67b530929", 
+                  "size": "944474568", 
                   "type": "community", 
                   "version": "v11.0"
                 }
