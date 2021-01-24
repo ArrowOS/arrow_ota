@@ -290,15 +290,15 @@
     "surya": [
         {
             "changelog": "- Pull kernel upstream changes (enhancements)\r\n- Fix audio and mic related issues\r\n- Address FM denials\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-01-23", 
-            "datetime": "20210123", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210123-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210123-VANILLA.zip", 
+            "date": "2021-01-24", 
+            "datetime": "20210124", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210124-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210124-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "c65c7c8615248dd98b5653bf04c0cdd3643d5b96ecab8842417dc5351b3b4073", 
-            "size": "700029695", 
+            "sha256": "e22cd5eba7d9afec771accde0d07169fb7f9e3b2900e8214de461c83cdaecf1c", 
+            "size": "700031173", 
             "type": "official", 
             "version": "v11.0"
         }
