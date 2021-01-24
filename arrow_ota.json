@@ -445,7 +445,7 @@
   ], 
   "cmi": [
     {
-      "changelog": "First community build", 
+      "changelog": "Support wake up Ok Google when screen  locked", 
       "maintainer": "ChaptSand", 
       "model": "MI 10 Pro", 
       "oem": "Xiaomi", 
@@ -467,12 +467,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-23", 
-                  "datetime": "20210123", 
-                  "filename": "Arrow-v11.0-cmi-COMMUNITY-20210123-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210123-VANILLA.zip", 
-                  "sha256": "4f24f4178c4ccb8181a7c0e33febf8495e47bc646cf2ce87f8a86d2a32403e13", 
-                  "size": "681737639", 
+                  "date": "2021-01-24", 
+                  "datetime": "20210124", 
+                  "filename": "Arrow-v11.0-cmi-COMMUNITY-20210124-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210124-VANILLA.zip", 
+                  "sha256": "7d5207b2aaee854a35c296c8b2f72adae9165a9626f0466befb486151f1311f4", 
+                  "size": "681933355", 
                   "type": "community", 
                   "version": "v11.0"
                 }
