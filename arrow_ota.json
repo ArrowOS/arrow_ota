@@ -1993,7 +1993,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- SELinux enforcing\r\n- Drop deprecated android.hardware.thermal HAL\r\n- Switch to QTI thermal 2.0 hal\r\n- Add shim for libdpmframework\r\n- Build libhidltransport/libhwbinder from source\r\n- Kernel upstreamed to Linux version 4.4.251\r\n- Misc changes", 
+      "changelog": "- Update Alarm blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update ANT+ from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Bluetooth blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Charger from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update CNE from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update DPM and DRM from LA.UM.8.2.r1-07400-sdm660.0\r\n- Update ESE Powermanager from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Graphics from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update listen blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update media blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update post processing from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update QMI from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Radio blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Time services from LA.UM.9.6.2.r1-03300-89xx.0\r\n- Update  wifi and wfd blobs from LA.UM.9.6.2.r1-02500-89xx.0\r\n- Set kernel linker to LLD\r\n- Upstream kernel to linux version 4.4.253\r\n- Merge LA.UM.8.2.r2-03800-sdm660.0 caf tag into the kernel\r\n- Upstream wireguard to 1.0.20210124 snapshot\r\n- Many more misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -2047,12 +2047,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-24", 
-                  "datetime": "20210124", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210124-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210124-VANILLA.zip", 
-                  "sha256": "b4a2b4cc835c539efdaac87c5b26e9e263d109a69d0bdb788e2444153a522a9e", 
-                  "size": "793472306", 
+                  "date": "2021-01-25", 
+                  "datetime": "20210125", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210125-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210125-VANILLA.zip", 
+                  "sha256": "3407004f59f20f2fe22ba02ed2399025b902f057faadbbe43c16a9291f9aa5be", 
+                  "size": "799062659", 
                   "type": "official", 
                   "version": "v11.0"
                 }
