@@ -65,16 +65,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n19/01/2021\r\n-Bootanimation will start earlier now\r\n-Hidden the indicator text from the biometric dialog\r\n-Fixed minor issues with KCAL settings\r\n11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-01-24", 
-            "datetime": "20210124", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210124-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210124-GAPPS.zip", 
+            "changelog": "24/01/2021\r\n-Upstreamed the kernel to Linux 4.14.217\r\n-Updated blobs from MIUI 21.1.20\r\n22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n19/01/2021\r\n-Bootanimation will start earlier now\r\n-Hidden the indicator text from the biometric dialog\r\n-Fixed minor issues with KCAL settings\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-01-25", 
+            "datetime": "20210125", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210125-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210125-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "c0ed2fec696d9e8f5ab0d05ef14e641659cbe6fdd9602abf4d848153e5f57cb6", 
-            "size": "1323441940", 
+            "sha256": "143aaaa2ec0f152261498d316eb53c14883a6f7b8119b44c6fa46e0b87610949", 
+            "size": "1323344300", 
             "type": "official", 
             "version": "v11.0"
         }
