@@ -485,7 +485,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n19/01/2021\r\n-Bootanimation will start earlier now\r\n-Hidden the indicator text from the biometric dialog\r\n-Fixed minor issues with KCAL settings\r\n11/01/2021\r\n-Upstreamed the kernel to Linux 4.14.214\r\n-Minor cleanup\r\n07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+      "changelog": "24/01/2021\r\n-Upstreamed the kernel to Linux 4.14.217\r\n-Updated blobs from MIUI 21.1.20\r\n22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n19/01/2021\r\n-Bootanimation will start earlier now\r\n-Hidden the indicator text from the biometric dialog\r\n-Fixed minor issues with KCAL settings\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
       "maintainer": "daniml3", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -507,12 +507,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-24", 
-                  "datetime": "20210124", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210124-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210124-VANILLA.zip", 
-                  "sha256": "d27f25d17f14c01a7965f5ad3b0ca782b88330d2c3555f722dfa5bd646a2e9a1", 
-                  "size": "1003977530", 
+                  "date": "2021-01-25", 
+                  "datetime": "20210125", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210125-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210125-VANILLA.zip", 
+                  "sha256": "1ccab81a84be7b0f60c569e170360cb8eda3d5add9fe3683035f32043133fe15", 
+                  "size": "1003969006", 
                   "type": "official", 
                   "version": "v11.0"
                 }
