@@ -66,15 +66,15 @@
     "davinci": [
         {
             "changelog": "24/01/2021\r\n-Upstreamed the kernel to Linux 4.14.217\r\n-Updated blobs from MIUI 21.1.20\r\n22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n19/01/2021\r\n-Bootanimation will start earlier now\r\n-Hidden the indicator text from the biometric dialog\r\n-Fixed minor issues with KCAL settings\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-01-25", 
-            "datetime": "20210125", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210125-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210125-GAPPS.zip", 
+            "date": "2021-01-26", 
+            "datetime": "20210126", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210126-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210126-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "143aaaa2ec0f152261498d316eb53c14883a6f7b8119b44c6fa46e0b87610949", 
-            "size": "1323344300", 
+            "sha256": "243f864f85a405f8c747a5bb36b7cc9e6130428e064eab2aa7ef62c8e6b33630", 
+            "size": "1323202029", 
             "type": "official", 
             "version": "v11.0"
         }
