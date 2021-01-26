@@ -65,16 +65,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Predator-Stormbreaker HMP inline\r\n- Enforcing SELinux (TEST)", 
-            "date": "2021-01-25", 
-            "datetime": "20210125", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210125-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210125-GAPPS.zip", 
+            "changelog": "- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Predator-Stormbreaker HMP inline", 
+            "date": "2021-01-26", 
+            "datetime": "20210126", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210126-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210126-GAPPS.zip", 
             "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "28d040392ae14336a2b40b3e8f4e22c68cda20c7448972536982b01d5fb18367", 
-            "size": "1261247489", 
+            "sha256": "d4947edc931e101ce076a261ef1240b31f287f326baaba3bff616503f655296b", 
+            "size": "1261143748", 
             "type": "community", 
             "version": "v11.0"
         }
