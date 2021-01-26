@@ -857,7 +857,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Predator-Stormbreaker HMP inline\r\n- Enforcing SELinux (TEST)", 
+      "changelog": "- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Predator-Stormbreaker HMP inline", 
       "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -883,8 +883,8 @@
                   "datetime": "20210125", 
                   "filename": "Arrow-v11.0-lavender-COMMUNITY-20210125-VANILLA.zip", 
                   "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210125-VANILLA.zip", 
-                  "sha256": "a0188afe0e5a29b0e67575e2b7b504e43bd60154ac86fb9239b0d10cc7c96734", 
-                  "size": "943981121", 
+                  "sha256": "2f36672cdd6714611852c72f23e7e7143b4f7f8e1812dd05d3193f1004532852", 
+                  "size": "944172084", 
                   "type": "community", 
                   "version": "v11.0"
                 }
