@@ -81,16 +81,16 @@
     ], 
     "umi": [
         {
-            "changelog": "First community build", 
-            "date": "2021-01-22", 
-            "datetime": "20210122", 
-            "filename": "Arrow-v11.0-umi-COMMUNITY-20210122-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210122-GAPPS.zip", 
+            "changelog": "Add Face Unlock feature", 
+            "date": "2021-01-27", 
+            "datetime": "20210127", 
+            "filename": "Arrow-v11.0-umi-COMMUNITY-20210127-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210127-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10", 
             "oem": "Xiaomi", 
-            "sha256": "fad06bf838c2df63a6656d6202e88043fd01aa98135a3374ad1fc55d41b376bd", 
-            "size": "1017579746", 
+            "sha256": "97318b0e5dfa66c0ee7dcf38d76a7fefe12dc9d645d5498dfbcccaee1b69a3db", 
+            "size": "1018291955", 
             "type": "community", 
             "version": "v11.0"
         }
