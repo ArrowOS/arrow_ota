@@ -107,6 +107,34 @@
       ]
     }
   ], 
+  "X01BD": [
+    {
+      "changelog": null, 
+      "maintainer": "SonalSingh18", 
+      "model": "ASUS_X01BDA", 
+      "oem": "asus", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-01-27", 
+                  "datetime": "20210127", 
+                  "filename": "Arrow-v11.0-X01BD-UNOFFICIAL-20210127-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-UNOFFICIAL-20210127-GAPPS.zip", 
+                  "sha256": "a17502e3427aa0748d9f24ea839568d1e980b2b470847442d854ec82a4ba09d3", 
+                  "size": "1075924223", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "apollopro": [
     {
       "changelog": null, 
