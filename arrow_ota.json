@@ -1857,7 +1857,7 @@
   ], 
   "umi": [
     {
-      "changelog": "support wake up Ok Google when screen  locked", 
+      "changelog": "Add Face Unlock feature", 
       "maintainer": "ChaptSand", 
       "model": "MI 10", 
       "oem": "Xiaomi", 
@@ -1879,12 +1879,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-01-26", 
-                  "datetime": "20210126", 
-                  "filename": "Arrow-v11.0-umi-COMMUNITY-20210126-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210126-VANILLA.zip", 
-                  "sha256": "bfa90b80cdddcc068ca4143a9eaf0735067ab627b97114b51ac8fc5f628bc558", 
-                  "size": "682606838", 
+                  "date": "2021-01-27", 
+                  "datetime": "20210127", 
+                  "filename": "Arrow-v11.0-umi-COMMUNITY-20210127-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210127-VANILLA.zip", 
+                  "sha256": "6006e21dc88f8a56dfc2479e45c71fb8e2b4e8fa724b8af920199e7583c5380a", 
+                  "size": "682736055", 
                   "type": "community", 
                   "version": "v11.0"
                 }
