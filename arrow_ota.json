@@ -1687,6 +1687,34 @@
       ]
     }
   ], 
+  "rosy": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Redmi 5", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-01-27", 
+                  "datetime": "20210127", 
+                  "filename": "Arrow-v11.0-rosy-COMMUNITY-20210127-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/rosy/Arrow-v11.0-rosy-COMMUNITY-20210127-VANILLA.zip", 
+                  "sha256": "d0e9e564740c200763fa3e262e9689b23b5a1654c610d7e3af1d0454c6a0d6fa", 
+                  "size": "743738705", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "sailfish": [
     {
       "changelog": null, 
