@@ -41,7 +41,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- Further improvements to speaker audio quality", 
+      "changelog": null, 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -79,12 +79,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-01-22", 
-                  "datetime": "20210122", 
-                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210122-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210122-GAPPS.zip", 
-                  "sha256": "86d6e7bffb14dc282cbe6c469903932e43ab0fe55dbf93e6b144b3fc7af45c82", 
-                  "size": "1076919450", 
+                  "date": "2021-01-27", 
+                  "datetime": "20210127", 
+                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210127-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210127-GAPPS.zip", 
+                  "sha256": "5f7b4f00ab9dfe0f71980e8247087373d21e2fb54ad41497e969bb3f322d7dce", 
+                  "size": "1076189413", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
