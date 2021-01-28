@@ -178,15 +178,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Upstreamed kernel to 4.4.214\r\n\u2022 Fixed safetynet", 
-            "date": "2021-01-26", 
-            "datetime": "20210126", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210126-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210126-VANILLA.zip", 
+            "date": "2021-01-28", 
+            "datetime": "20210128", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210128-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210128-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "SM6250", 
             "oem": "Xiaomi", 
-            "sha256": "1620ca49cd00dcc8ef4c54bb3fd5847d281598e901efd0118dd5b0fbca485302", 
-            "size": "1122445406", 
+            "sha256": "2a565a406907b34d744f5dd41998e0828b9e01736e9afd74f1a46be0ff665078", 
+            "size": "1122353169", 
             "type": "official", 
             "version": "v11.0"
         }
