@@ -1746,13 +1746,25 @@
   "rosy": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "maintainer": "Shriiyansh Pandey", 
       "model": "Redmi 5", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-28", 
+                  "datetime": "20210128", 
+                  "filename": "Arrow-v11.0-rosy-COMMUNITY-20210128-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/rosy/Arrow-v11.0-rosy-COMMUNITY-20210128-GAPPS.zip", 
+                  "sha256": "33c9cf4f32727f1e1a5606d01922657b45811b967bfe3266bb00c24b67ee4d25", 
+                  "size": "1058759670", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-27", 
