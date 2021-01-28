@@ -15,6 +15,22 @@
             "version": "v11.0"
         }
     ], 
+    "X01BD": [
+        {
+            "changelog": "* Initial Official build\r\n* 4.4.253 kernel upstreamed\r\n* Merge tag LA.UM.9.2.r1-02000-SDMxx0.0", 
+            "date": "2021-01-28", 
+            "datetime": "20210128", 
+            "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210128-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210128-GAPPS.zip", 
+            "maintainer": "SonalSingh18", 
+            "model": "ASUS_X01BDA", 
+            "oem": "asus", 
+            "sha256": "50d60f46db993f6985bde5dad6f7247b4de372c95596b1cf26be31c8a7089b27", 
+            "size": "1076901898", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "beryllium": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Switch FBE and drop FDE (enable force encryption)\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Fixed color display problems in some apps\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
