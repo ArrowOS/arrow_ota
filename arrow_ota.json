@@ -39,6 +39,34 @@
       ]
     }
   ], 
+  "RMX1801": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Realme 2 Pro", 
+      "oem": "oppo", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-01-28", 
+                  "datetime": "20210128", 
+                  "filename": "Arrow-v11.0-RMX1801-COMMUNITY-20210128-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/RMX1801/Arrow-v11.0-RMX1801-COMMUNITY-20210128-VANILLA.zip", 
+                  "sha256": "b532ee4363b88de9180b71c31b21aa37cc4a8e023aaeaa69d1f5ba32765409a3", 
+                  "size": "966893252", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "X00T": [
     {
       "changelog": "- Further improvements to speaker audio quality", 
