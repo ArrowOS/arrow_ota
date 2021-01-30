@@ -114,15 +114,15 @@
     "umi": [
         {
             "changelog": "support wake up Ok Google when screen  locked", 
-            "date": "2021-01-29", 
-            "datetime": "20210129", 
-            "filename": "Arrow-v11.0-umi-COMMUNITY-20210129-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210129-GAPPS.zip", 
+            "date": "2021-01-30", 
+            "datetime": "20210130", 
+            "filename": "Arrow-v11.0-umi-COMMUNITY-20210130-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210130-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10", 
             "oem": "Xiaomi", 
-            "sha256": "ce57afb721ba3b7641a9494f592118d26e0c66253a693839c5a442e430d7e9a1", 
-            "size": "1018276758", 
+            "sha256": "f1e8ec0568c466e52730e7b95f0efae11477b4abebc9df8488a454b6f9df870f", 
+            "size": "1018276365", 
             "type": "community", 
             "version": "v11.0"
         }
