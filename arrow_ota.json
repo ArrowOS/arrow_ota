@@ -49,6 +49,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-01-30", 
+                  "datetime": "20210130", 
+                  "filename": "Arrow-v11.0-RMX1801-COMMUNITY-20210130-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/RMX1801/Arrow-v11.0-RMX1801-COMMUNITY-20210130-GAPPS.zip", 
+                  "sha256": "2863aeaa7c6c29553d0653811196948157d490a62df9b6466368f21c84eea438", 
+                  "size": "1280338321", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-01-30", 
