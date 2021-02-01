@@ -193,16 +193,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Upstreamed kernel to 4.4.214\r\n\u2022 Fixed safetynet", 
-            "date": "2021-01-28", 
-            "datetime": "20210128", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210128-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210128-VANILLA.zip", 
+            "changelog": "\u2022 Enforcing build\r\n\u2022 Added fully working MiuiCamera (except for curtana users)\r\n\u2022 Fixed OK Google Hotword Enrollment\r\n\u2022 Fixed BT audio codecs\r\n\u2022 Enabled inline encryption (so yeah can flash R kernels)\r\n\u2022 Added smartcharging", 
+            "date": "2021-02-01", 
+            "datetime": "20210201", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210201-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210201-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
-            "model": "SM6250", 
+            "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "2a565a406907b34d744f5dd41998e0828b9e01736e9afd74f1a46be0ff665078", 
-            "size": "1122353169", 
+            "sha256": "4314b9d5780be06fa74f3edde4abc67cafbc905d6f247d249377bbf15531b5b2", 
+            "size": "1300514506", 
             "type": "official", 
             "version": "v11.0"
         }
