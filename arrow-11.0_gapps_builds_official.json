@@ -321,16 +321,16 @@
     ], 
     "violet": [
         {
-            "changelog": "NOTE: Clean flash Recommended\r\n\r\nCHANGELOGS\r\n- Switched to R Hals\r\n- Enabled Gralloc 4\r\n- Updated almost every vendor blobs to R\r\n- Dropped prebuilt kernel\r\n- USB Fatcharge is back in violet parts\r\n- Fixed idle drains\r\n- Fixed Wifi and Hotspot problems\r\n- No more crashes with GCam 8\r\n- CTS pass out of the box without root\r\n- Merged LA.UM.9.1.r1-08300-SMxxx0.0 tag in the kernel\r\n- Lots of Audio and Media Playback improvements\r\n- Bug related to IR blaster is fixed\r\n- Many performance improvements and bug fixes\r\n- For more check trees\r\n\r\nKNOWN BUGS\r\n- FM Radio\r\n- SELinux status in violet parts", 
-            "date": "2021-01-28", 
-            "datetime": "20210128", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20210128-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210128-GAPPS.zip", 
+            "changelog": "CHANGELOGS\r\n- Switched to Qti BT\r\n- Updated blobs from VIOLETINGlobal_V12.0.5.0.QFHINXM\r\n- Added Smart Charging overlay", 
+            "date": "2021-02-01", 
+            "datetime": "20210201", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20210201-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210201-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "168f9dbecde2ec2c18c7546414847235e68f2c4f30568dafabe3e62c9aab38f3", 
-            "size": "1276091605", 
+            "sha256": "31d2ba364ae115f7ed3fec0116af9fe2dfeea396307a00eb0c0dcd20e3c5579f", 
+            "size": "1280596992", 
             "type": "official", 
             "version": "v11.0"
         }
