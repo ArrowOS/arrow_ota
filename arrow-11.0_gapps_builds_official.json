@@ -354,15 +354,15 @@
     "whyred": [
         {
             "changelog": "- Update Alarm blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update ANT+ from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Bluetooth blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Charger from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update CNE from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update DPM and DRM from LA.UM.8.2.r1-07400-sdm660.0\r\n- Update ESE Powermanager from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Graphics from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update listen blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update media blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update post processing from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update QMI from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Radio blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Time services from LA.UM.9.6.2.r1-03300-89xx.0\r\n- Update  wifi and wfd blobs from LA.UM.9.6.2.r1-02500-89xx.0\r\n- Set kernel linker to LLD\r\n- Upstream kernel to linux version 4.4.253\r\n- Merge LA.UM.8.2.r2-03800-sdm660.0 caf tag into the kernel\r\n- Upstream wireguard to 1.0.20210124 snapshot\r\n- Disable HD capable notification\r\n- Added Smart Charging\r\n- Many more misc changes", 
-            "date": "2021-01-29", 
-            "datetime": "20210129", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210129-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210129-GAPPS.zip", 
+            "date": "2021-01-31", 
+            "datetime": "20210131", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210131-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210131-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "3be135d4d83d7ff36c748848a65c669271d25994a6ab0de96a23b0484b22564c", 
-            "size": "1115264343", 
+            "sha256": "031020586bce50daf3be5bbb6d1a1766138b548e18bcc77f78e0a6423f072cf4", 
+            "size": "1115433178", 
             "type": "official", 
             "version": "v11.0"
         }
