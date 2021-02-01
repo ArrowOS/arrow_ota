@@ -18,15 +18,15 @@
     "X01BD": [
         {
             "changelog": "* Initial Official build\r\n* 4.4.253 kernel upstreamed\r\n* Merge tag LA.UM.9.2.r1-02000-SDMxx0.0", 
-            "date": "2021-01-29", 
-            "datetime": "20210129", 
-            "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210129-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210129-VANILLA.zip", 
+            "date": "2021-02-01", 
+            "datetime": "20210201", 
+            "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210201-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210201-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "ASUS_X01BDA", 
             "oem": "asus", 
-            "sha256": "3576fef467c1720d37ce2b878a8773d9c8da00e23db23c1e9ea4abe9f66e55fe", 
-            "size": "763852057", 
+            "sha256": "45e7bdc51cba4ecc5b766120316fc30423a2f03306ee591944e9aa7112b69844", 
+            "size": "763006079", 
             "type": "official", 
             "version": "v11.0"
         }
