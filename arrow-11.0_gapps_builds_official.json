@@ -81,16 +81,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "28/01/2021\r\n-Enabled Smart Charging\r\n27/01/2021\r\n-Fixed microphone on certain apps on recording video while having \"Hey Google\" enabled\r\n24/01/2021\r\n-Upstreamed the kernel to Linux 4.14.217\r\n-Updated blobs from MIUI 21.1.20\r\n22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-01-28", 
-            "datetime": "20210128", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210128-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210128-GAPPS.zip", 
+            "changelog": "30/01/2021\r\n-Switched to a new device side screen off FOD implementation.\r\n28/01/2021\r\n-Enabled Smart Charging\r\n27/01/2021\r\n-Fixed microphone on certain apps on recording video while having \"Hey Google\" enabled\r\n24/01/2021\r\n-Upstreamed the kernel to Linux 4.14.217\r\n-Updated blobs from MIUI 21.1.20\r\n22/01/2021\r\n-Fixed the bug where the recents gesture got stuck randomly\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-02-01", 
+            "datetime": "20210201", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210201-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210201-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "d9be2bd16477b32c613f1c57fb94e1e5247c5fe62f76475df5cfad1e417e2bb9", 
-            "size": "1323043984", 
+            "sha256": "43c07c5a42f30c5133c82d0971f0fa4c950a228b66454e3b21345d617689b1f1", 
+            "size": "1323478848", 
             "type": "official", 
             "version": "v11.0"
         }
