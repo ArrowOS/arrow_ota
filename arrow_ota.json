@@ -243,46 +243,6 @@
       ]
     }
   ], 
-  "apollopro": [
-    {
-      "changelog": null, 
-      "maintainer": "ejbtrd", 
-      "model": "Mi 10T", 
-      "oem": "Xiaomi", 
-      "v11.0": [
-        {
-          "COMMUNITY": [
-            {
-              "GAPPS": [
-                {
-                  "date": "2021-01-29", 
-                  "datetime": "20210129", 
-                  "filename": "Arrow-v11.0-apollopro-COMMUNITY-20210129-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/apollopro/Arrow-v11.0-apollopro-COMMUNITY-20210129-GAPPS.zip", 
-                  "sha256": "66d83f5205f64c578f87334d12df59d135d63d1ef412765c7ee2253c15a3d6d5", 
-                  "size": "1059534654", 
-                  "type": "community", 
-                  "version": "v11.0"
-                }
-              ], 
-              "VANILLA": [
-                {
-                  "date": "2021-01-29", 
-                  "datetime": "20210129", 
-                  "filename": "Arrow-v11.0-apollopro-COMMUNITY-20210129-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollopro/Arrow-v11.0-apollopro-COMMUNITY-20210129-VANILLA.zip", 
-                  "sha256": "adf42669aaffe37ff3cc1a834bd8638eb88cdda942b1ac59e7cb31c8fdab0d61", 
-                  "size": "734783981", 
-                  "type": "community", 
-                  "version": "v11.0"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ], 
   "armani": [
     {
       "changelog": null, 

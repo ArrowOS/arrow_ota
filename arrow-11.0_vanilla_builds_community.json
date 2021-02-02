@@ -15,22 +15,6 @@
             "version": "v11.0"
         }
     ], 
-    "apollopro": [
-        {
-            "changelog": null, 
-            "date": "2021-01-28", 
-            "datetime": "20210128", 
-            "filename": "Arrow-v11.0-apollopro-COMMUNITY-20210128-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollopro/Arrow-v11.0-apollopro-COMMUNITY-20210128-VANILLA.zip", 
-            "maintainer": "ejbtrd", 
-            "model": "Mi 10T", 
-            "oem": "Xiaomi", 
-            "sha256": "580bd71fb00c4e4800ec65cbd653b3e788a353be29fb334bd403569528028059", 
-            "size": "734541710", 
-            "type": "community", 
-            "version": "v11.0"
-        }
-    ], 
     "chiron": [
         {
             "changelog": "- added Gcam from AOSP-11 for Sagit\r\n- undervolted CPU", 
