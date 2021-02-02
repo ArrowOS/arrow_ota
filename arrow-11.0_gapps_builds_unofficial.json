@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "apollo": [
+        {
+            "changelog": null, 
+            "date": "2021-02-02", 
+            "datetime": "20210202", 
+            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210202-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210202-GAPPS.zip", 
+            "maintainer": "ejbtrd", 
+            "model": "Xiaomi Mi 10T", 
+            "oem": "Xiaomi", 
+            "sha256": "75b0ab71cabffc3f4e1d6562b9e23e75e6e8a896a0c8f66722f253a2797874f8", 
+            "size": "1059150442", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "beryllium": [
         {
             "changelog": "- Misc fixes and upstream changes.", 
