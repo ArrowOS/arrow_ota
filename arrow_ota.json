@@ -236,6 +236,18 @@
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
+              ], 
+              "VANILLA": [
+                {
+                  "date": "2021-02-02", 
+                  "datetime": "20210202", 
+                  "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210202-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210202-VANILLA.zip", 
+                  "sha256": "d6c7ee19820ba2cada6fb78a9c70c6a15bc9a1edc59ec331c41933604162894d", 
+                  "size": "734305709", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
               ]
             }
           ]
