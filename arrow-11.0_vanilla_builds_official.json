@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": "- Further improvements to speaker audio quality", 
-            "date": "2021-02-02", 
-            "datetime": "20210202", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210202-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210202-VANILLA.zip", 
+            "changelog": "- Fixed notification led where it did not work before (telegram, missed call)\r\n- Now led uses only green for notification alert\r\n- Dropped unused blobs", 
+            "date": "2021-02-03", 
+            "datetime": "20210203", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210203-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210203-VANILLA.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "32687065cf52247d50d4626f3057d5935810300cb90c1003c3a1a3ab0529cfb8", 
-            "size": "762304846", 
+            "sha256": "06c06e95b79e01ba9ae1de73787cc5eb65acc2cb7b038c96c424d8244e7b7fe5", 
+            "size": "762129900", 
             "type": "official", 
             "version": "v11.0"
         }
