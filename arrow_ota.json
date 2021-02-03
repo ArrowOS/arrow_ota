@@ -1335,6 +1335,34 @@
       ]
     }
   ], 
+  "monet": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Mi 10 Lite 5G", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-02-03", 
+                  "datetime": "20210203", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210203-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210203-VANILLA.zip", 
+                  "sha256": "56d58c6be1a3b1f86b1d08a521aa5eaed43cc7be397f6ae39588e5f3db82cd4f", 
+                  "size": "699240446", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "oneplus3": [
     {
       "changelog": "- Misc changes\r\n- BT Fix\r\n- Few SE Denials Defined\r\n- WhatsApp QR Code Fixed", 
