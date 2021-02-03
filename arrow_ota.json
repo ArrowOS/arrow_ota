@@ -1345,6 +1345,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-02-03", 
+                  "datetime": "20210203", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210203-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210203-GAPPS.zip", 
+                  "sha256": "f02f5df964b347462b6d0fcf29429a6198b3df76db0ab491a7587db4dac4e1b2", 
+                  "size": "1018179795", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-02-03", 
