@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "apollo": [
+        {
+            "changelog": null, 
+            "date": "2021-02-03", 
+            "datetime": "20210203", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210203-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210203-GAPPS.zip", 
+            "maintainer": "ejbtrd", 
+            "model": "Xiaomi Mi 10T", 
+            "oem": "Xiaomi", 
+            "sha256": "a3053fd293be2b36f8f6d33103b3756b0fe99ad7fe8714503ad71e947bfc68b7", 
+            "size": "1060405112", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "beryllium": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Switch FBE and drop FDE (enable force encryption)\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Fixed color display problems in some apps\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
