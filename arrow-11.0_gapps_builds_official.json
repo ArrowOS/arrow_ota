@@ -129,16 +129,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Upstreamed kernel to v4.14.213\r\n- Performance improvements", 
-            "date": "2021-01-28", 
-            "datetime": "20210128", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210128-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210128-GAPPS.zip", 
+            "changelog": "- Enabled smart charging", 
+            "date": "2021-02-03", 
+            "datetime": "20210203", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210203-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210203-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "de51eea81e5c3b8affcb24d7621a1669b97a3fe3a524c21e2a16c1909dc50317", 
-            "size": "1203213417", 
+            "sha256": "636c5f38604c689c91f9eb757090eb5f73a7592f74c0e36999088321e0338e2f", 
+            "size": "1203062749", 
             "type": "official", 
             "version": "v11.0"
         }
