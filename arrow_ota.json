@@ -823,6 +823,34 @@
       ]
     }
   ], 
+  "gauguin": [
+    {
+      "changelog": "- Initial release\r\n\r\nHere be dragons!!", 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Mi 10i", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-02-03", 
+                  "datetime": "20210203", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210203-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210203-VANILLA.zip", 
+                  "sha256": "45786ea8cba16db6d3a30a374f838e52c9d2516d2d47a3042583ac93ab1351ac", 
+                  "size": "700116806", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "ginkgo": [
     {
       "changelog": "- Enabled smart charging", 
