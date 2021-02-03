@@ -223,6 +223,22 @@
       "oem": "Xiaomi", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-02-03", 
+                  "datetime": "20210203", 
+                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210203-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210203-VANILLA.zip", 
+                  "sha256": "395a3a192f79d80f93fa2c4c6e9d365ca9c2914d990899671ff81f9c8a405e9c", 
+                  "size": "735687083", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
