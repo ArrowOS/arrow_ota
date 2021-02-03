@@ -1021,7 +1021,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Predator-Stormbreaker HMP inline", 
+      "changelog": "- Enable SmartCharging\r\n- Add HotwordEnrollment blobs\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Google Redfin FP for January SPL\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal", 
       "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1031,12 +1031,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-02-02", 
-                  "datetime": "20210202", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210202-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210202-GAPPS.zip", 
-                  "sha256": "907d6a699274dd1c51c3a19ef7d3db47ab1db7824a206207d2b57c4d79d7af34", 
-                  "size": "1261657020", 
+                  "date": "2021-02-03", 
+                  "datetime": "20210203", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210203-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210203-GAPPS.zip", 
+                  "sha256": "6a90d73e365c2cd36c39104df11ba7c1792f6191a88ceac303d25ea617fa579c", 
+                  "size": "1261777018", 
                   "type": "community", 
                   "version": "v11.0"
                 }
