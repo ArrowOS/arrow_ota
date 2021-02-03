@@ -1711,12 +1711,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-02", 
-                  "datetime": "20210202", 
-                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210202-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210202-VANILLA.zip", 
-                  "sha256": "b849f608fdd71b43329eaf870280da5be80e77c4295a2312ac7533df07f50fa1", 
-                  "size": "702604054", 
+                  "date": "2021-02-03", 
+                  "datetime": "20210203", 
+                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210203-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210203-VANILLA.zip", 
+                  "sha256": "9810a3be344f89201ddcb9b9c69ced21773b1b11a8db0793d554cb14449b3e3b", 
+                  "size": "702425591", 
                   "type": "official", 
                   "version": "v11.0"
                 }
