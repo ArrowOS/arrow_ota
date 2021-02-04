@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": "- Fixed notification led where it did not work before (telegram, missed call)\r\n- Now led uses only green for notification alert\r\n- Dropped unused blobs", 
-            "date": "2021-02-03", 
-            "datetime": "20210203", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210203-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210203-GAPPS.zip", 
+            "changelog": "Fixed audio recording in newer gcam mods like MGC 8.1", 
+            "date": "2021-02-04", 
+            "datetime": "20210204", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210204-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210204-GAPPS.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "03ddeb95e1fe90c7d99bceb6af8545ebee2cb7145f4284d45f985ea11f53008f", 
-            "size": "1077683458", 
+            "sha256": "777d2bc1f827c57fb80cb542f084130f7f2f0afdc08821cc31a001da27df609d", 
+            "size": "1077292638", 
             "type": "official", 
             "version": "v11.0"
         }
