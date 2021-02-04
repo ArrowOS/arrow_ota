@@ -33,16 +33,16 @@
     ], 
     "cmi": [
         {
-            "changelog": "First community build", 
-            "date": "2021-01-22", 
-            "datetime": "20210122", 
-            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210122-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210122-VANILLA.zip", 
+            "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
+            "date": "2021-02-04", 
+            "datetime": "20210204", 
+            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210204-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210204-VANILLA.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "d07a0d7ba7964392af3789628c89e550127945af2677e205658cd11219a2e2e1", 
-            "size": "681734954", 
+            "sha256": "0bf170be31ed01d36613b177c7442ca8e97ae1fdb5dd1a68c9c662d99d42e325", 
+            "size": "682175989", 
             "type": "community", 
             "version": "v11.0"
         }
