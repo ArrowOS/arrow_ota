@@ -354,15 +354,15 @@
     "surya": [
         {
             "changelog": "- Fix touch/scroll issues on fp touch event\r\n- Fixed video playback issues\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-02-03", 
-            "datetime": "20210203", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210203-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210203-GAPPS.zip", 
+            "date": "2021-02-04", 
+            "datetime": "20210204", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210204-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210204-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "447a4e3965c261ceb711e46b203a693f0bf4ff50c09979e2e3406997695f1627", 
-            "size": "1019921757", 
+            "sha256": "b9e314844e5b871df5f58a48923ffd33745e2cc7df144935e766858164ac6e15", 
+            "size": "1019807554", 
             "type": "official", 
             "version": "v11.0"
         }
