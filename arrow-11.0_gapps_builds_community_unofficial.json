@@ -81,16 +81,16 @@
     ], 
     "umi": [
         {
-            "changelog": "Add Face Unlock feature", 
-            "date": "2021-01-27", 
-            "datetime": "20210127", 
-            "filename": "Arrow-v11.0-umi-COMMUNITY-20210127-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210127-GAPPS.zip", 
+            "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
+            "date": "2021-02-04", 
+            "datetime": "20210204", 
+            "filename": "Arrow-v11.0-umi-COMMUNITY-20210204-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210204-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10", 
             "oem": "Xiaomi", 
-            "sha256": "97318b0e5dfa66c0ee7dcf38d76a7fefe12dc9d645d5498dfbcccaee1b69a3db", 
-            "size": "1018291955", 
+            "sha256": "bac940a10bcb342c734bf44a66bc49ee2faedc768311dfa69fe49da6f17d3554", 
+            "size": "1018506256", 
             "type": "community", 
             "version": "v11.0"
         }
