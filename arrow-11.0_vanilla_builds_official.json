@@ -113,16 +113,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "03/02/2021\r\n-Added compatibility with stock camera libraries (for MIUI camera, for example)\r\n02/02/2021\r\n-Upstreamed the kernel to Linux 4.14.218\r\n30/01/2021\r\n-Switched to a new device side screen off FOD implementation.\r\n28/01/2021\r\n-Enabled Smart Charging\r\n27/01/2021\r\n-Fixed microphone on certain apps on recording video while having \"Hey Google\" enabled\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-02-03", 
-            "datetime": "20210203", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210203-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210203-VANILLA.zip", 
+            "changelog": "04/02/2021\r\n-Fixed screeen off FOD with ambient display disabled\r\n03/02/2021\r\n-Added compatibility with stock camera libraries (for MIUI camera, for example)\r\n02/02/2021\r\n-Upstreamed the kernel to Linux 4.14.218\r\n30/01/2021\r\n-Switched to a new device side screen off FOD implementation.\r\n28/01/2021\r\n-Enabled Smart Charging\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-02-04", 
+            "datetime": "20210204", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210204-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210204-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "e5b90755cf1bd48893c0631acf390bb18bc2877287a4fffa39bbc76a8cfcda52", 
-            "size": "1004150629", 
+            "sha256": "35e2d5f308e5985e6fb027199cbdbd3f8f97510058cd3686f76c1878ae2418fe", 
+            "size": "1003707139", 
             "type": "official", 
             "version": "v11.0"
         }
