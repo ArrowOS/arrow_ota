@@ -50,15 +50,15 @@
     "beryllium": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Switch FBE and drop FDE (enable force encryption)\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Fixed color display problems in some apps\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
-            "date": "2021-02-03", 
-            "datetime": "20210203", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210203-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210203-GAPPS.zip", 
+            "date": "2021-02-04", 
+            "datetime": "20210204", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210204-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210204-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "c2b29fd2e4a6c13f291a7c8fb7ab000a305f3f9499c1dd0e6ac245724abb7e26", 
-            "size": "1195163112", 
+            "sha256": "963067b06221eb6b7701b3850281ca0fdca4da133b122682ef6173358bc9875d", 
+            "size": "1193976588", 
             "type": "official", 
             "version": "v11.0"
         }
