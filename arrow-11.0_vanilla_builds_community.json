@@ -113,16 +113,16 @@
     ], 
     "umi": [
         {
-            "changelog": "support wake up Ok Google when screen  locked", 
-            "date": "2021-02-03", 
-            "datetime": "20210203", 
-            "filename": "Arrow-v11.0-umi-COMMUNITY-20210203-VANILLA.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210203-VANILLA.zip", 
+            "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
+            "date": "2021-02-05", 
+            "datetime": "20210205", 
+            "filename": "Arrow-v11.0-umi-COMMUNITY-20210205-VANILLA.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210205-VANILLA.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10", 
             "oem": "Xiaomi", 
-            "sha256": "ec0bea4257afdbcf86b0fa26070a470e0113c9597b88fd7202274b566cea0f64", 
-            "size": "683133315", 
+            "sha256": "ae15bbd019c9ed989132cb33e8c9a70e903a2b23fa5db9cb4093e6a7a79e0bfd", 
+            "size": "682597630", 
             "type": "community", 
             "version": "v11.0"
         }
