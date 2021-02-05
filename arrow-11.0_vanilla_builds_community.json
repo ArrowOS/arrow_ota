@@ -33,16 +33,16 @@
     ], 
     "cmi": [
         {
-            "changelog": "Support wake up Ok Google when screen  locked", 
-            "date": "2021-02-03", 
-            "datetime": "20210203", 
-            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210203-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210203-VANILLA.zip", 
+            "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
+            "date": "2021-02-05", 
+            "datetime": "20210205", 
+            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210205-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210205-VANILLA.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "7844fbcbc14b2a65a4dbf169e5d6d4972b7749eed91f919d9ddef081c3041f99", 
-            "size": "682084345", 
+            "sha256": "e1a8a8756adca5a5c42b98ae70b773da27b75e6796b22a9c22cce32f9518b71c", 
+            "size": "682308430", 
             "type": "community", 
             "version": "v11.0"
         }
