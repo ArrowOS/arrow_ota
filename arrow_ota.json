@@ -1702,6 +1702,22 @@
                 }
               ]
             }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-02-09", 
+                  "datetime": "20210209", 
+                  "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210209-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210209-VANILLA.zip", 
+                  "sha256": "1e0b0562263328965a0df4de37617e8df916672e5a523b3932ac1cba0b6b3846", 
+                  "size": "892195030", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
           ]
         }
       ]
