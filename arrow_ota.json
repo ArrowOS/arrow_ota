@@ -2321,7 +2321,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Update Alarm blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update ANT+ from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Bluetooth blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Charger from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update CNE from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update DPM and DRM from LA.UM.8.2.r1-07400-sdm660.0\r\n- Update ESE Powermanager from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Graphics from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update listen blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update media blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update post processing from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update QMI from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Radio blobs from LA.UM.8.2.r1-06700-sdm660.0\r\n- Update Time services from LA.UM.9.6.2.r1-03300-89xx.0\r\n- Update  wifi and wfd blobs from LA.UM.9.6.2.r1-02500-89xx.0\r\n- Set kernel linker to LLD\r\n- Upstream kernel to linux version 4.4.253\r\n- Merge LA.UM.8.2.r2-03800-sdm660.0 caf tag into the kernel\r\n- Upstream wireguard to 1.0.20210124 snapshot\r\n- Disable HD capable notification\r\n- Added Smart Charging\r\n- Many more misc changes", 
+      "changelog": "- Upstream kernel to linux version 4.4.255\r\n- Get rid of a Variable Length Array (VLA)\r\n- Clean up some unused blobs \r\n- Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -2375,12 +2375,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-05", 
-                  "datetime": "20210205", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210205-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210205-VANILLA.zip", 
-                  "sha256": "b79013c25327fd3e2566ec93fc031dcbb36e649c0fffe21f183ce7ad0cc4051d", 
-                  "size": "799356362", 
+                  "date": "2021-02-10", 
+                  "datetime": "20210210", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210210-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210210-VANILLA.zip", 
+                  "sha256": "128c40e5e12173650b491b763f98a2278c440f490e2b5f5f57bbe9a8d7cd7a14", 
+                  "size": "799271564", 
                   "type": "official", 
                   "version": "v11.0"
                 }
