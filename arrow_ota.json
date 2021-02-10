@@ -1705,6 +1705,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-02-09", 
+                  "datetime": "20210209", 
+                  "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210209-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210209-GAPPS.zip", 
+                  "sha256": "2957abcf978aabd5a0bf8d52f972d0a40ea9dd47dbe77489b176513b05ec303a", 
+                  "size": "1206292230", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-02-09", 
