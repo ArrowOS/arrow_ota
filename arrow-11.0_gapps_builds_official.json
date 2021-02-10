@@ -97,16 +97,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "04/02/2021\r\n-Fixed screeen off FOD with ambient display disabled\r\n03/02/2021\r\n-Added compatibility with stock camera libraries (for MIUI camera, for example)\r\n02/02/2021\r\n-Upstreamed the kernel to Linux 4.14.218\r\n30/01/2021\r\n-Switched to a new device side screen off FOD implementation.\r\n28/01/2021\r\n-Enabled Smart Charging\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-02-05", 
-            "datetime": "20210205", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210205-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210205-GAPPS.zip", 
+            "changelog": "04/02/2021\r\n-Fixed screeen off FOD with ambient display disabled\r\n03/02/2021\r\n-Added compatibility with stock camera libraries (for MIUI camera, for example)\r\n02/02/2021\r\n-Upstreamed the kernel to Linux 4.14.218\r\n30/01/2021\r\n-Switched to a new device side screen off FOD implementation.\r\n28/01/2021\r\n-Enabled Smart Charging\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-02-10", 
+            "datetime": "20210210", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210210-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210210-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "a737867d9f7c7f209b8c2d8905370adc54a919b1416daf355f7a3c5967489565", 
-            "size": "1323151882", 
+            "sha256": "b89829849673ef94eff26f822af99b13dbed4093b662fa79d14e7a2be8d34a09", 
+            "size": "1322879535", 
             "type": "official", 
             "version": "v11.0"
         }
