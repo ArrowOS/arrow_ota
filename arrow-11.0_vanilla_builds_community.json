@@ -34,15 +34,15 @@
     "cmi": [
         {
             "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
-            "date": "2021-02-05", 
-            "datetime": "20210205", 
-            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210205-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210205-VANILLA.zip", 
+            "date": "2021-02-10", 
+            "datetime": "20210210", 
+            "filename": "Arrow-v11.0-cmi-COMMUNITY-20210210-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-COMMUNITY-20210210-VANILLA.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "e1a8a8756adca5a5c42b98ae70b773da27b75e6796b22a9c22cce32f9518b71c", 
-            "size": "682308430", 
+            "sha256": "296c9874de94bfaad65676993c53966957697bb30cb51fd034bb6b21bee40950", 
+            "size": "683283037", 
             "type": "community", 
             "version": "v11.0"
         }
