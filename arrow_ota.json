@@ -825,7 +825,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- Fix bt audio\r\n- Bypass safetynet", 
+      "changelog": "- Fixed bt audio\r\n- Bypass safety net under permissive for now\r\n- misc tweaks & changes.\r\n\r\nHere be dragons!!", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Mi 10i", 
       "oem": "Xiaomi", 
@@ -847,12 +847,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-03", 
-                  "datetime": "20210203", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210203-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210203-VANILLA.zip", 
-                  "sha256": "45786ea8cba16db6d3a30a374f838e52c9d2516d2d47a3042583ac93ab1351ac", 
-                  "size": "700116806", 
+                  "date": "2021-02-11", 
+                  "datetime": "20210211", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210211-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210211-VANILLA.zip", 
+                  "sha256": "f357929d26d008239a8d2e673bb8429e487fa6697500b546205da2ad7054fd47", 
+                  "size": "698727691", 
                   "type": "official", 
                   "version": "v11.0"
                 }
