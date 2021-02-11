@@ -401,16 +401,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Upstream kernel to linux version 4.4.255\r\n- Get rid of a Variable Length Array (VLA)\r\n- Clean up some unused blobs \r\n- Misc changes", 
-            "date": "2021-02-10", 
-            "datetime": "20210210", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210210-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210210-GAPPS.zip", 
+            "changelog": "- Kernel upstreams and misc changes", 
+            "date": "2021-02-11", 
+            "datetime": "20210211", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210211-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210211-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "9045f76e5afc2436409218facb1632849aba6baabcb5565f1527b312e752da54", 
-            "size": "1114185116", 
+            "sha256": "d8f2f01dd05d1eb23c1f8b5797aaba5219b32718a99ccc8a85fc20879cf63627", 
+            "size": "1115116074", 
             "type": "official", 
             "version": "v11.0"
         }
