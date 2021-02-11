@@ -145,16 +145,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Initial release\r\n\r\nHere be dragons!!", 
-            "date": "2021-02-03", 
-            "datetime": "20210203", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210203-GAPPS.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210203-GAPPS.zip", 
+            "changelog": "- Fixed bt audio\r\n- Bypass safety net under permissive for now\r\n- misc tweaks & changes.\r\n\r\nHere be dragons!!", 
+            "date": "2021-02-11", 
+            "datetime": "20210211", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210211-GAPPS.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210211-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Mi 10i", 
             "oem": "Xiaomi", 
-            "sha256": "56a795d6375aa5faeb73de8acf1007516a6f1bb25861a4c1a87cabc64077fd7f", 
-            "size": "1018930714", 
+            "sha256": "fb10d4cbc99aa59905e1e82232dcb68377be03608ae14fa48c42adbea111b3fa", 
+            "size": "1016773336", 
             "type": "official", 
             "version": "v11.0"
         }
