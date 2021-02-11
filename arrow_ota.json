@@ -2321,7 +2321,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Upstream kernel to linux version 4.4.257", 
+      "changelog": "- Kernel upstreams and misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -2379,8 +2379,8 @@
                   "datetime": "20210210", 
                   "filename": "Arrow-v11.0-whyred-OFFICIAL-20210210-VANILLA.zip", 
                   "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210210-VANILLA.zip", 
-                  "sha256": "128c40e5e12173650b491b763f98a2278c440f490e2b5f5f57bbe9a8d7cd7a14", 
-                  "size": "799271564", 
+                  "sha256": "28cea2c7bc484b8ce9ed067984a0c238e8b30cc6029b22844222bf39b1026c37", 
+                  "size": "800683068", 
                   "type": "official", 
                   "version": "v11.0"
                 }
