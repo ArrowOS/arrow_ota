@@ -1427,12 +1427,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-10", 
-                  "datetime": "20210210", 
-                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210210-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210210-VANILLA.zip", 
-                  "sha256": "53dc6e278275237004759fd6da5192cbd1f497b8def6c384488381e42d93afa3", 
-                  "size": "700436948", 
+                  "date": "2021-02-12", 
+                  "datetime": "20210212", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210212-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210212-VANILLA.zip", 
+                  "sha256": "efe357a248898f3ebd06ca5b17e584c93a7100c4abf387147d7f65d3892ee9a2", 
+                  "size": "700400722", 
                   "type": "official", 
                   "version": "v11.0"
                 }
