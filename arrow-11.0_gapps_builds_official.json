@@ -162,15 +162,15 @@
     "ginkgo": [
         {
             "changelog": "- Enabled smart charging", 
-            "date": "2021-02-10", 
-            "datetime": "20210210", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210210-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210210-GAPPS.zip", 
+            "date": "2021-02-12", 
+            "datetime": "20210212", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210212-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210212-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "1152b471daeb038a8c03627a3f3c2f7883f0636a8d2700795911217a5a7fcfc4", 
-            "size": "1203227739", 
+            "sha256": "35c78f4a1f6bcdd7e6e210cb04493b680b6141a9d6c5ed21cf2d6da71c125b09", 
+            "size": "1203158656", 
             "type": "official", 
             "version": "v11.0"
         }
