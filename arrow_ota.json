@@ -1551,12 +1551,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-10", 
-                  "datetime": "20210210", 
-                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210210-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210210-VANILLA.zip", 
-                  "sha256": "c0869d0f3c9e3619783ec5200e6fa149eaf9cdcac9caa9c30b4f9c3cc2a8632c", 
-                  "size": "1019595154", 
+                  "date": "2021-02-12", 
+                  "datetime": "20210212", 
+                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210212-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210212-VANILLA.zip", 
+                  "sha256": "427556f82a0ef34ef923620f817d8735cbe3a29906084009a86ce39fb985be04", 
+                  "size": "1019289769", 
                   "type": "official", 
                   "version": "v11.0"
                 }
