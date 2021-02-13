@@ -370,15 +370,15 @@
     "violet": [
         {
             "changelog": "- Switched to Qti BT\r\n- Updated blobs from VIOLETINGlobal_V12.0.5.0.QFHINXM\r\n- Added Smart Charging overlay\r\n- Added KCAL Support in Violetparts (Need to turn on & off Night light after every reboot to take effect for specified values)\r\n- Upstreamed Display HAL to LA.UM.9.1.r1-07300-SMxxx0.0 caf tag (This fixed DRM and display logspams)", 
-            "date": "2021-02-12", 
-            "datetime": "20210212", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20210212-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210212-GAPPS.zip", 
+            "date": "2021-02-13", 
+            "datetime": "20210213", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20210213-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210213-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "cdbdc13295c2926cbcaa4f87f65d34384ca27c046dc56233f90abcb3b6303215", 
-            "size": "1282334202", 
+            "sha256": "7ed782ce1156f6d99185c4450626de9344342ffc0cc06d7e8b9d7893be57f892", 
+            "size": "1282131169", 
             "type": "official", 
             "version": "v11.0"
         }
