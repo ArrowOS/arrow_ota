@@ -98,15 +98,15 @@
     "davinci": [
         {
             "changelog": "04/02/2021\r\n-Fixed screeen off FOD with ambient display disabled\r\n03/02/2021\r\n-Added compatibility with stock camera libraries (for MIUI camera, for example)\r\n02/02/2021\r\n-Upstreamed the kernel to Linux 4.14.218\r\n30/01/2021\r\n-Switched to a new device side screen off FOD implementation.\r\n28/01/2021\r\n-Enabled Smart Charging\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-02-12", 
-            "datetime": "20210212", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210212-GAPPS.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210212-GAPPS.zip", 
+            "date": "2021-02-13", 
+            "datetime": "20210213", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210213-GAPPS.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210213-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "2cf021595b35704d35e4232e42acd2a39856830056d25e6dce1f56f5ca67ba0b", 
-            "size": "1322483612", 
+            "sha256": "155bb6c0719b4c70de9847211c82c65007501533dd8698bacbd2271b46cfe8b3", 
+            "size": "1322455338", 
             "type": "official", 
             "version": "v11.0"
         }
