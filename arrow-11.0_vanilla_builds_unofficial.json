@@ -81,17 +81,17 @@
     ], 
     "davinci": [
         {
-            "changelog": "07/01/2021\r\n-Improved performance and UX by switching to the Pixel Power HAL (libperfmgr)\r\n-Updated blobs from MIUI 20.12.28\r\n05/01/2021\r\n-Upstreamed the kernel to Linux 4.14.213\r\n30/12/2020\r\n-Improved FOD behaviour\r\n-Switched to AOSP Bluetooth\r\n-Updated blobs from MIUI 20.12.26\r\n27/12/2020\r\n-Fixed Styles and Wallpapers crash while using a Live Wallpaper\r\n\r\nNotes:\r\n- Recommended required firmware is MIUI 20.10.20 (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Use the Android 10 compatible recoveries, like official TWRP", 
-            "date": "2021-01-10", 
-            "datetime": "20210110", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210110-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210110-VANILLA.zip", 
+            "changelog": "04/02/2021\r\n-Fixed screeen off FOD with ambient display disabled\r\n03/02/2021\r\n-Added compatibility with stock camera libraries (for MIUI camera, for example)\r\n02/02/2021\r\n-Upstreamed the kernel to Linux 4.14.218\r\n30/01/2021\r\n-Switched to a new device side screen off FOD implementation.\r\n28/01/2021\r\n-Enabled Smart Charging\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-02-13", 
+            "datetime": "20210213", 
+            "filename": "Arrow-v11.0-davinci-UNOFFICIAL-20210213-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-UNOFFICIAL-20210213-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "aff0d25ee1a8fb3ec4e488e427d444ab462bc8469b4f91e228be0aacd1416d4c", 
-            "size": "1000642255", 
-            "type": "official", 
+            "sha256": "0a5b4d1794205a4be6e54cd0125c1a56df2fe8ac90d4acf9de28353caf1df872", 
+            "size": "1003777650", 
+            "type": "unofficial", 
             "version": "v11.0"
         }
     ], 
