@@ -1061,7 +1061,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Enable SmartCharging\r\n- Cleanup XiaomiParts\r\n- Audio improvements\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Update Build FP for February SPL", 
+      "changelog": "- Enable SmartCharging\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Update Build FP for February SPL", 
       "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1083,12 +1083,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-13", 
-                  "datetime": "20210213", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210213-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210213-VANILLA.zip", 
-                  "sha256": "4fc601175f6abe2adbb1353763c96c80c3f423b6d0dd7c28692a190f208a1427", 
-                  "size": "945129867", 
+                  "date": "2021-02-15", 
+                  "datetime": "20210215", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210215-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210215-VANILLA.zip", 
+                  "sha256": "d5c74396157babfd587d127c40be8324fe5ae8c01f70648756fc0b58a6e2b76c", 
+                  "size": "945629127", 
                   "type": "community", 
                   "version": "v11.0"
                 }
