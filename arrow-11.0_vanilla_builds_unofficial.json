@@ -177,16 +177,16 @@
     ], 
     "oneplus3": [
         {
-            "changelog": "- Misc changes\r\n- BT Fix\r\n- Latest Kernel Tag Merged.\r\n- Latest qcacld-2.0 Tag Merged.", 
-            "date": "2021-02-04", 
-            "datetime": "20210204", 
-            "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20210204-VANILLA.zip", 
-            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20210204-VANILLA.zip", 
+            "changelog": "- Misc changes\r\n- BT Fix\r\n- Few SE Denials Defined\r\n- WhatsApp QR Code Fixed", 
+            "date": "2021-02-15", 
+            "datetime": "20210215", 
+            "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20210215-VANILLA.zip", 
+            "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20210215-VANILLA.zip", 
             "maintainer": "Gaurav24", 
             "model": "OnePlus 3/3T", 
             "oem": "OnePlus", 
-            "sha256": "7be3946e74f7b3a5f8a179ae1a393d7f236f03e51d78156e5aa50bfb4d7d2338", 
-            "size": "749988019", 
+            "sha256": "d47b769bf9888aa46c9e5e62f3f5497383237f940ed487a73d13a8658538b939", 
+            "size": "744545509", 
             "type": "unofficial", 
             "version": "v11.0"
         }
