@@ -865,7 +865,7 @@
   ], 
   "ginkgo": [
     {
-      "changelog": "- Enabled smart charging", 
+      "changelog": "- Included MiuiCamera\r\n- Upgraded all blobs to R (MIUI 12.5 21.2.3)\r\n- Updated graphics/sensors/DSP to LA.UM.9.11.r1-02600-NICOBAR.0\r\n- Updated audio/wifi/usb configs from stock\r\n- Disabled fluence audio (should solve most mic issues)\r\n- Removed unused mlipay (ifaa) and ANT+\r\n- Switched to qcom power hal + perf hal boosting\r\n- Display dying under heat should be fixed\r\n- Increase gps batch size for faster fix\r\n- Disabled buggy display SVI (sunlight improvement)\r\n- Switched to pixel offline charger animation\r\n- Improved system wide sqlite performance\r\n- Pin surfaceflinger in memory for better UI performance\r\n- Further smoothen notch cutout\r\n- Merged LA.UM.9.1.r1-08600-SMxxx0.0 CAF and v4.14.221 in kernel\r\n- Added wireguard support\r\n- Reduced touchscreen, GPU and CPU latency\r\n- Misc optimizations and fixes", 
       "maintainer": "Adithya R", 
       "model": "Redmi Note 8", 
       "oem": "Xiaomi", 
@@ -919,12 +919,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-13", 
-                  "datetime": "20210213", 
-                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210213-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210213-VANILLA.zip", 
-                  "sha256": "f61da0368111dfd88119c2df5c4c21335c4abce8a9f5fe8bec3a52008f74af46", 
-                  "size": "884829100", 
+                  "date": "2021-02-16", 
+                  "datetime": "20210216", 
+                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210216-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210216-VANILLA.zip", 
+                  "sha256": "51420fc05c4a3251d66ea4ddc9c85b5f8936662361fd992600ee57eac2fa3c3b", 
+                  "size": "990051411", 
                   "type": "official", 
                   "version": "v11.0"
                 }
