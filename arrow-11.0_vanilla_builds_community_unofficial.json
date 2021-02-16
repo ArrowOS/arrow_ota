@@ -17,16 +17,16 @@
     ], 
     "chiron": [
         {
-            "changelog": "- added Gcam from AOSP-11 for Sagit\r\n- added MIUICamera from AOSP-11 for Sagit\r\n- undervolted CPU", 
-            "date": "2021-01-18", 
-            "datetime": "20210118", 
-            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210118-VANILLA.zip", 
-            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210118-VANILLA.zip", 
+            "changelog": "- Add TTL Support", 
+            "date": "2021-02-16", 
+            "datetime": "20210216", 
+            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210216-VANILLA.zip", 
+            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210216-VANILLA.zip", 
             "maintainer": "WhiterWalt", 
             "model": "Mi MIX 2", 
             "oem": "Xiaomi", 
-            "sha256": "bb4aa7fb8a0bf1c46f83875caa49b2c7bd8808c5dc1f2180567f0d39b38204d6", 
-            "size": "819629236", 
+            "sha256": "81654516a73be299c891b31bb547c2454aca4f6ec21a4f00ef0896408c0513af", 
+            "size": "769770140", 
             "type": "community", 
             "version": "v11.0"
         }
