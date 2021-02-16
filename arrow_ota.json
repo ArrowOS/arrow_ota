@@ -1691,12 +1691,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-13", 
-                  "datetime": "20210213", 
-                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210213-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210213-VANILLA.zip", 
-                  "sha256": "7558c874781897192257f5b616780a844dd8e0ba64163bad6f1837ab014a053f", 
-                  "size": "893118808", 
+                  "date": "2021-02-16", 
+                  "datetime": "20210216", 
+                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210216-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210216-VANILLA.zip", 
+                  "sha256": "d92e50ceeb5d7c60d5891f3da9747f276add9d0481c4daabfe650ad753ead7d6", 
+                  "size": "893086715", 
                   "type": "official", 
                   "version": "v11.0"
                 }
