@@ -18,15 +18,15 @@
     "X01BD": [
         {
             "changelog": "* 4.4.256 kernel upstreamed\r\n* Fixed haptic vibration", 
-            "date": "2021-02-14", 
-            "datetime": "20210214", 
-            "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210214-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210214-GAPPS.zip", 
+            "date": "2021-02-16", 
+            "datetime": "20210216", 
+            "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210216-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210216-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "ASUS_X01BDA", 
             "oem": "asus", 
-            "sha256": "057dc69b7d7efb7a99023e012e7ddb107756b8f3d7dd7634fc0be9d2c318ebb3", 
-            "size": "1076450319", 
+            "sha256": "732c6cc45526169129bdbd07cffae26a7040e2d811a3bcea942de5ba530f5933", 
+            "size": "1076823294", 
             "type": "official", 
             "version": "v11.0"
         }
