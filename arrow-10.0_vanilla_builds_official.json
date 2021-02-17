@@ -226,15 +226,15 @@
     "marlin": [
         {
             "changelog": null, 
-            "date": "2021-01-30", 
-            "datetime": "20210130", 
-            "filename": "Arrow-v10.0-marlin-OFFICIAL-20210130-VANILLA.zip", 
-            "filepath": "/arrow-10.0/marlin/Arrow-v10.0-marlin-OFFICIAL-20210130-VANILLA.zip", 
+            "date": "2021-02-17", 
+            "datetime": "20210217", 
+            "filename": "Arrow-v10.0-marlin-OFFICIAL-20210217-VANILLA.zip", 
+            "filepath": "/arrow-10.0/marlin/Arrow-v10.0-marlin-OFFICIAL-20210217-VANILLA.zip", 
             "maintainer": "blckbear", 
             "model": "Pixel XL", 
             "oem": "Google", 
-            "sha256": "e49ab503159f2e63a444c458f9807395ac93d8ab8402e82d863c86b1cd758388", 
-            "size": "576081376", 
+            "sha256": "f74db95d53718be08f7213b1fe55216d9fd8c318e5bc3ac8b2d1b213eeea0edb", 
+            "size": "572791786", 
             "type": "official", 
             "version": "v10.0"
         }
