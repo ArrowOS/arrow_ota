@@ -273,16 +273,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Fix kernel branch\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).\r\n\r\n2021-01-14:\r\n\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Switch Arrow kernel\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
-            "date": "2021-02-13", 
-            "datetime": "20210213", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210213-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210213-GAPPS.zip", 
+            "changelog": "- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
+            "date": "2021-02-17", 
+            "datetime": "20210217", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210217-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210217-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "ab90f0502aefd77c2045ed293735f2b240c3b4b36dd583ba64ff772ae2930923", 
-            "size": "1337757908", 
+            "sha256": "145f577ec1f7c42ab38e82f3813a3c5f6bff19fa72113ac8319e696690fa4557", 
+            "size": "1337815355", 
             "type": "official", 
             "version": "v11.0"
         }
