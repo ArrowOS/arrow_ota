@@ -739,12 +739,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-16", 
-                  "datetime": "20210216", 
-                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210216-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210216-VANILLA.zip", 
-                  "sha256": "e64813a95e391c22f242d616dcf2b12645b8ac4e97ff346447036e7baae4c982", 
-                  "size": "871535291", 
+                  "date": "2021-02-17", 
+                  "datetime": "20210217", 
+                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210217-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210217-VANILLA.zip", 
+                  "sha256": "e60d2c9b5a51246a39bc368786b38366e3ea69ed2768eb4170a44fc88cc3e47a", 
+                  "size": "872100171", 
                   "type": "official", 
                   "version": "v11.0"
                 }
