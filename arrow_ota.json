@@ -313,7 +313,7 @@
   ], 
   "beryllium": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Switch FBE and drop FDE (enable force encryption)\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Fixed color display problems in some apps\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
+      "changelog": "- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
       "maintainer": "Ganesh Varma, kubersharma001, palaych", 
       "model": "POCOPHONE F1", 
       "oem": "POCO", 
@@ -367,12 +367,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-16", 
-                  "datetime": "20210216", 
-                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210216-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210216-VANILLA.zip", 
-                  "sha256": "5a7043fc3117ac5a9f0d3d6504500e3f1451890b6ef388f2de2f72b767de8395", 
-                  "size": "880170782", 
+                  "date": "2021-02-17", 
+                  "datetime": "20210217", 
+                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210217-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210217-VANILLA.zip", 
+                  "sha256": "81f7259ab5b20779c73ae38c0d49f2abecca52ede860b90b81fdd8f33874711c", 
+                  "size": "880614075", 
                   "type": "official", 
                   "version": "v11.0"
                 }
