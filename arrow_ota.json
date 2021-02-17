@@ -1529,7 +1529,7 @@
   ], 
   "perseus": [
     {
-      "changelog": "- Fix kernel branch\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).\r\n\r\n2021-01-14:\r\n\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Switch Arrow kernel\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q (Recommended V12.0.1.0).", 
+      "changelog": "- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
       "maintainer": "palaych", 
       "model": "Mi MIX 3", 
       "oem": "Xiaomi", 
@@ -1551,12 +1551,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-16", 
-                  "datetime": "20210216", 
-                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210216-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210216-VANILLA.zip", 
-                  "sha256": "a2c8ebef465656d214c2a9e5172014ad6e528ed2459d60f6e01b2b7b042fd9e6", 
-                  "size": "1019505367", 
+                  "date": "2021-02-17", 
+                  "datetime": "20210217", 
+                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210217-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210217-VANILLA.zip", 
+                  "sha256": "50d69ae61d4aaf812e090e6ce3ceb2debfca02b919d6e5c69219b844d8ef954e", 
+                  "size": "1020127658", 
                   "type": "official", 
                   "version": "v11.0"
                 }
