@@ -2,15 +2,15 @@
     "A6020": [
         {
             "changelog": "- Blacklisted google hotword service to fix mic issues\r\n- Enabled audiosphere effect by default\r\n- Fixed FM radio\r\n- Fixed postprocessing daemon crashes\r\n- Misc changes for infra", 
-            "date": "2021-01-16", 
-            "datetime": "20210116", 
-            "filename": "Arrow-v10.0-A6020-OFFICIAL-20210116-GAPPS.zip", 
-            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20210116-GAPPS.zip", 
+            "date": "2021-02-18", 
+            "datetime": "20210218", 
+            "filename": "Arrow-v10.0-A6020-OFFICIAL-20210218-GAPPS.zip", 
+            "filepath": "/arrow-10.0/A6020/Arrow-v10.0-A6020-OFFICIAL-20210218-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Vibe K5", 
             "oem": "Lenovo", 
-            "sha256": "1bff3b0731dbf0c225362c6dcfa3ee1e18c2ae240fde74b9b4abc3eb138656bd", 
-            "size": "738466715", 
+            "sha256": "eb3385bb2e5e06e9a770a1494c6e45e6c3a251c1218ce3275946054c9d731092", 
+            "size": "738577784", 
             "type": "official", 
             "version": "v10.0"
         }
