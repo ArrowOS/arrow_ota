@@ -847,12 +847,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-17", 
-                  "datetime": "20210217", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210217-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210217-VANILLA.zip", 
-                  "sha256": "945c0672e4520a4211427ff28a9edc694ae2e5d869816d210d368fcbff3d0dde", 
-                  "size": "700864343", 
+                  "date": "2021-02-19", 
+                  "datetime": "20210219", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210219-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210219-VANILLA.zip", 
+                  "sha256": "910c50019c148203cef862c1079213826565e832a99d570c69703241c7fedb2f", 
+                  "size": "700942661", 
                   "type": "official", 
                   "version": "v11.0"
                 }
