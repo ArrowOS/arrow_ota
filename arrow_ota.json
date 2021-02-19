@@ -81,7 +81,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "Fixed audio recording in newer gcam mods like MGC 8.1", 
+      "changelog": "- Fixed dark camera issue in whatsapp and telegram\r\n- Fixed random charging issues", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -103,12 +103,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-17", 
-                  "datetime": "20210217", 
-                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210217-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210217-VANILLA.zip", 
-                  "sha256": "8afa8a3c8d5b8e17cacad26d659bef24b1cc96a47aa8ca028a709bf719dcd40b", 
-                  "size": "762916986", 
+                  "date": "2021-02-19", 
+                  "datetime": "20210219", 
+                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210219-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210219-VANILLA.zip", 
+                  "sha256": "a7e8d1c98641bd04b01713201e8dd4854367bd58f428a8d3ae079c43494c9e22", 
+                  "size": "762004327", 
                   "type": "official", 
                   "version": "v11.0"
                 }
