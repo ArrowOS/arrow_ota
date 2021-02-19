@@ -313,8 +313,8 @@
   ], 
   "beryllium": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote\r\n- From now on it is required to be on Q firmware.", 
-      "maintainer": "Ganesh Varma, kubersharma001", 
+      "changelog": "- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
+      "maintainer": "Ganesh Varma, kubersharma001, palaych", 
       "model": "POCOPHONE F1", 
       "oem": "POCO", 
       "v10.0": [
@@ -367,12 +367,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-17", 
-                  "datetime": "20210217", 
-                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210217-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210217-VANILLA.zip", 
-                  "sha256": "81f7259ab5b20779c73ae38c0d49f2abecca52ede860b90b81fdd8f33874711c", 
-                  "size": "880614075", 
+                  "date": "2021-02-19", 
+                  "datetime": "20210219", 
+                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210219-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210219-VANILLA.zip", 
+                  "sha256": "0da27398b82894dc4090b77187bbf44a729693cb0092299be5303ae5d0170dc5", 
+                  "size": "879996411", 
                   "type": "official", 
                   "version": "v11.0"
                 }
