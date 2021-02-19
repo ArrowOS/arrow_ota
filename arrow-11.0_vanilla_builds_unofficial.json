@@ -273,17 +273,17 @@
     ], 
     "surya": [
         {
-            "changelog": "- Address a wfd denial\r\n- Fixed WFD\r\n- Fixed OTA auto flashing sepolicy denial\r\n- Add keylayouts for headphone jack volume control\r\n- Fixed notification led\r\n- Fixed HDR\r\n- Fixed offline charging\r\n- Fixed recorder issue\r\n- Upstream power profile\r\n- Fixed inconsistencies in Wi-Fi range\r\n- Addressed few more Wi-Fi related issues\r\n- Fixed a possible Gcam crash\r\n- Add a few missing FM blobs\r\n- Fixed FM radio\r\n- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds\r\n- Google voice match should be working now while screen on.", 
-            "date": "2020-12-26", 
-            "datetime": "20201226", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20201226-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20201226-VANILLA.zip", 
+            "changelog": "- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2021-02-19", 
+            "datetime": "20210219", 
+            "filename": "Arrow-v11.0-surya-UNOFFICIAL-20210219-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-UNOFFICIAL-20210219-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "0c28319021660f5696ae5b138cdf043f7b9e0e34dc7a0cf368659f3b274c3aa2", 
-            "size": "692921599", 
-            "type": "official", 
+            "sha256": "4182f2a8cb5332856e532d206d448ad0478d71f7d1d3c27eb963fcaa99f74efc", 
+            "size": "686586201", 
+            "type": "unofficial", 
             "version": "v11.0"
         }
     ], 
