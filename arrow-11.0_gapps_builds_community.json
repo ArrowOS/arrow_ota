@@ -114,15 +114,15 @@
     "umi": [
         {
             "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
-            "date": "2021-02-17", 
-            "datetime": "20210217", 
-            "filename": "Arrow-v11.0-umi-COMMUNITY-20210217-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210217-GAPPS.zip", 
+            "date": "2021-02-19", 
+            "datetime": "20210219", 
+            "filename": "Arrow-v11.0-umi-COMMUNITY-20210219-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-COMMUNITY-20210219-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10", 
             "oem": "Xiaomi", 
-            "sha256": "20edee34d5c487decdff17ec7d9744438d9526ed40e540eaa17867e8db7a6c38", 
-            "size": "1018242114", 
+            "sha256": "508d26844608a4907a6e221350ded41008791a83254c2c78586c1fd44e6eb421", 
+            "size": "1018242084", 
             "type": "community", 
             "version": "v11.0"
         }
