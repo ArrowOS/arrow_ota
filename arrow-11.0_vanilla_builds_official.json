@@ -290,15 +290,15 @@
     "perseus": [
         {
             "changelog": "- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-02-17", 
-            "datetime": "20210217", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210217-VANILLA.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210217-VANILLA.zip", 
+            "date": "2021-02-19", 
+            "datetime": "20210219", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210219-VANILLA.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210219-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "50d69ae61d4aaf812e090e6ce3ceb2debfca02b919d6e5c69219b844d8ef954e", 
-            "size": "1020127658", 
+            "sha256": "41396063fafef9d9bca94b5715b5d8cf48e353ad48d9c6f9d185a4ac23728cb1", 
+            "size": "1019562777", 
             "type": "official", 
             "version": "v11.0"
         }
