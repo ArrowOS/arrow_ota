@@ -322,15 +322,15 @@
     "polaris": [
         {
             "changelog": "- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-02-17", 
-            "datetime": "20210217", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210217-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210217-VANILLA.zip", 
+            "date": "2021-02-19", 
+            "datetime": "20210219", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210219-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210219-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "eee44fd46bf3f738a8b468b43e77937c3c417f799202eb841bbc87e7bb413694", 
-            "size": "893459615", 
+            "sha256": "733983c685b7d93581471d304cec7672337afe388f80eeb8124bbec4f79991f1", 
+            "size": "892816248", 
             "type": "official", 
             "version": "v11.0"
         }
