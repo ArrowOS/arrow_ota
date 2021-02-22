@@ -65,16 +65,16 @@
     ], 
     "beryllium": [
         {
-            "changelog": "- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-02-19", 
-            "datetime": "20210219", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210219-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210219-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
+            "date": "2021-02-22", 
+            "datetime": "20210222", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210222-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210222-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "0da27398b82894dc4090b77187bbf44a729693cb0092299be5303ae5d0170dc5", 
-            "size": "879996411", 
+            "sha256": "772954e6b38873f10a2c8f80c5b0f9eb0ab8a6226fcf8d233bfdddd87c9d11b5", 
+            "size": "880211415", 
             "type": "official", 
             "version": "v11.0"
         }
