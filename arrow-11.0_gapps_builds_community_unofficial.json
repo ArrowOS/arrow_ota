@@ -49,7 +49,7 @@
     ], 
     "lavender": [
         {
-            "changelog": "- TEST BUILD ONLY\r\n- ENFORCING", 
+            "changelog": "- Enable SmartCharging\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Update Build FP for February SPL\r\n- Enable audit and denials logging", 
             "date": "2021-02-23", 
             "datetime": "20210223", 
             "filename": "Arrow-v11.0-lavender-COMMUNITY-20210223-GAPPS.zip", 
@@ -57,8 +57,8 @@
             "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "1587d16a015a0da4571deefabfcdc7249b110d8e43ade4f1d38dddf39541d5a0", 
-            "size": "1265738645", 
+            "sha256": "6cb1627a02c3f3a508eb05f25b84dab6053eaf45133c426446896adc3d3c7ae4", 
+            "size": "1262114835", 
             "type": "community", 
             "version": "v11.0"
         }
