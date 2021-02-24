@@ -287,6 +287,22 @@
             "version": "v11.0"
         }
     ], 
+    "umi": [
+        {
+            "changelog": "Initial Official Build\r\n- Firmware and vendor require V12.2.9.0.RJBCNXM.", 
+            "date": "2021-02-24", 
+            "datetime": "20210224", 
+            "filename": "Arrow-v11.0-umi-UNOFFICIAL-20210224-VANILLA.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-UNOFFICIAL-20210224-VANILLA.zip", 
+            "maintainer": "ChaptSand", 
+            "model": "MI 10", 
+            "oem": "Xiaomi", 
+            "sha256": "9f9b0a186fdab381c2b09fa519ea4bf9e327551b104bc9a8a4ecc2a62135a977", 
+            "size": "684025291", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "violet": [
         {
             "changelog": "new trees", 
