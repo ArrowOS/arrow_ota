@@ -15,6 +15,22 @@
             "version": "v11.0"
         }
     ], 
+    "X01AD": [
+        {
+            "changelog": "Fix SafetyNet", 
+            "date": "2021-02-24", 
+            "datetime": "20210224", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210224-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210224-VANILLA.zip", 
+            "maintainer": "AP_XD", 
+            "model": "ASUS_X01AD", 
+            "oem": "asus", 
+            "sha256": "c4da5535cfdbc593a4b98069730e75a70cb39317b2e485c71ecf7cf98eea9685", 
+            "size": "816773416", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "chiron": [
         {
             "changelog": "- Add TTL Support", 

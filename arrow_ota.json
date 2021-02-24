@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "TEST build", 
+      "changelog": "Fix SafetyNet", 
       "maintainer": "AP_XD", 
       "model": "ASUS_X01AD", 
       "oem": "asus", 
@@ -165,6 +165,18 @@
                   "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210224-GAPPS.zip", 
                   "sha256": "fb017877fc312bb2ea3f81a96bcfe29ce498f625a450e6389705c81010ff8017", 
                   "size": "1134673750", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
+              "VANILLA": [
+                {
+                  "date": "2021-02-24", 
+                  "datetime": "20210224", 
+                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210224-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210224-VANILLA.zip", 
+                  "sha256": "c4da5535cfdbc593a4b98069730e75a70cb39317b2e485c71ecf7cf98eea9685", 
+                  "size": "816773416", 
                   "type": "community", 
                   "version": "v11.0"
                 }
