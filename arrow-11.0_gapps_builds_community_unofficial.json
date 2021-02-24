@@ -1,7 +1,7 @@
 {
     "X01AD": [
         {
-            "changelog": "Fix SafetyNet", 
+            "changelog": "Remove verified boot flag", 
             "date": "2021-02-24", 
             "datetime": "20210224", 
             "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210224-GAPPS.zip", 
@@ -9,8 +9,8 @@
             "maintainer": "AP_XD", 
             "model": "ASUS_X01AD", 
             "oem": "asus", 
-            "sha256": "c1163643ee785194183deb572d335991ece385d06cd9eb7476fbc6d28a059d69", 
-            "size": "1134664349", 
+            "sha256": "24c28f2b105b22841aa0704fb8b43f01c0dd21459b7e471efb78b810dc1decad", 
+            "size": "1134744294", 
             "type": "community", 
             "version": "v11.0"
         }
