@@ -1517,7 +1517,7 @@
   ], 
   "oneplus3": [
     {
-      "changelog": "- Misc changes\r\n- BT Fix\r\n- Few SE Denials Defined\r\n- WhatsApp QR Code Fixed", 
+      "changelog": null, 
       "maintainer": "Gaurav24", 
       "model": "OnePlus 3/3T", 
       "oem": "OnePlus", 
@@ -1567,12 +1567,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-20", 
-                  "datetime": "20210220", 
-                  "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20210220-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20210220-VANILLA.zip", 
-                  "sha256": "fff78838edd1673c371d9a5558c3a422cf8bda8fb8f7e9624e84491a17144537", 
-                  "size": "748538805", 
+                  "date": "2021-02-24", 
+                  "datetime": "20210224", 
+                  "filename": "Arrow-v11.0-oneplus3-UNOFFICIAL-20210224-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/oneplus3/Arrow-v11.0-oneplus3-UNOFFICIAL-20210224-VANILLA.zip", 
+                  "sha256": "326f494ed7293b36c905ebb324efd4dddd70e920c6b6b93ea4ad85640470e859", 
+                  "size": "744757302", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
