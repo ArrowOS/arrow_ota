@@ -399,6 +399,22 @@
             "version": "v11.0"
         }
     ], 
+    "umi": [
+        {
+            "changelog": null, 
+            "date": "2021-02-24", 
+            "datetime": "20210224", 
+            "filename": "Arrow-v11.0-umi-OFFICIAL-20210224-VANILLA.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210224-VANILLA.zip", 
+            "maintainer": "ChaptSand", 
+            "model": "MI 10", 
+            "oem": "Xiaomi", 
+            "sha256": "5f98a15f24c0026b6a0656287c22d08ae38c8e15cbf44caf1081c78e0542f81f", 
+            "size": "685218925", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "violet": [
         {
             "changelog": "- Switched to Qti BT\r\n- Updated blobs from VIOLETINGlobal_V12.0.5.0.QFHINXM\r\n- Added Smart Charging overlay\r\n- Added KCAL Support in Violetparts (Need to turn on & off Night light after every reboot to take effect for specified values)\r\n- Upstreamed Display HAL to LA.UM.9.1.r1-07300-SMxxx0.0 caf tag (This fixed DRM and display logspams)", 
