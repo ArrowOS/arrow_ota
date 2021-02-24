@@ -49,16 +49,16 @@
     ], 
     "jasmine_sprout": [
         {
-            "changelog": "Enforcing selinux and new stuff", 
-            "date": "2020-12-13", 
-            "datetime": "20201213", 
-            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20201213-GAPPS.zip", 
-            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20201213-GAPPS.zip", 
+            "changelog": "New clean trees", 
+            "date": "2021-02-24", 
+            "datetime": "20210224", 
+            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20210224-GAPPS.zip", 
+            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20210224-GAPPS.zip", 
             "maintainer": "Immanuel_Raj", 
             "model": "Mi A2", 
-            "oem": "Xiaomi", 
-            "sha256": "1ddb91fb9c0942f735389cf73c54830e217ef7a64d7bafcb8e8a8306fdc602ba", 
-            "size": "1145250355", 
+            "oem": "xiaomi", 
+            "sha256": "a26e0f8365ef63265abef6212f08b859ffee39747a425e36819e755454dbab72", 
+            "size": "1134933506", 
             "type": "community", 
             "version": "v11.0"
         }
