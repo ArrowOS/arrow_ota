@@ -1117,7 +1117,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Enable SmartCharging\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Update Build FP for February SPL", 
+      "changelog": "- Enable SmartCharging\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera Denials\r\n- Address Radio Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Update Build FP for February SPL\r\n- Address moar denials\r\n- Enable audit and denials logging", 
       "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1139,12 +1139,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-23", 
-                  "datetime": "20210223", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210223-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210223-VANILLA.zip", 
-                  "sha256": "b59a5d323b2bc01ddf8c13b45e8e7aef95b92f8f06fbefe5681a1d55fbb92499", 
-                  "size": "946225213", 
+                  "date": "2021-02-25", 
+                  "datetime": "20210225", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210225-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210225-VANILLA.zip", 
+                  "sha256": "25b9b634bace6dbdcdf9cee7d394d1aa170b1d3670eb5b611b99196871d34716", 
+                  "size": "946827905", 
                   "type": "community", 
                   "version": "v11.0"
                 }
