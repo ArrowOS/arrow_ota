@@ -49,16 +49,16 @@
     ], 
     "beryllium": [
         {
-            "changelog": "- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-02-22", 
-            "datetime": "20210222", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210222-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210222-GAPPS.zip", 
+            "changelog": "- Remove fingerprint HAL from background cpuset\r\n- Enable Power HAL interaction boost\r\n- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
+            "date": "2021-02-25", 
+            "datetime": "20210225", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210225-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210225-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "3d65dbb2f8926d7858d8f0d4806fcabd7f08a009226f5cfc5c143c6753f66d76", 
-            "size": "1194749572", 
+            "sha256": "6f7efd4fa4e8f557e2e3412e4945cbfc9d0c3fcd6df84d23b2deea70ce859a7f", 
+            "size": "1195224990", 
             "type": "official", 
             "version": "v11.0"
         }
