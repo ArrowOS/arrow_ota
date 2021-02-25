@@ -15,6 +15,22 @@
             "version": "v11.0"
         }
     ], 
+    "X01AD": [
+        {
+            "changelog": "Initial official build", 
+            "date": "2021-02-25", 
+            "datetime": "20210225", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210225-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210225-VANILLA.zip", 
+            "maintainer": "AP_XD", 
+            "model": "ASUS_X01AD", 
+            "oem": "asus", 
+            "sha256": "6a7d0793ccb9042aea2007a7aa4f748729cad2029b416bd9acc0f51a8c25d1ab", 
+            "size": "816839571", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "chiron": [
         {
             "changelog": "- added Gcam from AOSP-11 for Sagit\r\n- undervolted CPU", 

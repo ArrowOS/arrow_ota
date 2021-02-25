@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": null, 
+      "changelog": "Initial official build", 
       "maintainer": "AP_XD", 
       "model": "ASUS_X01AD", 
       "oem": "asus", 
@@ -175,8 +175,8 @@
                   "datetime": "20210225", 
                   "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210225-VANILLA.zip", 
                   "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210225-VANILLA.zip", 
-                  "sha256": "3f67cd2d2733f9ae4541861e14b55f056debb67bd93769c53c1ec226848d1102", 
-                  "size": "816835913", 
+                  "sha256": "6a7d0793ccb9042aea2007a7aa4f748729cad2029b416bd9acc0f51a8c25d1ab", 
+                  "size": "816839571", 
                   "type": "community", 
                   "version": "v11.0"
                 }
