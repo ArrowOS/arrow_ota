@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "Remove verified boot flag", 
+      "changelog": null, 
       "maintainer": "AP_XD", 
       "model": "ASUS_X01AD", 
       "oem": "asus", 
@@ -171,12 +171,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-24", 
-                  "datetime": "20210224", 
-                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210224-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210224-VANILLA.zip", 
-                  "sha256": "c75fabce1de758f6830b489c742de0dff5d89d8bad563a904936f2ad1b17081c", 
-                  "size": "816852278", 
+                  "date": "2021-02-25", 
+                  "datetime": "20210225", 
+                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210225-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210225-VANILLA.zip", 
+                  "sha256": "3f67cd2d2733f9ae4541861e14b55f056debb67bd93769c53c1ec226848d1102", 
+                  "size": "816835913", 
                   "type": "community", 
                   "version": "v11.0"
                 }
