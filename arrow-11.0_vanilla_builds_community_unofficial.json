@@ -17,7 +17,7 @@
     ], 
     "X01AD": [
         {
-            "changelog": null, 
+            "changelog": "Use Redfn fingerprint to fix SafetyNet.\r\nUse GcamGo instead of Snap.\r\nUSe Pixel Charging Animation.", 
             "date": "2021-02-25", 
             "datetime": "20210225", 
             "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210225-VANILLA.zip", 
@@ -25,8 +25,8 @@
             "maintainer": "AP_XD", 
             "model": "ASUS_X01AD", 
             "oem": "asus", 
-            "sha256": "3f67cd2d2733f9ae4541861e14b55f056debb67bd93769c53c1ec226848d1102", 
-            "size": "816835913", 
+            "sha256": "c716645e36323f7f9618618a88fd9ff50bf0e1e62b97641ea866370a5e3b5500", 
+            "size": "816416485", 
             "type": "community", 
             "version": "v11.0"
         }
