@@ -177,16 +177,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Fix fp sensor causing touch events.\r\n- Start shipping with NFC.\r\n- misc tweaks & changes.\r\n\r\nHere be dragons!!", 
-            "date": "2021-02-19", 
-            "datetime": "20210219", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210219-VANILLA.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210219-VANILLA.zip", 
+            "changelog": "- Fixed d2w\r\n- Fixed refresh rate preference values\r\n- More misc changes/fixes", 
+            "date": "2021-02-26", 
+            "datetime": "20210226", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210226-VANILLA.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210226-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Mi 10i", 
             "oem": "Xiaomi", 
-            "sha256": "910c50019c148203cef862c1079213826565e832a99d570c69703241c7fedb2f", 
-            "size": "700942661", 
+            "sha256": "b080fbbe58cb094ee4428d2c407429a6b8d03816ec67334897c531e3f34b6b91", 
+            "size": "701434060", 
             "type": "official", 
             "version": "v11.0"
         }
