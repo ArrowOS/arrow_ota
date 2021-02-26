@@ -685,6 +685,18 @@
           ], 
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-02-26", 
+                  "datetime": "20210226", 
+                  "filename": "Arrow-v11.0-cmi-OFFICIAL-20210226-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210226-GAPPS.zip", 
+                  "sha256": "d7c5c0acd415b770865866ef345f0f2e0c6c36472357eab1c61d37bf5ee3991f", 
+                  "size": "1019200015", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-02-26", 
