@@ -2265,6 +2265,18 @@
           ], 
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-02-26", 
+                  "datetime": "20210226", 
+                  "filename": "Arrow-v11.0-umi-OFFICIAL-20210226-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210226-GAPPS.zip", 
+                  "sha256": "169bfa4119ba79a22517452297fa35bb3fdb6f6f80416e205b21fa1961045869", 
+                  "size": "1020330155", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-02-26", 
