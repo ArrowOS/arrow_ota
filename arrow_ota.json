@@ -1693,7 +1693,7 @@
   ], 
   "polaris": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+      "changelog": "- Remove fingerprint HAL from background cpuset\r\n- Enable Power HAL interaction boost\r\n- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
       "maintainer": "palaych", 
       "model": "Mi MIX 2S", 
       "oem": "Xiaomi", 
@@ -1747,12 +1747,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-24", 
-                  "datetime": "20210224", 
-                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210224-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210224-VANILLA.zip", 
-                  "sha256": "99ac73740db2a9fccffce76f514f72a999c57be86a4ada8762ad5a198af94000", 
-                  "size": "892827234", 
+                  "date": "2021-02-26", 
+                  "datetime": "20210226", 
+                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210226-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210226-VANILLA.zip", 
+                  "sha256": "fe363e86990335e7165f6d18475a70a7a201c28fffdc70e3110408add3a05a0d", 
+                  "size": "893347230", 
                   "type": "official", 
                   "version": "v11.0"
                 }
