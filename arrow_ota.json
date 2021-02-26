@@ -149,9 +149,9 @@
   ], 
   "X01AD": [
     {
-      "changelog": "FIX Safetynet", 
+      "changelog": null, 
       "maintainer": "AP_XD", 
-      "model": "ASUS_X01AD", 
+      "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
       "v11.0": [
         {
@@ -175,8 +175,8 @@
                   "datetime": "20210226", 
                   "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210226-VANILLA.zip", 
                   "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210226-VANILLA.zip", 
-                  "sha256": "2e0a17304ca8de4d6c30252a1d3ae5b599a69530812a021afa0fff4df2481d46", 
-                  "size": "816466871", 
+                  "sha256": "4a3bf765fed55be3eabea3115fca2e4590ea485d007472e68b3df9b0df99c396", 
+                  "size": "830419206", 
                   "type": "community", 
                   "version": "v11.0"
                 }
