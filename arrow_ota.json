@@ -149,9 +149,9 @@
   ], 
   "X01AD": [
     {
-      "changelog": null, 
+      "changelog": "Update Boot animation resolution\r\nShip GcamGO Prebuilt", 
       "maintainer": "AP_XD", 
-      "model": "Asus Zenfone Max M2", 
+      "model": "ASUS_X01AD", 
       "oem": "asus", 
       "v11.0": [
         {
@@ -171,12 +171,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-26", 
-                  "datetime": "20210226", 
-                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210226-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210226-VANILLA.zip", 
-                  "sha256": "a37d8a21a8375c01bbdd83c4e6fde8bf332b16c89ac0c88e1c2b8f5e9d08a1af", 
-                  "size": "830813460", 
+                  "date": "2021-02-27", 
+                  "datetime": "20210227", 
+                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210227-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210227-VANILLA.zip", 
+                  "sha256": "ffe85d562faa85e4a16cfa4252a459990837c6035afd8d091c028f0fb92389db", 
+                  "size": "830297392", 
                   "type": "community", 
                   "version": "v11.0"
                 }
