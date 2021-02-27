@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "Initial official build", 
-            "date": "2021-02-25", 
-            "datetime": "20210225", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210225-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210225-GAPPS.zip", 
+            "changelog": "Update Boot animation resolution\r\nShip GcamGO Prebuilt", 
+            "date": "2021-02-27", 
+            "datetime": "20210227", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210227-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210227-GAPPS.zip", 
             "maintainer": "AP_XD", 
             "model": "ASUS_X01AD", 
             "oem": "asus", 
-            "sha256": "38656e2067d50bb2e94bafa8eabfb9da61083e7251b01fec6149eb1b2ee45aaa", 
-            "size": "1134740441", 
+            "sha256": "1f89abedf36e3e0c33149fecd300d107518bde56c29dff57e4524e21f25f6ff0", 
+            "size": "1148814965", 
             "type": "community", 
             "version": "v11.0"
         }
