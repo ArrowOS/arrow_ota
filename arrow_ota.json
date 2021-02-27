@@ -2223,6 +2223,34 @@
       ]
     }
   ], 
+  "starlte": [
+    {
+      "changelog": "1st test build for starlte", 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "SM-G960F", 
+      "oem": "samsung", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-02-27", 
+                  "datetime": "20210227", 
+                  "filename": "Arrow-v11.0-starlte-COMMUNITY-20210227-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-COMMUNITY-20210227-VANILLA.zip", 
+                  "sha256": "f7d02feecc3a63d2c9ae4482f3c4f6486b65c473dcc2da75d205cb5b492167b4", 
+                  "size": "638173038", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "surya": [
     {
       "changelog": "- Fixed weird yellowish tint in some apps\r\n- Disabled broken wifi display\r\n- Fixed mic in Google Recoder and some another apps\r\n- Misc fixes and optimizations changes\r\n- Enabled TTL target\r\n- Many another optimization in kernel.\r\n\r\nNote:\r\n- Unified builds", 
