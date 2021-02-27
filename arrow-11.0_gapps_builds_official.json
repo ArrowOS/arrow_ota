@@ -290,15 +290,15 @@
     "perseus": [
         {
             "changelog": "- Remove fingerprint HAL from background cpuset\r\n- Enable Power HAL interaction boost\r\n- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-02-26", 
-            "datetime": "20210226", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210226-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210226-GAPPS.zip", 
+            "date": "2021-02-27", 
+            "datetime": "20210227", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210227-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210227-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "dcef23f35664040697fe8fe390b3ae14d49f0a62025fb276ab3c7da3a5079d8b", 
-            "size": "1338217099", 
+            "sha256": "a4470901a4fc4347f90d99220472795e5e5ac74b709c7b9479f1303b4ef409ba", 
+            "size": "1337965078", 
             "type": "official", 
             "version": "v11.0"
         }
