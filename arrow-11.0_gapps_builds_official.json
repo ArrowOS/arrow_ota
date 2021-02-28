@@ -386,15 +386,15 @@
     "umi": [
         {
             "changelog": "Initial Official Build\r\n- Firmware and vendor require V12.2.9.0.RJBCNXM.", 
-            "date": "2021-02-26", 
-            "datetime": "20210226", 
-            "filename": "Arrow-v11.0-umi-OFFICIAL-20210226-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210226-GAPPS.zip", 
+            "date": "2021-02-28", 
+            "datetime": "20210228", 
+            "filename": "Arrow-v11.0-umi-OFFICIAL-20210228-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210228-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10", 
             "oem": "Xiaomi", 
-            "sha256": "169bfa4119ba79a22517452297fa35bb3fdb6f6f80416e205b21fa1961045869", 
-            "size": "1020330155", 
+            "sha256": "47424a4093a8d2cd54a3c9152853a769d69e4049c8afd8fd10256fc1fb3008a2", 
+            "size": "1031804055", 
             "type": "official", 
             "version": "v11.0"
         }
