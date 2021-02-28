@@ -1,7 +1,7 @@
 {
     "X01AD": [
         {
-            "changelog": "Sync sources", 
+            "changelog": "Kernel: SafetyNet Patch", 
             "date": "2021-02-28", 
             "datetime": "20210228", 
             "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210228-GAPPS.zip", 
@@ -9,8 +9,8 @@
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "d3881edcce6b16600c61253100d5db26b01189e076cade01e79e4fa5351119d7", 
-            "size": "1161540817", 
+            "sha256": "244a39012e87d53751502232b4815f34316307e01c11a4d2d7c735d296de86e0", 
+            "size": "1161553288", 
             "type": "community", 
             "version": "v11.0"
         }
