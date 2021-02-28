@@ -887,12 +887,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-26", 
-                  "datetime": "20210226", 
-                  "filename": "Arrow-v11.0-enchilada-OFFICIAL-20210226-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-OFFICIAL-20210226-VANILLA.zip", 
-                  "sha256": "0513d26adb3328189a02a473773d1d30da313c51dabade825bc113ef97d59531", 
-                  "size": "676699980", 
+                  "date": "2021-02-28", 
+                  "datetime": "20210228", 
+                  "filename": "Arrow-v11.0-enchilada-OFFICIAL-20210228-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/enchilada/Arrow-v11.0-enchilada-OFFICIAL-20210228-VANILLA.zip", 
+                  "sha256": "73d2c3485560cd9c8a8d32cf92ccde562985b70ceb69742e2af15ec349deea1a", 
+                  "size": "676658778", 
                   "type": "official", 
                   "version": "v11.0"
                 }
