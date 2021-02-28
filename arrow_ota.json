@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "Sync sources", 
+      "changelog": "Kernel: SafetyNet Patch", 
       "maintainer": "AP_XD", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -171,12 +171,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-27", 
-                  "datetime": "20210227", 
-                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210227-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210227-VANILLA.zip", 
-                  "sha256": "3e7afe062f5770d94359eec67dfb2f3acd1c7dd63e06b242326c44f6d2551047", 
-                  "size": "831152708", 
+                  "date": "2021-02-28", 
+                  "datetime": "20210228", 
+                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210228-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210228-VANILLA.zip", 
+                  "sha256": "33589d0b47ad280f631c85c02fd0dcffa2ce2011216064e1ce143e647553ea1a", 
+                  "size": "831160572", 
                   "type": "community", 
                   "version": "v11.0"
                 }
