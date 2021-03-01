@@ -1,7 +1,7 @@
 {
     "X01AD": [
         {
-            "changelog": "kernel: Selinux enforcing\r\nsafetynet fix", 
+            "changelog": null, 
             "date": "2021-03-01", 
             "datetime": "20210301", 
             "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210301-GAPPS.zip", 
@@ -9,8 +9,8 @@
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "1d58f86ef403ef9f27401088d2c416125e592da432f4ebc4deb450a55f955d4b", 
-            "size": "1161015871", 
+            "sha256": "1894bbff9f0ed328adb63eddce60848ef2eb1d160cb2eec17b9006b8c9bee5e8", 
+            "size": "1161039571", 
             "type": "community", 
             "version": "v11.0"
         }
