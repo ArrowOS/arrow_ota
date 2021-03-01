@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "kernel: Selinux enforcing\r\nsafetynet fix", 
+      "changelog": null, 
       "maintainer": "AP_XD", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -175,8 +175,8 @@
                   "datetime": "20210301", 
                   "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210301-VANILLA.zip", 
                   "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210301-VANILLA.zip", 
-                  "sha256": "9e31c100b605c163a183bc91793a37a0fdc9bbd3462b93f8c06bbfd7df8ea45b", 
-                  "size": "830855345", 
+                  "sha256": "67cddd852e3376715b9342d9307d0a8c07adc150522c2033d0312938205ade4b", 
+                  "size": "830917269", 
                   "type": "community", 
                   "version": "v11.0"
                 }
