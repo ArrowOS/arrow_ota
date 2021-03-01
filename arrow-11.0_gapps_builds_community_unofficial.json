@@ -1,16 +1,16 @@
 {
     "X01AD": [
         {
-            "changelog": "Add Smart Charging", 
-            "date": "2021-02-28", 
-            "datetime": "20210228", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210228-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210228-GAPPS.zip", 
+            "changelog": "kernel: Selinux enforcing\r\nsafetynet fix", 
+            "date": "2021-03-01", 
+            "datetime": "20210301", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210301-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210301-GAPPS.zip", 
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "86a8836f4a550b46a724d52122e53adc97029dee3745a4645fa337d664f9a105", 
-            "size": "1161572995", 
+            "sha256": "1d58f86ef403ef9f27401088d2c416125e592da432f4ebc4deb450a55f955d4b", 
+            "size": "1161015871", 
             "type": "community", 
             "version": "v11.0"
         }
