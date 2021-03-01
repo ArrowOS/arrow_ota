@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "Update Boot animation resolution\r\nShip GcamGO Prebuilt", 
-            "date": "2021-02-27", 
-            "datetime": "20210227", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210227-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210227-GAPPS.zip", 
+            "changelog": "Add Smart Charging", 
+            "date": "2021-03-01", 
+            "datetime": "20210301", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210301-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210301-GAPPS.zip", 
             "maintainer": "AP_XD", 
-            "model": "ASUS_X01AD", 
+            "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "1f89abedf36e3e0c33149fecd300d107518bde56c29dff57e4524e21f25f6ff0", 
-            "size": "1148814965", 
+            "sha256": "8c8a3a8aa72adf822652566f83242946a3c65d2030ad8984b0dc043d8af53dc7", 
+            "size": "1160985504", 
             "type": "community", 
             "version": "v11.0"
         }
