@@ -63,6 +63,22 @@
             "version": "v11.0"
         }
     ], 
+    "daisy": [
+        {
+            "changelog": null, 
+            "date": "2021-02-28", 
+            "datetime": "20210228", 
+            "filename": "Arrow-v11.0-daisy-COMMUNITY-20210228-VANILLA.zip", 
+            "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-COMMUNITY-20210228-VANILLA.zip", 
+            "maintainer": "acras", 
+            "model": "Mi A2 Lite", 
+            "oem": "Xiaomi", 
+            "sha256": "9a6b8cac115c84fb9ed74d231f63529692d9aaf86677d60048760cc45a9948f6", 
+            "size": "859033581", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "jasmine_sprout": [
         {
             "changelog": "New clean trees", 

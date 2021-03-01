@@ -718,7 +718,7 @@
   "daisy": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "maintainer": "acras", 
       "model": "Mi A2 Lite", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -739,12 +739,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-26", 
-                  "datetime": "20210226", 
-                  "filename": "Arrow-v11.0-daisy-COMMUNITY-20210226-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-COMMUNITY-20210226-VANILLA.zip", 
-                  "sha256": "4771643d09f3024f38f6d926c77e7a8f7eed15487e030fb44c40b87d3b7a57a3", 
-                  "size": "859038220", 
+                  "date": "2021-02-28", 
+                  "datetime": "20210228", 
+                  "filename": "Arrow-v11.0-daisy-COMMUNITY-20210228-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-COMMUNITY-20210228-VANILLA.zip", 
+                  "sha256": "9a6b8cac115c84fb9ed74d231f63529692d9aaf86677d60048760cc45a9948f6", 
+                  "size": "859033581", 
                   "type": "community", 
                   "version": "v11.0"
                 }
