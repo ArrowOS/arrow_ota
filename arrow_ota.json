@@ -1745,7 +1745,7 @@
   ], 
   "polaris": [
     {
-      "changelog": "- Remove fingerprint HAL from background cpuset\r\n- Enable Power HAL interaction boost\r\n- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+      "changelog": "- sepolicy: cleanup\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
       "maintainer": "palaych", 
       "model": "Mi MIX 2S", 
       "oem": "Xiaomi", 
@@ -1799,12 +1799,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-28", 
-                  "datetime": "20210228", 
-                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210228-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210228-VANILLA.zip", 
-                  "sha256": "e5f7de7df63eeeb58a04cc4c33f6cf54439afac20b256779fd3da844cc8fc546", 
-                  "size": "893317969", 
+                  "date": "2021-03-02", 
+                  "datetime": "20210302", 
+                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210302-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210302-VANILLA.zip", 
+                  "sha256": "2e4e09d900ec4a695867c22d0d7a086af4b14c3e91765159699881263562d02d", 
+                  "size": "893378032", 
                   "type": "official", 
                   "version": "v11.0"
                 }
