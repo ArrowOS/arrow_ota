@@ -49,16 +49,16 @@
     ], 
     "beryllium": [
         {
-            "changelog": "- Remove fingerprint HAL from background cpuset\r\n- Enable Power HAL interaction boost\r\n- Misc fixes and upstream changes.\r\n\r\n2021-02-18:\r\n- Adress selinux denials\r\n- Remove DiracSound (do not work)\r\n- Fix video rendering in some apps (example AliExpress App)\r\n- Build qti thermal 2.0 hal\r\n- Switch to source built vendor.qti.hardware.perf@2.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-03-01", 
-            "datetime": "20210301", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210301-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210301-GAPPS.zip", 
+            "changelog": "- sepolicy: cleanup\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
+            "date": "2021-03-03", 
+            "datetime": "20210303", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210303-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210303-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "39d619b88d453aa3ada239a813286eb2b81905374ed612303939bc9f3f52866d", 
-            "size": "1206811317", 
+            "sha256": "e780efea5651d18f6c8df8ec7090c0e6146b66650023fd5ecda40f2b14b29323", 
+            "size": "1208035239", 
             "type": "official", 
             "version": "v11.0"
         }
