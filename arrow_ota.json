@@ -1799,12 +1799,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-02", 
-                  "datetime": "20210302", 
-                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210302-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210302-VANILLA.zip", 
-                  "sha256": "2e4e09d900ec4a695867c22d0d7a086af4b14c3e91765159699881263562d02d", 
-                  "size": "893378032", 
+                  "date": "2021-03-04", 
+                  "datetime": "20210304", 
+                  "filename": "Arrow-v11.0-polaris-OFFICIAL-20210304-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210304-VANILLA.zip", 
+                  "sha256": "5a91895d8177a64fb072f69562b4ad264e4187b9e339f16d45549b420471fe16", 
+                  "size": "893999720", 
                   "type": "official", 
                   "version": "v11.0"
                 }
