@@ -2239,6 +2239,34 @@
       ]
     }
   ], 
+  "star2lte": [
+    {
+      "changelog": null, 
+      "maintainer": "Baddar90", 
+      "model": "SM-G965F", 
+      "oem": "samsung", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-03-05", 
+                  "datetime": "20210305", 
+                  "filename": "Arrow-v11.0-star2lte-COMMUNITY-20210305-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/star2lte/Arrow-v11.0-star2lte-COMMUNITY-20210305-VANILLA.zip", 
+                  "sha256": "d88a7e33b8c86a60bf2f0c73cd99ff2e6a539c206f0333de63ef87415694b338", 
+                  "size": "638622047", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "starlte": [
     {
       "changelog": null, 
