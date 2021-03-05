@@ -178,15 +178,15 @@
     "ginkgo": [
         {
             "changelog": "- Included MiuiCamera\r\n- Upgraded all blobs to R (MIUI 12.5 21.2.3)\r\n- Updated graphics/sensors/DSP to LA.UM.9.11.r1-02600-NICOBAR.0\r\n- Updated audio/wifi/usb configs from stock\r\n- Disabled fluence audio (should solve most mic issues)\r\n- Removed unused mlipay (ifaa) and ANT+\r\n- Switched to qcom power hal + perf hal boosting\r\n- Display dying under heat should be fixed\r\n- Increase gps batch size for faster fix\r\n- Disabled buggy display SVI (sunlight improvement)\r\n- Switched to pixel offline charger animation\r\n- Improved system wide sqlite performance\r\n- Pin surfaceflinger in memory for better UI performance\r\n- Further smoothen notch cutout\r\n- Merged LA.UM.9.1.r1-08600-SMxxx0.0 CAF and v4.14.221 in kernel\r\n- Added wireguard support\r\n- Reduced touchscreen, GPU and CPU latency\r\n- Misc optimizations and fixes", 
-            "date": "2021-03-03", 
-            "datetime": "20210303", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210303-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210303-GAPPS.zip", 
+            "date": "2021-03-05", 
+            "datetime": "20210305", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210305-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210305-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "30392835fea6d2dc8f0c7d243cc599f9fa5b860af0ba8b3d7b82388eef26048e", 
-            "size": "1309615551", 
+            "sha256": "63eed80f375ad17ca6dd26d76233498e9cca40568f8c3bf879fd9d3d2db905f3", 
+            "size": "1309633561", 
             "type": "official", 
             "version": "v11.0"
         }
