@@ -385,16 +385,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Fixed weird yellowish tint in some apps\r\n- Disabled broken wifi display\r\n- Fixed mic in Google Recoder and some another apps\r\n- Misc fixes and optimizations changes\r\n- Enabled TTL target\r\n- Many another optimization in kernel.\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-03-03", 
-            "datetime": "20210303", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210303-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210303-VANILLA.zip", 
+            "changelog": "- Fixed video playback issue\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2021-03-05", 
+            "datetime": "20210305", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210305-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210305-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "79a9ea256782ec739384ce5915bd527f8d1b37c0eafa1d4eb301b0778aa787bd", 
-            "size": "701878591", 
+            "sha256": "e047b4fc2bf569eca8632f24be8e03d50897b047f3debba444aa2522eb4ec0a8", 
+            "size": "701707614", 
             "type": "official", 
             "version": "v11.0"
         }
