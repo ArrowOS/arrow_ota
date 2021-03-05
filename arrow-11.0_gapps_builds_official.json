@@ -226,15 +226,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Enforcing build\r\n\u2022 Added fully working MiuiCamera (except for curtana users)\r\n\u2022 Fixed OK Google Hotword Enrollment\r\n\u2022 Fixed BT audio codecs\r\n\u2022 Enabled inline encryption (so yeah can flash R kernels)\r\n\u2022 Added smartcharging", 
-            "date": "2021-03-03", 
-            "datetime": "20210303", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210303-GAPPS.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210303-GAPPS.zip", 
+            "date": "2021-03-05", 
+            "datetime": "20210305", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210305-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210305-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "d14ba7c59af0552742ca1dbd6de87b038905a91216ece8fbaf1899825c038cc2", 
-            "size": "1639136710", 
+            "sha256": "f67293abe6fd11890d76d8b35c937d23527e65ddeecfec9dfe38b7a17a978727", 
+            "size": "1639109930", 
             "type": "official", 
             "version": "v11.0"
         }
