@@ -159,6 +159,22 @@
             "version": "v11.0"
         }
     ], 
+    "starlte": [
+        {
+            "changelog": "- first release", 
+            "date": "2021-03-05", 
+            "datetime": "20210305", 
+            "filename": "Arrow-v11.0-starlte-COMMUNITY-20210305-VANILLA.zip", 
+            "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-COMMUNITY-20210305-VANILLA.zip", 
+            "maintainer": "Baddar90", 
+            "model": "SM-G960F", 
+            "oem": "samsung", 
+            "sha256": "1534f285be8fa0a7d70135aa95017f9006a4a1cd570a168048071e60682cee3f", 
+            "size": "638596625", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "umi": [
         {
             "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
