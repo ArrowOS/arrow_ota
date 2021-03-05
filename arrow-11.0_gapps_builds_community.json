@@ -143,6 +143,22 @@
             "version": "v11.0"
         }
     ], 
+    "star2lte": [
+        {
+            "changelog": "- Initial release", 
+            "date": "2021-03-05", 
+            "datetime": "20210305", 
+            "filename": "Arrow-v11.0-star2lte-COMMUNITY-20210305-GAPPS.zip", 
+            "filepath": "/arrow-11.0/star2lte/Arrow-v11.0-star2lte-COMMUNITY-20210305-GAPPS.zip", 
+            "maintainer": "Baddar90", 
+            "model": "SM-G965F", 
+            "oem": "samsung", 
+            "sha256": "e9f5593688f619732518aeb4ce1af9f2a4acc047007e9b56b94d7cbe6a020aec", 
+            "size": "965329133", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "umi": [
         {
             "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
