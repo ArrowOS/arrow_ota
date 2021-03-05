@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "star2lte": [
+        {
+            "changelog": null, 
+            "date": "2021-03-05", 
+            "datetime": "20210305", 
+            "filename": "Arrow-v11.0-star2lte-COMMUNITY-20210305-GAPPS.zip", 
+            "filepath": "/arrow-11.0/star2lte/Arrow-v11.0-star2lte-COMMUNITY-20210305-GAPPS.zip", 
+            "maintainer": "Baddar90", 
+            "model": "SM-G965F", 
+            "oem": "samsung", 
+            "sha256": "311f19d0d38da2fe5295644c0950ab30aac96c20171fba5e4c63806f7da9be8b", 
+            "size": "965331524", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "starlte": [
         {
             "changelog": null, 
