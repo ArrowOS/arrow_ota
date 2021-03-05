@@ -322,15 +322,15 @@
     "polaris": [
         {
             "changelog": "- sepolicy: cleanup\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-03-04", 
-            "datetime": "20210304", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210304-GAPPS.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210304-GAPPS.zip", 
+            "date": "2021-03-05", 
+            "datetime": "20210305", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210305-GAPPS.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210305-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "eee6a44e3c41b4af2daac374a14042711f6a2224ff6bc9fbc154491b02af01ab", 
-            "size": "1220951583", 
+            "sha256": "f957074318a3235e898fc7beb23763ace7b88a2055664ab5c5d4d84d46533864", 
+            "size": "1221586943", 
             "type": "official", 
             "version": "v11.0"
         }
