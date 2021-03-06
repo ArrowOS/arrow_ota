@@ -2321,7 +2321,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- Misc fixes and changes\r\n\r\nNote:\r\n- Unified builds", 
+      "changelog": "- overlay: Declare number of SIM slots\r\n- surya: treewide cleanup \r\n- Adress selinux denials\r\n- Update overlay\r\n- Fixes yellow tint again\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -2343,12 +2343,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-05", 
-                  "datetime": "20210305", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210305-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210305-VANILLA.zip", 
-                  "sha256": "8d3fba75f269c65a2af6dcc48376b9e58124df51fbe48629bb8bfde2d786e3cf", 
-                  "size": "687591067", 
+                  "date": "2021-03-06", 
+                  "datetime": "20210306", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210306-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210306-VANILLA.zip", 
+                  "sha256": "bcf14cb8ad4fe9ec5a46369eae47be5e686d47f22ab6e1c38d979d86f40195f8", 
+                  "size": "701440494", 
                   "type": "official", 
                   "version": "v11.0"
                 }
