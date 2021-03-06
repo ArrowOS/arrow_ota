@@ -779,12 +779,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-04", 
-                  "datetime": "20210304", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210304-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210304-VANILLA.zip", 
-                  "sha256": "87b57c7f1089203efe1bffd533c466806376c01afe53b209dfb7ed17b2a63ca5", 
-                  "size": "1004448553", 
+                  "date": "2021-03-06", 
+                  "datetime": "20210306", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210306-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210306-VANILLA.zip", 
+                  "sha256": "ec78d3708c9f3eb1e61525113e10f700102f169fdb1047b4392db85e76460776", 
+                  "size": "1004544944", 
                   "type": "official", 
                   "version": "v11.0"
                 }
