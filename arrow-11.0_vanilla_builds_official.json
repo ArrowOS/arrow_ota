@@ -241,16 +241,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Enforcing build\r\n\u2022 Added fully working MiuiCamera (except for curtana users)\r\n\u2022 Fixed OK Google Hotword Enrollment\r\n\u2022 Fixed BT audio codecs\r\n\u2022 Enabled inline encryption (so yeah can flash R kernels)\r\n\u2022 Added smartcharging", 
-            "date": "2021-03-05", 
-            "datetime": "20210305", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210305-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210305-VANILLA.zip", 
+            "changelog": "\u2022 Kernel upstreamed to 4.14.223\r\n\u2022 Build fingerprint update to redfin March (Safety net CTS will pass now)\r\n\u2022 Fixed VOIP call audio issues, credits @ctwoon\r\n\u2022 Added Prebuilt Urynx Gcam\r\n\u2022 Addressed some more last remaining denials\r\n\u2022 Added back adaptive color modes", 
+            "date": "2021-03-07", 
+            "datetime": "20210307", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210307-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210307-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "17755ca01cfe07e0b10a62663009017c850b7ec8f05f704a665cb89b230a9a14", 
-            "size": "1332318987", 
+            "sha256": "6e72fd4efa2f66c27d5a4bffeda7b7bdba561827d09c6721a0d2a4d92ca2cfc9", 
+            "size": "1380125697", 
             "type": "official", 
             "version": "v11.0"
         }
