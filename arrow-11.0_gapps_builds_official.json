@@ -369,16 +369,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Fixed video playback issue\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-03-05", 
-            "datetime": "20210305", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210305-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210305-GAPPS.zip", 
+            "changelog": "- overlay: Declare number of SIM slots\r\n- surya: treewide cleanup \r\n- Adress selinux denials\r\n- Update overlay\r\n- Fixes yellow tint again\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2021-03-07", 
+            "datetime": "20210307", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210307-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210307-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "5f305886a6f60e6d3cc6a9fdfa9075c91e9d313bd6e41667a8d4db191303789b", 
-            "size": "1032277135", 
+            "sha256": "5dd8448ab6bdccf9152f3b42c67b88e68e29bbb9917eb20bb62bd266a8e96083", 
+            "size": "1055296961", 
             "type": "official", 
             "version": "v11.0"
         }
