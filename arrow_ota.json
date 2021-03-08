@@ -521,7 +521,7 @@
   ], 
   "chiron": [
     {
-      "changelog": "- Add TTL Support", 
+      "changelog": "- Update GCAM to Wyroczens release\r\n- Import ft5x46 support for jdi display", 
       "maintainer": "WhiterWalt", 
       "model": "Mi MIX 2", 
       "oem": "Xiaomi", 
@@ -543,12 +543,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-16", 
-                  "datetime": "20210216", 
-                  "filename": "Arrow-v11.0-chiron-COMMUNITY-20210216-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210216-VANILLA.zip", 
-                  "sha256": "81654516a73be299c891b31bb547c2454aca4f6ec21a4f00ef0896408c0513af", 
-                  "size": "769770140", 
+                  "date": "2021-03-08", 
+                  "datetime": "20210308", 
+                  "filename": "Arrow-v11.0-chiron-COMMUNITY-20210308-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210308-VANILLA.zip", 
+                  "sha256": "84dacd611cd8c186e938068edb3c976f89dd47046991c8401a8426ee8bab3d1a", 
+                  "size": "846838126", 
                   "type": "community", 
                   "version": "v11.0"
                 }
