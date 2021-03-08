@@ -933,7 +933,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "-", 
+      "changelog": "- Fixed d2w\r\n- Fixed refresh rate preference values\r\n- More misc changes/fixes", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Mi 10i", 
       "oem": "Xiaomi", 
@@ -955,12 +955,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-06", 
-                  "datetime": "20210306", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210306-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210306-VANILLA.zip", 
-                  "sha256": "5acd7efbcde83fcdda4344128010c48ed41cfffdb47d2029ab9a8f1deedc341e", 
-                  "size": "702326772", 
+                  "date": "2021-03-08", 
+                  "datetime": "20210308", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210308-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210308-VANILLA.zip", 
+                  "sha256": "1169c4951e672b91adf89433b2fc1cf14c79b8ab4ba55ca9473bc71bb73aba2c", 
+                  "size": "702328904", 
                   "type": "official", 
                   "version": "v11.0"
                 }
