@@ -1,16 +1,16 @@
 {
     "X01AD": [
         {
-            "changelog": null, 
-            "date": "2021-03-01", 
-            "datetime": "20210301", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210301-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210301-GAPPS.zip", 
+            "changelog": "Use cosmic kernel for Safety-net fix", 
+            "date": "2021-03-08", 
+            "datetime": "20210308", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210308-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210308-GAPPS.zip", 
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "1894bbff9f0ed328adb63eddce60848ef2eb1d160cb2eec17b9006b8c9bee5e8", 
-            "size": "1161039571", 
+            "sha256": "8f3f04b165da1612b61249f379d12aefe53e4b7c46afac204152d16ef35bacf2", 
+            "size": "1188121882", 
             "type": "community", 
             "version": "v11.0"
         }
