@@ -385,16 +385,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- overlay: Declare number of SIM slots\r\n- surya: treewide cleanup \r\n- Adress selinux denials\r\n- Update overlay\r\n- Fixes yellow tint again\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-03-07", 
-            "datetime": "20210307", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210307-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210307-VANILLA.zip", 
+            "changelog": "- Fixed Smart Charging (Adress selinux denials)\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
+            "date": "2021-03-09", 
+            "datetime": "20210309", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210309-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210309-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "792ae80f033abe57742afc48ee0cf4f752abe600902c6dcf980cc84fbd3abae5", 
-            "size": "701431474", 
+            "sha256": "7afb8fc865d083344a42616f4d24553d430175209f9f50930a507e0ab4446e6d", 
+            "size": "701642970", 
             "type": "official", 
             "version": "v11.0"
         }
