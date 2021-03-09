@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "Sync latest source", 
-            "date": "2021-03-07", 
-            "datetime": "20210307", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210307-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210307-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2021-03-09", 
+            "datetime": "20210309", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210309-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210309-GAPPS.zip", 
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "d9dae0662d250526b0b2bd52be4cc6cb43d1754df35142a01e18e79773db1f38", 
-            "size": "1184979062", 
+            "sha256": "beb81d436bd6a98df1922d9b8531053a3784a49b67ea80d7144ef3bdb89a2ac6", 
+            "size": "1184984725", 
             "type": "community", 
             "version": "v11.0"
         }
