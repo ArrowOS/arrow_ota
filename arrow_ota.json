@@ -2427,12 +2427,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-08", 
-                  "datetime": "20210308", 
-                  "filename": "Arrow-v11.0-umi-OFFICIAL-20210308-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210308-VANILLA.zip", 
-                  "sha256": "b7e72280c9d841e22b543369d3d081dbc6ccd839c8c717fdc8e58d68d0ab034f", 
-                  "size": "685569348", 
+                  "date": "2021-03-10", 
+                  "datetime": "20210310", 
+                  "filename": "Arrow-v11.0-umi-OFFICIAL-20210310-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210310-VANILLA.zip", 
+                  "sha256": "7a182a46ec896bbff9af3f247b5ad16718668f471697b1bad4626cd3ceef3b14", 
+                  "size": "685305022", 
                   "type": "official", 
                   "version": "v11.0"
                 }
