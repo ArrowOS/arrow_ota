@@ -1530,7 +1530,7 @@
   "monet": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "maintainer": "Bauuuuu", 
       "model": "Mi 10 Lite 5G", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -1551,12 +1551,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-08", 
-                  "datetime": "20210308", 
-                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210308-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210308-VANILLA.zip", 
-                  "sha256": "57a0c5ff00157c3ae2cd6f61aa095befa071b807be866eee07b2e4e0b76fb9f5", 
-                  "size": "708527130", 
+                  "date": "2021-03-10", 
+                  "datetime": "20210310", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210310-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210310-VANILLA.zip", 
+                  "sha256": "13d2396940f91e8cb4dab37afc8cc11b1d7ea8f420f392429f8a3cb350681a02", 
+                  "size": "701691794", 
                   "type": "official", 
                   "version": "v11.0"
                 }
