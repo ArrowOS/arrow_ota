@@ -386,15 +386,15 @@
     "umi": [
         {
             "changelog": "Firmware and vendor require V12.2.9.0.RJBCNXM.\r\n\r\n- Audio things fixed\r\n- Optimize status bar padding\r\n- Update Carrier Config overlay\r\n- Performance improvement", 
-            "date": "2021-03-08", 
-            "datetime": "20210308", 
-            "filename": "Arrow-v11.0-umi-OFFICIAL-20210308-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210308-GAPPS.zip", 
+            "date": "2021-03-10", 
+            "datetime": "20210310", 
+            "filename": "Arrow-v11.0-umi-OFFICIAL-20210310-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210310-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10", 
             "oem": "Xiaomi", 
-            "sha256": "ef7efcc9d2c2fd56ffcb341af4279029c893327c34af2197a696191567921267", 
-            "size": "1055807625", 
+            "sha256": "3c5bcbf65ac7629106a1f1770475180ecbf9a343065351e7e985636dabceb2fb", 
+            "size": "1055453507", 
             "type": "official", 
             "version": "v11.0"
         }
