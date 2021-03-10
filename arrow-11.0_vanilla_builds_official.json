@@ -114,15 +114,15 @@
     "cmi": [
         {
             "changelog": "Firmware and vendor require V12.2.1.0.RJACNXM.\r\n\r\n- Audio things fixed\r\n- Optimize status bar padding\r\n- Update Carrier Config overlay\r\n- Performance improvement", 
-            "date": "2021-03-08", 
-            "datetime": "20210308", 
-            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210308-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210308-VANILLA.zip", 
+            "date": "2021-03-10", 
+            "datetime": "20210310", 
+            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210310-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210310-VANILLA.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "7d693a11ce4e5600357ed88a485fb0412b1e3130279496fc68097ffa1d3fcd2b", 
-            "size": "685278048", 
+            "sha256": "dd5c2b7f6249b075a21eada45129d3eee8fef87d80023e279689f9d84dae2ace", 
+            "size": "684645367", 
             "type": "official", 
             "version": "v11.0"
         }
