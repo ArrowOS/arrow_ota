@@ -129,16 +129,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Build NFC packages\r\n- Block fp touch inputs\r\n- Fix d2w\r\n- Fix bt audio\r\n- Bypass safetynet", 
-            "date": "2021-02-12", 
-            "datetime": "20210212", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210212-GAPPS.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210212-GAPPS.zip", 
+            "changelog": "- Fixed bt audio issues", 
+            "date": "2021-03-10", 
+            "datetime": "20210310", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210310-GAPPS.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210310-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Mi 10i", 
             "oem": "Xiaomi", 
-            "sha256": "fbbb8954f193a14c27615b20b001c67ae8686eb4e6847dcd13fab36761bdcdb9", 
-            "size": "1019485995", 
+            "sha256": "5bb89bcd2e2d985f256a9627b83a8bd31802b1bbca01be997acd2462cc63f27d", 
+            "size": "1081308926", 
             "type": "official", 
             "version": "v11.0"
         }
