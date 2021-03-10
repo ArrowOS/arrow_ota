@@ -33,16 +33,16 @@
     ], 
     "chiron": [
         {
-            "changelog": "- added Gcam from AOSP-11 for Sagit\r\n- undervolted CPU", 
-            "date": "2021-02-16", 
-            "datetime": "20210216", 
-            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210216-VANILLA.zip", 
-            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210216-VANILLA.zip", 
+            "changelog": "- Update GCAM to Wyroczens release\r\n- Import ft5x46 support for jdi display", 
+            "date": "2021-03-10", 
+            "datetime": "20210310", 
+            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210310-VANILLA.zip", 
+            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210310-VANILLA.zip", 
             "maintainer": "WhiterWalt", 
             "model": "Mi MIX 2", 
             "oem": "Xiaomi", 
-            "sha256": "bb48d9a29156df003f3afc606e727999854dc698f449ea42eb3f7c97fc50f528", 
-            "size": "815673406", 
+            "sha256": "06830e6467bff1521f0e1a10744b9f7ba19a323296cd1a032183d0121f5260d5", 
+            "size": "846831661", 
             "type": "community", 
             "version": "v11.0"
         }
