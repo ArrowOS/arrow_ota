@@ -1185,7 +1185,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- CLEAN FLASH PLEASE\r\n- Enable SmartCharging\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera, Radio, and moar Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Update Build FP for March SPL\r\n- Enable Advance Logcat Debugging\r\n- Fix ctl.interface_start error spams\r\n- Enable New Google Keyboard Theme\r\n- Force set QS rows to 2\r\n- SELinux Enforcing", 
+      "changelog": "- CLEAN FLASH PLEASE\r\n- Enable SmartCharging\r\n- Moved XiaomiParts to System/XiaomiParts\r\n- Audio improvements\r\n- Use GCamGoPrebuilt instead of Snap/Camera2\r\n- Fix Deepsleep while Bluetooth is turned on\r\n- Enable QPower and Deep sleep at the same time\r\n- Cleanup Wifi and Tether rro_overlays\r\n- Cleanup Wifi packages\r\n- Address Camera, Radio, and moar Denials\r\n- GPS Cleanup\r\n- Enable VR Hal\r\n- Update Build FP for March SPL\r\n- Enable Advance Logcat Debugging\r\n- Fix ctl.interface_start error spams\r\n- Enable New Google Keyboard Theme\r\n- Force set QS Rows to 2\r\n- SELinux Enforcing", 
       "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1211,8 +1211,8 @@
                   "datetime": "20210310", 
                   "filename": "Arrow-v11.0-lavender-COMMUNITY-20210310-VANILLA.zip", 
                   "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210310-VANILLA.zip", 
-                  "sha256": "00074060932761ce7247832faafcdb1d0ed1544bdffdc75e88bc714779c859f5", 
-                  "size": "946217867", 
+                  "sha256": "0deaf30ccf69477f856f82b773360f46519676416ab6ded8b67e00a0a72853ec", 
+                  "size": "946182312", 
                   "type": "community", 
                   "version": "v11.0"
                 }
