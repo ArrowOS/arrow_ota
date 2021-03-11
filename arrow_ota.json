@@ -1421,7 +1421,7 @@
   ], 
   "miatoll": [
     {
-      "changelog": "\u2022 Kernel upstreamed to 4.14.223\r\n\u2022 Build fingerprint update to redfin March (Safety net CTS will pass now)\r\n\u2022 Fixed VOIP call audio issues, credits @ctwoon\r\n\u2022 Added Prebuilt Urynx Gcam\r\n\u2022 Addressed some more last remaining denials\r\n\u2022 Added back adaptive color modes", 
+      "changelog": null, 
       "maintainer": "SonalSingh18", 
       "model": "Miatoll", 
       "oem": "Xiaomi", 
@@ -1471,12 +1471,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-05", 
-                  "datetime": "20210305", 
-                  "filename": "Arrow-v11.0-miatoll-UNOFFICIAL-20210305-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-UNOFFICIAL-20210305-VANILLA.zip", 
-                  "sha256": "966127192962ef5ae2da1b635ad72a761dbee2508050b700fcd96bc4409e3d99", 
-                  "size": "1380904804", 
+                  "date": "2021-03-11", 
+                  "datetime": "20210311", 
+                  "filename": "Arrow-v11.0-miatoll-UNOFFICIAL-20210311-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-UNOFFICIAL-20210311-VANILLA.zip", 
+                  "sha256": "dd320df5795cc3ca268a003539e3a9221e0555e9930b1b53806ce5d0f920aa67", 
+                  "size": "1353460297", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
