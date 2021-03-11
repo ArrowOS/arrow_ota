@@ -1307,12 +1307,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-07", 
-                  "datetime": "20210307", 
-                  "filename": "Arrow-v11.0-lmi-OFFICIAL-20210307-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lmi/Arrow-v11.0-lmi-OFFICIAL-20210307-VANILLA.zip", 
-                  "sha256": "9cf46acac835a4f9a7fa517dbbe5ca3312524a319307fa90b0cf1993a3dbc441", 
-                  "size": "694524242", 
+                  "date": "2021-03-11", 
+                  "datetime": "20210311", 
+                  "filename": "Arrow-v11.0-lmi-OFFICIAL-20210311-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lmi/Arrow-v11.0-lmi-OFFICIAL-20210311-VANILLA.zip", 
+                  "sha256": "4c8db8f1d6fe3934292374edaabeee56f03b47d75b16d7c97a7dc801730cc5d8", 
+                  "size": "694787906", 
                   "type": "official", 
                   "version": "v11.0"
                 }
