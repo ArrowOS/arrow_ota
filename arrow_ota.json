@@ -933,7 +933,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- Fixed d2w\r\n- Fixed refresh rate preference values\r\n- More misc changes/fixes", 
+      "changelog": "- Fixed bt audio issues", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Mi 10i", 
       "oem": "Xiaomi", 
@@ -947,8 +947,8 @@
                   "datetime": "20210312", 
                   "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210312-GAPPS.zip", 
                   "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210312-GAPPS.zip", 
-                  "sha256": "a88f0eaf54c90aaca2dc7870e4b482d01d4a89b2b2128a5d877399b68ab49ed0", 
-                  "size": "1055624893", 
+                  "sha256": "dcd33418d533b0f0e1875756b97d1bf075c1e92602901ce92c330096ad82befd", 
+                  "size": "1080959746", 
                   "type": "official", 
                   "version": "v11.0"
                 }
