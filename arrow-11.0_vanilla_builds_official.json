@@ -338,15 +338,15 @@
     "polaris": [
         {
             "changelog": "- Do not balance msm_drm and kgsl-3d0 IRQs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-03-10", 
-            "datetime": "20210310", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210310-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210310-VANILLA.zip", 
+            "date": "2021-03-12", 
+            "datetime": "20210312", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210312-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210312-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "a3dadf46d7e3a3dd263af87f6dc3f79b57755173fa61de8b179eeab527b68790", 
-            "size": "894158945", 
+            "sha256": "782cf2d9b358ec3c6eead1c47b9c45206c573a2c54e155fc422f4f6f319f2151", 
+            "size": "893833607", 
             "type": "official", 
             "version": "v11.0"
         }
