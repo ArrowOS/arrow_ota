@@ -1511,12 +1511,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-11", 
-                  "datetime": "20210311", 
-                  "filename": "Arrow-v11.0-mido-OFFICIAL-20210311-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210311-VANILLA.zip", 
-                  "sha256": "284aeb409ce9d6e45cc7021bcccc05624557c6657209f4649038a697c5ac202c", 
-                  "size": "721660624", 
+                  "date": "2021-03-13", 
+                  "datetime": "20210313", 
+                  "filename": "Arrow-v11.0-mido-OFFICIAL-20210313-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210313-VANILLA.zip", 
+                  "sha256": "0f0653b42bd63f72eb23b51ae5b2ee5d975e080fcd844d39b2238f8fba841266", 
+                  "size": "721004341", 
                   "type": "official", 
                   "version": "v11.0"
                 }
