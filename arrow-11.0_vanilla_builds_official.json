@@ -386,15 +386,15 @@
     "surya": [
         {
             "changelog": "- Fixed Smart Charging (Adress selinux denials)\r\n- Reduce statusbar padding a bit\r\n- parts: Update pt-rBR translation\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-03-11", 
-            "datetime": "20210311", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210311-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210311-VANILLA.zip", 
+            "date": "2021-03-13", 
+            "datetime": "20210313", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210313-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210313-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "9c89f47e3d553fb341dbbc6bb7a437bbcc1ae6d1cdff0d33ed48d2baa2311a1f", 
-            "size": "701106082", 
+            "sha256": "9c527c224e72d2a7c7fbc4580f8d44f463b6a09c35c9700e4a46b360a7de9f7f", 
+            "size": "701887114", 
             "type": "official", 
             "version": "v11.0"
         }
