@@ -290,15 +290,15 @@
     "perseus": [
         {
             "changelog": "- Do not balance msm_drm and kgsl-3d0 IRQs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-03-14", 
-            "datetime": "20210314", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210314-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210314-GAPPS.zip", 
+            "date": "2021-03-15", 
+            "datetime": "20210315", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210315-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210315-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "83c2c84ffcddd6930b8f1902db84417241f8c3a38a145bb6b1065344696946f0", 
-            "size": "1374435023", 
+            "sha256": "2cb0286f4c366eb944d3ac78255d758120b4ab923c100d9def1e661c896e3c96", 
+            "size": "1400520483", 
             "type": "official", 
             "version": "v11.0"
         }
