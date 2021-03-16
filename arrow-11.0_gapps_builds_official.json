@@ -98,15 +98,15 @@
     "cmi": [
         {
             "changelog": "!!! Firmware and vendor require update to V12.2.4.0.RJACNXM.", 
-            "date": "2021-03-14", 
-            "datetime": "20210314", 
-            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210314-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210314-GAPPS.zip", 
+            "date": "2021-03-16", 
+            "datetime": "20210316", 
+            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210316-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210316-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "MI 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "9d49aeb9fb01bd7d7a265f28550f243e25c11cccffa05fed08fd318312a6bc72", 
-            "size": "1055373509", 
+            "sha256": "a3d34469fbf376289eddbafc4832dccd7430a3a27f7b4198940b079753d9938a", 
+            "size": "1081739737", 
             "type": "official", 
             "version": "v11.0"
         }
