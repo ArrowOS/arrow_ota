@@ -2469,6 +2469,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-03-17", 
+                  "datetime": "20210317", 
+                  "filename": "Arrow-v11.0-vangogh-UNOFFICIAL-20210317-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/vangogh/Arrow-v11.0-vangogh-UNOFFICIAL-20210317-GAPPS.zip", 
+                  "sha256": "566521e38545c23f2375bd99418180f5cf0ec2e9aeae980eeed18658784b5f7a", 
+                  "size": "1093653947", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-03-17", 
