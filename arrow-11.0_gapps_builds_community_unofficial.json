@@ -1,16 +1,16 @@
 {
     "X01AD": [
         {
-            "changelog": null, 
-            "date": "2021-03-16", 
-            "datetime": "20210316", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210316-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210316-GAPPS.zip", 
+            "changelog": "Disable UI touch sounds by default\r\nSet brightness & screen timeout defaults", 
+            "date": "2021-03-18", 
+            "datetime": "20210318", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210318-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210318-GAPPS.zip", 
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "c6898bd9858144cfe5d3b5b9f546d2ce0c2f8d6d4e47761f501707bb22954d7a", 
-            "size": "1206518405", 
+            "sha256": "d5eb5d0729e49770a8e42757a0807110f1a35af81ff61da85874ecc09a7627d5", 
+            "size": "1206771923", 
             "type": "community", 
             "version": "v11.0"
         }
