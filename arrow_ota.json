@@ -1583,6 +1583,34 @@
       ]
     }
   ], 
+  "onclite": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Redmi 7", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-03-18", 
+                  "datetime": "20210318", 
+                  "filename": "Arrow-v11.0-onclite-COMMUNITY-20210318-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/onclite/Arrow-v11.0-onclite-COMMUNITY-20210318-VANILLA.zip", 
+                  "sha256": "1533fa4aecb69ef81276a7299e571c4c25bbb5ef3757ddd04bc7969b74ee9fe6", 
+                  "size": "886860317", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "oneplus3": [
     {
       "changelog": null, 
