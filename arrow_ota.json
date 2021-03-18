@@ -1593,6 +1593,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-03-18", 
+                  "datetime": "20210318", 
+                  "filename": "Arrow-v11.0-onclite-COMMUNITY-20210318-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/onclite/Arrow-v11.0-onclite-COMMUNITY-20210318-GAPPS.zip", 
+                  "sha256": "032392fe5a0a9f2effa138725eb30f4ed50a84f6995f9b3a66a3ae458179ec90", 
+                  "size": "1239550991", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-03-18", 
