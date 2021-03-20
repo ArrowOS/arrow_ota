@@ -543,12 +543,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-18", 
-                  "datetime": "20210318", 
-                  "filename": "Arrow-v11.0-chiron-COMMUNITY-20210318-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210318-VANILLA.zip", 
-                  "sha256": "1624beed8fbf38ec9c1ab5fe284631d9457907bd3be63c2395217cb3b98adaa4", 
-                  "size": "872498611", 
+                  "date": "2021-03-20", 
+                  "datetime": "20210320", 
+                  "filename": "Arrow-v11.0-chiron-COMMUNITY-20210320-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210320-VANILLA.zip", 
+                  "sha256": "837b95346556c8911eeb9c7dfbec9886da0818b813a9fa40fbf078a61b09f2ad", 
+                  "size": "872480608", 
                   "type": "community", 
                   "version": "v11.0"
                 }
