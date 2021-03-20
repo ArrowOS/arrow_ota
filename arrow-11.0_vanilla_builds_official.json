@@ -401,16 +401,16 @@
     ], 
     "umi": [
         {
-            "changelog": "Firmware and vendor require V12.2.9.0.RJBCNXM.\r\n\r\n- Audio things fixed\r\n- Optimize status bar padding\r\n- Update Carrier Config overlay\r\n- Performance improvement", 
-            "date": "2021-03-18", 
-            "datetime": "20210318", 
-            "filename": "Arrow-v11.0-umi-OFFICIAL-20210318-VANILLA.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210318-VANILLA.zip", 
+            "changelog": "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Update blobs from MIUI Stable V12.2.10\r\n- Fix jagged cutout\r\n- Support WeChat fingerprint payment\r\n- Audio Improve\r\n- Adjust the height of the status bar\r\n- Improve haptic and vibe patterns\r\n- Enable call recording", 
+            "date": "2021-03-20", 
+            "datetime": "20210320", 
+            "filename": "Arrow-v11.0-umi-OFFICIAL-20210320-VANILLA.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210320-VANILLA.zip", 
             "maintainer": "ChaptSand", 
-            "model": "MI 10", 
+            "model": "Mi 10", 
             "oem": "Xiaomi", 
-            "sha256": "90d0d0f111bdb015b951b8e8cf363ebb27bd837303dc3709bfec259fd27d97e7", 
-            "size": "711349578", 
+            "sha256": "24cae3d13acc3df4c2981dcdb3c3bdd492a94a10f951274725d003a73f7aa988", 
+            "size": "711344958", 
             "type": "official", 
             "version": "v11.0"
         }
