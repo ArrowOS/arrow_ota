@@ -97,16 +97,16 @@
     ], 
     "onclite": [
         {
-            "changelog": null, 
-            "date": "2021-03-18", 
-            "datetime": "20210318", 
-            "filename": "Arrow-v11.0-onclite-COMMUNITY-20210318-GAPPS.zip", 
-            "filepath": "/arrow-11.0/onclite/Arrow-v11.0-onclite-COMMUNITY-20210318-GAPPS.zip", 
-            "maintainer": "bibarub", 
+            "changelog": "Upstreamed Linux kernel to 4.9.262\r\nSet SQLite operation mode to MEMORY\r\nAdded HIDL interfaces to wpa_supplicant service definition", 
+            "date": "2021-03-20", 
+            "datetime": "20210320", 
+            "filename": "Arrow-v11.0-onclite-COMMUNITY-20210320-GAPPS.zip", 
+            "filepath": "/arrow-11.0/onclite/Arrow-v11.0-onclite-COMMUNITY-20210320-GAPPS.zip", 
+            "maintainer": "realbibarub", 
             "model": "Redmi 7", 
             "oem": "Xiaomi", 
-            "sha256": "304a458ebaa7aa284b0a3ed792795b8fb56ca1481599c68f0522a7b956f737ca", 
-            "size": "1239551234", 
+            "sha256": "e0aa593c40edb4820777a1abb1c77f6cd2efc023f82dc35f1024a5e6c6295ec9", 
+            "size": "1239528009", 
             "type": "community", 
             "version": "v11.0"
         }
