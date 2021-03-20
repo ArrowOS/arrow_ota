@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "onclite": [
+        {
+            "changelog": null, 
+            "date": "2021-03-19", 
+            "datetime": "20210319", 
+            "filename": "Arrow-v11.0-onclite-COMMUNITY-20210319-GAPPS.zip", 
+            "filepath": "/arrow-11.0/onclite/Arrow-v11.0-onclite-COMMUNITY-20210319-GAPPS.zip", 
+            "maintainer": "bibarub", 
+            "model": "Redmi 7", 
+            "oem": "Xiaomi", 
+            "sha256": "98c94d87819b7309aaa2ef11c39dbe2f7107a1571c616901f9da75def49af1b2", 
+            "size": "1239554746", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "potter": [
         {
             "changelog": "- Misc improvements and bug fixes", 
