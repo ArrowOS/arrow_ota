@@ -66,15 +66,15 @@
     "beryllium": [
         {
             "changelog": "- Do not balance msm_drm and kgsl-3d0 IRQs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-03-19", 
-            "datetime": "20210319", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210319-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210319-VANILLA.zip", 
+            "date": "2021-03-21", 
+            "datetime": "20210321", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210321-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210321-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "d8ca691cf5421d8acfa58a2227e19e2301c57d001bdb5fea97d0a15391526528", 
-            "size": "907001461", 
+            "sha256": "3051da3ce8c81dd5fc166653f297095512bb5d98c0f6f4df76e8989756321cd5", 
+            "size": "907067891", 
             "type": "official", 
             "version": "v11.0"
         }
