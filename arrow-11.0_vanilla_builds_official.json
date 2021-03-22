@@ -130,15 +130,15 @@
     "davinci": [
         {
             "changelog": "16/03/2021\r\n- Fixed System UI crash after opening the in-app fingerprint dialog\r\n- Various other minor bug fixes and improvements\r\n25/02/2021\r\n-Fixed missing signal until a few minutes pass after boot\r\n15/02/2021\r\n-Fixed FOD after WFD (the screen will bright up for recognizing the fingerprint after using WFD, but works. A reboot will restore the normal behaviour as usual)\r\n-Switched to perf kernel\r\n-Updated blobs to MIUI 21.2.3\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-03-20", 
-            "datetime": "20210320", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210320-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210320-VANILLA.zip", 
+            "date": "2021-03-22", 
+            "datetime": "20210322", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210322-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210322-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "63ae5290120fef9aadbf66b7093c082571744bf607518c4b94a8db8ab69677c6", 
-            "size": "1030673614", 
+            "sha256": "818932fccbe849baa85713f30df7a6c47bb22b2c131351c52780d9313b48014c", 
+            "size": "1030876368", 
             "type": "official", 
             "version": "v11.0"
         }
