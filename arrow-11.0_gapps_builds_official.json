@@ -386,15 +386,15 @@
     "umi": [
         {
             "changelog": "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Update blobs from MIUI Stable V12.2.10\r\n- Fix jagged cutout\r\n- Support WeChat fingerprint payment\r\n- Audio Improve\r\n- Adjust the height of the status bar\r\n- Improve haptic and vibe patterns\r\n- Enable call recording", 
-            "date": "2021-03-20", 
-            "datetime": "20210320", 
-            "filename": "Arrow-v11.0-umi-OFFICIAL-20210320-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210320-GAPPS.zip", 
+            "date": "2021-03-22", 
+            "datetime": "20210322", 
+            "filename": "Arrow-v11.0-umi-OFFICIAL-20210322-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210322-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "Mi 10", 
             "oem": "Xiaomi", 
-            "sha256": "e125f566681f2c7e76e259703d4e0af38888c44b53f39a675889e370a5f3921c", 
-            "size": "1081693423", 
+            "sha256": "6f2280368e48bb92c643f4c2880781551d2d6ae3198bb324a059f05755b8b893", 
+            "size": "1081852276", 
             "type": "official", 
             "version": "v11.0"
         }
