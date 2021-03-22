@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "Disable UI touch sounds by default\r\nSet brightness & screen timeout defaults", 
-            "date": "2021-03-18", 
-            "datetime": "20210318", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210318-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210318-VANILLA.zip", 
+            "changelog": "Reduce Speaker volume for safety\r\nAddress Smart Charge Denials", 
+            "date": "2021-03-22", 
+            "datetime": "20210322", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210322-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210322-VANILLA.zip", 
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "21321b2438445dfa4c419bbde21a226877d1fb5272cb618d877ca431937ffbdb", 
-            "size": "853030783", 
+            "sha256": "acf9d5c43b4d2514d34a4fe94c4d0ba5a9cfd24e2b8aec6c0b7fda55f9b35612", 
+            "size": "853496094", 
             "type": "community", 
             "version": "v11.0"
         }
