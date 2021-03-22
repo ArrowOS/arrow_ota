@@ -687,12 +687,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-03-20", 
-                  "datetime": "20210320", 
-                  "filename": "Arrow-v11.0-cmi-OFFICIAL-20210320-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210320-GAPPS.zip", 
-                  "sha256": "b26dcab4666011664f10687f52f73199297fe119c656a58ec4ab6084164eb3df", 
-                  "size": "1081833136", 
+                  "date": "2021-03-22", 
+                  "datetime": "20210322", 
+                  "filename": "Arrow-v11.0-cmi-OFFICIAL-20210322-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210322-GAPPS.zip", 
+                  "sha256": "52cf201e58c214dd881daeb17b913bf61de3f853b16c26865f855a7a4eefc438", 
+                  "size": "1081321012", 
                   "type": "official", 
                   "version": "v11.0"
                 }
