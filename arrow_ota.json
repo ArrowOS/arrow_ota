@@ -2343,12 +2343,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-21", 
-                  "datetime": "20210321", 
-                  "filename": "Arrow-v11.0-starlte-COMMUNITY-20210321-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-COMMUNITY-20210321-VANILLA.zip", 
-                  "sha256": "80123a1818d0d8b2e80735e1cdee686f99e734edb06dc3ae9e87970e7f2dea86", 
-                  "size": "664163934", 
+                  "date": "2021-03-23", 
+                  "datetime": "20210323", 
+                  "filename": "Arrow-v11.0-starlte-COMMUNITY-20210323-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-COMMUNITY-20210323-VANILLA.zip", 
+                  "sha256": "26d03e5c734a1f13ab07fe11c21c0f49fc3bab5c60e161279ceb304199804a5c", 
+                  "size": "664421012", 
                   "type": "community", 
                   "version": "v11.0"
                 }
