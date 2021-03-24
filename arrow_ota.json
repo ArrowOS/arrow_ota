@@ -1693,7 +1693,7 @@
   ], 
   "perseus": [
     {
-      "changelog": "- Do not balance msm_drm and kgsl-3d0 IRQs\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
+      "changelog": "- Enable ZRAM (3Gb, lz4 compress algorithm)\r\n- Enable H/W Composition\r\n- Enable UBWC aligned framebuffer\r\n- Enable Codec2 support\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
       "maintainer": "palaych", 
       "model": "Mi MIX 3", 
       "oem": "Xiaomi", 
@@ -1715,12 +1715,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-21", 
-                  "datetime": "20210321", 
-                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210321-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210321-VANILLA.zip", 
-                  "sha256": "c947d4a6aca8b9dc9056de07ea05ba41b66b519b89f5a88d4488a6f5b318ef72", 
-                  "size": "1047100068", 
+                  "date": "2021-03-24", 
+                  "datetime": "20210324", 
+                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210324-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210324-VANILLA.zip", 
+                  "sha256": "f944f092eb99100f72c4f2b7177ecd0ecb0bc7d0d36327a68f32044e23fcc193", 
+                  "size": "1047970524", 
                   "type": "official", 
                   "version": "v11.0"
                 }
