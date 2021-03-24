@@ -274,15 +274,15 @@
     "monet": [
         {
             "changelog": "- Fixed fp biometric dialog crash\r\n- Improve safetynet pass\r\n- Misc fixes and upstream changes.", 
-            "date": "2021-03-22", 
-            "datetime": "20210322", 
-            "filename": "Arrow-v11.0-monet-OFFICIAL-20210322-VANILLA.zip", 
-            "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210322-VANILLA.zip", 
+            "date": "2021-03-24", 
+            "datetime": "20210324", 
+            "filename": "Arrow-v11.0-monet-OFFICIAL-20210324-VANILLA.zip", 
+            "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210324-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "Mi 10 Lite 5G", 
             "oem": "Xiaomi", 
-            "sha256": "43dccab8d13eef4e980d9546bdb1864798abcd49838fbf198df2c7b83ea20e83", 
-            "size": "727905878", 
+            "sha256": "6206501e139505a5844a14afdb59b21e0ce5d2c9ad5c0ac5e1582e2a8c95564f", 
+            "size": "727677676", 
             "type": "official", 
             "version": "v11.0"
         }
