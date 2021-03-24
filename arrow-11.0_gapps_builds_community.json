@@ -34,15 +34,15 @@
     "chiron": [
         {
             "changelog": "- Update GCAM to Wyroczens release\r\n- Import ft5x46 support for jdi display", 
-            "date": "2021-03-22", 
-            "datetime": "20210322", 
-            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210322-GAPPS.zip", 
-            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210322-GAPPS.zip", 
+            "date": "2021-03-24", 
+            "datetime": "20210324", 
+            "filename": "Arrow-v11.0-chiron-COMMUNITY-20210324-GAPPS.zip", 
+            "filepath": "/arrow-11.0/chiron/Arrow-v11.0-chiron-COMMUNITY-20210324-GAPPS.zip", 
             "maintainer": "WhiterWalt", 
             "model": "Mi MIX 2", 
             "oem": "Xiaomi", 
-            "sha256": "2273386775009388ea6449b80b468e65621d027bb5cb0649afc25e13c07cbc75", 
-            "size": "1222585897", 
+            "sha256": "519837f3ac40da29a871ecc2412695f40e8b5489c7895e20284421701613816f", 
+            "size": "1224131398", 
             "type": "community", 
             "version": "v11.0"
         }
