@@ -18,15 +18,15 @@
     "X01BD": [
         {
             "changelog": "* 4.4.256 kernel upstreamed\r\n* Fixed haptic vibration", 
-            "date": "2021-02-16", 
-            "datetime": "20210216", 
-            "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210216-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210216-VANILLA.zip", 
-            "maintainer": "SonalSingh18", 
-            "model": "ASUS_X01BDA", 
+            "date": "2021-03-24", 
+            "datetime": "20210324", 
+            "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210324-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210324-VANILLA.zip", 
+            "maintainer": "SonalSingh", 
+            "model": "Asus Zenfone Max Pro M2", 
             "oem": "asus", 
-            "sha256": "633b5d543fe130559b8daf6365243bfd5377bdabe5d463efd8b1bf3e5343b29f", 
-            "size": "763998033", 
+            "sha256": "ed4912746f25b10e2a679a197c504b3b5747cec68f6eb2847edf31dbbca700cd", 
+            "size": "787012707", 
             "type": "official", 
             "version": "v11.0"
         }
