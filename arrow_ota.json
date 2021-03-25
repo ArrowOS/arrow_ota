@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "Reduce Speaker volume for safety\r\nAddress Smart Charge Denials", 
+      "changelog": null, 
       "maintainer": "AP_XD", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -171,12 +171,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-24", 
-                  "datetime": "20210324", 
-                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210324-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210324-VANILLA.zip", 
-                  "sha256": "f3ab78a0aa50839b109f6a94f55721e7f15e36f1297591b2674a06ae5d6407ba", 
-                  "size": "852688411", 
+                  "date": "2021-03-25", 
+                  "datetime": "20210325", 
+                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210325-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210325-VANILLA.zip", 
+                  "sha256": "14c7091ad669b3b8ba9c449a1e1df5a1aa948f8d48f4e627274e5c896d214147", 
+                  "size": "858925533", 
                   "type": "community", 
                   "version": "v11.0"
                 }
