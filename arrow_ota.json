@@ -2677,7 +2677,7 @@
   ], 
   "whyred": [
     {
-      "changelog": null, 
+      "changelog": "- Kernel upstreams and misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -2731,12 +2731,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-23", 
-                  "datetime": "20210323", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210323-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210323-VANILLA.zip", 
-                  "sha256": "4160fed2e5510d6cf09da342603bef81ed040fac3b82288cd2467b5622ad3fcb", 
-                  "size": "827176203", 
+                  "date": "2021-03-25", 
+                  "datetime": "20210325", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210325-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210325-VANILLA.zip", 
+                  "sha256": "0612a1cd537c407361f8bb14d6d35875d169a11380d2f706754c37992de39654", 
+                  "size": "823319151", 
                   "type": "official", 
                   "version": "v11.0"
                 }
