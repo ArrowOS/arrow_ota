@@ -1801,7 +1801,7 @@
   ], 
   "polaris": [
     {
-      "changelog": "- Enable ZRAM (3Gb, lz4 compress algorithm)\r\n- Enable H/W Composition\r\n- Enable UBWC aligned framebuffer\r\n- Enable Codec2 support\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Enable force encryption\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
       "maintainer": "palaych", 
       "model": "Mi MIX 2S", 
       "oem": "Xiaomi", 
@@ -1883,12 +1883,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-02-16", 
-                  "datetime": "20210216", 
-                  "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210216-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210216-VANILLA.zip", 
-                  "sha256": "9bdd49bd2630122e21caf56bffdc3cfc58fbc2bd6c889658fc4ac20d82c76b06", 
-                  "size": "892495642", 
+                  "date": "2021-03-27", 
+                  "datetime": "20210327", 
+                  "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210327-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210327-VANILLA.zip", 
+                  "sha256": "4c1ef90d1321c81674608951e2563fe8d998322d1fc9a82491e7120e43dd39ee", 
+                  "size": "921794840", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
