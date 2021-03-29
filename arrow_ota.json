@@ -1529,8 +1529,8 @@
   ], 
   "monet": [
     {
-      "changelog": null, 
-      "maintainer": "Bauuuuu", 
+      "changelog": "- Cleanup blobs\r\n- Enable zram and zram writeback\r\n- Misc fixes and upstream changes.", 
+      "maintainer": "Bauuuuu, palaych", 
       "model": "Mi 10 Lite 5G", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -1551,12 +1551,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-28", 
-                  "datetime": "20210328", 
-                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210328-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210328-VANILLA.zip", 
-                  "sha256": "73aeb08e33962aa27249c85e3286001064706eaff2ba826c5d7aa0d4a559c4ce", 
-                  "size": "702567744", 
+                  "date": "2021-03-29", 
+                  "datetime": "20210329", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210329-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210329-VANILLA.zip", 
+                  "sha256": "be5928fdb72e9b8fdba0b9a1f2d081b5f8c32df590b99a186e819e3182511e09", 
+                  "size": "702605457", 
                   "type": "official", 
                   "version": "v11.0"
                 }
