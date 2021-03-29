@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "Enable lz4 compression algorithm", 
+      "changelog": null, 
       "maintainer": "AP_XD", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -175,8 +175,8 @@
                   "datetime": "20210328", 
                   "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210328-VANILLA.zip", 
                   "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210328-VANILLA.zip", 
-                  "sha256": "6ec9f0bc482ca811457ea1c2ebee4bfd38c5a19fc7c454383ab3846e0f1b96e1", 
-                  "size": "855387418", 
+                  "sha256": "36e549dec589e441c959fc7e9f5ae88112b338be660df4a4c9c87b7de71a3a51", 
+                  "size": "860443609", 
                   "type": "community", 
                   "version": "v11.0"
                 }
