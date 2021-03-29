@@ -242,15 +242,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Kernel upstream to 4.14.224\r\n\u2022 Merged latest tag LA.UM.9.1.r1-09100-SMxxx0.0\r\n\u2022 Added dynamic thermal profile implementation\r\n\u2022 Added GPU boost in Xiaomiparts\r\n\u2022 Fixed fast charge toggle icon tint in dark themes in Xiaomiparts\r\n\u2022 Set fast charging indicator threshold to 10.8W\r\n\u2022 Fixed weird glitches with gestures sometimes\r\n\u2022 Fix mic issues in apps like Whatsapp\r\n\u2022 Properly fixed google voice recorder voice recordings", 
-            "date": "2021-03-27", 
-            "datetime": "20210327", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210327-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210327-VANILLA.zip", 
+            "date": "2021-03-29", 
+            "datetime": "20210329", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210329-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210329-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "a1e7ace684813c3c105bf1e0df645a3acb62c5da284db124f888d7d21e2abe3a", 
-            "size": "1357363113", 
+            "sha256": "2a5f52ae7d7d4a1c5dc3bc23b206a8c3088b50035c5df24a2c652487a4603ce9", 
+            "size": "1357407360", 
             "type": "official", 
             "version": "v11.0"
         }
