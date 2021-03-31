@@ -2361,7 +2361,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
+      "changelog": "- parts: Implement auto-lowering refresh rate on battery saver\r\n- parts: Add touch profiles for gaming and benchmarking\r\n- parts: Add dirac QS tile\r\n- parts: Introduce Refresh Rate QS tile\r\n- Remove libcameraservice shim\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -2383,12 +2383,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-29", 
-                  "datetime": "20210329", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210329-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210329-VANILLA.zip", 
-                  "sha256": "d57349d70d05343eb38d5c0a117fe711d7c10a44db0dc3b438f4f81520df8bb2", 
-                  "size": "730337484", 
+                  "date": "2021-03-31", 
+                  "datetime": "20210331", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210331-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210331-VANILLA.zip", 
+                  "sha256": "78c59b00937bc29cd24418237b6dfb732566840ccbe5f8e4356a83a3d3812d04", 
+                  "size": "786775060", 
                   "type": "official", 
                   "version": "v11.0"
                 }
