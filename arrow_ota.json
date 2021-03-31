@@ -2013,6 +2013,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-03-31", 
+                  "datetime": "20210331", 
+                  "filename": "Arrow-v11.0-raphael-COMMUNITY-20210331-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-COMMUNITY-20210331-GAPPS.zip", 
+                  "sha256": "3dc7d8a2f51c5a1aff7ee8738da4c1f6e5bbebbc273b44408999f2fa98d6ab37", 
+                  "size": "1462855858", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-03-31", 
