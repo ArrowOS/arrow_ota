@@ -2759,12 +2759,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-03-29", 
-                  "datetime": "20210329", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210329-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210329-VANILLA.zip", 
-                  "sha256": "fa0817bfb6bac84e49a746a5baaa3489b3fe086b3dd6228e2227c61ef8007182", 
-                  "size": "824781768", 
+                  "date": "2021-03-31", 
+                  "datetime": "20210331", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210331-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210331-VANILLA.zip", 
+                  "sha256": "9919db1c222b883898940bc894011b3587d0779c698bd4239ae073a35f679204", 
+                  "size": "824769631", 
                   "type": "official", 
                   "version": "v11.0"
                 }
