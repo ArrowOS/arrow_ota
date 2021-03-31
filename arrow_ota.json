@@ -1973,9 +1973,9 @@
   ], 
   "raphael": [
     {
-      "changelog": "- Misc changes and fixes\r\n\r\nNote:\r\n- Requires the latest MIUI Q vendor and firmware.", 
+      "changelog": null, 
       "maintainer": "kubersharma001", 
-      "model": "Redmi K20 Pro", 
+      "model": "MI 9T Pro", 
       "oem": "Xiaomi", 
       "v10.0": [
         {
@@ -2011,6 +2011,22 @@
       ], 
       "v11.0": [
         {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-03-31", 
+                  "datetime": "20210331", 
+                  "filename": "Arrow-v11.0-raphael-COMMUNITY-20210331-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-COMMUNITY-20210331-VANILLA.zip", 
+                  "sha256": "7a21d83fbd8a15374e0860bfc96feded99087d8685e2f9600133a2904b920160", 
+                  "size": "1118637939", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "OFFICIAL": [
             {
               "GAPPS": [
