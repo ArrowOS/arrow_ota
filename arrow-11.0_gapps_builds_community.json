@@ -145,16 +145,16 @@
     ], 
     "raphael": [
         {
-            "changelog": null, 
-            "date": "2021-03-31", 
-            "datetime": "20210331", 
-            "filename": "Arrow-v11.0-raphael-COMMUNITY-20210331-GAPPS.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-COMMUNITY-20210331-GAPPS.zip", 
+            "changelog": "This comes with OSS Vendor", 
+            "date": "2021-04-01", 
+            "datetime": "20210401", 
+            "filename": "Arrow-v11.0-raphael-COMMUNITY-20210401-GAPPS.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-COMMUNITY-20210401-GAPPS.zip", 
             "maintainer": "kubersharma001", 
-            "model": "MI 9T Pro", 
+            "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "3dc7d8a2f51c5a1aff7ee8738da4c1f6e5bbebbc273b44408999f2fa98d6ab37", 
-            "size": "1462855858", 
+            "sha256": "dfcf89c17e238dbbef616b7012962ff3fdef91e528ee3aee2e872920438003b0", 
+            "size": "1461959021", 
             "type": "community", 
             "version": "v11.0"
         }
