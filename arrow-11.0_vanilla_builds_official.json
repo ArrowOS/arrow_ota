@@ -242,15 +242,15 @@
     "miatoll": [
         {
             "changelog": "* Kernel Changelogs\r\n\r\n\u2022 Kernel fully rebased over LA.UM.9.1.r1-09100-SMxxx0.0 tag and upstreamed to 4.14.227\r\n\u2022 Added Dynamic Schedtune boost ( There is more to it but lets just sums it up as under the hood performance improvement, better than before janks, jitters and swappiness)\r\n\u2022 Switched to 250 Hz kernel timer\r\n\u2022 Enabled TTL/HL target support\r\n\u2022 Added wireguard VPN support\r\n\u2022 Added bbr2, westwood, htcp TCP congestion algorithms\r\n\u2022 Added boefla wakelock blocker and blocked some unneeded wakelocks by default\r\n\u2022 Added sio, fiops, zen, maple, anxiety I/O Schedulers\r\n\u2022 Added support for TTL fixation\r\n\u2022 Added fsync on/off support\r\n\u2022 Added Driverdroid support\r\n\u2022 Increased ZRAM size to 3GB\r\n\u2022 Switched to lz4 algorithm for ZRAM\r\n\u2022 Still there is a lot left but not worth mentioning here as everything will go over head for most people\r\n\r\n* Device Changelogs:\r\n\r\n\u2022 Fixed WiFi Display\r\n\u2022 Fixed Power-off-alarm credits @Sairam60\r\n\u2022 Removed color modes support\r\n\u2022 Set lmkd.reinit property from vendor init\r\n\u2022 Adjust dex2oat thread count after setup wizard\r\n\u2022 Improved post_boot tuning for performance\r\n\u2022 Bump top-app stune boost to 10\r\n\u2022 Configured dynamic schedtune boost\r\n\u2022 Kang EAS configuration from sunfish\r\n\u2022 Launch bootanimation early", 
-            "date": "2021-03-31", 
-            "datetime": "20210331", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210331-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210331-VANILLA.zip", 
+            "date": "2021-04-02", 
+            "datetime": "20210402", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210402-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210402-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "58f41296ab637d9fc2fa0fdb72325e4d240241e556561811d8e2ff7cad806c95", 
-            "size": "1357242441", 
+            "sha256": "94fc1fe5e95a15579a5b06395ead3938bb21ad8d77c92517e3744d5284e443dd", 
+            "size": "1355669028", 
             "type": "official", 
             "version": "v11.0"
         }
