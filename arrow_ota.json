@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "Fix zram 0mb", 
+      "changelog": "Enable Zram 2gb\r\nEnable smart pixels", 
       "maintainer": "AP_XD", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -175,8 +175,8 @@
                   "datetime": "20210403", 
                   "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210403-VANILLA.zip", 
                   "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210403-VANILLA.zip", 
-                  "sha256": "4891c571391151eca4e8a8f2577c0157f77b7740ad85cfd2136e5998e4812c64", 
-                  "size": "853863082", 
+                  "sha256": "290b785b0fec6547f54f2091a1e7c73122a4d93f7009ba82fbc79fe76150ac18", 
+                  "size": "853878429", 
                   "type": "community", 
                   "version": "v11.0"
                 }
