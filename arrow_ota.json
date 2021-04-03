@@ -103,12 +103,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-01", 
-                  "datetime": "20210401", 
-                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210401-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210401-VANILLA.zip", 
-                  "sha256": "f71362b3c2ec3022a2bf8696572492b2f8b54126fa618d155884285432736e50", 
-                  "size": "790425658", 
+                  "date": "2021-04-03", 
+                  "datetime": "20210403", 
+                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210403-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210403-VANILLA.zip", 
+                  "sha256": "d56fe0e5962f5e5f73cc6c169a9f5642f033111e1d2e13028d309cc12f06512f", 
+                  "size": "789557956", 
                   "type": "official", 
                   "version": "v11.0"
                 }
