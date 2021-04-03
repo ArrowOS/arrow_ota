@@ -1,16 +1,16 @@
 {
     "X01AD": [
         {
-            "changelog": "Enable lz4 compression algorithm", 
-            "date": "2021-03-28", 
-            "datetime": "20210328", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210328-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210328-GAPPS.zip", 
+            "changelog": "Fix zram 0mb", 
+            "date": "2021-04-03", 
+            "datetime": "20210403", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210403-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210403-GAPPS.zip", 
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "967f8edb6485d0c04e711579f36d10b2c011f4fbe4e088f51a0642dc52025526", 
-            "size": "1207513632", 
+            "sha256": "2fe1dccf563268d8e1a1d6cc06a6a41135b6f9350311be64483a66ddc007ff74", 
+            "size": "1199704338", 
             "type": "community", 
             "version": "v11.0"
         }
