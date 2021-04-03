@@ -1755,12 +1755,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-01", 
-                  "datetime": "20210401", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210401-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210401-VANILLA.zip", 
-                  "sha256": "4f41da4bf29d530cf68ba3f1e8aaad3213b8693720c94260877b9097352dcf37", 
-                  "size": "735020305", 
+                  "date": "2021-04-03", 
+                  "datetime": "20210403", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210403-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210403-VANILLA.zip", 
+                  "sha256": "db7947882ea8680e5487ad0e853115e62fb5b1cb470197a2306bb09a1e4f5c55", 
+                  "size": "735186591", 
                   "type": "official", 
                   "version": "v11.0"
                 }
