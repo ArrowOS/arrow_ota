@@ -1973,7 +1973,7 @@
   ], 
   "raphael": [
     {
-      "changelog": null, 
+      "changelog": "This comes with OSS Vendor", 
       "maintainer": "kubersharma001", 
       "model": "Redmi K20 Pro", 
       "oem": "Xiaomi", 
@@ -2031,8 +2031,8 @@
                   "datetime": "20210404", 
                   "filename": "Arrow-v11.0-raphael-COMMUNITY-20210404-VANILLA.zip", 
                   "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-COMMUNITY-20210404-VANILLA.zip", 
-                  "sha256": "3db08013e39961683d702f476daacb1bfb2580c2b490fd7ea6e9d42db704c0ef", 
-                  "size": "1118735090", 
+                  "sha256": "136ff153fac179c72e3bc3651cf163b519fc9764d07ef3df54968b766bc1d6e4", 
+                  "size": "1118844053", 
                   "type": "community", 
                   "version": "v11.0"
                 }
