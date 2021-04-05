@@ -114,15 +114,15 @@
     "cmi": [
         {
             "changelog": "! ! ! Firmware and vendor require update to V12.2.4.0.RJACNXM.\r\n\r\n- Fix jagged cutout\r\n- Support WeChat fingerprint payment\r\n- Audio Improve\r\n- Adjust the height of the status bar\r\n- Improve haptic and vibe patterns\r\n- Enable call recording", 
-            "date": "2021-04-03", 
-            "datetime": "20210403", 
-            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210403-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210403-VANILLA.zip", 
+            "date": "2021-04-05", 
+            "datetime": "20210405", 
+            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210405-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210405-VANILLA.zip", 
             "maintainer": "ChaptSand", 
             "model": "Mi 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "6bfb6e82c59a394ce42b558eac13a7d0bebdf25de1319992dd8173c3c5581542", 
-            "size": "712600091", 
+            "sha256": "64a1b0f660cbca55d4424396bb6dcbc58bd78e8d0e1a6fa0166d6d3cc7ba7315", 
+            "size": "712598155", 
             "type": "official", 
             "version": "v11.0"
         }
