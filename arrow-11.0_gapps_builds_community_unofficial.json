@@ -95,6 +95,22 @@
             "version": "v11.0"
         }
     ], 
+    "ocean": [
+        {
+            "changelog": null, 
+            "date": "2021-04-05", 
+            "datetime": "20210405", 
+            "filename": "Arrow-v11.0-ocean-COMMUNITY-20210405-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ocean/Arrow-v11.0-ocean-COMMUNITY-20210405-GAPPS.zip", 
+            "maintainer": "Deivid Ignacio", 
+            "model": "moto g(7) power", 
+            "oem": "motorola", 
+            "sha256": "1aa685d09c8795a808a9d779572114c281937c17582c6f100c35b268888355d7", 
+            "size": "1075685628", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "onclite": [
         {
             "changelog": "Upstreamed Linux kernel to 4.9.262\r\nSet SQLite operation mode to MEMORY\r\nAdded HIDL interfaces to wpa_supplicant service definition", 
