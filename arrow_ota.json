@@ -1583,6 +1583,34 @@
       ]
     }
   ], 
+  "ocean": [
+    {
+      "changelog": null, 
+      "maintainer": "Deivid Ignacio", 
+      "model": "moto g(7) power", 
+      "oem": "motorola", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-04-05", 
+                  "datetime": "20210405", 
+                  "filename": "Arrow-v11.0-ocean-COMMUNITY-20210405-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ocean/Arrow-v11.0-ocean-COMMUNITY-20210405-VANILLA.zip", 
+                  "sha256": "7964ddc84a8ef103727a984ec53a5d7c4538a4680b592d204cae6a22d14fbe31", 
+                  "size": "773433205", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "onclite": [
     {
       "changelog": null, 
