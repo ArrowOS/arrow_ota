@@ -81,7 +81,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "Beta build with kernel-4.19", 
+      "changelog": "- Fixed dark camera issue in whatsapp and telegram\r\n- Fixed random charging issues", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -103,12 +103,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-03", 
-                  "datetime": "20210403", 
-                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210403-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210403-VANILLA.zip", 
-                  "sha256": "d56fe0e5962f5e5f73cc6c169a9f5642f033111e1d2e13028d309cc12f06512f", 
-                  "size": "789557956", 
+                  "date": "2021-04-05", 
+                  "datetime": "20210405", 
+                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210405-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210405-VANILLA.zip", 
+                  "sha256": "d32b25ea19d3d9ac822941829b09356477c697225aa16acd57ca5dfe6b1534eb", 
+                  "size": "790442297", 
                   "type": "official", 
                   "version": "v11.0"
                 }
