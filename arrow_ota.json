@@ -2445,12 +2445,28 @@
   ], 
   "taimen": [
     {
-      "changelog": "Update Kernel to 4.4.264\r\nAdd NowPlaying\r\nAdd ActiveEdge\r\nFix IPACM", 
+      "changelog": "Update Kernel to 4.4.264\r\nAdd NowPlaying\r\nFix IPACM", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-04-05", 
+                  "datetime": "20210405", 
+                  "filename": "Arrow-v11.0-taimen-OFFICIAL-20210405-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210405-VANILLA.zip", 
+                  "sha256": "2207662aa09900487f4f8c15fdbc81beb1613beb5c349c1d823c1463da0e7a05", 
+                  "size": "815619252", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
