@@ -2453,6 +2453,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-04-05", 
+                  "datetime": "20210405", 
+                  "filename": "Arrow-v11.0-taimen-OFFICIAL-20210405-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210405-GAPPS.zip", 
+                  "sha256": "3af2ddef93547687196fccfb34fb796723ce4bafd3afd6fe44bd7ccf8628d175", 
+                  "size": "1122410781", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-04-05", 

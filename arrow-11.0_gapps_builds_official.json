@@ -383,6 +383,22 @@
             "version": "v11.0"
         }
     ], 
+    "taimen": [
+        {
+            "changelog": "Update Kernel to 4.4.264\r\nAdd NowPlaying\r\nFix IPACM", 
+            "date": "2021-04-05", 
+            "datetime": "20210405", 
+            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210405-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210405-GAPPS.zip", 
+            "maintainer": "ReallySnow", 
+            "model": "Pixel 2 XL", 
+            "oem": "google", 
+            "sha256": "3af2ddef93547687196fccfb34fb796723ce4bafd3afd6fe44bd7ccf8628d175", 
+            "size": "1122410781", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "umi": [
         {
             "changelog": "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Update blobs from MIUI Stable V12.2.10\r\n- Fix jagged cutout\r\n- Support Alipay and WeChat fingerprint payment\r\n- Audio Improve\r\n- Adjust the height of the status bar\r\n- Improve haptic and vibe patterns\r\n- Enable call recording", 
