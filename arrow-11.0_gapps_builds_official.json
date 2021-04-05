@@ -162,15 +162,15 @@
     "gauguin": [
         {
             "changelog": "- Adjust audio steps\r\n- Wifi overlays update\r\n- Fixed bluetooth audio issues\r\n- Fixed fp sensor touch events\r\n- More misc changes/fixes", 
-            "date": "2021-04-03", 
-            "datetime": "20210403", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210403-GAPPS.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210403-GAPPS.zip", 
+            "date": "2021-04-05", 
+            "datetime": "20210405", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210405-GAPPS.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210405-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Mi 10i", 
             "oem": "Xiaomi", 
-            "sha256": "f3412d99ad00781f6b6f484f4bb9e3c3b16281f7a279b4764b38620bf0e10027", 
-            "size": "1075546923", 
+            "sha256": "68f9e4009d2b431fa089f2bb8a5c833fe1f7d94a089d472de25c127d7712e6bd", 
+            "size": "1075059788", 
             "type": "official", 
             "version": "v11.0"
         }
