@@ -1421,7 +1421,7 @@
   ], 
   "miatoll": [
     {
-      "changelog": null, 
+      "changelog": "\u2022 Kernel upstreamed to 4.14.228\r\n\u2022 Merged latest tag LA.UM.9.1.r1-09200-SMxxx0.0", 
       "maintainer": "SonalSingh18", 
       "model": "Miatoll", 
       "oem": "Xiaomi", 
@@ -1443,12 +1443,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-04", 
-                  "datetime": "20210404", 
-                  "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210404-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210404-VANILLA.zip", 
-                  "sha256": "3db6627df9ceefc3a7b7c5523942531ed9665a4565c9d19c8e5804221cc15241", 
-                  "size": "1355845696", 
+                  "date": "2021-04-06", 
+                  "datetime": "20210406", 
+                  "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210406-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210406-VANILLA.zip", 
+                  "sha256": "c384f7673bbefbc81714e822c79cf83b7979220f552539420a8133978b80aa1d", 
+                  "size": "1355523295", 
                   "type": "official", 
                   "version": "v11.0"
                 }
