@@ -194,15 +194,15 @@
     "ginkgo": [
         {
             "changelog": "- Updated stock blobs from MIUI 21.3.3\r\n- Updated CAF blobs from LA.UM.9.11.r1-02800-NICOBAR.0\r\n- Updated redfin fp to march (fixed safetynet)\r\n- Fixed camera freeze in some social media apps\r\n- Fixed camera lens switching delay\r\n- Fixed voip/mic issues in some apps\r\n- KCAL improvements in xiaomi parts\r\n- Added vibration strength control in xiaomi parts\r\n- Made notch cutout wider/smoother\r\n- Switched to new QTI thermal HAL\r\n- Attempted to fix screen blackouts under sunlight/heat\r\n- Disabled KPTI for performance improvement\r\n- Reduced readahead to 128kB to improve storage performance\r\n- GPS config optimizations and fixes\r\n- Tuned cpusets for better performance\r\n- Improved rounded corners and fixed hide cutout option\r\n- Switched to android userspace LMKD\r\n- Added support for willow hwversion 18.31.0\r\n- Improved zram read/write performance\r\n- Switched to QuicksilveR v2.5 kernel\r\n- Merged LA.UM.9.1.r1-09100-SMxxx0.0 CAF and v4.14.223 in kernel\r\n- Fast charging on chinese ginkgo variants maybe fixed\r\n- Misc optimizations and fixes", 
-            "date": "2021-04-04", 
-            "datetime": "20210404", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210404-VANILLA.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210404-VANILLA.zip", 
+            "date": "2021-04-06", 
+            "datetime": "20210406", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210406-VANILLA.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210406-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "a4b4b4dea0882898bedef7bde36b7a6626c84dfa5de3187a6d426149412ffdf3", 
-            "size": "1019724374", 
+            "sha256": "a490e07fa4944cd1aaf87000cef74b24f07ca7a6de986bd50dab02394a14ee67", 
+            "size": "1020097824", 
             "type": "official", 
             "version": "v11.0"
         }
