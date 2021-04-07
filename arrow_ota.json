@@ -1841,7 +1841,7 @@
   ], 
   "polaris": [
     {
-      "changelog": "- Enable ZRAM (3Gb, lz4 compress algorithm)\r\n- Enable H/W Composition\r\n- Enable UBWC aligned framebuffer\r\n- Enable Codec2 support\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Enable force encryption\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
       "maintainer": "palaych", 
       "model": "Mi MIX 2S", 
       "oem": "Xiaomi", 
@@ -1911,12 +1911,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-03-27", 
-                  "datetime": "20210327", 
-                  "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210327-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210327-GAPPS.zip", 
-                  "sha256": "630f437053736f0808eecf1599a0a713b8725ce22a623ce461006351181e0b35", 
-                  "size": "1269952127", 
+                  "date": "2021-04-07", 
+                  "datetime": "20210407", 
+                  "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210407-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210407-GAPPS.zip", 
+                  "sha256": "5feba448569b2c027f7c78c3b321a8168bceff475c9f4ad9e32214f9cf24955e", 
+                  "size": "1263052076", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
