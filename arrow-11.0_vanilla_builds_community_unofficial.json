@@ -129,16 +129,16 @@
     ], 
     "onclite": [
         {
-            "changelog": "Upstreamed Linux kernel to 4.9.262\r\nSet SQLite operation mode to MEMORY\r\nAdded HIDL interfaces to wpa_supplicant service definition", 
-            "date": "2021-03-20", 
-            "datetime": "20210320", 
-            "filename": "Arrow-v11.0-onclite-COMMUNITY-20210320-VANILLA.zip", 
-            "filepath": "/arrow-11.0/onclite/Arrow-v11.0-onclite-COMMUNITY-20210320-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2021-04-07", 
+            "datetime": "20210407", 
+            "filename": "Arrow-v11.0-onclite-COMMUNITY-20210407-VANILLA.zip", 
+            "filepath": "/arrow-11.0/onclite/Arrow-v11.0-onclite-COMMUNITY-20210407-VANILLA.zip", 
             "maintainer": "realbibarub", 
             "model": "Redmi 7", 
             "oem": "Xiaomi", 
-            "sha256": "d77078921c3f6a5340b2d3ec47f5d5e6cdc9130bd708e4882a59cd667f65eff5", 
-            "size": "886909140", 
+            "sha256": "58141a2b625a449d7eb32c83e5fb3331624afac9b37037c17ebe2da61c186695", 
+            "size": "887512045", 
             "type": "community", 
             "version": "v11.0"
         }
