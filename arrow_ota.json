@@ -2389,7 +2389,7 @@
   ], 
   "starlte": [
     {
-      "changelog": "- first release", 
+      "changelog": "-", 
       "maintainer": "Baddar90", 
       "model": "SM-G960F", 
       "oem": "samsung", 
@@ -2411,12 +2411,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-02", 
-                  "datetime": "20210402", 
-                  "filename": "Arrow-v11.0-starlte-COMMUNITY-20210402-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-COMMUNITY-20210402-VANILLA.zip", 
-                  "sha256": "335f9588bdb81ff32d1e78326bcab855fc105639e3d2f94afbae88b34c3e090f", 
-                  "size": "665593339", 
+                  "date": "2021-04-08", 
+                  "datetime": "20210408", 
+                  "filename": "Arrow-v11.0-starlte-COMMUNITY-20210408-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-COMMUNITY-20210408-VANILLA.zip", 
+                  "sha256": "ec5087ded39846bdbaca0c04dcbc3a8248fc78e159fb1509a31b31aee8493559", 
+                  "size": "665540208", 
                   "type": "community", 
                   "version": "v11.0"
                 }
