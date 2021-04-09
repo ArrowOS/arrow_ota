@@ -2541,7 +2541,7 @@
   ], 
   "umi": [
     {
-      "changelog": "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Update blobs from MIUI Stable V12.2.10\r\n- Fix jagged cutout\r\n- Support Alipay and WeChat fingerprint payment\r\n- Audio Improve\r\n- Adjust the height of the status bar\r\n- Improve haptic and vibe patterns\r\n- Enable call recording", 
+      "changelog": "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Show FOD Animation settings\r\n- Update WifiOverlay and TetheringOverlay\r\n- wifi: Enable QPower and Deep sleep together\r\n- Remove extra GBoard spacing\r\n- Update CarrierConfig overlays\r\n- More comfortable rounded corners", 
       "maintainer": "ChaptSand", 
       "model": "Mi 10", 
       "oem": "Xiaomi", 
@@ -2591,12 +2591,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-07", 
-                  "datetime": "20210407", 
-                  "filename": "Arrow-v11.0-umi-OFFICIAL-20210407-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210407-VANILLA.zip", 
-                  "sha256": "1ed395392712c93fe8e5e923d09113ddb874eb109dda9e73196b850af4eb12a3", 
-                  "size": "713083949", 
+                  "date": "2021-04-09", 
+                  "datetime": "20210409", 
+                  "filename": "Arrow-v11.0-umi-OFFICIAL-20210409-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210409-VANILLA.zip", 
+                  "sha256": "42a63e9ebe413ee183d6394df66dea3f028eac73583bb4a309e0e4e8ceb200f8", 
+                  "size": "713099804", 
                   "type": "official", 
                   "version": "v11.0"
                 }
