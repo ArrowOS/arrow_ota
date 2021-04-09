@@ -402,15 +402,15 @@
     "taimen": [
         {
             "changelog": "Update Kernel to 4.4.264\r\nAdd NowPlaying\r\nFix IPACM", 
-            "date": "2021-04-07", 
-            "datetime": "20210407", 
-            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210407-VANILLA.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210407-VANILLA.zip", 
+            "date": "2021-04-09", 
+            "datetime": "20210409", 
+            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210409-VANILLA.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210409-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "34f9ffe55d5717144ed2aeba494e19880f21bd8bcdbbcbe481c7ec7ad041035d", 
-            "size": "815753744", 
+            "sha256": "7401ab70b0a69a8d4abf3f6ca84ffb44c95b0d6f7ce25143109025b7b102a546", 
+            "size": "815752154", 
             "type": "official", 
             "version": "v11.0"
         }
