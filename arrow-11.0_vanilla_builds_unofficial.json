@@ -95,6 +95,22 @@
             "version": "v11.0"
         }
     ], 
+    "dumpling": [
+        {
+            "changelog": "official release", 
+            "date": "2021-04-09", 
+            "datetime": "20210409", 
+            "filename": "Arrow-v11.0-dumpling-UNOFFICIAL-20210409-VANILLA.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-UNOFFICIAL-20210409-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "ONEPLUS A5010", 
+            "oem": "OnePlus", 
+            "sha256": "3e747a10228814cb032a2ae4d3f89107c9892ee49f7fcefd3bdc4edc9f28551a", 
+            "size": "878725942", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "enchilada": [
         {
             "changelog": null, 
