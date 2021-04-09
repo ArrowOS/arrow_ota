@@ -861,6 +861,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-04-09", 
+                  "datetime": "20210409", 
+                  "filename": "Arrow-v11.0-dumpling-UNOFFICIAL-20210409-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-UNOFFICIAL-20210409-GAPPS.zip", 
+                  "sha256": "af1fe8740849ea6a23b0a1b0f2509b5d4ae9fa1d007baa0eb4a9365d1a89c056", 
+                  "size": "1226490050", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-04-09", 
