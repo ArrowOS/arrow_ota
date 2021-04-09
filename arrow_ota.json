@@ -81,7 +81,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- Fixed dark camera issue in whatsapp and telegram\r\n- Fixed random charging issues", 
+      "changelog": "- CLEAN FLASH REQUIRED\r\n\r\n- Initial stable build with 4.19 kernel\r\n- Added debloated ZenParts\r\n- Fixed incorrect battery temperature, enjoy stock rom like charging.\r\n- Updated most Hals and blobs from R tags (kona / 89xx)\r\n\r\n- CLEAN FLASH REQUIRED", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -103,12 +103,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-07", 
-                  "datetime": "20210407", 
-                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210407-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210407-VANILLA.zip", 
-                  "sha256": "6630be2bd385781f1ecffd4a202d59ede7ee5be3b4997710ce8f0d863242c040", 
-                  "size": "789991309", 
+                  "date": "2021-04-09", 
+                  "datetime": "20210409", 
+                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210409-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210409-VANILLA.zip", 
+                  "sha256": "5da744b754d2d9655b72128ab95f2117842c0c70119be470149da4a45ed9fd2c", 
+                  "size": "800894507", 
                   "type": "official", 
                   "version": "v11.0"
                 }
