@@ -161,7 +161,7 @@
     ], 
     "raphael": [
         {
-            "changelog": null, 
+            "changelog": "This build comes with OSS Vendor and requires only the MIUI Q firmware.", 
             "date": "2021-04-09", 
             "datetime": "20210409", 
             "filename": "Arrow-v11.0-raphael-COMMUNITY-20210409-GAPPS.zip", 
@@ -169,8 +169,8 @@
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "7fb647f6668d0da07f75334af26e3b4ca146ae4b53a5c8e250d1f0e261780ef4", 
-            "size": "1461867994", 
+            "sha256": "fe4b4c04cb3fb5968a48d1f432b193b9f16119d91f5f8b5c3eda8bc2b86878fd", 
+            "size": "1462506495", 
             "type": "community", 
             "version": "v11.0"
         }
