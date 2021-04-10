@@ -1,16 +1,16 @@
 {
     "X00T": [
         {
-            "changelog": "Beta build with kernel-4.19", 
-            "date": "2021-04-05", 
-            "datetime": "20210405", 
-            "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210405-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210405-GAPPS.zip", 
+            "changelog": "Beta build", 
+            "date": "2021-04-10", 
+            "datetime": "20210410", 
+            "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210410-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210410-GAPPS.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "283e11021b69e88c08476b143562dd8ef69878ed1df5d06be45ebc9553450cc2", 
-            "size": "1141446154", 
+            "sha256": "85d09df1ae923d4852430e3bc8a11e6238073f94635f4de489b70594c5ea5663", 
+            "size": "1141148896", 
             "type": "unofficial", 
             "version": "v11.0"
         }
