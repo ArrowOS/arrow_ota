@@ -466,15 +466,15 @@
     "whyred": [
         {
             "changelog": "\u2022 Upstream kernel to v4.4.263\r\n\u2022 Upgrade wireguard to 1.0.20210219 snapshot\r\n\u2022 scsi: ufs: Reduce default clock gating delay\r\n\u2022 sched: Do not give sleepers 50% more runtime\r\n\u2022 msm: mdss: Boost DDR bus when committing a new frame\r\n\u2022 Treewide cleanup\r\n\u2022 Misc changes", 
-            "date": "2021-04-08", 
-            "datetime": "20210408", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210408-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210408-GAPPS.zip", 
+            "date": "2021-04-10", 
+            "datetime": "20210410", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210410-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210410-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "4b3d92592691a56a55ba040854756c20c0a40bcda787eb62c43b39358153048d", 
-            "size": "1165315112", 
+            "sha256": "0060d79d3636409e50d9356a6ef6906d36974d05c3e8572c38bf9b13e0ed2ae0", 
+            "size": "1165320536", 
             "type": "official", 
             "version": "v11.0"
         }
