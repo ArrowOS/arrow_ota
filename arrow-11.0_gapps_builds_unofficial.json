@@ -369,16 +369,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Update Kernel to 4.4.264\r\nAdd NowPlaying\r\nAdd ActiveEdge\r\nFix IPACM", 
-            "date": "2021-04-03", 
-            "datetime": "20210403", 
-            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210403-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210403-GAPPS.zip", 
+            "changelog": "Update Kernel to 4.4.266\r\nAdd Pixel 2016 exclusive xml", 
+            "date": "2021-04-11", 
+            "datetime": "20210411", 
+            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210411-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210411-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "87bbfe5a0d9707bcaf6bd45ba2a9f5f57c2be191ed2f37477aeffe5d343cbc49", 
-            "size": "1120658800", 
+            "sha256": "6f53866a0c807793e80d8cb0bc878c57e142e87ba82190b2b4e8425ddf9eb948", 
+            "size": "1120886062", 
             "type": "unofficial", 
             "version": "v11.0"
         }
