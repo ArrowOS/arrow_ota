@@ -81,7 +81,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- CLEAN FLASH REQUIRED\r\n\r\n- Initial stable build with 4.19 kernel\r\n- Added debloated ZenParts\r\n- Fixed incorrect battery temperature, enjoy stock rom like charging.\r\n- Updated most Hals and blobs from R tags (kona / 89xx)\r\n\r\n- CLEAN FLASH REQUIRED", 
+      "changelog": "Beta build", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -119,12 +119,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-04-10", 
-                  "datetime": "20210410", 
-                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210410-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210410-GAPPS.zip", 
-                  "sha256": "85d09df1ae923d4852430e3bc8a11e6238073f94635f4de489b70594c5ea5663", 
-                  "size": "1141148896", 
+                  "date": "2021-04-13", 
+                  "datetime": "20210413", 
+                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210413-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210413-GAPPS.zip", 
+                  "sha256": "d506a31fc7cf0edd28153eb020ec4cc89a13a3d46a78882a98590ced2ffacd5a", 
+                  "size": "1127393516", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
