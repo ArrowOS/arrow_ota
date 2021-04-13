@@ -2535,12 +2535,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-11", 
-                  "datetime": "20210411", 
-                  "filename": "Arrow-v11.0-taimen-OFFICIAL-20210411-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210411-VANILLA.zip", 
-                  "sha256": "3066deef4a1f09f5b96f3dbcc3d96bca226954a18e22557027deb74cadbe0b2f", 
-                  "size": "815752510", 
+                  "date": "2021-04-13", 
+                  "datetime": "20210413", 
+                  "filename": "Arrow-v11.0-taimen-OFFICIAL-20210413-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210413-VANILLA.zip", 
+                  "sha256": "cdc5298d75fccc42169c27f34b17a9285e5815d352baeccec8a5ae794e402dbc", 
+                  "size": "815733629", 
                   "type": "official", 
                   "version": "v11.0"
                 }
