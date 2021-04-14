@@ -434,15 +434,15 @@
     "violet": [
         {
             "changelog": "-Removed USB Fast charge Feature from Violet Parts\r\n-Removed Clear Speaker from Violet Parts\r\n-Switched to Stock thermals as summers are back\r\n-Fixed full volume bug at starting of each call\r\n-Fixed echo while VoIP calls\r\n-Added bass booster preset in Dirac\r\n-Updated device FP Id to April (Redfin)\r\n-Updated Graphics blobs from  LA.UM.9.1.r1-08600-SMxxx0.0\r\n-Upstreamed kernel to LA.UM.9.1.r1-09200-SMxxx0.0 Tag\r\n-Dropped Uclamp support\r\n-Many more changes and Improvements", 
-            "date": "2021-04-12", 
-            "datetime": "20210412", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20210412-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210412-GAPPS.zip", 
+            "date": "2021-04-14", 
+            "datetime": "20210414", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20210414-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210414-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "e769ed5c106b6e2094e8bd168bae0fb8fddae4c62b0e6d4ac2b2afcdd61624c7", 
-            "size": "1337637163", 
+            "sha256": "45338699aa44ca3b6c807e3429fa85e1bb5c206e1a78ad3544cbdffe27594257", 
+            "size": "1337788655", 
             "type": "official", 
             "version": "v11.0"
         }
