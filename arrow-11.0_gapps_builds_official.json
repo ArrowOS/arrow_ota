@@ -418,15 +418,15 @@
     "umi": [
         {
             "changelog": "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Show FOD Animation settings\r\n- Update WifiOverlay and TetheringOverlay\r\n- wifi: Enable QPower and Deep sleep together\r\n- Remove extra GBoard spacing\r\n- Update CarrierConfig overlays\r\n- More comfortable rounded corners", 
-            "date": "2021-04-13", 
-            "datetime": "20210413", 
-            "filename": "Arrow-v11.0-umi-OFFICIAL-20210413-GAPPS.zip", 
-            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210413-GAPPS.zip", 
+            "date": "2021-04-15", 
+            "datetime": "20210415", 
+            "filename": "Arrow-v11.0-umi-OFFICIAL-20210415-GAPPS.zip", 
+            "filepath": "/arrow-11.0/umi/Arrow-v11.0-umi-OFFICIAL-20210415-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "Mi 10", 
             "oem": "Xiaomi", 
-            "sha256": "caf547efa60bd24333eb2f2e735666f86c1eae805220e3d493a9bab1197086a2", 
-            "size": "1075486995", 
+            "sha256": "6ef104210be5faa1884e7d93265a5372046bb0933330fba61ce5a325f2338a84", 
+            "size": "1075487190", 
             "type": "official", 
             "version": "v11.0"
         }
