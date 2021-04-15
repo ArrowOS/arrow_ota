@@ -98,15 +98,15 @@
     "cmi": [
         {
             "changelog": "! ! ! Firmware and vendor require update to V12.2.4.0.RJACNXM.\r\n\r\n- Show FOD Animation settings\r\n- Update WifiOverlay and TetheringOverlay\r\n- wifi: Enable QPower and Deep sleep together\r\n- Remove extra GBoard spacing\r\n- Update CarrierConfig overlays\r\n- More comfortable rounded corners", 
-            "date": "2021-04-13", 
-            "datetime": "20210413", 
-            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210413-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210413-GAPPS.zip", 
+            "date": "2021-04-15", 
+            "datetime": "20210415", 
+            "filename": "Arrow-v11.0-cmi-OFFICIAL-20210415-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cmi/Arrow-v11.0-cmi-OFFICIAL-20210415-GAPPS.zip", 
             "maintainer": "ChaptSand", 
             "model": "Mi 10 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "7bb3a150dc7b0ff1846b37ab6985b2bf6e31c8c5dc75b7714837732606694b23", 
-            "size": "1075287604", 
+            "sha256": "dc73414c7250a67f9a0024f546239950cd12163e7ad010a54c12812cda7879f3", 
+            "size": "1075294917", 
             "type": "official", 
             "version": "v11.0"
         }
