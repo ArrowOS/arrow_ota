@@ -335,6 +335,22 @@
             "version": "v11.0"
         }
     ], 
+    "sweet": [
+        {
+            "changelog": "- For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-13", 
+            "date": "2021-04-16", 
+            "datetime": "20210416", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210416-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210416-VANILLA.zip", 
+            "maintainer": "daniml3", 
+            "model": "Redmi Note 10 Pro", 
+            "oem": "Redmi", 
+            "sha256": "7fe3ae66a62c80befc30e41331608231e36f83d9fbe35f123f5e45d20157a9a2", 
+            "size": "1385430751", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "umi": [
         {
             "changelog": "Initial Official Build\r\n- Firmware and vendor require V12.2.9.0.RJBCNXM.", 
