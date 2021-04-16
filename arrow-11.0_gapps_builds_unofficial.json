@@ -433,7 +433,7 @@
     ], 
     "violet": [
         {
-            "changelog": null, 
+            "changelog": "test PWM flicker", 
             "date": "2021-04-16", 
             "datetime": "20210416", 
             "filename": "Arrow-v11.0-violet-UNOFFICIAL-20210416-GAPPS.zip", 
@@ -441,8 +441,8 @@
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "4e4f660030f384a6b6b137be17a057938f8899e2354920e966948104b0c1ecfe", 
-            "size": "1330558667", 
+            "sha256": "c62b059efdb0954c9fbab7688979cf17c5a514248a7c3ba286ee9fed4032716c", 
+            "size": "1330555723", 
             "type": "unofficial", 
             "version": "v11.0"
         }
