@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "cepheus": [
+        {
+            "changelog": "Intiall build", 
+            "date": "2021-04-17", 
+            "datetime": "20210417", 
+            "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210417-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210417-VANILLA.zip", 
+            "maintainer": "lamjiidii1", 
+            "model": "Mi 9", 
+            "oem": "Xiaomi", 
+            "sha256": "a66ac1ea3e45350ef71322bf40be154442c2156e2be61cc5da7dcc6fa33d5878", 
+            "size": "1114916928", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "chiron": [
         {
             "changelog": "- Update GCAM to Wyroczens release\r\n- Import ft5x46 support for jdi display", 
