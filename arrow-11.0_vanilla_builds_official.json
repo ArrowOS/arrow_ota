@@ -401,16 +401,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "- Initial official release\r\n- For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-13", 
-            "date": "2021-04-14", 
-            "datetime": "20210414", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210414-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210414-VANILLA.zip", 
-            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "changelog": "16/04/2021\r\n- Removed the \"SIM is HD capable\" notification\r\n- Improved automatic brightness\r\n- Enabled color profiles\r\n- Fixed fingerprint in apps\r\n- Enabled burn-in protection\r\n- Fixed AOD counting as SOT\r\n- DT2W on AOD fixed\r\n\r\n14/04/2021\r\n- Initial official release\r\n\r\n- For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-13", 
+            "date": "2021-04-17", 
+            "datetime": "20210417", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210417-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210417-VANILLA.zip", 
+            "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "ac45c97beac807b9662c6405bcfa7000cffac60481c094ca2652ae578d075a81", 
-            "size": "678395699", 
+            "sha256": "36d95c1ec8f72bb1828b98ad2f951807f31891d6d06eca36cbbcf693d78a7413", 
+            "size": "678442203", 
             "type": "official", 
             "version": "v11.0"
         }
