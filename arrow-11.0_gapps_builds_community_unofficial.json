@@ -15,6 +15,22 @@
             "version": "v11.0"
         }
     ], 
+    "cas": [
+        {
+            "changelog": null, 
+            "date": "2021-04-18", 
+            "datetime": "20210418", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210418-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210418-GAPPS.zip", 
+            "maintainer": "Xayah", 
+            "model": "M2007J1SC", 
+            "oem": "Xiaomi", 
+            "sha256": "38d10580e700d70252c32459cd021194eb0f36646ab74f4bae8cfc48d8fbbb76", 
+            "size": "1121684558", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "chiron": [
         {
             "changelog": "- Update GCAM to Wyroczens release\r\n- Import ft5x46 support for jdi display", 
