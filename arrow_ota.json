@@ -2609,7 +2609,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "Update Kernel to 4.4.266\r\nAdd Pixel 2016 exclusive xml", 
+      "changelog": "Boost GPU on EXPENSIVE_RENDERING power hint\r\nBump expensive rendering GPU boost frequency to 515 MHz\r\nUpdate Kernel to 4.4.267", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -2647,12 +2647,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-04-11", 
-                  "datetime": "20210411", 
-                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210411-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210411-GAPPS.zip", 
-                  "sha256": "6f53866a0c807793e80d8cb0bc878c57e142e87ba82190b2b4e8425ddf9eb948", 
-                  "size": "1120886062", 
+                  "date": "2021-04-18", 
+                  "datetime": "20210418", 
+                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210418-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210418-GAPPS.zip", 
+                  "sha256": "38144d91bb272103858d841757fa6fe0e7fe3d025a300895146efd8dca1a14f5", 
+                  "size": "1120876322", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
