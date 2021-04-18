@@ -433,16 +433,16 @@
     ], 
     "violet": [
         {
-            "changelog": "test PWM flicker", 
-            "date": "2021-04-16", 
-            "datetime": "20210416", 
-            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20210416-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20210416-GAPPS.zip", 
+            "changelog": "test PWM flicker, auto-brightness, and manual brightness too", 
+            "date": "2021-04-18", 
+            "datetime": "20210418", 
+            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20210418-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20210418-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "c62b059efdb0954c9fbab7688979cf17c5a514248a7c3ba286ee9fed4032716c", 
-            "size": "1330555723", 
+            "sha256": "ff643fbe84c4bfb7ee5594c923264f02e66bd4cfa4fe7188004e75ad13fb8abe", 
+            "size": "1330545597", 
             "type": "unofficial", 
             "version": "v11.0"
         }
