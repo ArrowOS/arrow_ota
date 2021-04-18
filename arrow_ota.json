@@ -2226,7 +2226,7 @@
   "rosy": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "maintainer": "Shriiyansh Pandey", 
       "model": "Redmi 5", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -2247,12 +2247,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-15", 
-                  "datetime": "20210415", 
-                  "filename": "Arrow-v11.0-rosy-COMMUNITY-20210415-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/rosy/Arrow-v11.0-rosy-COMMUNITY-20210415-VANILLA.zip", 
-                  "sha256": "3aab117c25cff3e1291aa19044959effb7099051be8778ee6e6badd8edffb1c9", 
-                  "size": "764847650", 
+                  "date": "2021-04-18", 
+                  "datetime": "20210418", 
+                  "filename": "Arrow-v11.0-rosy-COMMUNITY-20210418-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/rosy/Arrow-v11.0-rosy-COMMUNITY-20210418-VANILLA.zip", 
+                  "sha256": "377a91fc34babf9285aa4b27eaf1c4e930118d124c8d42751affe59eea34bd6f", 
+                  "size": "764602501", 
                   "type": "community", 
                   "version": "v11.0"
                 }
