@@ -226,15 +226,15 @@
     "miatoll": [
         {
             "changelog": "* Kernel Changelogs\r\n\r\n\u2022 Kernel upstreamed to 4.14.229\r\n\u2022 Switch to userspace LMKD (Killed ALMK)\r\n\u2022 Enable ZRAM writeback support\r\n\u2022 Use lz4 as default zram compression\r\n\u2022 Add power efficient workqueues\r\n\u2022 Enabled msm performance\r\n\r\n* Device Changelogs\r\n\r\n\u2022 Update to Redfin April FP & Desc\r\n\u2022 Tune zram performance\r\n\u2022 Enable zram writeback job\r\n\u2022 Override readahead to 128KiB after post-boot\r\n\u2022 Tune UFS clock scaling during bootup\r\n\u2022 Import boot/runtime fs tuning from coral\r\n\u2022 Add overlay for masking the notch (Hide notch cutout)\r\n\u2022 Add Notch Bar Killer overlay (Kills black space with notch area in fullscreen with some games)\r\n\u2022 Turn on support of multiple vibration intensities\r\n\u2022 Enable haptic text cursor\r\n\u2022 Optimize everything on preopt\r\n\u2022 Dont configure read ahead parameters with init.qcom.post_boot.sh\r\n\u2022 Build libminijail and system variant of libavservices_minijail from source\r\n\u2022 Switch to source built vendor.qti.hardware.perf@2.2.so\r\n\u2022 Nuke camera.provider@2.4-legacy override\r\n\u2022 Cleaned up XiaomiParts\r\n\u2022 Added back color modes support", 
-            "date": "2021-04-14", 
-            "datetime": "20210414", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210414-GAPPS.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210414-GAPPS.zip", 
+            "date": "2021-04-21", 
+            "datetime": "20210421", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210421-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210421-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "4e207260f6fda3e59e93705a58ad19d9f06682a7eb99a03f1cd53316f31a951d", 
-            "size": "1689592949", 
+            "sha256": "0cfc9fe1709f4c67fddee5486fbfe86ffbe620f76b6dfa611506ca5295a0ebf9", 
+            "size": "1689068412", 
             "type": "official", 
             "version": "v11.0"
         }
