@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "Fix some denials\r\nAddress Smart charging Denials", 
-            "date": "2021-04-15", 
-            "datetime": "20210415", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210415-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210415-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2021-04-21", 
+            "datetime": "20210421", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210421-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210421-VANILLA.zip", 
             "maintainer": "AP_XD", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "edd481d7f0f9367d2b0061fa4e6a64bff9a9c65f3a2f409b6db52b9827611a79", 
-            "size": "853810253", 
+            "sha256": "a4f55aa3901debdc190edb59488a48fb53947687968cd33dd4c79a74040f7622", 
+            "size": "861036576", 
             "type": "community", 
             "version": "v11.0"
         }
