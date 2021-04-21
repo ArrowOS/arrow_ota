@@ -386,15 +386,15 @@
     "taimen": [
         {
             "changelog": "Boost GPU on EXPENSIVE_RENDERING power hint\r\nBump expensive rendering GPU boost frequency to 515 MHz\r\nUpdate Kernel to 4.4.267", 
-            "date": "2021-04-18", 
-            "datetime": "20210418", 
-            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210418-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210418-GAPPS.zip", 
+            "date": "2021-04-21", 
+            "datetime": "20210421", 
+            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210421-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210421-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "38144d91bb272103858d841757fa6fe0e7fe3d025a300895146efd8dca1a14f5", 
-            "size": "1120876322", 
+            "sha256": "feba66f52db1ded645c27d22326f80dab14f4d9c808df1172e4c708f429b0d91", 
+            "size": "1121120436", 
             "type": "unofficial", 
             "version": "v11.0"
         }
