@@ -257,16 +257,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- video playback", 
-            "date": "2021-03-04", 
-            "datetime": "20210304", 
-            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210304-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210304-VANILLA.zip", 
+            "changelog": "- OSS vendor", 
+            "date": "2021-04-23", 
+            "datetime": "20210423", 
+            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210423-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210423-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "1c52f641bbf3c397d3bc8f197313b288d2b2ac500469776e55a871907e018950", 
-            "size": "707043949", 
+            "sha256": "39a49ab7d59e79259e38893c321936f2ad02e069e6ee0384215fb14cabd6fbb5", 
+            "size": "1053209239", 
             "type": "unofficial", 
             "version": "v11.0"
         }
