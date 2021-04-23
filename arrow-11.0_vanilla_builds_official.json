@@ -386,15 +386,15 @@
     "surya": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
-            "date": "2021-04-21", 
-            "datetime": "20210421", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210421-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210421-VANILLA.zip", 
+            "date": "2021-04-23", 
+            "datetime": "20210423", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210423-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210423-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "0d0480ed1e251f4ea4889d7f9c43e0bb66ae88ab4e804d0489a5413d908c5299", 
-            "size": "786108783", 
+            "sha256": "5c16998f0b33a402d54f3093bc4b74f7589fc654e113324c6dd50a54db5fe771", 
+            "size": "786116987", 
             "type": "official", 
             "version": "v11.0"
         }
