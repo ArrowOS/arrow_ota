@@ -383,6 +383,22 @@
             "version": "v11.0"
         }
     ], 
+    "vayu": [
+        {
+            "changelog": "-", 
+            "date": "2021-04-23", 
+            "datetime": "20210423", 
+            "filename": "Arrow-v11.0-vayu-UNOFFICIAL-20210423-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-UNOFFICIAL-20210423-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Poco X3 Pro", 
+            "oem": "POCO", 
+            "sha256": "ac9664831006f9b5051458c8fc97b2d85a73822f0452ed63677448cc30e848e4", 
+            "size": "761499804", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "violet": [
         {
             "changelog": "test PWM flicker, auto-brightness, and manual brightness too", 
