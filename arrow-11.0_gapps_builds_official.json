@@ -447,6 +447,22 @@
             "version": "v11.0"
         }
     ], 
+    "vayu": [
+        {
+            "changelog": "-", 
+            "date": "2021-04-24", 
+            "datetime": "20210424", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210424-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210424-GAPPS.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Poco X3 Pro", 
+            "oem": "POCO", 
+            "sha256": "0d22220fe83425fae18dcf797e5d0bb6e77472088e8baa681726dc66f29d4380", 
+            "size": "1091887546", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "violet": [
         {
             "changelog": "-Removed USB Fast charge Feature from Violet Parts\r\n-Removed Clear Speaker from Violet Parts\r\n-Switched to Stock thermals as summers are back\r\n-Fixed full volume bug at starting of each call\r\n-Fixed echo while VoIP calls\r\n-Added bass booster preset in Dirac\r\n-Updated device FP Id to April (Redfin)\r\n-Updated Graphics blobs from  LA.UM.9.1.r1-08600-SMxxx0.0\r\n-Upstreamed kernel to LA.UM.9.1.r1-09200-SMxxx0.0 Tag\r\n-Dropped Uclamp support\r\n-Many more changes and Improvements", 
