@@ -1185,7 +1185,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "New clean trees", 
+      "changelog": null, 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "xiaomi", 
@@ -1207,12 +1207,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-07", 
-                  "datetime": "20210407", 
-                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20210407-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20210407-VANILLA.zip", 
-                  "sha256": "7133177710037966fdca530cf1a9c6a849838b2e5fbf4e7e9fb3c29b9514253b", 
-                  "size": "878508951", 
+                  "date": "2021-04-24", 
+                  "datetime": "20210424", 
+                  "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20210424-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20210424-VANILLA.zip", 
+                  "sha256": "eb0244db947e640fa35fbefc23fe8218728dd41557f722b2c32772578d7b93b4", 
+                  "size": "878787457", 
                   "type": "community", 
                   "version": "v11.0"
                 }
