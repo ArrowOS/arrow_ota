@@ -2633,7 +2633,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "Boost GPU on EXPENSIVE_RENDERING power hint\r\nBump expensive rendering GPU boost frequency to 515 MHz\r\nUpdate Kernel to 4.4.267", 
+      "changelog": "Boost GPU on EXPENSIVE_RENDERING power hint\r\nBump expensive rendering GPU boost frequency to 515 MHz\r\nUpdate Kernel to 4.4.267\r\nUpdate Active Edge translate", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -2677,6 +2677,18 @@
                   "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210422-GAPPS.zip", 
                   "sha256": "64cbcbe01ab19c06e433d754052dc3cdbced8f491ca562c9c92daed1b7a2ef9e", 
                   "size": "1120959361", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
+              "VANILLA": [
+                {
+                  "date": "2021-04-24", 
+                  "datetime": "20210424", 
+                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210424-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210424-VANILLA.zip", 
+                  "sha256": "4fb3de85d396d36b54571699a0d348ad723d5909134bee16b3ff9072e89c7180", 
+                  "size": "814002124", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
