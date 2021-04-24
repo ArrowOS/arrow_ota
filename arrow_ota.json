@@ -2866,11 +2866,27 @@
   "vayu": [
     {
       "changelog": "-", 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "maintainer": "kubersharma001", 
       "model": "Poco X3 Pro", 
       "oem": "POCO", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-04-24", 
+                  "datetime": "20210424", 
+                  "filename": "Arrow-v11.0-vayu-OFFICIAL-20210424-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210424-VANILLA.zip", 
+                  "sha256": "27922c527d79ac3664c19b63069cd3b70d51bd5cd6c2153bb6806648c48915dd", 
+                  "size": "768240468", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
