@@ -401,16 +401,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "16/04/2021\r\n- Removed the \"SIM is HD capable\" notification\r\n- Improved automatic brightness\r\n- Enabled color profiles\r\n- Fixed fingerprint in apps\r\n- Enabled burn-in protection\r\n- Fixed AOD counting as SOT\r\n- DT2W on AOD fixed\r\n\r\n14/04/2021\r\n- Initial official release\r\n\r\n- For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-13", 
-            "date": "2021-04-17", 
-            "datetime": "20210417", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210417-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210417-VANILLA.zip", 
+            "changelog": "Latest:\r\n- Switched to open source kernel\r\n- Upstreamed the kernel to Linux 4.14.190\r\n- Added KCAL color adjustment\r\n- Increased brightness range (minimum brightness can be lower now)\r\n- Increased haptic feedback strength\r\n- Hidden settings which were not compatible with the device\r\n\r\n16/04/2021:\r\n- Removed the \"SIM is HD capable\" notification\r\n- Improved automatic brightness\r\n- Enabled color profiles\r\n- Fixed fingerprint in apps\r\n- Enabled burn-in protection\r\n- Fixed AOD counting as SOT\r\n- DT2W on AOD fixed\r\n\r\n14/04/2021:\r\n- Initial official release\r\n\r\n- For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-13", 
+            "date": "2021-04-24", 
+            "datetime": "20210424", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210424-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210424-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "36d95c1ec8f72bb1828b98ad2f951807f31891d6d06eca36cbbcf693d78a7413", 
-            "size": "678442203", 
+            "sha256": "d26fb7c57d237556f699407bded22c22fb4b2f7603af1c6b268873d7427431e9", 
+            "size": "676650381", 
             "type": "official", 
             "version": "v11.0"
         }
