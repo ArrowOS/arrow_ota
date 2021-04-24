@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": null, 
+      "changelog": "- Enable Zram & set to 2Gb\r\n- Update to Redfin April FP & Desc\r\n- Cleanup Audio Configs\r\n- enable Zram-writeback job\r\n- audio: Increase volume a little\r\n- overlay: Change minimum & default brightness levels", 
       "maintainer": "AP_XD", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -171,12 +171,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-22", 
-                  "datetime": "20210422", 
-                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210422-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210422-VANILLA.zip", 
-                  "sha256": "0a097559b7d610cce07f81fc9197b7a21a04875d34ba0acb656db388d0557ab7", 
-                  "size": "860886623", 
+                  "date": "2021-04-24", 
+                  "datetime": "20210424", 
+                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210424-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210424-VANILLA.zip", 
+                  "sha256": "3271c75f3f1ca91ae1a2a5a3b9afd675c8f28a654340c8e8748d96368fa308f1", 
+                  "size": "859029894", 
                   "type": "community", 
                   "version": "v11.0"
                 }
