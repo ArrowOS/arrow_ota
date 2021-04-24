@@ -2537,9 +2537,9 @@
   ], 
   "surya": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Unified builds", 
-      "maintainer": "Ganesh Varma", 
-      "model": "POCO X3 NFC", 
+      "changelog": "Initial OSS build tests", 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "POCO X3", 
       "oem": "POCO", 
       "v11.0": [
         {
@@ -2547,12 +2547,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-04-23", 
-                  "datetime": "20210423", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210423-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210423-GAPPS.zip", 
-                  "sha256": "cf485189ab35b20d222460473fd0fb81851dc61198b632d68c005f0c3d7c111d", 
-                  "size": "1118994034", 
+                  "date": "2021-04-24", 
+                  "datetime": "20210424", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210424-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210424-GAPPS.zip", 
+                  "sha256": "a78f0af81beac75dbfcb4045de6a6156db8e639239a342c9d832520ca336b54a", 
+                  "size": "1399655580", 
                   "type": "official", 
                   "version": "v11.0"
                 }
