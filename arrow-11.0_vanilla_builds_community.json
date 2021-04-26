@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "cas": [
+        {
+            "changelog": "1. Expand system partition size from 1GB to 4GB, to better support GSI and GAPPS flashing\r\n2. Now we use redfin fingerprint to pass the Play Protect certification", 
+            "date": "2021-04-26", 
+            "datetime": "20210426", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210426-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210426-VANILLA.zip", 
+            "maintainer": "Xayah", 
+            "model": "M2007J1SC", 
+            "oem": "Xiaomi", 
+            "sha256": "176f81cbfd145e5d0e71dcff6206bb24fc92d9aeb3fa7c0d0a56fe47beee488d", 
+            "size": "772010100", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "cepheus": [
         {
             "changelog": "Intiall build", 

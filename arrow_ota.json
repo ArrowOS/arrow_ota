@@ -475,12 +475,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-20", 
-                  "datetime": "20210420", 
-                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210420-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210420-VANILLA.zip", 
-                  "sha256": "03cd0881071ff481de1e78b6da5c82e52859d1f583e61d42b4adf02acd1fa23b", 
-                  "size": "771562421", 
+                  "date": "2021-04-26", 
+                  "datetime": "20210426", 
+                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210426-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210426-VANILLA.zip", 
+                  "sha256": "176f81cbfd145e5d0e71dcff6206bb24fc92d9aeb3fa7c0d0a56fe47beee488d", 
+                  "size": "772010100", 
                   "type": "community", 
                   "version": "v11.0"
                 }
