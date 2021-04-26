@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "cepheus": [
+        {
+            "changelog": "Intiall build", 
+            "date": "2021-04-25", 
+            "datetime": "20210425", 
+            "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210425-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210425-VANILLA.zip", 
+            "maintainer": "lamjiidii1", 
+            "model": "Mi 9", 
+            "oem": "Xiaomi", 
+            "sha256": "d5e0ecc4c8d550b33bc54bb93c487354f2b1c3cdf33cbd8741f52aa9929e6ab7", 
+            "size": "1115300331", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "chiron": [
         {
             "changelog": null, 
