@@ -482,15 +482,15 @@
     "violet": [
         {
             "changelog": "-Fixed Screen Flickering on low brightness.\r\n-Fixed slow network start after reboots.", 
-            "date": "2021-04-25", 
-            "datetime": "20210425", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20210425-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210425-VANILLA.zip", 
+            "date": "2021-04-26", 
+            "datetime": "20210426", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20210426-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210426-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "1d18d0c9879dee4f96895c679a29179ad22bc496b2091943c7a6c963d595d5e1", 
-            "size": "993272032", 
+            "sha256": "173cfdeced508cce32373baf9da26d0c28fa225b38fed6d1623c62fffd39653a", 
+            "size": "993271754", 
             "type": "official", 
             "version": "v11.0"
         }
