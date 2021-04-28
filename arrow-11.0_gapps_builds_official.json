@@ -450,15 +450,15 @@
     "vayu": [
         {
             "changelog": "- Misc fixes and changes\r\n- Recommended firmware: MIUI 12.0.4.0 only", 
-            "date": "2021-04-26", 
-            "datetime": "20210426", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210426-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210426-GAPPS.zip", 
+            "date": "2021-04-28", 
+            "datetime": "20210428", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210428-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210428-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "51a472fe1656d4314e66e0f07084917a4ad82bd75d8b001507582d82ef168fe9", 
-            "size": "1104214800", 
+            "sha256": "deebd7b64d2a52163f51264dbc502df3dfc81ad922824518f9fb8fa97f67384b", 
+            "size": "1104949386", 
             "type": "official", 
             "version": "v11.0"
         }
