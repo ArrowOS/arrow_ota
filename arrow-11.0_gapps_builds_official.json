@@ -225,16 +225,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "\u2022 Upstreamed kernel to 4.14.231\r\n\u2022 Tuned vibration pattern\r\n\u2022 Enabled full vndk support\r\n\u2022 Sepolicy improvements (credits @Ramisky)\r\n\u2022 Fixed sim carrier network delay after reboot\r\n\u2022 Addressed the remaining selinux denials", 
-            "date": "2021-04-23", 
-            "datetime": "20210423", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210423-GAPPS.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210423-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2021-04-28", 
+            "datetime": "20210428", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210428-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210428-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "90057eaa9d1313aac4e455650302784a83d47974eda97cd7f2288064729ed30c", 
-            "size": "1689720728", 
+            "sha256": "42bb781328e5e4c136335fbf4a356b0240b7e2721de86f4301151aa5164e2704", 
+            "size": "1689602267", 
             "type": "official", 
             "version": "v11.0"
         }
