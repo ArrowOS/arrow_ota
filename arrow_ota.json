@@ -41,7 +41,7 @@
   ], 
   "RMX1801": [
     {
-      "changelog": "Enforcing", 
+      "changelog": null, 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Realme 2 Pro", 
       "oem": "oppo", 
@@ -63,12 +63,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-24", 
-                  "datetime": "20210424", 
-                  "filename": "Arrow-v11.0-RMX1801-COMMUNITY-20210424-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/RMX1801/Arrow-v11.0-RMX1801-COMMUNITY-20210424-VANILLA.zip", 
-                  "sha256": "f2f514f3a293dee894c64d660706fe7bbdaf2f52ff2b4688fda02888c4d7f621", 
-                  "size": "994807663", 
+                  "date": "2021-04-29", 
+                  "datetime": "20210429", 
+                  "filename": "Arrow-v11.0-RMX1801-COMMUNITY-20210429-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/RMX1801/Arrow-v11.0-RMX1801-COMMUNITY-20210429-VANILLA.zip", 
+                  "sha256": "fd8ecd4064e3d11caeaaed52d62eefb7c141a15ffef8ad962a7fc1e6402c8285", 
+                  "size": "1000974716", 
                   "type": "community", 
                   "version": "v11.0"
                 }
