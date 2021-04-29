@@ -353,16 +353,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Fix SafetyNet\r\nctsProfile Pass", 
-            "date": "2021-04-26", 
-            "datetime": "20210426", 
-            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210426-VANILLA.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210426-VANILLA.zip", 
+            "changelog": "Fix SafetyNet\r\nctsProfile Pass\r\nUpdate Kernel to 4.4.268\r\nImport aptX blobs from crosshatch\r\nUpdate aptX blobs from redfin", 
+            "date": "2021-04-29", 
+            "datetime": "20210429", 
+            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210429-VANILLA.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210429-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "4075aa5f826abee275948a4d4d9c9b2c335c219d8526fb639e9f3ec0b980576c", 
-            "size": "814033851", 
+            "sha256": "a9e66920b7942be7d2e171d958500ebb47a1bb0087af0888a5f45123c13751ed", 
+            "size": "815229396", 
             "type": "unofficial", 
             "version": "v11.0"
         }
