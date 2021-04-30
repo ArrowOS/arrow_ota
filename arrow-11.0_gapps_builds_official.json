@@ -178,15 +178,15 @@
     "ginkgo": [
         {
             "changelog": "- Updated stock blobs from MIUI 21.3.3\r\n- Updated CAF blobs from LA.UM.9.11.r1-02800-NICOBAR.0\r\n- Updated redfin fp to march (fixed safetynet)\r\n- Fixed camera freeze in some social media apps\r\n- Fixed camera lens switching delay\r\n- Fixed voip/mic issues in some apps\r\n- KCAL improvements in xiaomi parts\r\n- Added vibration strength control in xiaomi parts\r\n- Made notch cutout wider/smoother\r\n- Switched to new QTI thermal HAL\r\n- Attempted to fix screen blackouts under sunlight/heat\r\n- Disabled KPTI for performance improvement\r\n- Reduced readahead to 128kB to improve storage performance\r\n- GPS config optimizations and fixes\r\n- Tuned cpusets for better performance\r\n- Improved rounded corners and fixed hide cutout option\r\n- Switched to android userspace LMKD\r\n- Added support for willow hwversion 18.31.0\r\n- Improved zram read/write performance\r\n- Switched to QuicksilveR v2.5 kernel\r\n- Merged LA.UM.9.1.r1-09100-SMxxx0.0 CAF and v4.14.223 in kernel\r\n- Fast charging on chinese ginkgo variants maybe fixed\r\n- Misc optimizations and fixes", 
-            "date": "2021-04-28", 
-            "datetime": "20210428", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210428-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210428-GAPPS.zip", 
+            "date": "2021-04-30", 
+            "datetime": "20210430", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210430-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210430-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "fe14a24bae4987004d02f1500902cfab0e6527f91fbe90fc30ee51f7df38e342", 
-            "size": "1353368693", 
+            "sha256": "cd6635a9383856f85fd01bbc5258034c72410c8cc99a194db08b73c849e1a2a6", 
+            "size": "1353369954", 
             "type": "official", 
             "version": "v11.0"
         }
