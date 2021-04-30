@@ -385,16 +385,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "Latest:\r\n- Increased brightness range (minimum brightness can be lower now)\r\n- Increased haptic feedback strength\r\n- Hidden settings which were not compatible with the device\r\n\r\n16/04/2021:\r\n- Removed the \"SIM is HD capable\" notification\r\n- Improved automatic brightness\r\n- Enabled color profiles\r\n- Fixed fingerprint in apps\r\n- Enabled burn-in protection\r\n- Fixed AOD counting as SOT\r\n- DT2W on AOD fixed\r\n\r\n14/04/2021:\r\n- Initial official release\r\n\r\n- For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-13", 
-            "date": "2021-04-24", 
-            "datetime": "20210424", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210424-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210424-GAPPS.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-24\r\n\r\nLatest build changelog:\r\n- Switched to the Pixel Power HAL (libperfmgr)\r\n- Improved idle drain\r\n- Fixed headphone buttons\r\n- Fixed yellow tint and improved display colors\r\n- Added WiFi Display support\r\n- Reworked the lights service\r\n- Moved device specific settings into the settings homepage\r\n- Reserved 250MB of space in each dynamic partition for installing addons\r\n- Set default DPI to 392\r\n- Reduced bootanimation start delay\r\n\r\n24/04/2021:\r\n- Increased brightness range (minimum brightness can be lower now)\r\n- Increased haptic feedback strength\r\n- Hidden settings which were not compatible with the device\r\n\r\n16/04/2021:\r\n- Removed the \"SIM is HD capable\" notification\r\n- Improved automatic brightness\r\n- Enabled color profiles\r\n- Fixed fingerprint in apps\r\n- Enabled burn-in protection\r\n- Fixed AOD counting as SOT\r\n- DT2W on AOD fixed\r\n\r\n14/04/2021:\r\n- Initial official release", 
+            "date": "2021-04-30", 
+            "datetime": "20210430", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210430-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210430-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "cb85d01d954df0c04f205d89dcf4f7dd20e6627be3e83fdfb9352df95cbd1381", 
-            "size": "1030382276", 
+            "sha256": "f62e39640e6d010d450561bdfc44285bad3ad7230017faaf3be2a66ca0eaf55a", 
+            "size": "1044815555", 
             "type": "official", 
             "version": "v11.0"
         }
