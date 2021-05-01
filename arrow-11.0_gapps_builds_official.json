@@ -401,16 +401,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Boost GPU on EXPENSIVE_RENDERING power hint\r\nBump expensive rendering GPU boost frequency to 515 MHz\r\nUpdate Kernel to 4.4.267\r\nUpdate Active Edge translate", 
-            "date": "2021-04-25", 
-            "datetime": "20210425", 
-            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210425-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210425-GAPPS.zip", 
+            "changelog": "Fix SafetyNet\r\nctsProfile Pass\r\nUpdate Kernel to 4.4.268\r\nImport aptX blobs from crosshatch\r\nUpdate aptX blobs from redfin\r\nUse GcamGo Camera", 
+            "date": "2021-05-01", 
+            "datetime": "20210501", 
+            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210501-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210501-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "13c9cfe8d66f94608c45d656343184a001ace716052f9e779b2093b6c5d7f69d", 
-            "size": "1122415294", 
+            "sha256": "1eada3cade13ce70aec13f808d29e49febf2d5427cd236440f51f930e744d0a0", 
+            "size": "1132301060", 
             "type": "official", 
             "version": "v11.0"
         }
