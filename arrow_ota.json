@@ -1881,7 +1881,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- Initial OSS vendor based release", 
+      "changelog": "- Fixed mic issues on VoIP calls\r\n- Fixed IR\r\n- Fixed notification LED\r\n- Bring back dirac\r\n- Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -1903,12 +1903,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-26", 
-                  "datetime": "20210426", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210426-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210426-VANILLA.zip", 
-                  "sha256": "c8ebf798824f240e332ecc6d6062ab820007d8d84624557f784d26d411a8c0d3", 
-                  "size": "1099635166", 
+                  "date": "2021-05-01", 
+                  "datetime": "20210501", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210501-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210501-VANILLA.zip", 
+                  "sha256": "339d2957d42cce50f5c9c0010ce2138695a381ae020bd82089f2e8989918a428", 
+                  "size": "1099691016", 
                   "type": "official", 
                   "version": "v11.0"
                 }
