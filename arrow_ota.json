@@ -1659,12 +1659,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-24", 
-                  "datetime": "20210424", 
-                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210424-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210424-VANILLA.zip", 
-                  "sha256": "cce471e337a649ab6accac4c4ce9060d5a5df778366adc7e08c1649317f51cad", 
-                  "size": "705779979", 
+                  "date": "2021-05-01", 
+                  "datetime": "20210501", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210501-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210501-VANILLA.zip", 
+                  "sha256": "0a1c7941b19fc2ca9facfe6febfd797845797f28802af4b1d08a6595fee77fd4", 
+                  "size": "705031519", 
                   "type": "official", 
                   "version": "v11.0"
                 }
