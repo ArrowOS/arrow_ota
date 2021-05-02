@@ -353,16 +353,16 @@
     ], 
     "surya": [
         {
-            "changelog": "Initial OSS build tests", 
-            "date": "2021-04-24", 
-            "datetime": "20210424", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210424-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210424-GAPPS.zip", 
+            "changelog": "More OSS build tests", 
+            "date": "2021-05-02", 
+            "datetime": "20210502", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210502-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210502-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "3604a15ea1af0677b0ab2eea7b83ce8483436ebd242f0d0fe1b49f0c8d141d1c", 
-            "size": "1399014703", 
+            "sha256": "3b4e8f32497f21e7b0c9e8fb0a54bf4008f31be7cb3825536b24200f4fa72640", 
+            "size": "1399038842", 
             "type": "official", 
             "version": "v11.0"
         }
