@@ -497,16 +497,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "\u2022 Upstream kernel to v4.4.266\r\n\u2022 Misc changes", 
-            "date": "2021-04-22", 
-            "datetime": "20210422", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210422-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210422-GAPPS.zip", 
+            "changelog": "\u2022 Upstream kernel to v4.4.268\r\n\u2022 Misc changes", 
+            "date": "2021-05-06", 
+            "datetime": "20210506", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210506-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210506-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "c1460157b648d52e406db0c616aa914eda8b0a4fe91dfea73b70b3709039fa17", 
-            "size": "1166072526", 
+            "sha256": "2cc485dc468fe133d72bc6ee21939c5b9c2e27558ea8f6c6a3a61862188dc4de", 
+            "size": "1166170214", 
             "type": "official", 
             "version": "v11.0"
         }
