@@ -465,16 +465,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Minor improvements and the following bug fixes and changes:\r\n- Fixed recent sluggishness on both fpc and goodix\r\n- Fixed Notifications LED\r\n- Configure ZRAM\r\n- Slightly increase the minimum brightness level\r\n- Increase Doze brightness level\r\n- Switch Skia rendering backend to Vulkan\r\n- Fixed Wifi Display\r\n- SELinux enforcing\r\n- Fixed 12.0.6.0 vendor causing boot loop \r\n- Misc fixes and changes\r\n- Checkout XDA thread for more info\r\n- Recommended MINIMUM firmware: MIUI 12.0.4.0", 
-            "date": "2021-05-04", 
-            "datetime": "20210504", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210504-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210504-VANILLA.zip", 
+            "changelog": "- Minor Ambient Display improvements\r\n- Fix smart charging not working \r\n- Misc fixes and changes\r\n- Allow bigger gapps packages to be flashed in vanilla\r\n- Allow minor zips and fix survival scripts to work in GApps\r\n- Recommended firmware: MIUI 12.0.4.0 or 12.0.6.0", 
+            "date": "2021-05-06", 
+            "datetime": "20210506", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210506-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210506-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "dc92a2252da2248515c6d41eea9e2f3d5e5ca1e56b6d0e695ee694f16e574f1a", 
-            "size": "785814730", 
+            "sha256": "4f68060b467c4ae1bdf0931dd76b569488aa2206b84dd0a5aeae0354a82dc656", 
+            "size": "811010977", 
             "type": "official", 
             "version": "v11.0"
         }
