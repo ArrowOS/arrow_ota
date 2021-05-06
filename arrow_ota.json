@@ -2865,7 +2865,7 @@
   ], 
   "vayu": [
     {
-      "changelog": "- Minor Ambient Display improvements\r\n- Fix smart charging not working \r\n- Misc fixes and changes\r\n- Allow bigger gapps packages to be flashed in vanilla\r\n- Allow minor zips and fix survival scripts to work in GApps\r\n- Recommended firmware: MIUI 12.0.4.0 or 12.0.6.0", 
+      "changelog": "- Misc changes\r\n- Recommended firmware: MIUI 12.0.4.0 or 12.0.6.0", 
       "maintainer": "kubersharma001", 
       "model": "Poco X3 Pro", 
       "oem": "POCO", 
@@ -2879,8 +2879,8 @@
                   "datetime": "20210506", 
                   "filename": "Arrow-v11.0-vayu-OFFICIAL-20210506-GAPPS.zip", 
                   "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210506-GAPPS.zip", 
-                  "sha256": "05b3a96d2abbf6f1d96f38f58dfcd0efb7daa8dd960def0d3129f5f7da85be7d", 
-                  "size": "1111577771", 
+                  "sha256": "e3f9011b9b2700dee0ef6ce690a07024305260877f2dff6403ef2be6fca78754", 
+                  "size": "1111783604", 
                   "type": "official", 
                   "version": "v11.0"
                 }
