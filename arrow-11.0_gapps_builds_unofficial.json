@@ -386,15 +386,15 @@
     "taimen": [
         {
             "changelog": "Fix SafetyNet\r\nctsProfile Pass\r\nUpdate Kernel to 4.4.268\r\nImport aptX blobs from crosshatch\r\nUpdate aptX blobs from redfin\r\nUse GcamGo Camera", 
-            "date": "2021-05-01", 
-            "datetime": "20210501", 
-            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210501-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210501-GAPPS.zip", 
+            "date": "2021-05-07", 
+            "datetime": "20210507", 
+            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210507-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210507-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "495a5fe19df91c37a9cf51434d2881f3ec95462d8e6603dc7ea7c9ea390f12c9", 
-            "size": "1131579035", 
+            "sha256": "ec81998b4e832ee54f050dc0245a7dc24e827a077fd5f46f7b7a0204a2189fc4", 
+            "size": "1131507054", 
             "type": "unofficial", 
             "version": "v11.0"
         }
