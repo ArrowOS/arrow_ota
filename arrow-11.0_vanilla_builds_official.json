@@ -66,15 +66,15 @@
     "beryllium": [
         {
             "changelog": "- Enable ZRAM (3Gb, lz4 compress algorithm)\r\n- Enable H/W Composition\r\n- Enable UBWC aligned framebuffer\r\n- Enable Codec2 support\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-05-04", 
-            "datetime": "20210504", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210504-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210504-VANILLA.zip", 
+            "date": "2021-05-07", 
+            "datetime": "20210507", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210507-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210507-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "3728544195f19ef18fd8e16dea641eca0a3b1d2711e007f2271001712f49079e", 
-            "size": "909366772", 
+            "sha256": "60356bed28d4fe23bfd8bce03107a15774378ece180958f966beae7b249b0fa4", 
+            "size": "909261592", 
             "type": "official", 
             "version": "v11.0"
         }
