@@ -837,7 +837,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "01/04/2021\r\n- Reduced battery drain\r\n20/03/2021\r\n- Completely fixed FOD after WFD (no full screen brightness boosts anymore)\r\n16/03/2021\r\n- Fixed System UI crash after opening the in-app fingerprint dialog\r\n- Various other minor bug fixes and improvements\r\n25/02/2021\r\n-Fixed missing signal until a few minutes pass after boot\r\n15/02/2021\r\n-Fixed FOD after WFD (the screen will bright up for recognizing the fingerprint after using WFD, but works. A reboot will restore the normal behaviour as usual)\r\n-Switched to perf kernel\r\n-Updated blobs to MIUI 21.2.3\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
+      "changelog": "01/04/2021\r\n- Reduced battery drain\r\n16/03/2021\r\n- Fixed System UI crash after opening the in-app fingerprint dialog\r\n- Various other minor bug fixes and improvements\r\n25/02/2021\r\n-Fixed missing signal until a few minutes pass after boot\r\n15/02/2021\r\n-Fixed FOD after WFD (the screen will bright up for recognizing the fingerprint after using WFD, but works. A reboot will restore the normal behaviour as usual)\r\n-Switched to perf kernel\r\n-Updated blobs to MIUI 21.2.3\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
       "maintainer": "daniml3", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -859,12 +859,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-05", 
-                  "datetime": "20210505", 
-                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210505-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210505-VANILLA.zip", 
-                  "sha256": "ce6cbd35729dbd5f7a622902474c19ac8224e92a9cd300e5ec43d007088bf9a0", 
-                  "size": "1032720295", 
+                  "date": "2021-05-07", 
+                  "datetime": "20210507", 
+                  "filename": "Arrow-v11.0-davinci-OFFICIAL-20210507-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210507-VANILLA.zip", 
+                  "sha256": "2384fafa735918bcb6e8d1c11f2de1db1c6f8a6b0ef7f69f666e6e39036ee9c2", 
+                  "size": "1032497328", 
                   "type": "official", 
                   "version": "v11.0"
                 }
