@@ -449,16 +449,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Minor Ambient Display improvements\r\n- Fix smart charging not working \r\n- Misc fixes and changes\r\n- Allow bigger gapps packages to be flashed in vanilla\r\n- Allow minor zips and fix survival scripts to work in GApps\r\n- Recommended firmware: MIUI 12.0.4.0 or 12.0.6.0", 
-            "date": "2021-05-06", 
-            "datetime": "20210506", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210506-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210506-GAPPS.zip", 
+            "changelog": "- Fixed WFD showing a green screen while casting\r\n- Misc changes\r\n- Recommended firmware: MIUI 12.0.4.0 or 12.0.6.0", 
+            "date": "2021-05-07", 
+            "datetime": "20210507", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210507-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210507-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "05b3a96d2abbf6f1d96f38f58dfcd0efb7daa8dd960def0d3129f5f7da85be7d", 
-            "size": "1111577771", 
+            "sha256": "ed4e9108db83f6403455ed09f1b154fc75b9e570d7720c18d64c5a92d962595b", 
+            "size": "1111780673", 
             "type": "official", 
             "version": "v11.0"
         }
