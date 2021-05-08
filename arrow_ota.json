@@ -1097,7 +1097,7 @@
   ], 
   "ginkgo": [
     {
-      "changelog": "- Updated stock blobs from MIUI 21.3.3\r\n- Updated CAF blobs from LA.UM.9.11.r1-02800-NICOBAR.0\r\n- Updated redfin fp to march (fixed safetynet)\r\n- Fixed camera freeze in some social media apps\r\n- Fixed camera lens switching delay\r\n- Fixed voip/mic issues in some apps\r\n- KCAL improvements in xiaomi parts\r\n- Added vibration strength control in xiaomi parts\r\n- Made notch cutout wider/smoother\r\n- Switched to new QTI thermal HAL\r\n- Attempted to fix screen blackouts under sunlight/heat\r\n- Disabled KPTI for performance improvement\r\n- Reduced readahead to 128kB to improve storage performance\r\n- GPS config optimizations and fixes\r\n- Tuned cpusets for better performance\r\n- Improved rounded corners and fixed hide cutout option\r\n- Switched to android userspace LMKD\r\n- Added support for willow hwversion 18.31.0\r\n- Improved zram read/write performance\r\n- Switched to QuicksilveR v2.5 kernel\r\n- Merged LA.UM.9.1.r1-09100-SMxxx0.0 CAF and v4.14.223 in kernel\r\n- Fast charging on chinese ginkgo variants maybe fixed\r\n- Misc optimizations and fixes", 
+      "changelog": null, 
       "maintainer": "Adithya R", 
       "model": "Redmi Note 8", 
       "oem": "Xiaomi", 
@@ -1167,12 +1167,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2020-12-28", 
-                  "datetime": "20201228", 
-                  "filename": "Arrow-v11.0-ginkgo-UNOFFICIAL-20201228-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-UNOFFICIAL-20201228-GAPPS.zip", 
-                  "sha256": "8e15eeb314de5f8c2c4baa673186c1e98154d522112bad6c125d684f54780291", 
-                  "size": "1198890882", 
+                  "date": "2021-05-08", 
+                  "datetime": "20210508", 
+                  "filename": "Arrow-v11.0-ginkgo-UNOFFICIAL-20210508-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-UNOFFICIAL-20210508-GAPPS.zip", 
+                  "sha256": "d38d0842e7e823e88541b416eef9d6ec45a65049585139ec4d637a3d1f9e0cf7", 
+                  "size": "1312873626", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
