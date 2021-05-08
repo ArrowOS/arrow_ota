@@ -305,16 +305,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Fixed mic issues on VoIP calls\r\n- Fixed IR\r\n- Fixed notification LED\r\n- Bring back dirac\r\n- Misc changes", 
-            "date": "2021-05-01", 
-            "datetime": "20210501", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210501-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210501-GAPPS.zip", 
+            "changelog": "- Fixed bt aptx\r\n- Added back nightlight\r\n- Enable smart charge\r\n- Add some missings GPS blobs\r\n- Fixed weird fp touch events while scrolling\r\n- Misc changes", 
+            "date": "2021-05-08", 
+            "datetime": "20210508", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210508-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210508-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "fdee7503f225ed0ec92f2a5144d9202d1cbba1aa27f381f2459d2e4547a61941", 
-            "size": "1445388480", 
+            "sha256": "e4e22d9f19e62b4717a3fcf0a29bab1615aba5dc35bc1988d459bea99f59ca11", 
+            "size": "1445921094", 
             "type": "official", 
             "version": "v11.0"
         }
