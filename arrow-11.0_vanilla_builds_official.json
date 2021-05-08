@@ -177,16 +177,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Adjust audio steps\r\n- Wifi overlays update\r\n- Fixed bluetooth audio issues\r\n- Fixed fp sensor touch events\r\n- More misc changes/fixes", 
-            "date": "2021-05-01", 
-            "datetime": "20210501", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210501-VANILLA.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210501-VANILLA.zip", 
+            "changelog": "- Initial build based on android 11.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+            "date": "2021-05-08", 
+            "datetime": "20210508", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210508-VANILLA.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210508-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
-            "model": "Mi 10i", 
+            "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "4651d0d6d170c9d8292c4a720d8e16375ed018b188de7a0d99231dad9898d9a1", 
-            "size": "729605828", 
+            "sha256": "189e025f2593e7f303cd4158e4ee9b7459ce07eb1797e86f27762e98beca6e42", 
+            "size": "736636288", 
             "type": "official", 
             "version": "v11.0"
         }
