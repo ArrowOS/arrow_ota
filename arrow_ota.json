@@ -1881,7 +1881,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- Fixed bt aptx\r\n- Added back nightlight\r\n- Enable smart charge\r\n- Add some missings GPS blobs\r\n- Fixed weird fp touch events while scrolling\r\n- Misc changes", 
+      "changelog": "- Blob updates yo", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -1931,12 +1931,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-04-24", 
-                  "datetime": "20210424", 
-                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210424-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210424-VANILLA.zip", 
-                  "sha256": "2b9802ec3bfa7aea18fb469e28dea5748e0fa84ce410af0689e8df9a71e71dba", 
-                  "size": "1079021013", 
+                  "date": "2021-05-10", 
+                  "datetime": "20210510", 
+                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210510-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210510-VANILLA.zip", 
+                  "sha256": "1e191ce5138e93d53b92d3292a649c584eaea1482bfbdfd5e819c552de429fbb", 
+                  "size": "1098283552", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
