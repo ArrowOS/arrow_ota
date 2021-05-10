@@ -3057,7 +3057,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- bt aptx", 
+      "changelog": "\u2022 Upstream kernel to v4.4.268\r\n\u2022 Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -3111,12 +3111,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-06", 
-                  "datetime": "20210506", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210506-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210506-VANILLA.zip", 
-                  "sha256": "56db6feaa471bbcefd2caeeac61fc7fff511823f351671756b973227bd5f7156", 
-                  "size": "824688265", 
+                  "date": "2021-05-10", 
+                  "datetime": "20210510", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20210510-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210510-VANILLA.zip", 
+                  "sha256": "4d47deace287007714b9af9b86865a3baf4b1f0b14049eba19ae6777ae63ad56", 
+                  "size": "824667418", 
                   "type": "official", 
                   "version": "v11.0"
                 }
