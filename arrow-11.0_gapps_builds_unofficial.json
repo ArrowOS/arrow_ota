@@ -145,16 +145,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Initial build (required 11 vendor/fw)", 
-            "date": "2021-05-06", 
-            "datetime": "20210506", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210506-GAPPS.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210506-GAPPS.zip", 
+            "changelog": "- Misc updates", 
+            "date": "2021-05-10", 
+            "datetime": "20210510", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210510-GAPPS.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210510-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "0895c4cf98ab5cc5fc5b36894f3c108c9687557f67c02cca3c478ca1ef6b850b", 
-            "size": "1068039668", 
+            "sha256": "582c9688389d9eb92d5204c27d4aef171b2c26a0e75352aca97f63f1ee6c0bb9", 
+            "size": "1087356571", 
             "type": "official", 
             "version": "v11.0"
         }
