@@ -1731,6 +1731,34 @@
       ]
     }
   ], 
+  "olive": [
+    {
+      "changelog": null, 
+      "maintainer": "Aftab Ashrafi", 
+      "model": "Redmi 8", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-05-11", 
+                  "datetime": "20210511", 
+                  "filename": "Arrow-v11.0-olive-COMMUNITY-20210511-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/olive/Arrow-v11.0-olive-COMMUNITY-20210511-GAPPS.zip", 
+                  "sha256": "777a8a1843dd7575c09f63042aa2a3a934487aae84c0ee1f187e0d467ecdfd9e", 
+                  "size": "1057117526", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "onclite": [
     {
       "changelog": null, 

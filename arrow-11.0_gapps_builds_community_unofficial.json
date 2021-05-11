@@ -143,6 +143,22 @@
             "version": "v11.0"
         }
     ], 
+    "olive": [
+        {
+            "changelog": null, 
+            "date": "2021-05-11", 
+            "datetime": "20210511", 
+            "filename": "Arrow-v11.0-olive-COMMUNITY-20210511-GAPPS.zip", 
+            "filepath": "/arrow-11.0/olive/Arrow-v11.0-olive-COMMUNITY-20210511-GAPPS.zip", 
+            "maintainer": "Aftab Ashrafi", 
+            "model": "Redmi 8", 
+            "oem": "Xiaomi", 
+            "sha256": "777a8a1843dd7575c09f63042aa2a3a934487aae84c0ee1f187e0d467ecdfd9e", 
+            "size": "1057117526", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "onclite": [
         {
             "changelog": "Upstreamed Linux kernel to 4.9.262\r\nSet SQLite operation mode to MEMORY\r\nAdded HIDL interfaces to wpa_supplicant service definition", 
