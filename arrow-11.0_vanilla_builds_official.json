@@ -2,15 +2,15 @@
     "X00T": [
         {
             "changelog": "- CLEAN FLASH REQUIRED (If you are coming from build with 4.4 kernel, i.e: before 09.04.2021 build) \r\n\r\n- Initial stable build with 4.19 kernel\r\n- Added debloated ZenParts\r\n- Fixed incorrect battery temperature, enjoy stock rom like charging.\r\n- Updated most Hals and blobs from R tags (kona / 89xx)\r\n\r\n- Fixed eis\r\n- Fixed Zenmotions\r\n- Fixed USB tethering\r\n\r\n- Enforcing", 
-            "date": "2021-05-09", 
-            "datetime": "20210509", 
-            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210509-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210509-VANILLA.zip", 
+            "date": "2021-05-11", 
+            "datetime": "20210511", 
+            "filename": "Arrow-v11.0-X00T-OFFICIAL-20210511-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210511-VANILLA.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "4346336a07fb4d41e9b1d88da6f0ad388613eeb5144db05439a17b5e4331cbf4", 
-            "size": "800797287", 
+            "sha256": "55634e93e627e5f40ddc7adf31ee37a2b3c8500c21fd3e6d9a1f96896bd05823", 
+            "size": "800814135", 
             "type": "official", 
             "version": "v11.0"
         }
