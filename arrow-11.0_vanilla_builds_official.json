@@ -401,16 +401,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\nLatest build changelog:\r\n- Vendor is now included, more information at the link above\r\n- Added DC dimming support\r\n\r\n01/05/2021\r\n- Switched to the Pixel Power HAL (libperfmgr)\r\n- Improved idle drain\r\n- Fixed headphone buttons\r\n- Fixed yellow tint and improved display colors\r\n- Added WiFi Display support\r\n- Reworked the lights service\r\n- Moved device specific settings into the settings homepage\r\n- Reserved 250MB of space in each dynamic partition for installing addons\r\n- Set default DPI to 392\r\n- Reduced bootanimation start delay\r\n\r\n14/04/2021:\r\n- Initial official release", 
-            "date": "2021-05-10", 
-            "datetime": "20210510", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210510-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210510-VANILLA.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\nLatest build changelog:\r\n- Updated blobs from MIUI 12.0.15.0 Global\r\n- Fixed infrarred blaster\r\n- Cleaned up vendor (reduced zip size 100MB~)\r\n\r\n11/05/2021\r\n- Vendor is now included, more information at the link above\r\n- Added DC dimming support\r\n\r\n01/05/2021\r\n- Switched to the Pixel Power HAL (libperfmgr)\r\n- Improved idle drain\r\n- Fixed headphone buttons\r\n- Fixed yellow tint and improved display colors\r\n- Added WiFi Display support\r\n- Reworked the lights service\r\n- Moved device specific settings into the settings homepage\r\n- Reserved 250MB of space in each dynamic partition for installing addons\r\n- Set default DPI to 392\r\n- Reduced bootanimation start delay\r\n\r\n14/04/2021:\r\n- Initial official release", 
+            "date": "2021-05-11", 
+            "datetime": "20210511", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210511-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210511-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "3ddbed888e5ea24185e7dbebf35a265cbb76ae18caaf75a3fccf7d4d42409b87", 
-            "size": "1208995820", 
+            "sha256": "70030005ea7a8c31e9df8c9ddcc6cb30a8c4d21c86cf3e2a3450b60329ce16f3", 
+            "size": "1115857603", 
             "type": "official", 
             "version": "v11.0"
         }
