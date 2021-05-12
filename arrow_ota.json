@@ -2661,7 +2661,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "Fix SafetyNet\r\nctsProfile Pass\r\nUpdate Kernel to 4.4.268\r\nImport aptX blobs from crosshatch\r\nUpdate aptX blobs from redfin\r\nUse GcamGo Camera", 
+      "changelog": "Implement dc dimming\r\nIntroduce the flicker free driver\r\nImplement PCC combining for LiveDisplay\r\nSet min_brightness 121", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -2711,12 +2711,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-07", 
-                  "datetime": "20210507", 
-                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210507-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210507-VANILLA.zip", 
-                  "sha256": "c8997e4333b2c36c1d8ec31e2175e71c07d0ab61d35a978582a4d48f6a25a63d", 
-                  "size": "825442056", 
+                  "date": "2021-05-12", 
+                  "datetime": "20210512", 
+                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210512-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210512-VANILLA.zip", 
+                  "sha256": "761aa9217282405147e2857704b7c97e1c6abc0716406a5cfe42a7eb8d51b49c", 
+                  "size": "825406765", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
