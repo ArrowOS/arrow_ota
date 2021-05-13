@@ -2439,12 +2439,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-11", 
-                  "datetime": "20210511", 
-                  "filename": "Arrow-v11.0-sanders-OFFICIAL-20210511-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20210511-VANILLA.zip", 
-                  "sha256": "8612ecf8ced8e495b3cf679f198e1fa8ee8db77d0ccff4332ba3f7f980fcba43", 
-                  "size": "785238165", 
+                  "date": "2021-05-13", 
+                  "datetime": "20210513", 
+                  "filename": "Arrow-v11.0-sanders-OFFICIAL-20210513-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20210513-VANILLA.zip", 
+                  "sha256": "ce0554d0e0bcc2bd98d5e773102e5741a71d4160942f2d988e0ecb4f73460d0c", 
+                  "size": "782979975", 
                   "type": "official", 
                   "version": "v11.0"
                 }
