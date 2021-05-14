@@ -2565,7 +2565,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- Fixed issues with the safety net.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from old builds. Please backup your data beforehand!", 
+      "changelog": "- Fixed issues regarding flashing of gapps packages.\r\n- Enabled call recording.", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3", 
       "oem": "POCO", 
@@ -2591,8 +2591,8 @@
                   "datetime": "20210514", 
                   "filename": "Arrow-v11.0-surya-OFFICIAL-20210514-VANILLA.zip", 
                   "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210514-VANILLA.zip", 
-                  "sha256": "2f07a3e7ad2dd7ec114e3790a27bca6859ce4f172127250e3f49ac9978c42f18", 
-                  "size": "1059261160", 
+                  "sha256": "cae53090ecf741c898e9f0ddf03ed6345e481fb7a211662c2eb232e3bf12864f", 
+                  "size": "1076132854", 
                   "type": "official", 
                   "version": "v11.0"
                 }
