@@ -1041,7 +1041,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- Misc updates", 
+      "changelog": "- Initial build based on android 11.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "arrow_gauguin", 
       "oem": "Xiaomi", 
@@ -1063,12 +1063,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-08", 
-                  "datetime": "20210508", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210508-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210508-VANILLA.zip", 
-                  "sha256": "189e025f2593e7f303cd4158e4ee9b7459ce07eb1797e86f27762e98beca6e42", 
-                  "size": "736636288", 
+                  "date": "2021-05-15", 
+                  "datetime": "20210515", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210515-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210515-VANILLA.zip", 
+                  "sha256": "263d631555f61339ca316177fdaf585ae4389eae994807a9be5d876d4f590a57", 
+                  "size": "736641752", 
                   "type": "official", 
                   "version": "v11.0"
                 }
