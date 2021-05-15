@@ -1909,7 +1909,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- CTS now passes by default\r\n- Update blobs from V12.1.3.0.RGHINXM\r\n- Update graphic blobs from LA.UM.9.1.r1-09200-SMxxx0.0\r\n\r\nNote :\r\n- Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "- Netflix glitch", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -1947,12 +1947,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-05-14", 
-                  "datetime": "20210514", 
-                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210514-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210514-GAPPS.zip", 
-                  "sha256": "aab525856608e8818b8ba6d10e758286cf5dd2b5cc68ac97e182a07ab9bc8eac", 
-                  "size": "1449770161", 
+                  "date": "2021-05-15", 
+                  "datetime": "20210515", 
+                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210515-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210515-GAPPS.zip", 
+                  "sha256": "265488d6c0e1e5601eababf1b010960da2c528f9c643156f0a979546e264596a", 
+                  "size": "1449808383", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
