@@ -338,15 +338,15 @@
     "polaris": [
         {
             "changelog": "- Enable ZRAM (3Gb, lz4 compress algorithm)\r\n- Enable H/W Composition\r\n- Enable UBWC aligned framebuffer\r\n- Enable Codec2 support\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-05-08", 
-            "datetime": "20210508", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210508-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210508-VANILLA.zip", 
+            "date": "2021-05-15", 
+            "datetime": "20210515", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210515-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210515-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "608a103504effbcc387b85c7f7357beb63a0e02527c4ae2041df93b7d9e8fea3", 
-            "size": "922985097", 
+            "sha256": "7315159aed9c72d0a80bb043c847ce16a92d1a1844a590c09cea84dacb218dd0", 
+            "size": "920078988", 
             "type": "official", 
             "version": "v11.0"
         }
