@@ -113,16 +113,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Redfin FP for March ASB\r\n- Patch WFD libs (TEST Cast)", 
-            "date": "2021-04-06", 
-            "datetime": "20210406", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210406-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210406-GAPPS.zip", 
+            "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
+            "date": "2021-05-15", 
+            "datetime": "20210515", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210515-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210515-GAPPS.zip", 
             "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "3b82753983c8b2b5159764a74f61c37957235618e54c0cdaa1ffbc822932e6c0", 
-            "size": "1317349223", 
+            "sha256": "f393116826a15f8454202a7bec307d7de138373c584e7a3a46325979630c7724", 
+            "size": "1316292000", 
             "type": "community", 
             "version": "v11.0"
         }
