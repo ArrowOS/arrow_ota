@@ -82,15 +82,15 @@
     "daisy": [
         {
             "changelog": null, 
-            "date": "2021-02-26", 
-            "datetime": "20210226", 
-            "filename": "Arrow-v11.0-daisy-COMMUNITY-20210226-GAPPS.zip", 
-            "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-COMMUNITY-20210226-GAPPS.zip", 
-            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "date": "2021-05-15", 
+            "datetime": "20210515", 
+            "filename": "Arrow-v11.0-daisy-COMMUNITY-20210515-GAPPS.zip", 
+            "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-COMMUNITY-20210515-GAPPS.zip", 
+            "maintainer": "acras", 
             "model": "Mi A2 Lite", 
             "oem": "Xiaomi", 
-            "sha256": "ea910c329cff075b3540fb7bbafef607327447e366b98ad6b8f2797c758c80b2", 
-            "size": "1139065565", 
+            "sha256": "f069042ca4e3cb07396f8624a86974e5bb6f4add922aebf5b06d3048bc07771c", 
+            "size": "1143564374", 
             "type": "community", 
             "version": "v11.0"
         }
