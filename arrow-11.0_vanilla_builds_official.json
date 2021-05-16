@@ -465,16 +465,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Fixed WFD showing a green screen while casting\r\n- Misc changes\r\n- Recommended firmware: MIUI 12.0.4.0 or 12.0.6.0", 
-            "date": "2021-05-07", 
-            "datetime": "20210507", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210507-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210507-VANILLA.zip", 
+            "changelog": "- Dynamic Refresh Rates\r\n- Add touch profiles for gaming and benchmarking\r\n- Misc changes\r\n\r\n- Recommended firmware: \r\n  INDIA: MIUI 12.0.4.0\r\n  EEA: 12.0.5.0\r\n  GLOBAL: 12.0.6.0", 
+            "date": "2021-05-16", 
+            "datetime": "20210516", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210516-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210516-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "9a5b849a2e6e6a388e4e8b4c1ad438f4e2b33fbdc6b7d7aa4bb2c5082b72773f", 
-            "size": "811010013", 
+            "sha256": "aae7e4e8cf68a5808dc73592da55df9477ae20be1e8489f962a888a556ba4778", 
+            "size": "828113431", 
             "type": "official", 
             "version": "v11.0"
         }
