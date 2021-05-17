@@ -33,16 +33,16 @@
     ], 
     "apollo": [
         {
-            "changelog": null, 
-            "date": "2021-02-09", 
-            "datetime": "20210209", 
-            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210209-GAPPS.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210209-GAPPS.zip", 
-            "maintainer": "ejbtrd", 
-            "model": "Mi 10T", 
+            "changelog": "- Initial build\r\n- Enabled new refresh rate picker", 
+            "date": "2021-05-17", 
+            "datetime": "20210517", 
+            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210517-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210517-GAPPS.zip", 
+            "maintainer": "Dobsgw", 
+            "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "c68ae7fef9bce22af61382d377684daa787d4821c401b74160d2d409800a1bc2", 
-            "size": "1059650175", 
+            "sha256": "14f7ebe00cf2131589a23b16d16a98afa8934024ffd33368816cc5a06eccdd31", 
+            "size": "1567313628", 
             "type": "unofficial", 
             "version": "v11.0"
         }
