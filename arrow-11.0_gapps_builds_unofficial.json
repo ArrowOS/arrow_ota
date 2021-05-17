@@ -33,7 +33,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Initial build\r\n- Enabled new refresh rate picker", 
+            "changelog": "- Initial build\r\n- Enabled new refresh rate picker\r\n- Fixed vibration firmware issue", 
             "date": "2021-05-17", 
             "datetime": "20210517", 
             "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210517-GAPPS.zip", 
@@ -41,8 +41,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "14f7ebe00cf2131589a23b16d16a98afa8934024ffd33368816cc5a06eccdd31", 
-            "size": "1567313628", 
+            "sha256": "508772b2cf0b620315d73a4e95c17b553d81cd3e94205154d8362cc842005f0b", 
+            "size": "1566742809", 
             "type": "unofficial", 
             "version": "v11.0"
         }
