@@ -2621,7 +2621,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\nLatest build changelog:\r\n- Fixed blue/green tint on main camera on the 64MP sweetin variant\r\n- Switched to Arrow kernel\r\n- Enabled call recording on the AOSP dialer\r\n\r\n12/05/2021\r\n- Updated blobs from MIUI 12.0.15.0 Global\r\n- Fixed infrarred blaster\r\n- Cleaned up vendor (reduced zip size 100MB~)\r\n\r\n11/05/2021\r\n- Vendor is now included, more information at the link above\r\n- Added DC dimming support\r\n\r\n01/05/2021\r\n- Switched to the Pixel Power HAL (libperfmgr)\r\n- Improved idle drain\r\n- Fixed headphone buttons\r\n- Fixed yellow tint and improved display colors\r\n- Added WiFi Display support\r\n- Reworked the lights service\r\n- Moved device specific settings into the settings homepage\r\n- Reserved 250MB of space in each dynamic partition for installing addons\r\n- Set default DPI to 392\r\n- Reduced bootanimation start delay\r\n\r\n14/04/2021:\r\n- Initial official release", 
+      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\nLatest build changelog:\r\n- Fixed camera in WhatsApp Web scanner, paytm, and Google Duo\r\n- Fixed front camera video resolution\r\n- Switched to OSS camera provider\r\n\r\n14/05/2021:\r\n- Fixed blue/green tint on main camera on the 64MP sweetin variant\r\n- Switched to Arrow kernel\r\n- Enabled call recording on the AOSP dialer\r\n\r\n12/05/2021\r\n- Updated blobs from MIUI 12.0.15.0 Global\r\n- Fixed infrarred blaster\r\n- Cleaned up vendor (reduced zip size 100MB~)\r\n\r\n11/05/2021\r\n- Vendor is now included, more information at the link above\r\n- Added DC dimming support\r\n\r\n01/05/2021\r\n- Switched to the Pixel Power HAL (libperfmgr)\r\n- Improved idle drain\r\n- Fixed headphone buttons\r\n- Fixed yellow tint and improved display colors\r\n- Added WiFi Display support\r\n- Reworked the lights service\r\n- Moved device specific settings into the settings homepage\r\n- Reserved 250MB of space in each dynamic partition for installing addons\r\n- Set default DPI to 392\r\n- Reduced bootanimation start delay\r\n\r\n14/04/2021:\r\n- Initial official release", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -2643,12 +2643,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-14", 
-                  "datetime": "20210514", 
-                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210514-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210514-VANILLA.zip", 
-                  "sha256": "1512333db47676fcf39393bfdf480aedba58bd20427009d31f852e683aea2025", 
-                  "size": "1116292559", 
+                  "date": "2021-05-17", 
+                  "datetime": "20210517", 
+                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210517-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210517-VANILLA.zip", 
+                  "sha256": "a57bec2e4f821dbb283f4a27a40d2ad1e2958eed8631198777da8e970df88ac2", 
+                  "size": "1132370076", 
                   "type": "official", 
                   "version": "v11.0"
                 }
