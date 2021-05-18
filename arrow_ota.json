@@ -2661,7 +2661,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "Implement dc dimming\r\nIntroduce the flicker free driver\r\nImplement PCC combining for LiveDisplay\r\nSet min_brightness 121", 
+      "changelog": "Implement dc dimming\r\nRepair DC dimming failure after restart\r\nfix UAF race\r\nfsync after block device writes", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -2711,12 +2711,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-12", 
-                  "datetime": "20210512", 
-                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210512-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210512-VANILLA.zip", 
-                  "sha256": "761aa9217282405147e2857704b7c97e1c6abc0716406a5cfe42a7eb8d51b49c", 
-                  "size": "825406765", 
+                  "date": "2021-05-18", 
+                  "datetime": "20210518", 
+                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210518-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210518-VANILLA.zip", 
+                  "sha256": "ee9fb305d124b91051ecf4ab5ce4ce8e193a6f9bea655176f5d074e48f36b756", 
+                  "size": "823267302", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
