@@ -1137,7 +1137,7 @@
   ], 
   "ginkgo": [
     {
-      "changelog": "- Switched to dipper fingerprint for permanent safetynet fix\r\n- Upgraded most blobs to LA.UM.9.11.r1-03200-NICOBAR.0 (CAF)\r\n- Updated stock blobs from MIUI 21.4.28\r\n- Added fingerprint shutter in MiuiCamera\r\n- Fixed 5ghz wifi on android 11 firmware\r\n- Improved 5ghz wifi signal tolerance\r\n- Improved and fine tuned auto brightness algorithm\r\n- Fixed random reboots in suspend and 4g usage\r\n- Fixed KCAL not applying on first boot\r\n- Fixed Google photos \"device too hot\"\r\n- Increased default media volume steps\r\n- Enabled and fixed sunlight visibility improvement (SVI)\r\n- Flickering display for some users should be fixed now\r\n- Reduced min cpu freq and boosts for battery improvement\r\n- Tuned cpusets and scheduler for better performance\r\n- Merged LA.UM.9.11.r1-03900-NICOBAR.0 CAF in kernel\r\n- Merged android-4.14-stable and updated to v4.14.232\r\n- Misc optimizations and fixes", 
+      "changelog": "- Switched to sdclang 12 for kernel compilation", 
       "maintainer": "Adithya R", 
       "model": "Redmi Note 8", 
       "oem": "Xiaomi", 
@@ -1191,12 +1191,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-10", 
-                  "datetime": "20210510", 
-                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210510-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210510-VANILLA.zip", 
-                  "sha256": "5368832cff86e76f09a0f575a14ec1c90c1b2e76dd63d28d591fcef1f82d5f5a", 
-                  "size": "968393096", 
+                  "date": "2021-05-19", 
+                  "datetime": "20210519", 
+                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210519-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210519-VANILLA.zip", 
+                  "sha256": "63ba796952cb7858ac73bc391ab839c386e10cc9d5e98bff64dc44e12e47c042", 
+                  "size": "966522551", 
                   "type": "official", 
                   "version": "v11.0"
                 }
