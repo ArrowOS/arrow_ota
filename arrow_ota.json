@@ -2661,7 +2661,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "Implement dc dimming\r\nRepair DC dimming failure after restart\r\nfix UAF race\r\nfsync after block device writes", 
+      "changelog": "Implement dc dimming\r\nRepair DC dimming failure after restart\r\nFix UAF race\r\nFsync after block device writes\r\nFix color mode enhanced color loss", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -2711,12 +2711,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-18", 
-                  "datetime": "20210518", 
-                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210518-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210518-VANILLA.zip", 
-                  "sha256": "ee9fb305d124b91051ecf4ab5ce4ce8e193a6f9bea655176f5d074e48f36b756", 
-                  "size": "823267302", 
+                  "date": "2021-05-19", 
+                  "datetime": "20210519", 
+                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210519-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210519-VANILLA.zip", 
+                  "sha256": "5fb90b02792da5de7fb20849ed3c31958e75fd09e90e69ac664e79ccf2ea03cf", 
+                  "size": "823266478", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
