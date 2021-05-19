@@ -1081,7 +1081,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- Initial build based on android 11.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+      "changelog": "- Dynamic refresh rate fixes.\r\n- Enable WFD.\r\n- Fix audio issues.\r\n- Misc updates", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "arrow_gauguin", 
       "oem": "Xiaomi", 
@@ -1091,12 +1091,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-05-15", 
-                  "datetime": "20210515", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210515-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210515-GAPPS.zip", 
-                  "sha256": "b9539e89e6de23656e852e99f92d1b07b5eaf0bfc2cdfb9810d887fdd8aa47ed", 
-                  "size": "1082057121", 
+                  "date": "2021-05-19", 
+                  "datetime": "20210519", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210519-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210519-GAPPS.zip", 
+                  "sha256": "2e0922971384af0249d9d01bc3faaf414a56d1f0cd689f954edbcfca83f014a5", 
+                  "size": "1087249247", 
                   "type": "official", 
                   "version": "v11.0"
                 }
