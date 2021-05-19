@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "alioth": [
+        {
+            "changelog": "- First official builds.", 
+            "date": "2021-05-19", 
+            "datetime": "20210519", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210519-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210519-GAPPS.zip", 
+            "maintainer": "palaych", 
+            "model": "Poco F3", 
+            "oem": "POCO", 
+            "sha256": "662d6bdd1875fb39b84e596dc2bcabac30bec02a8feb78cc4dddca8628e7dcb7", 
+            "size": "1450621788", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "apollo": [
         {
             "changelog": "- Initial build\r\n- New refresh rate picker\r\n- Adjusted some refresh rate settings\r\n- Lots of good stuff", 
