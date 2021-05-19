@@ -193,16 +193,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Switched to dipper fingerprint for permanent safetynet fix\r\n- Upgraded most blobs to LA.UM.9.11.r1-03200-NICOBAR.0 (CAF)\r\n- Updated stock blobs from MIUI 21.4.28\r\n- Added fingerprint shutter in MiuiCamera\r\n- Fixed 5ghz wifi on android 11 firmware\r\n- Improved 5ghz wifi signal tolerance\r\n- Improved and fine tuned auto brightness algorithm\r\n- Fixed random reboots in suspend and 4g usage\r\n- Fixed KCAL not applying on first boot\r\n- Fixed Google photos \"device too hot\"\r\n- Increased default media volume steps\r\n- Enabled and fixed sunlight visibility improvement (SVI)\r\n- Flickering display for some users should be fixed now\r\n- Reduced min cpu freq and boosts for battery improvement\r\n- Tuned cpusets and scheduler for better performance\r\n- Merged LA.UM.9.11.r1-03900-NICOBAR.0 CAF in kernel\r\n- Merged android-4.14-stable and updated to v4.14.232\r\n- Misc optimizations and fixes", 
-            "date": "2021-05-10", 
-            "datetime": "20210510", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210510-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210510-GAPPS.zip", 
+            "changelog": "- Switched to sdclang 12 for kernel compilation", 
+            "date": "2021-05-19", 
+            "datetime": "20210519", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210519-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210519-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "c3913ff8d748eb97ffbf40f7e99eecc2eb9697c1f9af95d6c15f3aac7450cd08", 
-            "size": "1314203571", 
+            "sha256": "b182b37382f6b859dc11b7868415c7a4c2d09a29a63ebb3192b80c1197b0f621", 
+            "size": "1311685266", 
             "type": "official", 
             "version": "v11.0"
         }
