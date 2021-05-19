@@ -33,16 +33,16 @@
     ], 
     "apollo": [
         {
-            "changelog": null, 
-            "date": "2021-02-22", 
-            "datetime": "20210222", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210222-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210222-VANILLA.zip", 
-            "maintainer": "ejbtrd", 
-            "model": "Mi 10T", 
+            "changelog": "- Initial build\r\n- New refresh rate picker\r\n- Adjusted some refresh rate settings\r\n- Lots of good stuff", 
+            "date": "2021-05-18", 
+            "datetime": "20210518", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210518-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210518-VANILLA.zip", 
+            "maintainer": "Dobsgw", 
+            "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "b6acacda964f293320893a425b6f94f5cb78f24c4933edad22783cee018b3253", 
-            "size": "736912883", 
+            "sha256": "96d8eac1b5b13f90ad5b1a5f17f2548104026f54bd26ebcbb85450a5f9d7573d", 
+            "size": "1216708489", 
             "type": "official", 
             "version": "v11.0"
         }
