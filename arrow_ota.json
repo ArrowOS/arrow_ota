@@ -255,6 +255,34 @@
       ]
     }
   ], 
+  "alioth": [
+    {
+      "changelog": null, 
+      "maintainer": "palaych", 
+      "model": "Poco F3", 
+      "oem": "POCO", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-05-19", 
+                  "datetime": "20210519", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210519-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210519-VANILLA.zip", 
+                  "sha256": "607aec920866660fe95b1a44215e35089042a6d42f2a05a86f0f8c15a18ff911", 
+                  "size": "1168105659", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "apollo": [
     {
       "changelog": "- Initial build\r\n- New refresh rate picker\r\n- Adjusted some refresh rate settings\r\n- Lots of good stuff", 

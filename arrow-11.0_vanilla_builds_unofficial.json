@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "alioth": [
+        {
+            "changelog": null, 
+            "date": "2021-05-19", 
+            "datetime": "20210519", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210519-VANILLA.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210519-VANILLA.zip", 
+            "maintainer": "palaych", 
+            "model": "Poco F3", 
+            "oem": "POCO", 
+            "sha256": "607aec920866660fe95b1a44215e35089042a6d42f2a05a86f0f8c15a18ff911", 
+            "size": "1168105659", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "apollo": [
         {
             "changelog": "- Adjust some refresh rate settings", 
