@@ -31,6 +31,22 @@
             "version": "v11.0"
         }
     ], 
+    "alioth": [
+        {
+            "changelog": null, 
+            "date": "2021-05-19", 
+            "datetime": "20210519", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210519-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210519-GAPPS.zip", 
+            "maintainer": "palaych", 
+            "model": "Poco F3", 
+            "oem": "POCO", 
+            "sha256": "c82f8ca1ca11639a12ffdd9ed4d8f414e41c6d84deaba96e9db7180601780e8e", 
+            "size": "1450611238", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "apollo": [
         {
             "changelog": "- Initial build\r\n- Enabled new refresh rate picker\r\n- Fixed vibration firmware issue", 
