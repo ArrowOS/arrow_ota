@@ -1273,6 +1273,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-05-20", 
+                  "datetime": "20210520", 
+                  "filename": "Arrow-v11.0-kebab-COMMUNITY-20210520-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210520-GAPPS.zip", 
+                  "sha256": "35ef52a441892d0a7aaec31cf64d67c2dec865e9ddff22a00e9219a4c34eb4c1", 
+                  "size": "1386072807", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-05-20", 

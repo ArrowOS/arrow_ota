@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "kebab": [
+        {
+            "changelog": "Update the May patch, add some simple functions, and continue to add", 
+            "date": "2021-05-20", 
+            "datetime": "20210520", 
+            "filename": "Arrow-v11.0-kebab-COMMUNITY-20210520-GAPPS.zip", 
+            "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210520-GAPPS.zip", 
+            "maintainer": "java67", 
+            "model": "KB2000", 
+            "oem": "OnePlus", 
+            "sha256": "35ef52a441892d0a7aaec31cf64d67c2dec865e9ddff22a00e9219a4c34eb4c1", 
+            "size": "1386072807", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
