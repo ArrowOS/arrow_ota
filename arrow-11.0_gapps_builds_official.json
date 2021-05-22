@@ -129,7 +129,7 @@
     ], 
     "davinci": [
         {
-            "changelog": "22/05/2021- Improved power consumption- Switched to VantomKernel11/05/2021- Updated blobs from MIUI 21.4.28Notes:- Recommended firmware is MIUI 20.10.20 or higher (China Beta)- Minimum firmware is MIUI V12.0.5.0- Recommended recovery is the OFFICIAL TWRP", 
+            "changelog": "22/05/2021\r\n- Improved power consumption\r\n- Switched to VantomKernel\r\n\r\n11/05/2021\r\n- Updated blobs from MIUI 21.4.28\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
             "date": "2021-05-22", 
             "datetime": "20210522", 
             "filename": "Arrow-v11.0-davinci-OFFICIAL-20210522-GAPPS.zip", 
@@ -137,8 +137,8 @@
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "d79593169d99a25093df938879ec8a9fb1b4f4d8066262729e9e5962f0fd5247", 
-            "size": "1360152709", 
+            "sha256": "4c3e89e174c11e83b74a42bd95a9b1b697d9364c5880225b22633fdf8e9541bd", 
+            "size": "1360187817", 
             "type": "official", 
             "version": "v11.0"
         }
