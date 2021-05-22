@@ -145,16 +145,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "11/05/2021\r\n- Updated blobs from MIUI 21.4.28\r\n\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-            "date": "2021-05-14", 
-            "datetime": "20210514", 
-            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210514-VANILLA.zip", 
-            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210514-VANILLA.zip", 
+            "changelog": "22/05/2021- Improved power consumption- Switched to VantomKernel11/05/2021- Updated blobs from MIUI 21.4.28Notes:- Recommended firmware is MIUI 20.10.20 or higher (China Beta)- Minimum firmware is MIUI V12.0.5.0- Recommended recovery is the OFFICIAL TWRP", 
+            "date": "2021-05-22", 
+            "datetime": "20210522", 
+            "filename": "Arrow-v11.0-davinci-OFFICIAL-20210522-VANILLA.zip", 
+            "filepath": "/arrow-11.0/davinci/Arrow-v11.0-davinci-OFFICIAL-20210522-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "0c939b4d2ef990ef07596909add8ed5ffe7e4bc5535af092e7579c367c044d70", 
-            "size": "1015672887", 
+            "sha256": "ca12932fd2bec0f1870fd1050bc7b2ce31e4901953a8cb87e3931d243ebb4112", 
+            "size": "1015265071", 
             "type": "official", 
             "version": "v11.0"
         }
