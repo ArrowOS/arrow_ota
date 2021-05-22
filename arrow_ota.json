@@ -871,6 +871,22 @@
               ]
             }
           ], 
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-05-22", 
+                  "datetime": "20210522", 
+                  "filename": "Arrow-v11.0-daisy-OFFICIAL-20210522-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-OFFICIAL-20210522-VANILLA.zip", 
+                  "sha256": "8f34968a2f8760078284b8842ebde202c1dfb42d208952377cc1fb5bcaa3d162", 
+                  "size": "841897875", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "VANILLA": [
