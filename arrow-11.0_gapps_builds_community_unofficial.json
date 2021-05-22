@@ -113,16 +113,16 @@
     ], 
     "kebab": [
         {
-            "changelog": "Update the May patch, add some simple functions, and continue to add", 
-            "date": "2021-05-20", 
-            "datetime": "20210520", 
-            "filename": "Arrow-v11.0-kebab-COMMUNITY-20210520-GAPPS.zip", 
-            "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210520-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2021-05-22", 
+            "datetime": "20210522", 
+            "filename": "Arrow-v11.0-kebab-COMMUNITY-20210522-GAPPS.zip", 
+            "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210522-GAPPS.zip", 
             "maintainer": "java67", 
             "model": "KB2000", 
             "oem": "OnePlus", 
-            "sha256": "35ef52a441892d0a7aaec31cf64d67c2dec865e9ddff22a00e9219a4c34eb4c1", 
-            "size": "1386072807", 
+            "sha256": "885086782437ac5efdbd5f374347bd92046e5017cf8f407e098c747ce836467e", 
+            "size": "1386194423", 
             "type": "community", 
             "version": "v11.0"
         }
