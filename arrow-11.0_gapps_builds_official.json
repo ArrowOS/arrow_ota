@@ -81,16 +81,16 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": null, 
-            "date": "2021-05-15", 
-            "datetime": "20210515", 
-            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210515-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210515-GAPPS.zip", 
+            "changelog": "- Upstream changes\r\n- Fixed camera access for FaceUnlock", 
+            "date": "2021-05-23", 
+            "datetime": "20210523", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210523-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210523-GAPPS.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5000", 
             "oem": "OnePlus", 
-            "sha256": "6562d0fc48ffb7487bec38fb30a63204b646cac8108dcf20037adadacd7b0cf9", 
-            "size": "1174725495", 
+            "sha256": "b41b2c651cf469bf42c0abc274dd2ad37fe040e15627b3cf2ff5ce86172f4bcc", 
+            "size": "1175068596", 
             "type": "official", 
             "version": "v11.0"
         }
