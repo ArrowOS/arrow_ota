@@ -433,16 +433,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Fix SafetyNet\r\nctsProfile Pass\r\nUpdate Kernel to 4.4.268\r\nImport aptX blobs from crosshatch\r\nUpdate aptX blobs from redfin\r\nUse GcamGo Camera", 
-            "date": "2021-05-09", 
-            "datetime": "20210509", 
-            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210509-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210509-GAPPS.zip", 
+            "changelog": "Implement dc dimming\r\nRepair DC dimming failure after restart\r\nfix UAF race\r\nfsync after block device writes", 
+            "date": "2021-05-23", 
+            "datetime": "20210523", 
+            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210523-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210523-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "dc0dd1d7556ee17ce5a84a26c8302dd99ba430011a58ba290d595dde8aada99e", 
-            "size": "1132408871", 
+            "sha256": "a13c9f3b0fd11097f6cc0889ddc611fbae70867bf1f71aee30ff1facebacfc89", 
+            "size": "1131001693", 
             "type": "official", 
             "version": "v11.0"
         }
