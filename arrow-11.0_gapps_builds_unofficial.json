@@ -383,6 +383,22 @@
             "version": "v11.0"
         }
     ], 
+    "starlte": [
+        {
+            "changelog": null, 
+            "date": "2021-05-23", 
+            "datetime": "20210523", 
+            "filename": "Arrow-v11.0-starlte-UNOFFICIAL-20210523-GAPPS.zip", 
+            "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-UNOFFICIAL-20210523-GAPPS.zip", 
+            "maintainer": "Baddar90", 
+            "model": "SM-G960F", 
+            "oem": "samsung", 
+            "sha256": "7784e5a9f7025ac806c71e3f54dfd1272bf37a0af6f1951b2203dc66aab5ce6c", 
+            "size": "1007636088", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "surya": [
         {
             "changelog": "- Safety net fixes", 
