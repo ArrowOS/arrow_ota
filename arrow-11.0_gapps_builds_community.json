@@ -63,6 +63,22 @@
             "version": "v11.0"
         }
     ], 
+    "channel": [
+        {
+            "changelog": null, 
+            "date": "2021-05-23", 
+            "datetime": "20210523", 
+            "filename": "Arrow-v11.0-channel-COMMUNITY-20210523-GAPPS.zip", 
+            "filepath": "/arrow-11.0/channel/Arrow-v11.0-channel-COMMUNITY-20210523-GAPPS.zip", 
+            "maintainer": "Deivid Ignacio", 
+            "model": "moto g(7) play", 
+            "oem": "motorola", 
+            "sha256": "fb5218a2a4d8ec5e76fbf825d55465e00aab2b39c891602bb868ddca27cd32f3", 
+            "size": "1080538624", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "chiron": [
         {
             "changelog": null, 
