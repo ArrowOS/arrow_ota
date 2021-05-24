@@ -402,15 +402,15 @@
     "sanders": [
         {
             "changelog": "Clean flash must (kindly backup your data before flashing)\r\nimproved  performance\r\nEnabled ZRAM by default\r\nTuned ZRAM for better performance\r\nCompiled with hwui for better performance\r\nSwitched to Mad Kernel 2.0", 
-            "date": "2021-05-20", 
-            "datetime": "20210520", 
-            "filename": "Arrow-v11.0-sanders-OFFICIAL-20210520-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20210520-VANILLA.zip", 
+            "date": "2021-05-23", 
+            "datetime": "20210523", 
+            "filename": "Arrow-v11.0-sanders-OFFICIAL-20210523-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sanders/Arrow-v11.0-sanders-OFFICIAL-20210523-VANILLA.zip", 
             "maintainer": "Ashwatthama", 
             "model": "Moto G (5S) Plus", 
             "oem": "motorola", 
-            "sha256": "01237dd1fd503b1fd853bea71687e1084a3f643c7292b7c9f46ea73eb752f3cc", 
-            "size": "783638479", 
+            "sha256": "5985db431a115f4b6f77afa6b3135a49a077ad51c536db936aba685acdc9d60a", 
+            "size": "783640563", 
             "type": "official", 
             "version": "v11.0"
         }
