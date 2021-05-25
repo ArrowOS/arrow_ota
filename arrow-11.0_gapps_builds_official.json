@@ -239,6 +239,22 @@
             "version": "v11.0"
         }
     ], 
+    "lavender": [
+        {
+            "changelog": null, 
+            "date": "2021-05-25", 
+            "datetime": "20210525", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210525-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210525-GAPPS.zip", 
+            "maintainer": "Ratoriku, Hazama25", 
+            "model": "Redmi Note 7", 
+            "oem": "Xiaomi", 
+            "sha256": "15f5a00f4cba9e2977e11b87fee0ccdf1bb94052302d1805ad90f74d4aa72302", 
+            "size": "1255309183", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "lmi": [
         {
             "changelog": "- Firmware and vendor require V12.2.1.0.RJKCNXM.\r\n\r\n- Device: https://github.com/ArrowOS-Devices/android_device_xiaomi_lmi/commits/arrow-11.0\r\n- Blobs: https://github.com/ArrowOS-Devices/android_vendor_xiaomi_lmi/commits/arrow-11.0", 

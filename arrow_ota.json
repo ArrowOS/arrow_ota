@@ -1493,6 +1493,18 @@
           ], 
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-05-25", 
+                  "datetime": "20210525", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210525-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210525-GAPPS.zip", 
+                  "sha256": "15f5a00f4cba9e2977e11b87fee0ccdf1bb94052302d1805ad90f74d4aa72302", 
+                  "size": "1255309183", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-05-25", 
