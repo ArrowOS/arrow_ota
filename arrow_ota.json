@@ -2779,6 +2779,22 @@
               ]
             }
           ], 
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-05-25", 
+                  "datetime": "20210525", 
+                  "filename": "Arrow-v11.0-starlte-OFFICIAL-20210525-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-OFFICIAL-20210525-VANILLA.zip", 
+                  "sha256": "5b51f30d8004f2af362c1580e15a81946d0609141a30beca8646b94a0198dabe", 
+                  "size": "667613602", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
