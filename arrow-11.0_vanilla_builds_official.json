@@ -209,16 +209,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Initial build based on android 11.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
-            "date": "2021-05-15", 
-            "datetime": "20210515", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210515-VANILLA.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210515-VANILLA.zip", 
+            "changelog": "- Fixed dynamic refresh rate.\r\n- Enable WiFi display.\r\n- Fixed mic related issues in apps.\r\n- More misc updates and fixes.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+            "date": "2021-05-25", 
+            "datetime": "20210525", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210525-VANILLA.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210525-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "263d631555f61339ca316177fdaf585ae4389eae994807a9be5d876d4f590a57", 
-            "size": "736641752", 
+            "sha256": "78e670990809c2534f69cafb1715d3975050529a767f812ca01382bae3246cf4", 
+            "size": "741873510", 
             "type": "official", 
             "version": "v11.0"
         }
