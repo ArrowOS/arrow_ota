@@ -2101,7 +2101,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- Netflix Glitch", 
+      "changelog": "- SB kernel", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2151,12 +2151,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-14", 
-                  "datetime": "20210514", 
-                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210514-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210514-VANILLA.zip", 
-                  "sha256": "831d4a22b99b346d63fd3d627082ae775de9fdbda65a19972d376e20b5324258", 
-                  "size": "1104536880", 
+                  "date": "2021-05-25", 
+                  "datetime": "20210525", 
+                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210525-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210525-VANILLA.zip", 
+                  "sha256": "7a92868b91c58ecbff401457a4ec984bfe4080127f83949ee2e7d809ff75bd08", 
+                  "size": "1075740197", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
