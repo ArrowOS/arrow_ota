@@ -1491,6 +1491,22 @@
               ]
             }
           ], 
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-05-25", 
+                  "datetime": "20210525", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210525-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210525-VANILLA.zip", 
+                  "sha256": "7ab0ae015504bbcc47225acb1413fd9b33708452a33a292924d19aeb7802e73c", 
+                  "size": "910321178", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
