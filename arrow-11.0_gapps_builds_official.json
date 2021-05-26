@@ -577,16 +577,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "\u2022 Upstream kernel to v4.4.268\r\n\u2022 Misc changes", 
-            "date": "2021-05-25", 
-            "datetime": "20210525", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210525-GAPPS.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210525-GAPPS.zip", 
+            "changelog": "\u2022 Fixed Bluetooth audio\r\n\u2022 Upstream kernel to v4.4.268\r\n\u2022 Misc changes", 
+            "date": "2021-05-26", 
+            "datetime": "20210526", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210526-GAPPS.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210526-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "0abae02efca8328ab9c5eab44dd4025858273d5fe337b20923554b857ed93e3a", 
-            "size": "1163673265", 
+            "sha256": "60a01fccf46120d47e77081bc258e790667f9dd0c8a24790c74af3611bc6428d", 
+            "size": "1163673889", 
             "type": "official", 
             "version": "v11.0"
         }
