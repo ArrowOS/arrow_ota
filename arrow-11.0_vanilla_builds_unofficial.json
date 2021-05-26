@@ -322,15 +322,15 @@
     "polaris": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\nUpdate 2021-01-01 and earlier builds only with clean flash!\r\n\r\n2021-01-14:\r\n!!!WARNING!!!\r\nREQUEST ONLY CLEAN FLASH\r\n\r\n- Enable force encryption\r\n- Update display, graphics, wfd and media blobs to R\r\n- Update display/audio/media hals to sdm710 R\r\n- Fixed WFD\r\n- Fixed \"Ok, Google\" with screen off\r\n- Switch to aidl Light HAL and update values\r\n- Many fixes and upstream changes.\r\n\r\nNote:\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)\r\n- Don`t flash on previous build dirty, will bootloop and drop data.", 
-            "date": "2021-05-24", 
-            "datetime": "20210524", 
-            "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210524-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210524-VANILLA.zip", 
+            "date": "2021-05-26", 
+            "datetime": "20210526", 
+            "filename": "Arrow-v11.0-polaris-UNOFFICIAL-20210526-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-UNOFFICIAL-20210526-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "03325933e1f4e8ad7c00500d2060a69bb0cba05826ca506ed1d889ba0e8a2161", 
-            "size": "963567515", 
+            "sha256": "e0c689c40c81384b3274be1eeb3eb2557b696dc8c2fd1a07f5c56f7c81fda8ab", 
+            "size": "963581090", 
             "type": "unofficial", 
             "version": "v11.0"
         }
