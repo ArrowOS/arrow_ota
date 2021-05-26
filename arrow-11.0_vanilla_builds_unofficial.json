@@ -417,16 +417,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "- For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-04-13", 
-            "date": "2021-04-16", 
-            "datetime": "20210416", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210416-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210416-VANILLA.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n26/05/2021\r\n- Fixed KCAL settings\r\n\r\n25/05/2021\r\n- Added aptX support\r\n- Added KCAL settings for color adjustment\r\n- Fixed WiFi Display\r\n\r\n19/05/2021:\r\n- Fixed camera in WhatsApp Web scanner, and Google Duo\r\n- Fixed front camera video resolution\r\n- Switched to OSS camera provider\r\n\r\n14/05/2021:\r\n- Fixed blue/green tint on main camera on the 64MP sweetin variant\r\n- Switched to Arrow kernel\r\n- Enabled call recording on the AOSP dialer\r\n\r\n12/05/2021\r\n- Updated blobs from MIUI 12.0.15.0 Global\r\n- Fixed infrarred blaster\r\n- Cleaned up vendor (reduced zip size 100MB~)\r\n\r\n11/05/2021\r\n- Vendor is now included, more information at the link above\r\n- Added DC dimming support\r\n\r\n01/05/2021\r\n- Switched to the Pixel Power HAL (libperfmgr)\r\n- Improved idle drain\r\n- Fixed headphone buttons\r\n- Fixed yellow tint and improved display colors\r\n- Added WiFi Display support\r\n- Reworked the lights service\r\n- Moved device specific settings into the settings homepage\r\n- Reserved 250MB of space in each dynamic partition for installing addons\r\n- Set default DPI to 392\r\n- Reduced bootanimation start delay\r\n\r\n14/04/2021:\r\n- Initial official release", 
+            "date": "2021-05-26", 
+            "datetime": "20210526", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210526-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210526-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "7fe3ae66a62c80befc30e41331608231e36f83d9fbe35f123f5e45d20157a9a2", 
-            "size": "1385430751", 
+            "sha256": "a022ba9b63a4ebcab730f7d68454cbe26153240aa3425ebbc3047b040faa6c6d", 
+            "size": "1132562033", 
             "type": "official", 
             "version": "v11.0"
         }
