@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- First official builds.", 
-            "date": "2021-05-19", 
-            "datetime": "20210519", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210519-VANILLA.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210519-VANILLA.zip", 
+            "changelog": "- Rebase kernel with fixes and improves\r\n- DTBO compiled from sources\r\n- New config for ZRAM\r\n- Tweaked brightness values, again\r\n- BT audio: fixed support aptx codecs\r\n- Enable vibration multiple intensities and haptic text cursor \r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-05-26", 
+            "datetime": "20210526", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210526-VANILLA.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210526-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "6941b462bd75dbc37df37ae8c6133acf5cd4868bcbc760b1e194c8982e3e4f39", 
-            "size": "1168094168", 
+            "sha256": "58ffd57fb0150db4bfb083d551a10dc74126b1ccce2a7d4fc00bc9111eee9162", 
+            "size": "1167725082", 
             "type": "official", 
             "version": "v11.0"
         }
