@@ -353,16 +353,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Enable ZRAM (3Gb, lz4 compress algorithm)\r\n- Enable H/W Composition\r\n- Enable UBWC aligned framebuffer\r\n- Enable Codec2 support\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-05-15", 
-            "datetime": "20210515", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210515-VANILLA.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210515-VANILLA.zip", 
+            "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-01700-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
+            "date": "2021-05-27", 
+            "datetime": "20210527", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210527-VANILLA.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210527-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "3577f189deea16b6d355ff40c777ccee05ab23e0e49ab1fa35cd5adc473451b0", 
-            "size": "1047182180", 
+            "sha256": "c0f626fb41383d896fed328384c40cc69477032576de2d3fa0e8d8925f40e459", 
+            "size": "1047050101", 
             "type": "official", 
             "version": "v11.0"
         }
