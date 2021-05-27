@@ -49,7 +49,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "- updated vendor blobs from global stable beta 12.1.3.0\r\n- updated audio, wifi, media configs from global stable beta 12.1.3.0\r\n- AAC bt fully working (thanks DennySPB)\r\n- wired headphones should work this build", 
+            "changelog": "- updated vendor blobs from global stable beta 12.1.3.0\r\n- updated audio, wifi, media configs from global stable beta 12.1.3.0\r\n- AAC bt fully working (thanks DennySPB)\r\n- wired headphones should work this build\r\n- enable additional aptx codecs (adaptive, tws, etc)", 
             "date": "2021-05-27", 
             "datetime": "20210527", 
             "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210527-GAPPS.zip", 
@@ -57,8 +57,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "f987e57c33a87123fbcd767c26f23a8c361713e78d203fbd2c3380e2e37d1dd0", 
-            "size": "1565491295", 
+            "sha256": "e6aced0177197699b7b2ead54622d152edf2c60e297f154a10232e3ad15c63d9", 
+            "size": "1565376957", 
             "type": "unofficial", 
             "version": "v11.0"
         }
