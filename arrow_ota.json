@@ -1857,7 +1857,7 @@
   ], 
   "monet": [
     {
-      "changelog": "- Kernel: Merged CAF tag LA.UM.9.12.r1-11000-SMxx50.0\r\n- Cleanup props\r\n- Misc fixes and upstream changes.", 
+      "changelog": "- Misc fixes and upstream changes.", 
       "maintainer": "Bauuuuu, palaych", 
       "model": "Mi 10 Lite 5G", 
       "oem": "Xiaomi", 
@@ -1879,12 +1879,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-26", 
-                  "datetime": "20210526", 
-                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210526-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210526-VANILLA.zip", 
-                  "sha256": "19fb5307515973f996c9340ccaf6c7b2d10dedfc154d02b2c7e6393764e695da", 
-                  "size": "706151588", 
+                  "date": "2021-05-28", 
+                  "datetime": "20210528", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210528-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210528-VANILLA.zip", 
+                  "sha256": "d1a9d3cabb3698cc9c481c002cfcf06e7661a88861d57ff39ae9ab3b8da950d4", 
+                  "size": "818627503", 
                   "type": "official", 
                   "version": "v11.0"
                 }
