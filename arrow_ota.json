@@ -1457,7 +1457,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Initial official version\r\n- Sync with latest arrowos source\r\n- Selinux Enforcing\r\n- Widevine L1\r\n- Fixed WiFiDisplay\r\n- Force triple frame buffers\r\n- Switch to libperfmgr and tune powerhint\r\n- Enable IORap app launch prefetching\r\n- Use redfin May fingerprint\r\n- Better vibration pattern\r\n- Tune default content padding\r\n- Use QTI Bluetooth Stack\r\n- Make memlat no-op\r\n- Use Pixel offline charging animation\r\n- Fixed live wallpaper laggy issue\r\n- Fixed night light\r\n- Update zram configuration\r\n- Use 128kb readahead for all targets\r\n- Configure SQLite to operate in MEMORY mode\r\n- Enable Smart Charging\r\n- Remove 2GB dalvik heap detection\r\n- Silenced some logspams\r\n- Stop creating useless IOP deamon dirs\r\n- Use Google Camera Go for GApps version\r\n- Enable zygote preforking for faster app launching\r\n- Add proximityCheckOnWake support\r\n- Switch to XiaomiParts\r\n- XiaomiParts: Implement dynamic thermal profiles\r\n- XiaomiParts: Implement KCAL settings\r\n- XiaomiParts: Add some translations\r\n- Fixed google assistant voice match\r\n- Fixed google voice recorder\r\n\r\nNotes:\r\n- Clean flash is required if you flash from community version\r\n- Using OLDCAM blobs", 
+      "changelog": null, 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1535,12 +1535,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-27", 
-                  "datetime": "20210527", 
-                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210527-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210527-VANILLA.zip", 
-                  "sha256": "c6dfbc5fdafa304954ed6ebc3a4d67ea3ab9d0b6d057d13bd8a76c8e8e2e5ce3", 
-                  "size": "910015001", 
+                  "date": "2021-05-29", 
+                  "datetime": "20210529", 
+                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210529-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210529-VANILLA.zip", 
+                  "sha256": "feedc861f3c2755b406b76b98e69526d06de2d9e9f705f131e165f8909dfa8f5", 
+                  "size": "909778576", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
