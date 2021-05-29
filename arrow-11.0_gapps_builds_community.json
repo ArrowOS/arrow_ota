@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": null, 
-            "date": "2021-05-15", 
-            "datetime": "20210515", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210515-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210515-GAPPS.zip", 
-            "maintainer": "AP_XD", 
+            "changelog": "- May 2021 Security Patch.\r\n- Tune vibration Pattern.\r\n- Miscellaneous fixes.", 
+            "date": "2021-05-29", 
+            "datetime": "20210529", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210529-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210529-GAPPS.zip", 
+            "maintainer": "Arka", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "ad0e5308254ce0cc4647c24eceda027491a3f240e9e923bbb5aeb67728a8d79e", 
-            "size": "1206415477", 
+            "sha256": "64556a58c71a38e961e44b148e2d700e74c4f7155f23c36ba1e55425da77f4da", 
+            "size": "1206207693", 
             "type": "community", 
             "version": "v11.0"
         }
