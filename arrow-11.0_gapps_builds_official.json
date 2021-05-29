@@ -353,16 +353,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- CTS now passes by default\r\n- Update blobs from V12.1.3.0.RGHINXM\r\n- Update graphic blobs from LA.UM.9.1.r1-09200-SMxxx0.0\r\n\r\nNote :\r\n- Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-05-15", 
-            "datetime": "20210515", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210515-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210515-GAPPS.zip", 
+            "changelog": "- Fixed Netflix glitch issue\r\n- Switch StormBreaker-X1 ( based on phoenix-r-oss )\r\n- Switch to dynamic refresh rate\r\n- import atfwd@2.0.policy from V12.1.3.0.RGHINXM\r\n- Added some missing GPS libs\r\n- Added Add Chinese(zh-CN) translation for parts\r\n- Added hotword enrollment blobs\r\n- Added Alipay fingerprint payment support\r\n- Adjust qs header padding a bit\r\n- Misc changes and clean up\r\n\r\nNote :\r\n- Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+            "date": "2021-05-29", 
+            "datetime": "20210529", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210529-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210529-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "805733b0d2ffc5d73dca7fcb318e68053b5adef4747237dd0d2fd3eef39bd1f5", 
-            "size": "1450945012", 
+            "sha256": "d5cba3b0c29f38b9e4e6889c373c9d3c0e61f2a61fa52426528268b4748522ee", 
+            "size": "1423137836", 
             "type": "official", 
             "version": "v11.0"
         }
