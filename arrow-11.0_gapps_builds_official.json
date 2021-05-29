@@ -338,15 +338,15 @@
     "perseus": [
         {
             "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-01700-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-05-27", 
-            "datetime": "20210527", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210527-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210527-GAPPS.zip", 
+            "date": "2021-05-29", 
+            "datetime": "20210529", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210529-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210529-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "4c148630ac8acb6743ecab47c885de6e7a8e43d3e9b27db9043b46e870705d0b", 
-            "size": "1392689079", 
+            "sha256": "2d166b1b09ca364ff5240c479b9418a403b6879d0ed2053de0a78314e6d4a34e", 
+            "size": "1392665644", 
             "type": "official", 
             "version": "v11.0"
         }
