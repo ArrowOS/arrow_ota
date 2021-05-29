@@ -2129,7 +2129,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- mlipay stuff", 
+      "changelog": "- Fixed Netflix glitch issue\r\n- Switch StormBreaker-X1 ( based on phoenix-r-oss )\r\n- Switch to dynamic refresh rate\r\n- import atfwd@2.0.policy from V12.1.3.0.RGHINXM\r\n- Added some missing GPS libs\r\n- Added Add Chinese(zh-CN) translation for parts\r\n- Added hotword enrollment blobs\r\n- Added Alipay fingerprint payment support\r\n- Adjust qs header padding a bit\r\n- Misc changes and clean up\r\n\r\nNote :\r\n- Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2151,12 +2151,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-15", 
-                  "datetime": "20210515", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210515-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210515-VANILLA.zip", 
-                  "sha256": "e4c8d6b98825d011dc2af13b2402b9ca34f2f69897606828138a2be34c91c056", 
-                  "size": "1105805177", 
+                  "date": "2021-05-29", 
+                  "datetime": "20210529", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210529-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210529-VANILLA.zip", 
+                  "sha256": "e93546728b458c01c788932a2b8eb7e3cdf8dfe14c2287afb99388d213a4f151", 
+                  "size": "1077789282", 
                   "type": "official", 
                   "version": "v11.0"
                 }
