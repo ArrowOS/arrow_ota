@@ -1165,7 +1165,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- Fixed dynamic refresh rate.\r\n- Enable WiFi display.\r\n- Fixed mic related issues in apps.\r\n- More misc updates and fixes.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+      "changelog": "- Fixed dynamic refresh rate not going above 90hz.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "arrow_gauguin", 
       "oem": "Xiaomi", 
@@ -1187,12 +1187,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-25", 
-                  "datetime": "20210525", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210525-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210525-VANILLA.zip", 
-                  "sha256": "78e670990809c2534f69cafb1715d3975050529a767f812ca01382bae3246cf4", 
-                  "size": "741873510", 
+                  "date": "2021-05-29", 
+                  "datetime": "20210529", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210529-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210529-VANILLA.zip", 
+                  "sha256": "2b45591f025a95eddee39661bef8a71c7ce0cbce70d55cf0eb6211fd768c0a83", 
+                  "size": "741869185", 
                   "type": "official", 
                   "version": "v11.0"
                 }
