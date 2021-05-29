@@ -393,7 +393,7 @@
   ], 
   "beryllium": [
     {
-      "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Build disabled VBMeta image\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-01700-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
+      "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Build disabled VBMeta image\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-02100-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
       "maintainer": "Ganesh Varma, kubersharma001, palaych", 
       "model": "POCOPHONE F1", 
       "oem": "POCO", 
@@ -447,12 +447,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-27", 
-                  "datetime": "20210527", 
-                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210527-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210527-VANILLA.zip", 
-                  "sha256": "12676f60f3775da58a039c5ee6eb4b84ff09fd4722b4a4cdd0657c4b0c67408f", 
-                  "size": "951889481", 
+                  "date": "2021-05-29", 
+                  "datetime": "20210529", 
+                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210529-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210529-VANILLA.zip", 
+                  "sha256": "e6ee8a19dac22c22ab6d186d7a7b2c5233c685ce1c2b37d4053837cc994d505c", 
+                  "size": "951853623", 
                   "type": "official", 
                   "version": "v11.0"
                 }
