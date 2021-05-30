@@ -305,16 +305,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- mlipay stuff", 
-            "date": "2021-05-28", 
-            "datetime": "20210528", 
-            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210528-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210528-VANILLA.zip", 
+            "changelog": "- wfd and goodix", 
+            "date": "2021-05-30", 
+            "datetime": "20210530", 
+            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210530-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210530-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "0f8cdce04ed9595309a9dfb45980b2e5d520831398b6e647a952e0acf595c382", 
-            "size": "1057046629", 
+            "sha256": "5990cdd73d93818b44b27bf9d459fe1fa40c5342c84dad1b738338adc3d682ad", 
+            "size": "1057221643", 
             "type": "unofficial", 
             "version": "v11.0"
         }
