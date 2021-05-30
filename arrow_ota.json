@@ -555,12 +555,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-23", 
-                  "datetime": "20210523", 
-                  "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210523-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210523-VANILLA.zip", 
-                  "sha256": "58c26dec1c05fad3bd798f2d3340ec683d85ad5d5333473ebbdf54a8510dfabc", 
-                  "size": "1114477842", 
+                  "date": "2021-05-30", 
+                  "datetime": "20210530", 
+                  "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210530-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210530-VANILLA.zip", 
+                  "sha256": "bad6657681e19a6cbb9ed96d7784e2c437e2913603a2de13e9a17ad52447a502", 
+                  "size": "1114052251", 
                   "type": "community", 
                   "version": "v11.0"
                 }
