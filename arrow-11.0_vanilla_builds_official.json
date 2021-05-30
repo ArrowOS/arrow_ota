@@ -257,16 +257,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Initial official version\r\n- Sync with latest arrowos source\r\n- Selinux Enforcing\r\n- Widevine L1\r\n- Fixed WiFiDisplay\r\n- Force triple frame buffers\r\n- Switch to libperfmgr and tune powerhint\r\n- Enable IORap app launch prefetching\r\n- Use redfin May fingerprint\r\n- Better vibration pattern\r\n- Tune default content padding\r\n- Use QTI Bluetooth Stack\r\n- Make memlat no-op\r\n- Use Pixel offline charging animation\r\n- Fixed live wallpaper laggy issue\r\n- Fixed night light\r\n- Update zram configuration\r\n- Use 128kb readahead for all targets\r\n- Configure SQLite to operate in MEMORY mode\r\n- Enable Smart Charging\r\n- Remove 2GB dalvik heap detection\r\n- Silenced some logspams\r\n- Stop creating useless IOP deamon dirs\r\n- Use Google Camera Go for GApps version\r\n- Enable zygote preforking for faster app launching\r\n- Add proximityCheckOnWake support\r\n- Switch to XiaomiParts\r\n- XiaomiParts: Implement dynamic thermal profiles\r\n- XiaomiParts: Implement KCAL settings\r\n- XiaomiParts: Add some translations\r\n- Fixed google assistant voice match\r\n- Fixed google voice recorder\r\n\r\nNotes:\r\n- Clean flash is required if you flash from community version\r\n- Using OLDCAM blobs", 
-            "date": "2021-05-28", 
-            "datetime": "20210528", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210528-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210528-VANILLA.zip", 
+            "changelog": "Latest build:\r\n- Set default hotspot name\r\n- Add streaming configuration for thermal-engine\r\n- Fixed thermal-engine spam when boot up\r\n- Optimize dynamic thermal profile\r\n- Fixed color mode\r\n\r\n28/05/21\r\n- Initial official version\r\n- Sync with latest arrowos source\r\n- Selinux Enforcing\r\n- Widevine L1\r\n- Fixed WiFiDisplay\r\n- Force triple frame buffers\r\n- Switch to libperfmgr and tune powerhint\r\n- Enable IORap app launch prefetching\r\n- Use redfin May fingerprint\r\n- Better vibration pattern\r\n- Tune default content padding\r\n- Use QTI Bluetooth Stack\r\n- Make memlat no-op\r\n- Use Pixel offline charging animation\r\n- Fixed live wallpaper laggy issue\r\n- Fixed night light\r\n- Update zram configuration\r\n- Use 128kb readahead for all targets\r\n- Configure SQLite to operate in MEMORY mode\r\n- Enable Smart Charging\r\n- Remove 2GB dalvik heap detection\r\n- Silenced some logspams\r\n- Stop creating useless IOP deamon dirs\r\n- Use Google Camera Go for GApps version\r\n- Enable zygote preforking for faster app launching\r\n- Add proximityCheckOnWake support\r\n- Switch to XiaomiParts\r\n- XiaomiParts: Implement dynamic thermal profiles\r\n- XiaomiParts: Implement KCAL settings\r\n- XiaomiParts: Add some translations\r\n- Fixed google assistant voice match\r\n- Fixed google voice recorder\r\n\r\nNotes:\r\n- Clean flash is required if you flash from community version\r\n- Using OLDCAM blobs", 
+            "date": "2021-05-30", 
+            "datetime": "20210530", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210530-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210530-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "45866a99933a3ce4d77b31c6261dc929bd9a4566ae6cdc7b684cadd6e14acfa5", 
-            "size": "910630699", 
+            "sha256": "788bb78166d26a897cd1a59a8babc2e0aae75a681d67f34e8671ec2e012cc2fa", 
+            "size": "910768031", 
             "type": "official", 
             "version": "v11.0"
         }
