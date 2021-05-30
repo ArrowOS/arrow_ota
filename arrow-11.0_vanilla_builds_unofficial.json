@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- test with Quantik kernel", 
-            "date": "2021-05-29", 
-            "datetime": "20210529", 
-            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210529-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210529-VANILLA.zip", 
+            "changelog": "- test with lineage kernel", 
+            "date": "2021-05-30", 
+            "datetime": "20210530", 
+            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210530-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210530-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "a6421a095a891a430551600ac5f138a320a0d1eba88ded66e3a97748d941d7b6", 
-            "size": "1215126959", 
+            "sha256": "9b7ea523c62398c7bc5dd25bfc6b933db18b3fb43026f18a7e1adc24ee9e7f74", 
+            "size": "1215416290", 
             "type": "unofficial", 
             "version": "v11.0"
         }
