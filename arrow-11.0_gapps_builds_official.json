@@ -482,15 +482,15 @@
     "taimen": [
         {
             "changelog": "Implement dc dimming\r\nRepair DC dimming failure after restart\r\nfix UAF race\r\nfsync after block device writes", 
-            "date": "2021-05-23", 
-            "datetime": "20210523", 
-            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210523-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210523-GAPPS.zip", 
+            "date": "2021-05-30", 
+            "datetime": "20210530", 
+            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210530-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210530-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "a13c9f3b0fd11097f6cc0889ddc611fbae70867bf1f71aee30ff1facebacfc89", 
-            "size": "1131001693", 
+            "sha256": "298b099ea37c98a4bbf9394a37d433ab044ed172d460f12f8c68b1de89bb4d82", 
+            "size": "1131080430", 
             "type": "official", 
             "version": "v11.0"
         }
