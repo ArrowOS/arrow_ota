@@ -34,15 +34,15 @@
     "cas": [
         {
             "changelog": "1. Update blobs to V12.5.1", 
-            "date": "2021-05-24", 
-            "datetime": "20210524", 
-            "filename": "Arrow-v11.0-cas-COMMUNITY-20210524-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210524-GAPPS.zip", 
+            "date": "2021-05-31", 
+            "datetime": "20210531", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210531-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210531-GAPPS.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "b347d60470a568c52529e4df676fb86f1e5d1ce4219c9fed8a2fb0fd144d2f04", 
-            "size": "1118948790", 
+            "sha256": "cc3c47133fcdf6c0b50b2252a5cd246662bfe139abf8c6fc4fcf692ab7e38f0f", 
+            "size": "1119433203", 
             "type": "community", 
             "version": "v11.0"
         }
