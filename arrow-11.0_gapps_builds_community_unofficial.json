@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "juice": [
+        {
+            "changelog": null, 
+            "date": "2021-05-31", 
+            "datetime": "20210531", 
+            "filename": "Arrow-v11.0-juice-COMMUNITY-20210531-GAPPS.zip", 
+            "filepath": "/arrow-11.0/juice/Arrow-v11.0-juice-COMMUNITY-20210531-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "sm6115", 
+            "oem": "Xiaomi", 
+            "sha256": "501dad341a4f4d4d1387f47a20c00c574863aa9054e59bf2563728b863cff9be", 
+            "size": "1055464290", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "kebab": [
         {
             "changelog": null, 
