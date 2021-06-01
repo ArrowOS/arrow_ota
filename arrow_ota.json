@@ -297,7 +297,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- ship liba2dpoffload.so from stock (thanks DennySPB)\r\n- AAC/ AptX(HD) codecs for BT audio now work correctly\r\n- (aptx-adaptive / tws likely do not work)", 
+      "changelog": "- test with lineage kernel\r\n- drop Qti BT for now\r\n- test fix for echo on speaker calls\r\n- test sepolicy wakeup labelling", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -347,12 +347,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-31", 
-                  "datetime": "20210531", 
-                  "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210531-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210531-VANILLA.zip", 
-                  "sha256": "76b4a04934190be5404bb12f2bcddb5660f261f8f116702fb4761df71a3d8036", 
-                  "size": "1212129890", 
+                  "date": "2021-06-01", 
+                  "datetime": "20210601", 
+                  "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210601-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210601-VANILLA.zip", 
+                  "sha256": "9aecb561677c981f4e924e0582bb72b95967d03dfd193c24d638682725402902", 
+                  "size": "1215371335", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
