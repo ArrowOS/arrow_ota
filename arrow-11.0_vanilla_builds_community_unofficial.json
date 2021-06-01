@@ -33,16 +33,16 @@
     ], 
     "cas": [
         {
-            "changelog": "1. Update blobs to V12.5.1", 
-            "date": "2021-05-19", 
-            "datetime": "20210519", 
-            "filename": "Arrow-v11.0-cas-COMMUNITY-20210519-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210519-VANILLA.zip", 
+            "changelog": "1. Update blobs to V12.5.1\r\n2. Add device refresh rate switcher", 
+            "date": "2021-06-01", 
+            "datetime": "20210601", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210601-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210601-VANILLA.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "6dc6cf291aa74ad30b7d1fd605c61fabc7192450243e48cd19c6ea9596dbac08", 
-            "size": "769670611", 
+            "sha256": "14d920db80ed7c794962a750eaa6241c0a00d7ff05e14abbc2ca1a86aebc6a67", 
+            "size": "769479376", 
             "type": "community", 
             "version": "v11.0"
         }
