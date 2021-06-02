@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Rebase kernel with fixes and improves\r\n- DTBO compiled from sources\r\n- New config for ZRAM\r\n- Tweaked brightness values, again\r\n- BT audio: fixed support aptx codecs\r\n- Enable vibration multiple intensities and haptic text cursor \r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-05-29", 
-            "datetime": "20210529", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210529-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210529-GAPPS.zip", 
+            "changelog": "- Fix vulkan driver (fixed crash apps, which use it)\r\n- Fix set media profiles (fixed 1080p video for front camera)\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge CAF tag LA.UM.9.12.r1-11500-SMxx50.0\r\n- Cleanup Xiaomi code\r\n- Add SDFAT driver\r\n- Many fixes and improve changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-06-02", 
+            "datetime": "20210602", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210602-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210602-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "207d662868fd5d2e73da9ebfe4a04e928d9a6de61d1971a34b30f0c26ec30abd", 
-            "size": "1450305029", 
+            "sha256": "913e7c27ea70dce5d02844cf01b476861d12bd020ae9a297b28d2a905bd7fd38", 
+            "size": "1450463641", 
             "type": "official", 
             "version": "v11.0"
         }
