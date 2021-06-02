@@ -481,16 +481,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- DO NOT FLASH THIS BUILD WITHOUT PERMISSION\r\n- (your own risk)\r\n\r\n- Recommended firmware: \r\n  INDIA: MIUI 12.0.4.0\r\n  EEA: 12.0.5.0\r\n  GLOBAL: 12.0.6.0", 
-            "date": "2021-06-01", 
-            "datetime": "20210601", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210601-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210601-VANILLA.zip", 
+            "changelog": "- Recommended firmware: \r\n  INDIA: MIUI 12.0.4.0\r\n  EEA: 12.0.5.0\r\n  GLOBAL: 12.0.6.0", 
+            "date": "2021-06-02", 
+            "datetime": "20210602", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210602-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210602-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "a9f8be3b2ee8f0051b902a75c07f0771de61a854572b272012787caacc02171a", 
-            "size": "812970431", 
+            "sha256": "fe6ad601cd604448eb1debb434258b5a92d139b265b310f5fa9ad5e5679f9d74", 
+            "size": "812792197", 
             "type": "official", 
             "version": "v11.0"
         }
