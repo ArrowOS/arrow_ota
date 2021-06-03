@@ -81,7 +81,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- CLEAN FLASH REQUIRED (If you are coming from build with 4.4 kernel, i.e: before 09.04.2021 build) \r\n\r\n- Updated blobs from LA.UM.9.6.2.r1-04100-89xx.0\r\n- Updated drm widevine to 1.3", 
+      "changelog": "Beta build", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -119,12 +119,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-05-30", 
-                  "datetime": "20210530", 
-                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210530-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210530-GAPPS.zip", 
-                  "sha256": "ad891674cf7582aaffdba91d979702e10d86a6d2682c29618663979671c414bb", 
-                  "size": "1128699631", 
+                  "date": "2021-06-03", 
+                  "datetime": "20210603", 
+                  "filename": "Arrow-v11.0-X00T-UNOFFICIAL-20210603-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-UNOFFICIAL-20210603-GAPPS.zip", 
+                  "sha256": "8f0e653a6a644e05cb378f5d00c58f2718677d26c4805ead91a9b7815507eccf", 
+                  "size": "1138309227", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
