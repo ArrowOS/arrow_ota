@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- ship liba2dpoffload.so from stock (thanks DennySPB)\r\n- AAC/ AptX(HD) codecs for BT audio now work correctly\r\n- (aptx-adaptive / tws likely do not work)", 
-            "date": "2021-06-01", 
-            "datetime": "20210601", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210601-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210601-VANILLA.zip", 
+            "changelog": "- move to SebaUbuntus lineage kernel as it includes Ramiis changes from Lolla & produces less jitter", 
+            "date": "2021-06-03", 
+            "datetime": "20210603", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210603-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210603-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "ee0a9107e31c38cbff01fc2fdd2a2a3fb021fbf8a978c03871b31d48d6f62d25", 
-            "size": "1216805635", 
+            "sha256": "ddc375c113727606515f64a3791680858307ae60826f25058751654f441b1060", 
+            "size": "1216418286", 
             "type": "official", 
             "version": "v11.0"
         }

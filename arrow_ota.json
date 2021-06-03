@@ -297,7 +297,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- test with lineage kernel\r\n- drop Qti BT for now\r\n- test fix for echo on speaker calls\r\n- test sepolicy wakeup labelling", 
+      "changelog": "- move to SebaUbuntus lineage kernel as it includes Ramiis changes from Lolla & produces less jitter", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -319,12 +319,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-01", 
-                  "datetime": "20210601", 
-                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210601-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210601-VANILLA.zip", 
-                  "sha256": "ee0a9107e31c38cbff01fc2fdd2a2a3fb021fbf8a978c03871b31d48d6f62d25", 
-                  "size": "1216805635", 
+                  "date": "2021-06-03", 
+                  "datetime": "20210603", 
+                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210603-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210603-VANILLA.zip", 
+                  "sha256": "ddc375c113727606515f64a3791680858307ae60826f25058751654f441b1060", 
+                  "size": "1216418286", 
                   "type": "official", 
                   "version": "v11.0"
                 }
