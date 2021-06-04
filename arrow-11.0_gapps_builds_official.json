@@ -66,15 +66,15 @@
     "beryllium": [
         {
             "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Build disabled VBMeta image\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-02100-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-06-02", 
-            "datetime": "20210602", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210602-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210602-GAPPS.zip", 
+            "date": "2021-06-04", 
+            "datetime": "20210604", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210604-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210604-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "98eee77b6c605ec969098fbdefac9bdee8bc97ef4de957cecce362b312bd8f47", 
-            "size": "1297041271", 
+            "sha256": "2e7a193b7a2955e0e9da78d156ef0dbdaaa12ed7c646abbd8a94832e488b7206", 
+            "size": "1297025390", 
             "type": "official", 
             "version": "v11.0"
         }
