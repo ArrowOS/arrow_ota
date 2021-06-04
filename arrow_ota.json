@@ -2981,7 +2981,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n28/05/2021\r\n- Fixed KCAL settings\r\n- Switched to OSS graphics stack\r\n- Switched to OSS media stack\r\n- Fixed flicker in YouTube (and other video apps?)\r\n\r\n25/05/2021\r\n- Added aptX support\r\n- Added KCAL settings for color adjustment\r\n- Fixed WiFi Display", 
+      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n04/06/2021\r\n\u2022 Switched to OSS display stack\r\n\u2022 Switched to OSS media stack\r\n\u2022 Fixed KCAL settings\r\n\u2022 Added a preview image to the KCAL settings page\r\n\u2022 Fixed screen flickering completely\r\n\u2022 Reduced delay for device specific settings to apply at boot", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -3003,12 +3003,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-30", 
-                  "datetime": "20210530", 
-                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210530-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210530-VANILLA.zip", 
-                  "sha256": "9f468ab32ea679bef54555a0be16fc729294733aec7376ec62d5daff44af4ca3", 
-                  "size": "1128187284", 
+                  "date": "2021-06-04", 
+                  "datetime": "20210604", 
+                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210604-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210604-VANILLA.zip", 
+                  "sha256": "f81198ef7fa99b1ba9a8f8e41bc0cada64c0df1f17781c53d315ef79965aad81", 
+                  "size": "1119198144", 
                   "type": "official", 
                   "version": "v11.0"
                 }

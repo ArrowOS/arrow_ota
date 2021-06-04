@@ -481,16 +481,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n25/05/2021\r\n- Added aptX support\r\n- Added KCAL settings for color adjustment\r\n- Fixed WiFi Display\r\n\r\n19/05/2021:\r\n- Fixed camera in WhatsApp Web scanner, and Google Duo\r\n- Fixed front camera video resolution\r\n- Switched to OSS camera provider\r\n\r\n14/05/2021:\r\n- Fixed blue/green tint on main camera on the 64MP sweetin variant\r\n- Switched to Arrow kernel\r\n- Enabled call recording on the AOSP dialer\r\n\r\n12/05/2021\r\n- Updated blobs from MIUI 12.0.15.0 Global\r\n- Fixed infrarred blaster\r\n- Cleaned up vendor (reduced zip size 100MB~)\r\n\r\n11/05/2021\r\n- Vendor is now included, more information at the link above\r\n- Added DC dimming support\r\n\r\n01/05/2021\r\n- Switched to the Pixel Power HAL (libperfmgr)\r\n- Improved idle drain\r\n- Fixed headphone buttons\r\n- Fixed yellow tint and improved display colors\r\n- Added WiFi Display support\r\n- Reworked the lights service\r\n- Moved device specific settings into the settings homepage\r\n- Reserved 250MB of space in each dynamic partition for installing addons\r\n- Set default DPI to 392\r\n- Reduced bootanimation start delay\r\n\r\n14/04/2021:\r\n- Initial official release", 
-            "date": "2021-05-25", 
-            "datetime": "20210525", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210525-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210525-VANILLA.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n04/06/2021\r\n\u2022 Switched to OSS display stack\r\n\u2022 Switched to OSS media stack\r\n\u2022 Fixed KCAL settings\r\n\u2022 Added a preview image to the KCAL settings page\r\n\u2022 Fixed screen flickering completely\r\n\u2022 Reduced delay for device specific settings to apply at boot", 
+            "date": "2021-06-04", 
+            "datetime": "20210604", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210604-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210604-VANILLA.zip", 
             "maintainer": "daniml3", 
-            "model": "M2101K6G", 
+            "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "64ec1bcfd67deecd6ec9b48ea8a960bb0cbfd87dff7843dcd1a691c4185baec4", 
-            "size": "1132493155", 
+            "sha256": "f81198ef7fa99b1ba9a8f8e41bc0cada64c0df1f17781c53d315ef79965aad81", 
+            "size": "1119198144", 
             "type": "official", 
             "version": "v11.0"
         }
