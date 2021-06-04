@@ -1,4 +1,20 @@
 {
+    "RMX1801": [
+        {
+            "changelog": null, 
+            "date": "2021-06-04", 
+            "datetime": "20210604", 
+            "filename": "Arrow-v11.0-RMX1801-COMMUNITY-20210604-GAPPS.zip", 
+            "filepath": "/arrow-11.0/RMX1801/Arrow-v11.0-RMX1801-COMMUNITY-20210604-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Realme 2 Pro", 
+            "oem": "oppo", 
+            "sha256": "9299d685f572dd709bb443f77583e027f5e31f3e15f01ee915dc2371bec1fbab", 
+            "size": "1329587920", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "X01AD": [
         {
             "changelog": "- May 2021 Security Patch.\r\n- Tune vibration Pattern.\r\n- Add ASUS Doze.\r\n- Add KCAL & KLAPSE in kernel.\r\n- Enable Dex2oat usage for this device\r\n- Miscellaneous fixes.", 
