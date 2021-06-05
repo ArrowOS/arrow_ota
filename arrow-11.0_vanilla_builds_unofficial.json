@@ -497,16 +497,16 @@
     ], 
     "violet": [
         {
-            "changelog": "check wifi", 
-            "date": "2021-05-17", 
-            "datetime": "20210517", 
-            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20210517-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20210517-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2021-06-05", 
+            "datetime": "20210605", 
+            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20210605-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20210605-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "0fca19050afb26f55bb9751ab05875694ee140919e7e01b82eccfd8479cf2edb", 
-            "size": "985140078", 
+            "sha256": "a258efe365a11acfa23e7099acae15709f70259f83dcf635370a7f4082e5b519", 
+            "size": "985248189", 
             "type": "unofficial", 
             "version": "v11.0"
         }
