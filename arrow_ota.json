@@ -503,12 +503,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-06-01", 
-                  "datetime": "20210601", 
-                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210601-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210601-GAPPS.zip", 
-                  "sha256": "9351ca382e0fdffbdc9da7922c39a7187184691638e0b957e957b71ba8af9045", 
-                  "size": "1119440564", 
+                  "date": "2021-06-05", 
+                  "datetime": "20210605", 
+                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210605-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210605-GAPPS.zip", 
+                  "sha256": "49717aa22be9767bd8f30bf59020a44f917990e43414de64ffc9f8f10f0f9f14", 
+                  "size": "1116759242", 
                   "type": "community", 
                   "version": "v11.0"
                 }
