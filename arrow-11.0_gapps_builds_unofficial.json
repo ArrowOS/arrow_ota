@@ -513,16 +513,16 @@
     ], 
     "violet": [
         {
-            "changelog": "check wifi", 
-            "date": "2021-05-17", 
-            "datetime": "20210517", 
-            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20210517-GAPPS.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20210517-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2021-06-05", 
+            "datetime": "20210605", 
+            "filename": "Arrow-v11.0-violet-UNOFFICIAL-20210605-GAPPS.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-UNOFFICIAL-20210605-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "45600b76991e3b94902b04b20d18ea8a9641cc0b53c2c2580dfae42b9076b7ea", 
-            "size": "1328945532", 
+            "sha256": "6986ad1ee9c5becbf272e150483543525eb95dd35dc19b11dc42d1a15553b132", 
+            "size": "1328239157", 
             "type": "unofficial", 
             "version": "v11.0"
         }
