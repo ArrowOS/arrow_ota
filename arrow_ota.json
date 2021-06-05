@@ -297,7 +297,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- move to SebaUbuntus lineage kernel as it includes Ramiis changes from Lolla & produces less jitter", 
+      "changelog": "- test with lineage kernel\r\n- fix echo on VoIP speaker calls\r\n- test sepolicy wakeup labelling\r\n- fixup some selinux policy\r\n- deep sleep (smp2p) fixed", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -347,12 +347,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-01", 
-                  "datetime": "20210601", 
-                  "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210601-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210601-VANILLA.zip", 
-                  "sha256": "9aecb561677c981f4e924e0582bb72b95967d03dfd193c24d638682725402902", 
-                  "size": "1215371335", 
+                  "date": "2021-06-05", 
+                  "datetime": "20210605", 
+                  "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210605-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210605-VANILLA.zip", 
+                  "sha256": "970798ead0ee7cccb7d6d2e0af0bf08540e762000a48a2e019230b7d04a4dc76", 
+                  "size": "1215430506", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
