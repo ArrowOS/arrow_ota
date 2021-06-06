@@ -66,15 +66,15 @@
     "channel": [
         {
             "changelog": null, 
-            "date": "2021-05-30", 
-            "datetime": "20210530", 
-            "filename": "Arrow-v11.0-channel-COMMUNITY-20210530-VANILLA.zip", 
-            "filepath": "/arrow-11.0/channel/Arrow-v11.0-channel-COMMUNITY-20210530-VANILLA.zip", 
+            "date": "2021-06-06", 
+            "datetime": "20210606", 
+            "filename": "Arrow-v11.0-channel-COMMUNITY-20210606-VANILLA.zip", 
+            "filepath": "/arrow-11.0/channel/Arrow-v11.0-channel-COMMUNITY-20210606-VANILLA.zip", 
             "maintainer": "Deivid Ignacio", 
             "model": "moto g(7) play", 
             "oem": "motorola", 
-            "sha256": "01ea99b2bb8cadae49f556ecff5b753c2abca3731df90c323eb7eaa8f0747881", 
-            "size": "765569092", 
+            "sha256": "b24b121b93fad1f7ffa193106d981c348a8c38f51a7564b9bab027dde58b0649", 
+            "size": "765558867", 
             "type": "community", 
             "version": "v11.0"
         }
