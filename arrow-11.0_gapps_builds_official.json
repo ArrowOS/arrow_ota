@@ -241,16 +241,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "Latest build:\r\n- Set default hotspot name\r\n- Add streaming configuration for thermal-engine\r\n- Fixed thermal-engine spam when boot up\r\n- Optimize dynamic thermal profile\r\n- Fixed color mode\r\n\r\n28/05/21\r\n- Initial official version\r\n- Sync with latest arrowos source\r\n- Selinux Enforcing\r\n- Widevine L1\r\n- Fixed WiFiDisplay\r\n- Force triple frame buffers\r\n- Switch to libperfmgr and tune powerhint\r\n- Enable IORap app launch prefetching\r\n- Use redfin May fingerprint\r\n- Better vibration pattern\r\n- Tune default content padding\r\n- Use QTI Bluetooth Stack\r\n- Make memlat no-op\r\n- Use Pixel offline charging animation\r\n- Fixed live wallpaper laggy issue\r\n- Fixed night light\r\n- Update zram configuration\r\n- Use 128kb readahead for all targets\r\n- Configure SQLite to operate in MEMORY mode\r\n- Enable Smart Charging\r\n- Remove 2GB dalvik heap detection\r\n- Silenced some logspams\r\n- Stop creating useless IOP deamon dirs\r\n- Use Google Camera Go for GApps version\r\n- Enable zygote preforking for faster app launching\r\n- Add proximityCheckOnWake support\r\n- Switch to XiaomiParts\r\n- XiaomiParts: Implement dynamic thermal profiles\r\n- XiaomiParts: Implement KCAL settings\r\n- XiaomiParts: Add some translations\r\n- Fixed google assistant voice match\r\n- Fixed google voice recorder\r\n\r\nNotes:\r\n- Clean flash is required if you flash from community version\r\n- Using OLDCAM blobs", 
-            "date": "2021-05-30", 
-            "datetime": "20210530", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210530-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210530-GAPPS.zip", 
+            "changelog": "Latest build\r\n- Fixed wfd green screen issue\r\n- Disable KCAL setting by default\r\n- Stop balance mdss or kgsl IRQs\r\n- Fixed some log errors\r\n- Kernel: Upstream to v4.4.270\r\n- Kernel: Merge tag LA.UM.9.2.r1-03300-SDMxx0.0\r\n\r\n30/05/21\r\n- Set default hotspot name\r\n- Add streaming configuration for thermal-engine\r\n- Fixed thermal-engine spam when boot up\r\n- Optimize dynamic thermal profile\r\n- Fixed color mode\r\n\r\n28/05/21\r\n- Initial official version\r\n- Sync with latest arrowos source\r\n- Selinux Enforcing\r\n- Widevine L1\r\n- Fixed WiFiDisplay\r\n- Force triple frame buffers\r\n- Switch to libperfmgr and tune powerhint\r\n- Enable IORap app launch prefetching\r\n- Use redfin May fingerprint\r\n- Better vibration pattern\r\n- Tune default content padding\r\n- Use QTI Bluetooth Stack\r\n- Make memlat no-op\r\n- Use Pixel offline charging animation\r\n- Fixed live wallpaper laggy issue\r\n- Fixed night light\r\n- Update zram configuration\r\n- Use 128kb readahead for all targets\r\n- Configure SQLite to operate in MEMORY mode\r\n- Enable Smart Charging\r\n- Remove 2GB dalvik heap detection\r\n- Silenced some logspams\r\n- Stop creating useless IOP deamon dirs\r\n- Use Google Camera Go for GApps version\r\n- Enable zygote preforking for faster app launching\r\n- Add proximityCheckOnWake support\r\n- Switch to XiaomiParts\r\n- XiaomiParts: Implement dynamic thermal profiles\r\n- XiaomiParts: Implement KCAL settings\r\n- XiaomiParts: Add some translations\r\n- Fixed google assistant voice match\r\n- Fixed google voice recorder\r\n\r\nNotes:\r\n- Clean flash is required if you flash from community version\r\n- Using OLDCAM blobs", 
+            "date": "2021-06-06", 
+            "datetime": "20210606", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210606-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210606-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "ab08a8f604bfb3b9280d500294216cc8bab579fefa3ed7e88fc9a0cb91b46dc9", 
-            "size": "1266105165", 
+            "sha256": "c1630fc1f3e6915ba9975fdc94f0ac67bb0250194f01e5b334e83c346cadba7a", 
+            "size": "1266598250", 
             "type": "official", 
             "version": "v11.0"
         }
