@@ -1411,12 +1411,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-05-31", 
-                  "datetime": "20210531", 
-                  "filename": "Arrow-v11.0-kebab-COMMUNITY-20210531-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210531-VANILLA.zip", 
-                  "sha256": "9a103f8cdc097f36946f5e57092d5e305375394f94a15603d5f3c0ab8c70570a", 
-                  "size": "1073811471", 
+                  "date": "2021-06-07", 
+                  "datetime": "20210607", 
+                  "filename": "Arrow-v11.0-kebab-COMMUNITY-20210607-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210607-VANILLA.zip", 
+                  "sha256": "a60200da65f901e017db8dfe58832cc5fd35789e6d80e30625c21ad513366251", 
+                  "size": "1073955583", 
                   "type": "community", 
                   "version": "v11.0"
                 }
