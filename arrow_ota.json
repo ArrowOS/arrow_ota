@@ -297,7 +297,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- test with lineage kernel\r\n- fix echo on VoIP speaker calls\r\n- test sepolicy wakeup labelling\r\n- fixup some selinux policy\r\n- deep sleep (smp2p) fixed", 
+      "changelog": "- Fix speaker echo on voip calls (telegram etc)\r\n- Fix deep sleep issues from smp2p-sleepstate (verified by many users since last build)", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -319,12 +319,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-03", 
-                  "datetime": "20210603", 
-                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210603-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210603-VANILLA.zip", 
-                  "sha256": "ddc375c113727606515f64a3791680858307ae60826f25058751654f441b1060", 
-                  "size": "1216418286", 
+                  "date": "2021-06-07", 
+                  "datetime": "20210607", 
+                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210607-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210607-VANILLA.zip", 
+                  "sha256": "112c167c1e4e73932a74eef16eaf6cac8f5975d63e22f13eff12d3b2fc7b6da3", 
+                  "size": "1216424809", 
                   "type": "official", 
                   "version": "v11.0"
                 }
