@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": null, 
-            "date": "2021-05-19", 
-            "datetime": "20210519", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210519-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210519-GAPPS.zip", 
+            "changelog": "- First official builds.", 
+            "date": "2021-06-07", 
+            "datetime": "20210607", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210607-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210607-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "c82f8ca1ca11639a12ffdd9ed4d8f414e41c6d84deaba96e9db7180601780e8e", 
-            "size": "1450611238", 
+            "sha256": "f2154d1385969514c644893774b5ab037d1a032fda76c5548b1bd97e34d1375f", 
+            "size": "1450514244", 
             "type": "official", 
             "version": "v11.0"
         }
