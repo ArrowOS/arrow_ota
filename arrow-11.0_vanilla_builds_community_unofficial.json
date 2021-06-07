@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "- May 2021 Security Patch.\r\n- Tune vibration Pattern.\r\n- Add ASUS Doze.\r\n- Add KCAL & KLAPSE in kernel.\r\n- Enable Dex2oat usage for this device\r\n- Miscellaneous fixes.", 
-            "date": "2021-05-18", 
-            "datetime": "20210518", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210518-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210518-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2021-06-07", 
+            "datetime": "20210607", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210607-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210607-VANILLA.zip", 
             "maintainer": "Arka", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "e4fa72248fa338260adbda0dbe8fc9675d1cbed370bc6b7dfd734c925bcf101d", 
-            "size": "855598888", 
+            "sha256": "38466f753f47d7920302784516c6109aa9bc87e9a9bf26fc670002e2f46ffd2d", 
+            "size": "858452415", 
             "type": "community", 
             "version": "v11.0"
         }
