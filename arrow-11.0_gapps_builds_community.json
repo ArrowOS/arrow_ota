@@ -33,16 +33,16 @@
     ], 
     "cas": [
         {
-            "changelog": "1. Update blobs to V12.5.1", 
-            "date": "2021-05-31", 
-            "datetime": "20210531", 
-            "filename": "Arrow-v11.0-cas-COMMUNITY-20210531-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210531-GAPPS.zip", 
+            "changelog": "1. Update blobs to 21.3.24\r\n2. Switch to oss kernel", 
+            "date": "2021-06-07", 
+            "datetime": "20210607", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210607-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210607-GAPPS.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "cc3c47133fcdf6c0b50b2252a5cd246662bfe139abf8c6fc4fcf692ab7e38f0f", 
-            "size": "1119433203", 
+            "sha256": "78cb9d8e4d2395ccaa59bdb44869565b127a4d4f551a2764552c83d6cc979a90", 
+            "size": "1116782894", 
             "type": "community", 
             "version": "v11.0"
         }
