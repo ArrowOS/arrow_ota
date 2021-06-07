@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- move to SebaUbuntus lineage kernel as it includes Ramiis changes from Lolla & produces less jitter", 
-            "date": "2021-06-03", 
-            "datetime": "20210603", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210603-GAPPS.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210603-GAPPS.zip", 
+            "changelog": "- Fix speaker echo on voip calls (telegram etc)\r\n- Fix deep sleep issues from smp2p-sleepstate (verified by many users since last build)", 
+            "date": "2021-06-07", 
+            "datetime": "20210607", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210607-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210607-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "fa34365d529e41e4f00fca2a8bae21feaaccecd79aac5b840a242afb026dbaa3", 
-            "size": "1566728691", 
+            "sha256": "34fcc982c571cf93c985b01f2dfd0999517218388c255759a4eb64d38e1c7a27", 
+            "size": "1566753648", 
             "type": "official", 
             "version": "v11.0"
         }
