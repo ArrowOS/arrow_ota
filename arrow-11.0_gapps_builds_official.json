@@ -466,15 +466,15 @@
     "sweet": [
         {
             "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n04/06/2021\r\n\u2022 Switched to OSS display stack\r\n\u2022 Switched to OSS media stack\r\n\u2022 Fixed KCAL settings\r\n\u2022 Added a preview image to the KCAL settings page\r\n\u2022 Fixed screen flickering completely\r\n\u2022 Reduced delay for device specific settings to apply at boot", 
-            "date": "2021-06-04", 
-            "datetime": "20210604", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210604-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210604-GAPPS.zip", 
+            "date": "2021-06-08", 
+            "datetime": "20210608", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210608-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210608-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "a68833accd77ddbae1069ae6ff1c95e52178dc526972f189ce3e5f02eae0a910", 
-            "size": "1470125373", 
+            "sha256": "d54a9910fb7abf7b3a19a3e656bb50ee90b4c33c8786c210bafbb99c004f0e3d", 
+            "size": "1470604214", 
             "type": "official", 
             "version": "v11.0"
         }
