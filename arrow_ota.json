@@ -1497,7 +1497,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "Latest build\r\n- Fixed wfd green screen issue\r\n- Disable KCAL setting by default\r\n- Stop balance mdss or kgsl IRQs\r\n- Fixed some log errors\r\n- Kernel: Upstream to v4.4.270\r\n- Kernel: Merge tag LA.UM.9.2.r1-03300-SDMxx0.0\r\n\r\n30/05/21\r\n- Set default hotspot name\r\n- Add streaming configuration for thermal-engine\r\n- Fixed thermal-engine spam when boot up\r\n- Optimize dynamic thermal profile\r\n- Fixed color mode\r\n\r\n28/05/21\r\n- Initial official version\r\n- Sync with latest arrowos source\r\n- Selinux Enforcing\r\n- Widevine L1\r\n- Fixed WiFiDisplay\r\n- Force triple frame buffers\r\n- Switch to libperfmgr and tune powerhint\r\n- Enable IORap app launch prefetching\r\n- Use redfin May fingerprint\r\n- Better vibration pattern\r\n- Tune default content padding\r\n- Use QTI Bluetooth Stack\r\n- Make memlat no-op\r\n- Use Pixel offline charging animation\r\n- Fixed live wallpaper laggy issue\r\n- Fixed night light\r\n- Update zram configuration\r\n- Use 128kb readahead for all targets\r\n- Configure SQLite to operate in MEMORY mode\r\n- Enable Smart Charging\r\n- Remove 2GB dalvik heap detection\r\n- Silenced some logspams\r\n- Stop creating useless IOP deamon dirs\r\n- Use Google Camera Go for GApps version\r\n- Enable zygote preforking for faster app launching\r\n- Add proximityCheckOnWake support\r\n- Switch to XiaomiParts\r\n- XiaomiParts: Implement dynamic thermal profiles\r\n- XiaomiParts: Implement KCAL settings\r\n- XiaomiParts: Add some translations\r\n- Fixed google assistant voice match\r\n- Fixed google voice recorder\r\n\r\nNotes:\r\n- Clean flash is required if you flash from community version\r\n- Using OLDCAM blobs", 
+      "changelog": null, 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1575,12 +1575,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-03", 
-                  "datetime": "20210603", 
-                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210603-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210603-VANILLA.zip", 
-                  "sha256": "2ab2e6dadc337e8ede6fc578f9b5393ef9c3f5c708e3d3cf6ed9ed132fe3b9fe", 
-                  "size": "909669554", 
+                  "date": "2021-06-08", 
+                  "datetime": "20210608", 
+                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210608-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210608-VANILLA.zip", 
+                  "sha256": "c6ff4198f555c6843a275b7c0b4949cf3d07e0f7a9a81f294a15f229add9e1e8", 
+                  "size": "910776859", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
