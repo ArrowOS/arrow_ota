@@ -449,16 +449,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Implement dc dimming\r\nRepair DC dimming failure after restart\r\nFix UAF race\r\nFsync after block device writes\r\nFix color mode enhanced color loss", 
-            "date": "2021-05-19", 
-            "datetime": "20210519", 
-            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210519-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210519-GAPPS.zip", 
+            "changelog": "Update Kernel to 4.4.271\r\nEnable Smart Charging\r\nSwitch Skia rendering backend to OpenGL", 
+            "date": "2021-06-08", 
+            "datetime": "20210608", 
+            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210608-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210608-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "b7e63bbd7a40e554a742cbc6f3ac24010e2f948f74d72e4e803ef28115eb5c53", 
-            "size": "1129132761", 
+            "sha256": "f7cd2ef848c2ac64b6ec0ff64724ef5bbd61e62d47feebbe884f9d04ee0d3ddf", 
+            "size": "1129247276", 
             "type": "unofficial", 
             "version": "v11.0"
         }
