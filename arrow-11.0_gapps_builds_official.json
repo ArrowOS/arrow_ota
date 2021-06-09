@@ -210,15 +210,15 @@
     "ginkgo": [
         {
             "changelog": "- Switched to sdclang 12 for kernel compilation", 
-            "date": "2021-06-07", 
-            "datetime": "20210607", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210607-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210607-GAPPS.zip", 
+            "date": "2021-06-09", 
+            "datetime": "20210609", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210609-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210609-GAPPS.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "7d830b36ff0b66f233f4f354dabb38efb351271c19c601b939bc3113a10c991b", 
-            "size": "1311766456", 
+            "sha256": "41d40fa9f3512940b238182887839008ed457072dec1c53e78fde87c23d51785", 
+            "size": "1310450678", 
             "type": "official", 
             "version": "v11.0"
         }
