@@ -49,7 +49,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Fix speaker echo on voip calls (telegram etc)\r\n- Fix deep sleep issues from smp2p-sleepstate (verified by many users since last build)", 
+            "changelog": "- Update fingerprint to June. Device will now pass safetynet with June security patches", 
             "date": "2021-06-09", 
             "datetime": "20210609", 
             "filename": "Arrow-v11.0-apollo-OFFICIAL-20210609-VANILLA.zip", 
@@ -57,8 +57,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "d15daa9793bb61559238ff2fb0de0c3d06d9f6df7a9c9ac8a66a4322857b00fa", 
-            "size": "1217354193", 
+            "sha256": "b8a4749909ce709eab6188efd7ab46c193536ed9f120e370cfd17d778e583fcb", 
+            "size": "1217322841", 
             "type": "official", 
             "version": "v11.0"
         }
