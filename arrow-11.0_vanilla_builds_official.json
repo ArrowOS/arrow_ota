@@ -50,15 +50,15 @@
     "apollo": [
         {
             "changelog": "- Fix speaker echo on voip calls (telegram etc)\r\n- Fix deep sleep issues from smp2p-sleepstate (verified by many users since last build)", 
-            "date": "2021-06-07", 
-            "datetime": "20210607", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210607-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210607-VANILLA.zip", 
+            "date": "2021-06-09", 
+            "datetime": "20210609", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210609-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210609-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "112c167c1e4e73932a74eef16eaf6cac8f5975d63e22f13eff12d3b2fc7b6da3", 
-            "size": "1216424809", 
+            "sha256": "d15daa9793bb61559238ff2fb0de0c3d06d9f6df7a9c9ac8a66a4322857b00fa", 
+            "size": "1217354193", 
             "type": "official", 
             "version": "v11.0"
         }
