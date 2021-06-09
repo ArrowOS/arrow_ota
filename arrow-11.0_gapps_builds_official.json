@@ -354,15 +354,15 @@
     "phoenix": [
         {
             "changelog": "\u2022 Fixed Netflix glitch issue\r\n\u2022 Switch StormBreaker ( based on phoenix-r-oss )\r\n\u2022 Switch to dynamic refresh rate\r\n\u2022 import atfwd@2.0.policy and added some missing GPS libs from V12.1.3.0.RGHINXM (Thnx to @chiru2000 for point them out) \r\n\u2022 Added Chinese(zh-CN) translation for parts\r\n\u2022 Added hotword enrollment blobs\r\n\u2022 Added Alipay fingerprint payment support\r\n\u2022 Adjust qs header padding a bit\r\n\u2022 Fixed wfd\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-05-29", 
-            "datetime": "20210529", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210529-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210529-GAPPS.zip", 
+            "date": "2021-06-09", 
+            "datetime": "20210609", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210609-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210609-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "1f889be755dbca460a66c539678bc71feca564dca51f68c265213ec5aafd5b69", 
-            "size": "1423120369", 
+            "sha256": "d4928ab793663e934432f3ba6eaab0e90b75126b8bc730f5d2ee68dc0a14f492", 
+            "size": "1421693705", 
             "type": "official", 
             "version": "v11.0"
         }
