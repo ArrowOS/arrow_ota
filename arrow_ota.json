@@ -257,7 +257,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- First official builds.", 
+      "changelog": "- Add missed props\r\n- Use CAF CarrierConfig (LA.UM.9.12.r1-11500-SMxx50.0)\r\n- Use common QTI power HAL\r\n- Remove touchfeature HAL\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -279,12 +279,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-08", 
-                  "datetime": "20210608", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210608-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210608-VANILLA.zip", 
-                  "sha256": "098f4aaf00461eabc1b49ef28cbf09b1afd85b852331952cb74f3b9a58554328", 
-                  "size": "1169125553", 
+                  "date": "2021-06-10", 
+                  "datetime": "20210610", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210610-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210610-VANILLA.zip", 
+                  "sha256": "1e93ea46e599253e2e185f600bb47fd1640b02077f97c02816d70437e732de22", 
+                  "size": "1169176240", 
                   "type": "official", 
                   "version": "v11.0"
                 }

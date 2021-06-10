@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Fix vulkan driver (fixed crash apps, which use it)\r\n- Fix set media profiles (fixed 1080p video for front camera)\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge CAF tag LA.UM.9.12.r1-11500-SMxx50.0\r\n- Cleanup Xiaomi code\r\n- Add SDFAT driver\r\n- Many fixes and improve changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-06-04", 
-            "datetime": "20210604", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210604-VANILLA.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210604-VANILLA.zip", 
+            "changelog": "- Add missed props\r\n- Use CAF CarrierConfig (LA.UM.9.12.r1-11500-SMxx50.0)\r\n- Use common QTI power HAL\r\n- Remove touchfeature HAL\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-06-10", 
+            "datetime": "20210610", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210610-VANILLA.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210610-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "8365014f970ffa5572726d3360f36665a8918f1c7a627224a1e9c92178336da5", 
-            "size": "1167893561", 
+            "sha256": "1e93ea46e599253e2e185f600bb47fd1640b02077f97c02816d70437e732de22", 
+            "size": "1169176240", 
             "type": "official", 
             "version": "v11.0"
         }
