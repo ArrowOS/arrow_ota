@@ -223,6 +223,22 @@
             "version": "v11.0"
         }
     ], 
+    "r5x": [
+        {
+            "changelog": "1. Enforcing.\r\n2. Community Build.", 
+            "date": "2021-06-10", 
+            "datetime": "20210610", 
+            "filename": "Arrow-v11.0-r5x-COMMUNITY-20210610-GAPPS.zip", 
+            "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210610-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Realme 5 Series", 
+            "oem": "Realme", 
+            "sha256": "8e5752a70d7b22a9808fc2efa23c5e7f1af457475ff73de9ca3e01b9d86eb4f9", 
+            "size": "1378403296", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "raphael": [
         {
             "changelog": "This build comes with OSS Vendor and requires only the MIUI Q firmware.", 
