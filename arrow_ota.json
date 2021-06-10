@@ -3073,7 +3073,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "Update Kernel to 4.4.271\r\nEnable Smart Charging\r\nSwitch Skia rendering backend to OpenGL", 
+      "changelog": "Update Kernel to 4.4.272\r\nEnable Smart Charging\r\nUpdate Now Playing database\r\nSwitch Skia rendering backend to OpenGL\r\nEnable K-Lapse", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -3111,12 +3111,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-06-08", 
-                  "datetime": "20210608", 
-                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210608-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210608-GAPPS.zip", 
-                  "sha256": "f7cd2ef848c2ac64b6ec0ff64724ef5bbd61e62d47feebbe884f9d04ee0d3ddf", 
-                  "size": "1129247276", 
+                  "date": "2021-06-10", 
+                  "datetime": "20210610", 
+                  "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210610-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210610-GAPPS.zip", 
+                  "sha256": "c9651187b4fdf9e52f410c1f4c990306fbde709479ebdc0c7d96de1b4c0d68d7", 
+                  "size": "1128095344", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
