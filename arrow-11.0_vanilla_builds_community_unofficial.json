@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": null, 
-            "date": "2021-06-07", 
-            "datetime": "20210607", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210607-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210607-VANILLA.zip", 
+            "changelog": "- Switch to stormbreaker\r\n- Misc fixes", 
+            "date": "2021-06-11", 
+            "datetime": "20210611", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210611-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210611-VANILLA.zip", 
             "maintainer": "Arka", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "38466f753f47d7920302784516c6109aa9bc87e9a9bf26fc670002e2f46ffd2d", 
-            "size": "858452415", 
+            "sha256": "b6ce814b2baeda186be3e5d84da441c2b47f84816b1c070977f49e08b955be78", 
+            "size": "858873002", 
             "type": "community", 
             "version": "v11.0"
         }
