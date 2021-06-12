@@ -370,15 +370,15 @@
     "polaris": [
         {
             "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Build disabled VBMeta image\r\n- Switch to brightness float values\r\n- Tune up brightness values \r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-01700-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-05-29", 
-            "datetime": "20210529", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210529-GAPPS.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210529-GAPPS.zip", 
+            "date": "2021-06-12", 
+            "datetime": "20210612", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210612-GAPPS.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210612-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "40c65b06cad5511f2425d279fd7d66cf5a3f1cea7356a2152ae8273d90837b05", 
-            "size": "1309531448", 
+            "sha256": "607377c4c28fbb11de474220ea0f582355a698b8799540e1d9a92f919066fd52", 
+            "size": "1309115480", 
             "type": "official", 
             "version": "v11.0"
         }
