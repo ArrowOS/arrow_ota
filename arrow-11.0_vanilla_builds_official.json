@@ -369,16 +369,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "\u2022 Fixed Netflix glitch issue\r\n\u2022 Switch StormBreaker ( based on phoenix-r-oss )\r\n\u2022 Switch to dynamic refresh rate\r\n\u2022 import atfwd@2.0.policy and added some missing GPS libs from V12.1.3.0.RGHINXM (Thnx to @chiru2000 for point them out) \r\n\u2022 Added Chinese(zh-CN) translation for parts\r\n\u2022 Added hotword enrollment blobs\r\n\u2022 Added Alipay fingerprint payment support\r\n\u2022 Adjust qs header padding a bit\r\n\u2022 Fixed wfd\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-06-09", 
-            "datetime": "20210609", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210609-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210609-VANILLA.zip", 
+            "changelog": "\u2022 Dropped Smart Changing\r\n\u2022 Update blobs from PHOENIX 21.6.2 Chinese weekly\r\n\u2022 Bump charging speeds\r\n\u2022 Added overlay for masking the notch in dev options\r\n\u2022 Upstream kernel to 4.14.221\r\n\u2022 Added kcal support to the kernel\r\n\u2022 Upstream to 1.0.20210606 snapshot\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+            "date": "2021-06-12", 
+            "datetime": "20210612", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210612-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210612-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "1efc1426bad894b34c5688c45a78d2470c7fe94cf2654f68399fc132ba3dab87", 
-            "size": "1079124074", 
+            "sha256": "51fb0b98c5de7fa83ddcbdc499099e234c3990d248d24819472cb24a11d95f2f", 
+            "size": "1079203036", 
             "type": "official", 
             "version": "v11.0"
         }
