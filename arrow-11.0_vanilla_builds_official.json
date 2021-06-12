@@ -210,15 +210,15 @@
     "gauguin": [
         {
             "changelog": "- Fixed dynamic refresh rate not going above 90hz.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
-            "date": "2021-05-29", 
-            "datetime": "20210529", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210529-VANILLA.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210529-VANILLA.zip", 
+            "date": "2021-06-12", 
+            "datetime": "20210612", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210612-VANILLA.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210612-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "2b45591f025a95eddee39661bef8a71c7ce0cbce70d55cf0eb6211fd768c0a83", 
-            "size": "741869185", 
+            "sha256": "4884f1c28ed3bbeb3f8611773d2c3935332ca092b378008a03b9ab963fef22e1", 
+            "size": "743207855", 
             "type": "official", 
             "version": "v11.0"
         }
