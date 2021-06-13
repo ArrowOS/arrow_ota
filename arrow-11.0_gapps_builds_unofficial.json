@@ -274,16 +274,16 @@
     "monet": [
         {
             "changelog": "- Misc fixes and upstream changes.", 
-            "date": "2021-06-02", 
-            "datetime": "20210602", 
-            "filename": "Arrow-v11.0-monet-OFFICIAL-20210602-GAPPS.zip", 
-            "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210602-GAPPS.zip", 
+            "date": "2021-06-13", 
+            "datetime": "20210613", 
+            "filename": "Arrow-v11.0-monet-UNOFFICIAL-20210613-GAPPS.zip", 
+            "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-UNOFFICIAL-20210613-GAPPS.zip", 
             "maintainer": "Bauuuuu, palaych", 
             "model": "Mi 10 Lite 5G", 
             "oem": "Xiaomi", 
-            "sha256": "944d551a7abb17eb50c8e33eaef987250953a47f9f23d0f47dd75a59a73d3d29", 
-            "size": "1054980172", 
-            "type": "official", 
+            "sha256": "824a65e615c5780d36e42a117e42a8c49c5cd1593a15a4fe6c927f31af42c63d", 
+            "size": "1633687554", 
+            "type": "unofficial", 
             "version": "v11.0"
         }
     ], 
