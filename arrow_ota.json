@@ -613,7 +613,7 @@
   ], 
   "cheeseburger": [
     {
-      "changelog": "- Upstream changes\r\n- Fixed camera access for FaceUnlock", 
+      "changelog": null, 
       "maintainer": "Bauuuuu", 
       "model": "ONEPLUS A5000", 
       "oem": "OnePlus", 
@@ -635,12 +635,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-12", 
-                  "datetime": "20210612", 
-                  "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210612-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210612-VANILLA.zip", 
-                  "sha256": "4d3f8792e93ba551567654d7b0b67d356660fcaa44d7673c3f0a5798b20c8faa", 
-                  "size": "829111490", 
+                  "date": "2021-06-14", 
+                  "datetime": "20210614", 
+                  "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210614-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210614-VANILLA.zip", 
+                  "sha256": "879013bba4cf0e53b302583391264611527350fc9c647de08a545e573286ae41", 
+                  "size": "829028223", 
                   "type": "official", 
                   "version": "v11.0"
                 }
