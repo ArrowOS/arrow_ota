@@ -130,16 +130,16 @@
     "dumpling": [
         {
             "changelog": "-", 
-            "date": "2021-05-23", 
-            "datetime": "20210523", 
-            "filename": "Arrow-v11.0-dumpling-UNOFFICIAL-20210523-VANILLA.zip", 
-            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-UNOFFICIAL-20210523-VANILLA.zip", 
+            "date": "2021-06-14", 
+            "datetime": "20210614", 
+            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210614-VANILLA.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210614-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5010", 
             "oem": "OnePlus", 
-            "sha256": "2eb731448b2335e9c24aaf2d829acd897f6513d82b9a68609e8d2a5dec997739", 
-            "size": "826646259", 
-            "type": "unofficial", 
+            "sha256": "1caf9052df89ce48ad65fafa5a6c6e57ee76fb662ca149f340a58199c2e8423d", 
+            "size": "829271581", 
+            "type": "official", 
             "version": "v11.0"
         }
     ], 
