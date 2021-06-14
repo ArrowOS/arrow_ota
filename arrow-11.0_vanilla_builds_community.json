@@ -159,6 +159,22 @@
             "version": "v11.0"
         }
     ], 
+    "kebab": [
+        {
+            "changelog": "Introduce raise to wake gesture", 
+            "date": "2021-06-14", 
+            "datetime": "20210614", 
+            "filename": "Arrow-v11.0-kebab-COMMUNITY-20210614-VANILLA.zip", 
+            "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210614-VANILLA.zip", 
+            "maintainer": "java67", 
+            "model": "KB2000", 
+            "oem": "OnePlus", 
+            "sha256": "2f9db43a9a4264b4a9a4ac0fbf99817b10eea39d47e75022792b833d11cf1a9c", 
+            "size": "1075067765", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
