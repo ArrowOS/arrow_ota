@@ -1497,8 +1497,8 @@
   ], 
   "lavender": [
     {
-      "changelog": "Latest build:\r\n- Switch to redfin June fingerprint\r\n- Fixed \"Google Play system update fail to install the update\"\r\n- Removed some duplicated configurations", 
-      "maintainer": "Ratoriku, Hazama25", 
+      "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
+      "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -1519,12 +1519,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-10", 
-                  "datetime": "20210610", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210610-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210610-VANILLA.zip", 
-                  "sha256": "ff1027702905c61a5c49e4699fba0be839480131069dca09d4aad13e68f522eb", 
-                  "size": "972680151", 
+                  "date": "2021-06-14", 
+                  "datetime": "20210614", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210614-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210614-VANILLA.zip", 
+                  "sha256": "dfef7a3b06312e47d30f5165a0f8bf2014f3d38666fe151801b58e0f6de1c825", 
+                  "size": "972667779", 
                   "type": "community", 
                   "version": "v11.0"
                 }
