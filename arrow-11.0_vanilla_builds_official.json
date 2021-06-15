@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Update fingerprint to June. Device will now pass safetynet with June security patches", 
-            "date": "2021-06-09", 
-            "datetime": "20210609", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210609-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210609-VANILLA.zip", 
+            "changelog": "- actually update fingerprint this time. All working now", 
+            "date": "2021-06-15", 
+            "datetime": "20210615", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210615-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210615-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "b8a4749909ce709eab6188efd7ab46c193536ed9f120e370cfd17d778e583fcb", 
-            "size": "1217322841", 
+            "sha256": "095333fe5fc8d0239b5f5200fe6afacb2759aaca6c59ceec426c482f261cc8b4", 
+            "size": "1216931579", 
             "type": "official", 
             "version": "v11.0"
         }
