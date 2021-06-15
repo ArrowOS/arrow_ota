@@ -1351,7 +1351,7 @@
     {
       "changelog": null, 
       "maintainer": "John Paul Patigas", 
-      "model": "POCO M3 / Redmi 9T", 
+      "model": "Juice", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
@@ -1375,8 +1375,8 @@
                   "datetime": "20210615", 
                   "filename": "Arrow-v11.0-juice-COMMUNITY-20210615-VANILLA.zip", 
                   "filepath": "/arrow-11.0/juice/Arrow-v11.0-juice-COMMUNITY-20210615-VANILLA.zip", 
-                  "sha256": "2677c44d6baec6a1d5ed7dc10f3509f2e1e74797e989387ac7af95de99ac4dc5", 
-                  "size": "729556625", 
+                  "sha256": "982809c2d8a54daf4b8b091f87226bc80ea1108bb680dd59eb969e054a378e0b", 
+                  "size": "729568636", 
                   "type": "community", 
                   "version": "v11.0"
                 }
