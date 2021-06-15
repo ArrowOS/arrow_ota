@@ -130,15 +130,15 @@
     "juice": [
         {
             "changelog": null, 
-            "date": "2021-06-09", 
-            "datetime": "20210609", 
-            "filename": "Arrow-v11.0-juice-COMMUNITY-20210609-VANILLA.zip", 
-            "filepath": "/arrow-11.0/juice/Arrow-v11.0-juice-COMMUNITY-20210609-VANILLA.zip", 
+            "date": "2021-06-15", 
+            "datetime": "20210615", 
+            "filename": "Arrow-v11.0-juice-COMMUNITY-20210615-VANILLA.zip", 
+            "filepath": "/arrow-11.0/juice/Arrow-v11.0-juice-COMMUNITY-20210615-VANILLA.zip", 
             "maintainer": "John Paul Patigas", 
-            "model": "Juice", 
+            "model": "POCO M3 / Redmi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "aa0952b588964e2c2ffb3658a3a5f3d22ca65c1317e0fe29b0914e757f7ef8f5", 
-            "size": "734787736", 
+            "sha256": "2677c44d6baec6a1d5ed7dc10f3509f2e1e74797e989387ac7af95de99ac4dc5", 
+            "size": "729556625", 
             "type": "community", 
             "version": "v11.0"
         }
