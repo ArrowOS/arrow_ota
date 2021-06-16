@@ -209,16 +209,16 @@
     ], 
     "r5x": [
         {
-            "changelog": "1. Enforcing.\r\n2. Community Build.", 
-            "date": "2021-06-09", 
-            "datetime": "20210609", 
-            "filename": "Arrow-v11.0-r5x-COMMUNITY-20210609-VANILLA.zip", 
-            "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210609-VANILLA.zip", 
+            "changelog": "1. Reboot and 50% fixed.\r\n2. Enabled Zygote preforking.\r\n3. Updated June Redfin FP. \r\n4. Status bar padding fixed.\r\n5. Probable Rounded corners fixed.", 
+            "date": "2021-06-16", 
+            "datetime": "20210616", 
+            "filename": "Arrow-v11.0-r5x-COMMUNITY-20210616-VANILLA.zip", 
+            "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210616-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Realme 5 Series", 
             "oem": "Realme", 
-            "sha256": "df2ad3e2025b1c41805dafce17ea5178bb8aabb6cf533fed8df78c47da246caa", 
-            "size": "1037448828", 
+            "sha256": "61e120def8d47919a368c56b028477cdd9908e3f49d78d3aeeeeda43398c6501", 
+            "size": "1037619783", 
             "type": "community", 
             "version": "v11.0"
         }
