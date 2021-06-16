@@ -449,16 +449,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Update Kernel to 4.4.272\r\nEnable Smart Charging\r\nUpdate Now Playing database\r\nSwitch Skia rendering backend to OpenGL\r\nEnable K-Lapse\r\nRemove Pixel 2016 exclusive xml", 
-            "date": "2021-06-12", 
-            "datetime": "20210612", 
-            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210612-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210612-GAPPS.zip", 
+            "changelog": "Hide user facing crash dialog for EUICC app\r\nFix Smart Charging Sepolicy", 
+            "date": "2021-06-16", 
+            "datetime": "20210616", 
+            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210616-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210616-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "7951db94489e55823395b5cc2af722ab8d59f270f8c281a12c1c9ebdffee189f", 
-            "size": "1128080878", 
+            "sha256": "e3ce04d19047d5a2c3c68be11f5af173a21dea16eeea6d853f60168f36fe79c1", 
+            "size": "1128079240", 
             "type": "unofficial", 
             "version": "v11.0"
         }
