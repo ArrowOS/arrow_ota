@@ -289,16 +289,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": null, 
-            "date": "2021-06-09", 
-            "datetime": "20210609", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210609-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210609-VANILLA.zip", 
+            "changelog": "Device Changelogs:\r\n\r\n\u2022 Upstreamed kernel to 4.14.235\r\n\u2022 Merged latest tag LA.UM.9.1.r1-10200-SMxx0.0 in kernel\r\n\u2022 Updated build fingerprint to Redfin June\r\n\u2022 Enabled Press/Touch to unlock with power button feature\r\n\u2022 Added bass booster preset in Dirac\r\n\u2022 Switched to prebuilt audio hal (Fixes all audio related OOTBs)\r\n\u2022 Updated PowerOffAlarm and Timeservices from Nubia NX627J\r\n\u2022 Enabled IORap app launch prefetching\r\n\u2022 Added Alipay fingerprint payment support\r\n\u2022 Set quick qs offset height to status bar height\r\n\u2022 Dyanamically load widevine blobs (Fixes widevine L1 OOTB of non curtana users, credits Ramisky)\r\n\u2022 Enabled userspace LMK in perfconfigstore\r\n\u2022 Dropped Hotword Enrollment blobs", 
+            "date": "2021-06-16", 
+            "datetime": "20210616", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210616-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210616-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "2a59faffd8af0bb77105428ff8f58ef18479f370c16998aaa62ba8e5a32f34a2", 
-            "size": "1380305142", 
+            "sha256": "ed2156e9292531869cc73fea4ddcff76178dc71198b3f8dee6a0bdf26bf958fe", 
+            "size": "1379558450", 
             "type": "official", 
             "version": "v11.0"
         }
