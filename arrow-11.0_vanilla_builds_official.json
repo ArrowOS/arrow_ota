@@ -466,15 +466,15 @@
     "surya": [
         {
             "changelog": "- Fixed issues related to NFC.\r\n- Misc updates.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
-            "date": "2021-06-15", 
-            "datetime": "20210615", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210615-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210615-VANILLA.zip", 
+            "date": "2021-06-16", 
+            "datetime": "20210616", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210616-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210616-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "645fdfa1ead073338ee066973e4cd9f661456a8ee7dcc5aa99b60754e1a5edfc", 
-            "size": "1091157485", 
+            "sha256": "526ee5e30df8d26e8eccf2dde2c5d7b1c20988e9d25965e6eb7c77013ccd168a", 
+            "size": "1091165704", 
             "type": "official", 
             "version": "v11.0"
         }
