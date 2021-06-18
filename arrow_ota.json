@@ -279,12 +279,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-15", 
-                  "datetime": "20210615", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210615-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210615-VANILLA.zip", 
-                  "sha256": "9cd5efc4c97c09ac545da586e2946ddf5f6fc90d32fe38291bd7ea1f09babbed", 
-                  "size": "1169193366", 
+                  "date": "2021-06-18", 
+                  "datetime": "20210618", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210618-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210618-VANILLA.zip", 
+                  "sha256": "6914dc40f0d2d0cbeac47d66732810a007eb2492021547562428bb81b4c8321f", 
+                  "size": "1169186871", 
                   "type": "official", 
                   "version": "v11.0"
                 }
