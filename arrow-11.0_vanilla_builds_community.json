@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "- May 2021 Security Patch.\r\n- Tune vibration Pattern.\r\n- Miscellaneous fixes.", 
-            "date": "2021-06-12", 
-            "datetime": "20210612", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210612-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210612-VANILLA.zip", 
+            "changelog": "- Switch to stormbreaker\r\n- Misc fixes", 
+            "date": "2021-06-18", 
+            "datetime": "20210618", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210618-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210618-VANILLA.zip", 
             "maintainer": "Arka", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "9300340f66c242fa7b130bc0a08a060ca40cbd801a2d8ab5f9d14f49f203a39e", 
-            "size": "861947000", 
+            "sha256": "bdf3eefe544a6d65c9264504960927f6e07800566168607c5622778cc36ca997", 
+            "size": "863570625", 
             "type": "community", 
             "version": "v11.0"
         }
