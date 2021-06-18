@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- test with lineage kernel\r\n- fix echo on VoIP speaker calls\r\n- test sepolicy wakeup labelling\r\n- fixup some selinux policy\r\n- deep sleep (smp2p) fixed", 
-            "date": "2021-06-05", 
-            "datetime": "20210605", 
-            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210605-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210605-VANILLA.zip", 
+            "changelog": "- Switch to Lolla kernel\r\n- Switch to Pixel Power HAL (thx Ayrton990 & Dynteve)\r\n- Fixed LED blink (thx Ramii)\r\n- Fixed wakelocks not suspending (thx Ayrton990)\r\n- Fixed jitters & made refresh rates smoother (thx Ramii, superman_in_ur_garden & ghostriderreborn)", 
+            "date": "2021-06-18", 
+            "datetime": "20210618", 
+            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210618-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210618-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "970798ead0ee7cccb7d6d2e0af0bf08540e762000a48a2e019230b7d04a4dc76", 
-            "size": "1215430506", 
+            "sha256": "8431a9e13dceb4b532184c61072dd0e129b1949bd1fa76257f6f36ef8730665d", 
+            "size": "1215142915", 
             "type": "unofficial", 
             "version": "v11.0"
         }
