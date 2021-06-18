@@ -482,15 +482,15 @@
     "sweet": [
         {
             "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n10/06/2021\r\n\u2022 Fixed Amazon Prime Video HD and Netflix HDR\r\n\u2022 Updated blobs from MIUI 12.5.3.0\r\n\u2022 Some other under the hood improvements\r\n\r\n04/06/2021\r\n\u2022 Switched to OSS display stack\r\n\u2022 Switched to OSS media stack\r\n\u2022 Fixed KCAL settings\r\n\u2022 Added a preview image to the KCAL settings page\r\n\u2022 Fixed screen flickering completely\r\n\u2022 Reduced delay for device specific settings to apply at boot", 
-            "date": "2021-06-16", 
-            "datetime": "20210616", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210616-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210616-VANILLA.zip", 
+            "date": "2021-06-18", 
+            "datetime": "20210618", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210618-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210618-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "74ed997f6fe704835ca0cad51bfd009e31de648c3149263bc3c782c12ddd6686", 
-            "size": "1119413859", 
+            "sha256": "da3482327e904eafb5fb88c8c8d209db567a41884872ec01756cf9f5e8991e18", 
+            "size": "1119425941", 
             "type": "official", 
             "version": "v11.0"
         }
