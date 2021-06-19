@@ -193,16 +193,16 @@
     ], 
     "lavender": [
         {
-            "changelog": null, 
-            "date": "2021-06-18", 
-            "datetime": "20210618", 
-            "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210618-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210618-VANILLA.zip", 
+            "changelog": "Latest build:\r\n- Fixed libperfmgr spam", 
+            "date": "2021-06-19", 
+            "datetime": "20210619", 
+            "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210619-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210619-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "b2f9f7f3a2e1dfcea560ae60320a874ffb82a64c0d6b1bde42dba468d38e0e6a", 
-            "size": "910852615", 
+            "sha256": "b5be425c5273d9a2e55c26177b85e13c18d7e4dce9c88cb95f2e1008294f30fa", 
+            "size": "911158197", 
             "type": "unofficial", 
             "version": "v11.0"
         }
