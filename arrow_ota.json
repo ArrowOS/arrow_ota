@@ -1029,7 +1029,7 @@
   ], 
   "dumpling": [
     {
-      "changelog": "-", 
+      "changelog": "- Upstream changes\r\n- Fixed camera access for FaceUnlock", 
       "maintainer": "Bauuuuu", 
       "model": "ONEPLUS A5010", 
       "oem": "OnePlus", 
@@ -1051,12 +1051,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-14", 
-                  "datetime": "20210614", 
-                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210614-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210614-VANILLA.zip", 
-                  "sha256": "1caf9052df89ce48ad65fafa5a6c6e57ee76fb662ca149f340a58199c2e8423d", 
-                  "size": "829271581", 
+                  "date": "2021-06-19", 
+                  "datetime": "20210619", 
+                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210619-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210619-VANILLA.zip", 
+                  "sha256": "88af6d69a7cd5f7ee4d55bc16a5e143f0ba4d67714751528ed5c4bd685fbaf89", 
+                  "size": "829269123", 
                   "type": "official", 
                   "version": "v11.0"
                 }
