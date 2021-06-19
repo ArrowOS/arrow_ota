@@ -353,16 +353,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "\u2022 Dropped Smart Changing\r\n\u2022 Update blobs from PHOENIX 21.6.2 Chinese weekly\r\n\u2022 Bump charging speeds\r\n\u2022 Added overlay for masking the notch in dev options\r\n\u2022 Upstream kernel to 4.14.221\r\n\u2022 Added kcal support to the kernel\r\n\u2022 Upstream to 1.0.20210606 snapshot\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-06-12", 
-            "datetime": "20210612", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210612-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210612-GAPPS.zip", 
+            "changelog": "\u2022 Dropped Smart Changing\r\n\u2022 Update blobs from PHOENIX 21.6.2 Chinese weekly\r\n\u2022 Bump charging speeds\r\n\u2022 Added overlay for masking the notch in dev options\r\n\u2022 Upstream kernel to 4.14.237\r\n\u2022 Added kcal support to the kernel\r\n\u2022 Upstream to 1.0.20210606 snapshot\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+            "date": "2021-06-19", 
+            "datetime": "20210619", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210619-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210619-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "b364bfea59ed626274a3d79d5cc8d08a316bd7c7b64f04b8dc4dcdf481b75faa", 
-            "size": "1422498150", 
+            "sha256": "07757b611c889809591b4a33ed7e55f44cd6748f3c213a437febc5d05684275f", 
+            "size": "1422515991", 
             "type": "official", 
             "version": "v11.0"
         }
