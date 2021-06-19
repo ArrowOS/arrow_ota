@@ -1897,7 +1897,7 @@
   ], 
   "monet": [
     {
-      "changelog": "- Misc fixes and upstream changes.", 
+      "changelog": "- Enable vibration multiple intensities\r\n- Force triple frame buffers\r\n- Set volume steps props\r\n- Enable usage of dex2oat64\r\n- Optimize everything on preopt\r\n- Reserve more partition spaces in vanilla builds\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merged CAF tag LA.UM.9.12.r1-11500-SMxx50.0 for msm-4.19 and wlan\r\n- Misc fixes and upstream changes.", 
       "maintainer": "Bauuuuu, palaych", 
       "model": "Mi 10 Lite 5G", 
       "oem": "Xiaomi", 
@@ -1919,12 +1919,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-12", 
-                  "datetime": "20210612", 
-                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210612-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210612-VANILLA.zip", 
-                  "sha256": "04d8042db73bf2f4191631dc9f9eafebd000bd6d2c08d44ca8500e81a7893110", 
-                  "size": "819457661", 
+                  "date": "2021-06-19", 
+                  "datetime": "20210619", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210619-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210619-VANILLA.zip", 
+                  "sha256": "c1ee3da476ac5df8b5c1ceb52d728c4a39951d1ed01fc274c459b319b8430cee", 
+                  "size": "819459771", 
                   "type": "official", 
                   "version": "v11.0"
                 }
