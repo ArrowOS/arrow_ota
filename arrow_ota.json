@@ -2169,7 +2169,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Dropped Smart Changing\r\n\u2022 Update blobs from PHOENIX 21.6.2 Chinese weekly\r\n\u2022 Bump charging speeds\r\n\u2022 Added overlay for masking the notch in dev options\r\n\u2022 Upstream kernel to 4.14.221\r\n\u2022 Added kcal support to the kernel\r\n\u2022 Upstream to 1.0.20210606 snapshot\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "\u2022 Dropped Smart Changing\r\n\u2022 Update blobs from PHOENIX 21.6.2 Chinese weekly\r\n\u2022 Bump charging speeds\r\n\u2022 Added overlay for masking the notch in dev options\r\n\u2022 Upstream kernel to 4.14.237\r\n\u2022 Added kcal support to the kernel\r\n\u2022 Upstream to 1.0.20210606 snapshot\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2191,12 +2191,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-12", 
-                  "datetime": "20210612", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210612-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210612-VANILLA.zip", 
-                  "sha256": "51fb0b98c5de7fa83ddcbdc499099e234c3990d248d24819472cb24a11d95f2f", 
-                  "size": "1079203036", 
+                  "date": "2021-06-19", 
+                  "datetime": "20210619", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210619-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210619-VANILLA.zip", 
+                  "sha256": "57714677d11abdefb53ae42fdd74ad9781b24d6da15a16ddf36996363df96782", 
+                  "size": "1079257800", 
                   "type": "official", 
                   "version": "v11.0"
                 }
