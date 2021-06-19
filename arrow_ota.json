@@ -1165,7 +1165,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- Fixed dynamic refresh rate not going above 90hz.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+      "changelog": "- Fixed issues related to WFD.\r\n- Fixed fast charging.\r\n- Added raise to wake device gesture.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "arrow_gauguin", 
       "oem": "Xiaomi", 
@@ -1187,12 +1187,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-12", 
-                  "datetime": "20210612", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210612-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210612-VANILLA.zip", 
-                  "sha256": "4884f1c28ed3bbeb3f8611773d2c3935332ca092b378008a03b9ab963fef22e1", 
-                  "size": "743207855", 
+                  "date": "2021-06-19", 
+                  "datetime": "20210619", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210619-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210619-VANILLA.zip", 
+                  "sha256": "ae647d4d8ba35b5f27a5eafc1553f758b998bb12e3442d049da7c99a203f8aee", 
+                  "size": "743674507", 
                   "type": "official", 
                   "version": "v11.0"
                 }
