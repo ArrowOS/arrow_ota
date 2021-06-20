@@ -1497,7 +1497,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "Latest build:\r\n- Fixed libperfmgr spam", 
+      "changelog": "Latest build:\r\n- Fixed libperfmgr log spam\r\n- Improve app launch speed\r\n- Optimize DSB logic\r\n- Add support for 240FPS 1/8 slow-motion", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1547,12 +1547,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-13", 
-                  "datetime": "20210613", 
-                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210613-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210613-VANILLA.zip", 
-                  "sha256": "4642464d7fc8596772a13dade2f16563f85e6ab3841c35a453d48614ecdad0f7", 
-                  "size": "911743900", 
+                  "date": "2021-06-20", 
+                  "datetime": "20210620", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210620-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210620-VANILLA.zip", 
+                  "sha256": "e90ba91ea156dae8005bb201417f517fd54c018633f2c16891b84924323c9cfb", 
+                  "size": "911864429", 
                   "type": "official", 
                   "version": "v11.0"
                 }
