@@ -49,16 +49,16 @@
     ], 
     "cepheus": [
         {
-            "changelog": "Intiall build", 
-            "date": "2021-06-13", 
-            "datetime": "20210613", 
-            "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210613-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210613-VANILLA.zip", 
+            "changelog": "Kernel changes:\r\n\u2022 Upstreamed to .232\r\n\u2022 Merge latest CAF tag LA.UM.9.1.r1-10200-SMxxx0.0\r\n\u2022 Merge WireGuard v1.0.20210424\r\n\u2022 Improve low memory killer\r\n\u2022 Mirco-optimize scheduler\r\n\u2022 Drop unused NUMA feature(Non-Uniform Memory Access)\r\n\u2022 Bring back userspace boost method\r\n\u2022 Add some thermal zones for mi_thermald\r\n\u2022 Enable Ftrace for iorap perfetto\r\n\r\nDevice specific changes:\r\n\u2022 Update prebuilt firmware and blobs from cepheus-user 11 RKQ1.200826.002 21.4.7 release-keys\r\n\u2022 Switch to POCO X3 Pro Global Listen stack and hotwordenrollment blobs (fixes screen off Google hotword detection and low mic volume when enabled OK Google)\r\n\u2022 Add proper configs for burn-in protection\r\n\u2022 Drop non-functional power off alarm blobs\r\n\u2022 Reset to miui stock audio configs\r\n\u2022 Cleanup SEPolicy rules also resolve all neverallow rues\r\n\u2022 Disable GPU Boost during interaction powerhint\r\n\u2022 Fix camera stutter in some apps\r\n\u2022 Enable iorap readahead (Improve app startup time)\r\n\u2022 Enable unspecialized app process pool\r\n\u2022 Use Gcam Go only with gapped releases (use snap with vanila releases)\r\n\u2022 Update to June redfin fingerprint \r\n\u2022 Flatten APEXs for performance\r\n\u2022 Make the UI smoother\r\n\u2022 Use \"Xiaomi Mi 9\" for default ssid name \r\n\u2022 Some stuff else, go read commit list on Github.", 
+            "date": "2021-06-20", 
+            "datetime": "20210620", 
+            "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210620-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210620-VANILLA.zip", 
             "maintainer": "lamjiidii1", 
             "model": "Mi 9", 
             "oem": "Xiaomi", 
-            "sha256": "cfa7148b8a584f895cfe339cbbb50a81784fd5232431fedce5b76f12f365ba2f", 
-            "size": "1115192237", 
+            "sha256": "b597ccc9f23468dda206b67ae4f1463138c96b6fc7835d6acd24847d32bc47e3", 
+            "size": "1105717993", 
             "type": "community", 
             "version": "v11.0"
         }
