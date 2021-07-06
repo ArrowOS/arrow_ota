@@ -1201,6 +1201,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-07-06", 
+                  "datetime": "20210706", 
+                  "filename": "Arrow-v11.0-gauguin-UNOFFICIAL-20210706-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-UNOFFICIAL-20210706-GAPPS.zip", 
+                  "sha256": "10afbc6bb55547ec1b0646907efb00123c4d1dc711790724e44de888b6435fb0", 
+                  "size": "1084737184", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-07-06", 

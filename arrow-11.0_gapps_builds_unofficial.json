@@ -161,17 +161,17 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Fixed issues related to WFD.\r\n- Fixed fast charging.\r\n- Added raise to wake device gesture.\r\n- Misc changes and blob updates.", 
-            "date": "2021-06-28", 
-            "datetime": "20210628", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210628-GAPPS.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210628-GAPPS.zip", 
+            "changelog": "- Improve haptics.\r\n- Update audio configs.\r\n- Misc changes and blob updates.", 
+            "date": "2021-07-06", 
+            "datetime": "20210706", 
+            "filename": "Arrow-v11.0-gauguin-UNOFFICIAL-20210706-GAPPS.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-UNOFFICIAL-20210706-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "c0d3e47b166a4b06b9e08eec04d67bb20bab9d450c7d0a972c271ee723f80dc8", 
-            "size": "1086873017", 
-            "type": "official", 
+            "sha256": "10afbc6bb55547ec1b0646907efb00123c4d1dc711790724e44de888b6435fb0", 
+            "size": "1084737184", 
+            "type": "unofficial", 
             "version": "v11.0"
         }
     ], 
