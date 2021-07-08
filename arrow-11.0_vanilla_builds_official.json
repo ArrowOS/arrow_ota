@@ -385,16 +385,16 @@
     ], 
     "polaris": [
         {
-            "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Build disabled VBMeta image\r\n- Switch to brightness float values\r\n- Tune up brightness values \r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-01700-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-06-19", 
-            "datetime": "20210619", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210619-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210619-VANILLA.zip", 
+            "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
+            "date": "2021-07-08", 
+            "datetime": "20210708", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210708-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210708-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "a4ae9ae5ec4592cd288652ebbb502a5d7b44fc23fb8d4b66a0865a026b865b6f", 
-            "size": "966006846", 
+            "sha256": "f65fb653fea86a07daa00ef609d6beaea7b90316d97946b0421156a069ee1e18", 
+            "size": "964261825", 
             "type": "official", 
             "version": "v11.0"
         }
