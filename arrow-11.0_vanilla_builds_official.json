@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- actually update fingerprint this time. All working now", 
-            "date": "2021-06-17", 
-            "datetime": "20210617", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210617-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210617-VANILLA.zip", 
+            "changelog": "***BACKUP YOUR DATA***\r\n- Switch to Lolla kernel (thx Ramii & fl0atpoint)\r\n- Switch to Pixel Power HAL (thx Ayrton990 & Dynteve)\r\n- Fixed LED blink/breathe (thx Ramii)\r\n- Fixed wakelocks not suspending (thx Ayrton990)\r\n- Fixed jitters & made refresh rates smoother (thx Ramii, superman_in_ur_garden & ghostriderreborn)\r\n- Fixed NFC for transit cards (eg. Troika) (thx xyyx)\r\n- Fixed echo on VOIP speaker calls (thanks to just about everyone)\r\n- Increase and smooth autobrightness values\r\n- Increase mic gains in some instances for better audio\r\n- Enable exFAT-linux (thx Arter97)\r\n- WFD fixed (?) (thx to SebaUbuntu)\r\n- General improvements (thx to SebaUbuntu)\r\n- Update redfin fingerprint to July\r\n***CLEAN FLASH REQUIRED***", 
+            "date": "2021-07-08", 
+            "datetime": "20210708", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210708-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210708-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "b68c771d3ef267127e0c649ec0f4bba2c8d309432ece1a3ba391fa50443e62fb", 
-            "size": "1216927934", 
+            "sha256": "396e36d7b358e505129795bc8de2d44288ec7b5a898a0b0adce905da3300cea7", 
+            "size": "1203353258", 
             "type": "official", 
             "version": "v11.0"
         }
