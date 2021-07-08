@@ -257,16 +257,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "Latest build:\r\n- Fixed libperfmgr log spam\r\n- Improve app launch speed\r\n- Optimize DSB logic\r\n- Add support for 240FPS 1/8 slow-motion", 
-            "date": "2021-06-20", 
-            "datetime": "20210620", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210620-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210620-VANILLA.zip", 
+            "changelog": "Latest build:\r\n- Update graphics blobs \u200bto V@0490\r\n- Add support for 240FPS 1/8 slow-motion\r\n- Set lz4 as default compression algorithm\r\n- Fixed a performance regression\r\n- Fixed libperfmgr log spam\r\n- Fixed the abnormal temp reading\r\n- Optimize DSB logic\r\n- Improve app launch speed\r\n- Improve kernel performance\r\n- Improve unity app performance\r\n- Improve deepsleep\r\n- Other fixes and improvement", 
+            "date": "2021-07-08", 
+            "datetime": "20210708", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210708-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210708-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "e90ba91ea156dae8005bb201417f517fd54c018633f2c16891b84924323c9cfb", 
-            "size": "911864429", 
+            "sha256": "69bb7408a9ff6cda351b717b637e8ae8cac6c121b8ba5132aba18f1f5534920f", 
+            "size": "910140958", 
             "type": "official", 
             "version": "v11.0"
         }
