@@ -209,16 +209,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Fixed issues related to WFD.\r\n- Fixed fast charging.\r\n- Added raise to wake device gesture.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
-            "date": "2021-06-19", 
-            "datetime": "20210619", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210619-VANILLA.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210619-VANILLA.zip", 
-            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "changelog": "- Improve haptics.\r\n- Update audio configs.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+            "date": "2021-07-08", 
+            "datetime": "20210708", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210708-VANILLA.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210708-VANILLA.zip", 
+            "maintainer": "Ganesh Varma", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "ae647d4d8ba35b5f27a5eafc1553f758b998bb12e3442d049da7c99a203f8aee", 
-            "size": "743674507", 
+            "sha256": "75bc815920e4fecc20fed5b9fab6d017cec14c2f984a9c96239a02e1d689beab", 
+            "size": "742890233", 
             "type": "official", 
             "version": "v11.0"
         }
