@@ -337,16 +337,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-01700-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-06-19", 
-            "datetime": "20210619", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210619-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210619-GAPPS.zip", 
+            "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
+            "date": "2021-07-08", 
+            "datetime": "20210708", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210708-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210708-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "58b30783566a7db4a14cae9afde3c086f1a18f33d602de97e3a9d579d45ad16d", 
-            "size": "1391589085", 
+            "sha256": "fd23b488012be1909541b40a28cdcdcd06ecf696af49542945a9c8c0d8692e80", 
+            "size": "1389941586", 
             "type": "official", 
             "version": "v11.0"
         }
