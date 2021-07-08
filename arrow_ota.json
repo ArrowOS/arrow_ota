@@ -2141,7 +2141,7 @@
   ], 
   "perseus": [
     {
-      "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-01700-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
+      "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
       "maintainer": "palaych", 
       "model": "Mi MIX 3", 
       "oem": "Xiaomi", 
@@ -2163,12 +2163,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-19", 
-                  "datetime": "20210619", 
-                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210619-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210619-VANILLA.zip", 
-                  "sha256": "20f843745e9e4360cfd00ced0d7f4a7342de3af869224d664c6e7d0ef37cc891", 
-                  "size": "1048736413", 
+                  "date": "2021-07-08", 
+                  "datetime": "20210708", 
+                  "filename": "Arrow-v11.0-perseus-OFFICIAL-20210708-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210708-VANILLA.zip", 
+                  "sha256": "6fb63318b798f25c72a8f19f957e68e3197b426942c909f5d936afb4fc4a6d8a", 
+                  "size": "1047487566", 
                   "type": "official", 
                   "version": "v11.0"
                 }
