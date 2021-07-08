@@ -393,7 +393,7 @@
   ], 
   "beryllium": [
     {
-      "changelog": "- Switch pixel libperfmgr power HAL\r\n- Sepolicy: Fixes and address denials\r\n- Build disabled VBMeta image\r\n- Switch to brightness float values\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge last linux version tag\r\n- Merge CAF tag msm-4.9 LA.UM.9.3.r1-02100-sdm845.0 and wlan LA.UM.8.3.c25-01900-sdm845.0\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
+      "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
       "maintainer": "Ganesh Varma, kubersharma001, palaych", 
       "model": "POCOPHONE F1", 
       "oem": "POCO", 
@@ -447,12 +447,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-18", 
-                  "datetime": "20210618", 
-                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210618-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210618-VANILLA.zip", 
-                  "sha256": "794038d22a509bd113ce89ef57d432661846cd1561f97e264b4705657e6cc7ff", 
-                  "size": "952704623", 
+                  "date": "2021-07-08", 
+                  "datetime": "20210708", 
+                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210708-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210708-VANILLA.zip", 
+                  "sha256": "046c9562a343e6ed313d784d52111caf16c26b13104889ec45df75f72b629310", 
+                  "size": "951888845", 
                   "type": "official", 
                   "version": "v11.0"
                 }
