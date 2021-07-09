@@ -529,16 +529,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Dont limit recorder fps to 60\r\n- Enable Memory optimization\r\n- Switch compression algorithm for ZRAM to LZ4\r\n- Fixup compatibility with Magisk\r\n- Switches to ArrowOS kernel\r\n- Remove smart charging feature\r\n- Use correct gaming thermal profile\r\n- Misc changes\r\n\r\n- Recommended Minimum firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
-            "date": "2021-06-14", 
-            "datetime": "20210614", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210614-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210614-GAPPS.zip", 
+            "changelog": "- Fix some gamepad controller buttons not working\r\n- Misc changes\r\n\r\n- Recommended Minimum firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
+            "date": "2021-07-09", 
+            "datetime": "20210709", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210709-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210709-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "c4c4275408d420b6ce4cd40425d8fbe054ddc85a20839ee41f49f534356de290", 
-            "size": "1104063452", 
+            "sha256": "0da2242de08cd033cc0b1537f635d59c6a9d34357db82b7ff79186cd978923fe", 
+            "size": "1104342893", 
             "type": "official", 
             "version": "v11.0"
         }
