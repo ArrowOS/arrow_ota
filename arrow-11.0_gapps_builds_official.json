@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Add missed props\r\n- Use CAF CarrierConfig (LA.UM.9.12.r1-11500-SMxx50.0)\r\n- Use common QTI power HAL\r\n- Remove touchfeature HAL\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-06-18", 
-            "datetime": "20210618", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210618-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210618-GAPPS.zip", 
+            "changelog": "- audio: Fix mic issues in apps like WhatsApp\r\n- audio: Fix VOIP speaker echo\r\n- Correct display calibration\r\n- Increase max brightness nits\r\n- Update blobs to V12.5.1.0 Global\r\n- Kernel: cpufreq: Remove Xiaomi powerkey boost\r\n- Kernel: Add and re-calculate CPU frequency tables\r\n- Kernel: k11a: Update display panel timing configuration \r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-07-09", 
+            "datetime": "20210709", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210709-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210709-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "603cfc4852e1ae958361c26361c0be8a05dbe2f501efcb1ba5dcad0cebfdfb7a", 
-            "size": "1449854576", 
+            "sha256": "8d917cb950998849f9b2e39a7fdb1e38b3da034c4cd99d6f433ff17140cc806e", 
+            "size": "1449352948", 
             "type": "official", 
             "version": "v11.0"
         }
