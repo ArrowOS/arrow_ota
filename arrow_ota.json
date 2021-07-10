@@ -1559,12 +1559,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-08", 
-                  "datetime": "20210708", 
-                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210708-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210708-VANILLA.zip", 
-                  "sha256": "69bb7408a9ff6cda351b717b637e8ae8cac6c121b8ba5132aba18f1f5534920f", 
-                  "size": "910140958", 
+                  "date": "2021-07-10", 
+                  "datetime": "20210710", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210710-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210710-VANILLA.zip", 
+                  "sha256": "a36305c12b7ab60aeba251310d780a7c942dd572bf36296143f5431862d56180", 
+                  "size": "910130814", 
                   "type": "official", 
                   "version": "v11.0"
                 }
