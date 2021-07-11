@@ -2181,7 +2181,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Dropped Smart Changing\r\n\u2022 Update blobs from PHOENIX 21.6.2 Chinese weekly\r\n\u2022 Bump charging speeds\r\n\u2022 Added overlay for masking the notch in dev options\r\n\u2022 Upstream kernel to 4.14.237\r\n\u2022 Added kcal support to the kernel\r\n\u2022 Upstream to 1.0.20210606 snapshot\r\n\u2022 Misc changes and clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "\u2022 Switch to power-libperfmgr\r\n\u2022 Enforce RRO for all resource overlays\r\n\u2022 Add SchedTune configuration\r\n\u2022 Remove CAF input boost\r\n\u2022 Kang governor and sched settings from sunfish\r\n\u2022 Completely remove QTI perfd\r\n\u2022 Import power hint configuration from Pixel 4A\r\n\u2022 Address denials for misys\r\n\u2022 Suppress IMS log spam\r\n\u2022 Disable Wi-fi PacketLogging\r\n\u2022 Many more rootdir improvements not worth mentioning \r\n\u2022 Upstreamed kernel to 4.14.238\r\n\u2022 Switch to Image.gz with bootimg header version v2\r\n\u2022 Disable CONFIG_MSM_PERFORMANCE\r\n\u2022 Drm/msm: add idle state sysfs node\r\n\u2022 Stop pinning camera app in RAM\r\n\u2022 Misc changes and a lot of clean up\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2203,12 +2203,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-19", 
-                  "datetime": "20210619", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210619-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210619-VANILLA.zip", 
-                  "sha256": "57714677d11abdefb53ae42fdd74ad9781b24d6da15a16ddf36996363df96782", 
-                  "size": "1079257800", 
+                  "date": "2021-07-11", 
+                  "datetime": "20210711", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210711-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210711-VANILLA.zip", 
+                  "sha256": "fb999da3fbd85220b5ac279ae62c3077385986996f02ef8675a65a08ae55842c", 
+                  "size": "1077870074", 
                   "type": "official", 
                   "version": "v11.0"
                 }
