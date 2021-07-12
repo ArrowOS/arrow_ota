@@ -370,15 +370,15 @@
     "polaris": [
         {
             "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-07-08", 
-            "datetime": "20210708", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210708-GAPPS.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210708-GAPPS.zip", 
+            "date": "2021-07-12", 
+            "datetime": "20210712", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210712-GAPPS.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210712-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "0d86dfed2e94051a37fa5e934823f8d084db45dafefb45619fc3db36451b9a76", 
-            "size": "1308220359", 
+            "sha256": "54c3f9e57dce8b96944ab6d86658f87bc3c95e6d639b0bf3d202409547f1dcc8", 
+            "size": "1308188019", 
             "type": "official", 
             "version": "v11.0"
         }
