@@ -875,6 +875,34 @@
       ]
     }
   ], 
+  "crownlte": [
+    {
+      "changelog": null, 
+      "maintainer": "Baddar90", 
+      "model": "SM-N960F", 
+      "oem": "samsung", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-07-12", 
+                  "datetime": "20210712", 
+                  "filename": "Arrow-v11.0-crownlte-UNOFFICIAL-20210712-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/crownlte/Arrow-v11.0-crownlte-UNOFFICIAL-20210712-VANILLA.zip", 
+                  "sha256": "dede3505a246cd4b4de71af5334c41c28dc51f996f30ab03930f4f629772b470", 
+                  "size": "666723558", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "daisy": [
     {
       "changelog": null, 
