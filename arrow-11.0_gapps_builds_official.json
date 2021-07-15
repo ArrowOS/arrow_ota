@@ -465,16 +465,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n10/06/2021\r\n\u2022 Fixed Amazon Prime Video HD and Netflix HDR\r\n\u2022 Updated blobs from MIUI 12.5.3.0\r\n\u2022 Some other under the hood improvements\r\n\r\n04/06/2021\r\n\u2022 Switched to OSS display stack\r\n\u2022 Switched to OSS media stack\r\n\u2022 Fixed KCAL settings\r\n\u2022 Added a preview image to the KCAL settings page\r\n\u2022 Fixed screen flickering completely\r\n\u2022 Reduced delay for device specific settings to apply at boot", 
-            "date": "2021-06-18", 
-            "datetime": "20210618", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210618-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210618-GAPPS.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n12/07/2021\r\n\u2022 Merged July security patch\r\n\u2022 Added KCAL color profiles\r\n\u2022 Merged the tag LA.UM.9.1.r1-10500-SMxxx0.QSSI12.0 into the kernel\r\n\u2022 Improved vibration patterns and strength\r\n\u2022 Increased reserved space for extra add-ons\r\n\u2022 Fixed oversaturated colors\r\n\u2022 Updated blobs from MIUI V12.5.4.0\r\n\u2022 Built more stuff from source\r\n\r\n10/06/2021\r\n\u2022 Fixed Amazon Prime Video HD and Netflix HDR\r\n\u2022 Updated blobs from MIUI 12.5.3.0\r\n\u2022 Some other under the hood improvements\r\n\r\n04/06/2021\r\n\u2022 Switched to OSS display stack\r\n\u2022 Switched to OSS media stack\r\n\u2022 Fixed KCAL settings\r\n\u2022 Added a preview image to the KCAL settings page\r\n\u2022 Fixed screen flickering completely\r\n\u2022 Reduced delay for device specific settings to apply at boot", 
+            "date": "2021-07-15", 
+            "datetime": "20210715", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210715-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210715-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "c32b494997a49c7e72adf6780539c083d69a5762166daf7f2264272a84b3740c", 
-            "size": "1468314362", 
+            "sha256": "c32fe64b2ec7ed6b95805296f57a1c7aac23de0dc82b36bae4446dddf6a63b8b", 
+            "size": "1476114995", 
             "type": "official", 
             "version": "v11.0"
         }
