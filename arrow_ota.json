@@ -3381,6 +3381,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-07-17", 
+                  "datetime": "20210717", 
+                  "filename": "Arrow-v11.0-vayu-COMMUNITY-20210717-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-COMMUNITY-20210717-GAPPS.zip", 
+                  "sha256": "cf47a5a60de2872846c997cc8429f0da38877c7f43a495aa68efa3d9c94069d1", 
+                  "size": "1493623728", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-07-17", 
