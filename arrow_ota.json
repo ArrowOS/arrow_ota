@@ -1565,7 +1565,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "Latest build:\r\n- Update graphics blobs \u200bto V@0490\r\n- Add support for 240FPS 1/8 slow-motion\r\n- Set lz4 as default compression algorithm\r\n- Fixed a performance regression\r\n- Fixed libperfmgr log spam\r\n- Fixed the abnormal temp reading\r\n- Optimize DSB logic\r\n- Improve app launch speed\r\n- Improve kernel performance\r\n- Improve unity app performance\r\n- Improve deepsleep\r\n- Other fixes and improvement", 
+      "changelog": "TEST VERSION\r\nFLASH IT AT YOUR RISK", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1631,12 +1631,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-06-19", 
-                  "datetime": "20210619", 
-                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210619-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210619-GAPPS.zip", 
-                  "sha256": "2e2329525b854cc0bda100e2692a96ea20f8ca555917b84ceb267c03423300ee", 
-                  "size": "1264102077", 
+                  "date": "2021-07-19", 
+                  "datetime": "20210719", 
+                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210719-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210719-GAPPS.zip", 
+                  "sha256": "8a8b4ec8a72262e6c63072a39fd8b01a65b40c2f26cde31068b90b458c7ba5ff", 
+                  "size": "1262780382", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
