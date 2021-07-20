@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "***BACKUP YOUR DATA***\r\n- Switch to Lolla kernel (thx Ramii & fl0atpoint)\r\n- Switch to Pixel Power HAL (thx Ayrton990 & Dynteve)\r\n- Fixed LED blink/breathe (thx Ramii)\r\n- Fixed wakelocks not suspending (thx Ayrton990)\r\n- Fixed jitters & made refresh rates smoother (thx Ramii, superman_in_ur_garden & ghostriderreborn)\r\n- Fixed NFC for transit cards (eg. Troika) (thx xyyx)\r\n- Fixed echo on VOIP speaker calls (thanks to just about everyone)\r\n- Increase and smooth autobrightness values\r\n- Increase mic gains in some instances for better audio\r\n- Enable exFAT-linux (thx Arter97)\r\n- WFD fixed (?) (thx to SebaUbuntu)\r\n- General improvements (thx to SebaUbuntu)\r\n- Update redfin fingerprint to July\r\n***CLEAN FLASH REQUIRED***", 
-            "date": "2021-07-08", 
-            "datetime": "20210708", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210708-GAPPS.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210708-GAPPS.zip", 
+            "changelog": "- Reverted mic gains (original audios restored)\r\n- Enabled display color management\r\n- Re-enabled call recording for vanilla builds\r\n- Updated audio (thanks to SebaUbuntum KrasCGQ, dianlujitao, luk1337):\r\n- Louder speaker volume\r\n- No distortion on speaker\r\n- AOSP Bluetooth HAL V2", 
+            "date": "2021-07-20", 
+            "datetime": "20210720", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210720-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210720-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "5458b9cbec8418cbc2d8fde463f979ec879cc389899e21729ae96efbca47c71e", 
-            "size": "1553260314", 
+            "sha256": "bdb3ecae2e2a1c81671c9613c46e9bf4b513478469f11a6ee2b855864f50dc82", 
+            "size": "1552181848", 
             "type": "official", 
             "version": "v11.0"
         }
