@@ -418,15 +418,15 @@
     "raphael": [
         {
             "changelog": "- Misc changes and fixes\r\n\r\nNote:\r\n- Requires the latest MIUI Q vendor and firmware.", 
-            "date": "2021-07-08", 
-            "datetime": "20210708", 
-            "filename": "Arrow-v11.0-raphael-OFFICIAL-20210708-VANILLA.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210708-VANILLA.zip", 
+            "date": "2021-07-20", 
+            "datetime": "20210720", 
+            "filename": "Arrow-v11.0-raphael-OFFICIAL-20210720-VANILLA.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210720-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "81ef3b106275e01524aaa24bd538acee17b2395617941398185e518cf0de391f", 
-            "size": "805165569", 
+            "sha256": "5c0ccba5a339f260fd0f45b288f13034fa3e99d0f1452df1261f5e58da3144ba", 
+            "size": "804962704", 
             "type": "official", 
             "version": "v11.0"
         }
