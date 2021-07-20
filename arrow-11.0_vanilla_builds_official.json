@@ -305,16 +305,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "Device Changelogs:\r\n\r\n\u2022 Upstreamed kernel to 4.14.235\r\n\u2022 Merged latest tag LA.UM.9.1.r1-10200-SMxx0.0 in kernel\r\n\u2022 Updated build fingerprint to Redfin June\r\n\u2022 Enabled Press/Touch to unlock with power button feature\r\n\u2022 Added bass booster preset in Dirac\r\n\u2022 Switched to prebuilt audio hal (Fixes all audio related OOTBs)\r\n\u2022 Updated PowerOffAlarm and Timeservices from Nubia NX627J\r\n\u2022 Enabled IORap app launch prefetching\r\n\u2022 Added Alipay fingerprint payment support\r\n\u2022 Set quick qs offset height to status bar height\r\n\u2022 Dyanamically load widevine blobs (Fixes widevine L1 OOTB of non curtana users, credits Ramisky)\r\n\u2022 Enabled userspace LMK in perfconfigstore\r\n\u2022 Dropped Hotword Enrollment blobs", 
-            "date": "2021-07-08", 
-            "datetime": "20210708", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210708-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210708-VANILLA.zip", 
+            "changelog": "Device Changelogs:\r\n\r\n\u2022 Upstreamed kernel to 4.14.239\r\n\u2022 Merged latest tag LA.UM.9.1.r1-10600-SMxx0.0 in kernel\r\n\u2022 Merge tag ASB-2021-07-05_4.14-stable in kernel\r\n\u2022 Fixed over heating while charging with 33w\r\n\u2022 Updated build fingerprint to Redfin July\r\n\u2022 Updated Adreno/Vulkan blobs to v530\r\n\u2022 Switched to AOSP WFD", 
+            "date": "2021-07-20", 
+            "datetime": "20210720", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210720-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210720-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "16279455d73c412f9cc8461ef53d557d21f85cc16c07906c83de9d5bb7f42d46", 
-            "size": "1380327545", 
+            "sha256": "a7b6316a555f66e9d9058b8bf4c21430155e8e90d361d517cddc0a2adbbf3d39", 
+            "size": "1375076192", 
             "type": "official", 
             "version": "v11.0"
         }
