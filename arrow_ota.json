@@ -1565,8 +1565,8 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
-      "maintainer": "Hazama25", 
+      "changelog": "Latest build:\r\n- Address tethering_service denial\r\n- kernel: Update to 4.4.274\r\n- kernel: Update to LA.UM.9.2.r1-03400-SDMxx0.0\r\n- Other fixes and improvement", 
+      "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -1615,12 +1615,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-10", 
-                  "datetime": "20210710", 
-                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210710-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210710-VANILLA.zip", 
-                  "sha256": "a36305c12b7ab60aeba251310d780a7c942dd572bf36296143f5431862d56180", 
-                  "size": "910130814", 
+                  "date": "2021-07-20", 
+                  "datetime": "20210720", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210720-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210720-VANILLA.zip", 
+                  "sha256": "5a92507720f13c6f8d12c38129305297adcfe820b7ec20f32ba0bc68c20ec90d", 
+                  "size": "910705106", 
                   "type": "official", 
                   "version": "v11.0"
                 }
