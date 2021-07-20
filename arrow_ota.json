@@ -3467,6 +3467,34 @@
       ]
     }
   ], 
+  "vince": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Redmi 5 Plus", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-07-20", 
+                  "datetime": "20210720", 
+                  "filename": "Arrow-v11.0-vince-COMMUNITY-20210720-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210720-VANILLA.zip", 
+                  "sha256": "587a1fe57bdc55a0656f9a59e70098fb307417ed04e302bd81df7a35e658eee6", 
+                  "size": "752656042", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "violet": [
     {
       "changelog": "- Updated blobs to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Removed Violet parts and added Mi sound Enhancer to Settings>sounds and fps meter can be accessed through QS tiles\r\n- Removed Smart Charging\r\n- Enabled 24bit Playback as default\r\n- Fixes weird touch/scroll issues on fp touch event\r\n- Added Color modes \r\n- Enabled iorap\r\n- Rebased and updated kernel to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Upstreamed media HAL to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Added LSE Atomic Optimization\r\n- Added Dev frequency boost\r\n- Backported LZ4 from mainline", 
