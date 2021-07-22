@@ -297,7 +297,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- Reverted mic gains (original audios restored)\r\n- Enabled display color management\r\n- Re-enabled call recording for vanilla builds\r\n- Updated audio (thanks to SebaUbuntum KrasCGQ, dianlujitao, luk1337):\r\n- Louder speaker volume\r\n- No distortion on speaker\r\n- AOSP Bluetooth HAL V2", 
+      "changelog": "- Reverted mic gains (original audios restored)\r\n- Enabled display color management\r\n- Re-enabled call recording for vanilla builds\r\n- Updated audio (thanks to SebaUbuntum KrasCGQ, dianlujitao, luk1337):\r\n- Louder speaker volume\r\n- No distortion on speaker\r\n- AOSP Bluetooth HAL V2\r\n*no device side changes since last build*", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -319,12 +319,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-20", 
-                  "datetime": "20210720", 
-                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210720-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210720-VANILLA.zip", 
-                  "sha256": "21f18d0d8f7d1bb1d00dea91ac24bbf41bb69f0eb9d920c6e34b54b56105c116", 
-                  "size": "1203084310", 
+                  "date": "2021-07-22", 
+                  "datetime": "20210722", 
+                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210722-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210722-VANILLA.zip", 
+                  "sha256": "5cf3df6e50b1e979c665d9dd8994e0aefbafbee2ee7d2ca535abc2f27f533aee", 
+                  "size": "1203060461", 
                   "type": "official", 
                   "version": "v11.0"
                 }
