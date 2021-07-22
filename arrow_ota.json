@@ -2643,6 +2643,34 @@
       ]
     }
   ], 
+  "river": [
+    {
+      "changelog": null, 
+      "maintainer": "Deivid Ignacio", 
+      "model": "moto g(7)", 
+      "oem": "motorola", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-07-22", 
+                  "datetime": "20210722", 
+                  "filename": "Arrow-v11.0-river-COMMUNITY-20210722-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/river/Arrow-v11.0-river-COMMUNITY-20210722-VANILLA.zip", 
+                  "sha256": "b10f0ab00cb322267c6fec23f08858acafe4b800d137789c016fbfe127186567", 
+                  "size": "844264113", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "rosy": [
     {
       "changelog": null, 
