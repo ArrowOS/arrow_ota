@@ -545,16 +545,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Fix some gamepad controller buttons not working\r\n- Misc changes\r\n\r\n- Recommended Minimum firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
-            "date": "2021-07-09", 
-            "datetime": "20210709", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210709-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210709-GAPPS.zip", 
+            "changelog": "- Fix power-off charging\r\n- Manual provisioning works\r\n- Misc changes\r\n- This is final build which requires pre-installed MIUI vendor hence upcoming OTAs will be blocked as safeguard.\r\n\r\n- Recommended Minimum vendor+firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
+            "date": "2021-07-23", 
+            "datetime": "20210723", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210723-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210723-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "0da2242de08cd033cc0b1537f635d59c6a9d34357db82b7ff79186cd978923fe", 
-            "size": "1104342893", 
+            "sha256": "b067b972c75b69bfb38b3d820122929281bc6949e725dda3948211fb69db829b", 
+            "size": "1103837673", 
             "type": "official", 
             "version": "v11.0"
         }
