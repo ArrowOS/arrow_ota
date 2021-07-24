@@ -354,15 +354,15 @@
     "vayu": [
         {
             "changelog": "- This includes custom vendor built from source\r\n- MIUI 12.5.2.0 firmware is recommended", 
-            "date": "2021-07-22", 
-            "datetime": "20210722", 
-            "filename": "Arrow-v11.0-vayu-COMMUNITY-20210722-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-COMMUNITY-20210722-VANILLA.zip", 
+            "date": "2021-07-24", 
+            "datetime": "20210724", 
+            "filename": "Arrow-v11.0-vayu-COMMUNITY-20210724-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-COMMUNITY-20210724-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "305a993769cc6c0b86e2436138a995eed69a5b110daa6de6e70ad96dd84241cf", 
-            "size": "1149719206", 
+            "sha256": "67f381594e06a355331a34ef051d82c1d0fa56a54504274ac85dd1436d2718f0", 
+            "size": "1183237302", 
             "type": "community", 
             "version": "v11.0"
         }
