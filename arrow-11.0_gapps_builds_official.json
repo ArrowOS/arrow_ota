@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- audio: Fix mic issues in apps like WhatsApp\r\n- audio: Fix VOIP speaker echo\r\n- Correct display calibration\r\n- Increase max brightness nits\r\n- Update blobs to V12.5.1.0 Global\r\n- Kernel: cpufreq: Remove Xiaomi powerkey boost\r\n- Kernel: Add and re-calculate CPU frequency tables\r\n- Kernel: k11a: Update display panel timing configuration \r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-07-09", 
-            "datetime": "20210709", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210709-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210709-GAPPS.zip", 
+            "changelog": "- parts: Add High Touch Polling Rate support\r\n- Update blobs to V12.5.2.0.RKHMIXM\r\n- Update config DisplayCutout to MIUI V12.5.2.0\r\n- Update QDCM calibration configs to MIUI V12.5.2.0 and switch smart_MC1 by default mode\r\n- Update WCNSS config to MIUI V12.5.2.0\r\n- Remove SmartCharging\r\n- Add missed audio props\r\n- overlay: Return COLOR_MODE_SATURATED\r\n- Remove unused jars and libs\r\n- Kernel: Update display panel configuration to MIUI V12.5.2.0\r\n- Kernel: fixes for freq table\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-07-24", 
+            "datetime": "20210724", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210724-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210724-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "8d917cb950998849f9b2e39a7fdb1e38b3da034c4cd99d6f433ff17140cc806e", 
-            "size": "1449352948", 
+            "sha256": "d8fe1c5102613cb9fb1efdc861721eb06cfdc26d2320b24a63eccb2228fc2fea", 
+            "size": "1450075286", 
             "type": "official", 
             "version": "v11.0"
         }
