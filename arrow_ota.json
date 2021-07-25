@@ -2405,8 +2405,8 @@
   ], 
   "potter": [
     {
-      "changelog": "- misc", 
-      "maintainer": "kubersharma001", 
+      "changelog": "- Initial official release", 
+      "maintainer": "aniket_jaiswal, kubersharma001, vinyas", 
       "model": "Moto G5 Plus", 
       "oem": "motorola", 
       "v10.0": [
@@ -2466,6 +2466,22 @@
                   "sha256": "4696433e52aa7c8171029dc81136c16ed4f7e171012fac0abb6d9d280711fb05", 
                   "size": "742477510", 
                   "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-07-25", 
+                  "datetime": "20210725", 
+                  "filename": "Arrow-v11.0-potter-OFFICIAL-20210725-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20210725-VANILLA.zip", 
+                  "sha256": "2b7ee70ac8689a33b14260f2136591ea611fba76e82ac5f6d32c9f84c2b27d77", 
+                  "size": "779873856", 
+                  "type": "official", 
                   "version": "v11.0"
                 }
               ]
