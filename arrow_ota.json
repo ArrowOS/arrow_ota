@@ -3643,6 +3643,34 @@
       ]
     }
   ], 
+  "walleye": [
+    {
+      "changelog": null, 
+      "maintainer": "ReallySnow, baolong24", 
+      "model": "Pixel 2", 
+      "oem": "google", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-07-25", 
+                  "datetime": "20210725", 
+                  "filename": "Arrow-v11.0-walleye-OFFICIAL-20210725-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/walleye/Arrow-v11.0-walleye-OFFICIAL-20210725-VANILLA.zip", 
+                  "sha256": "d489868db0d0cb272cc9ef8556e42d4565a3851fe2b494bbd08fcc6c05e63ea1", 
+                  "size": "846127449", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "wayne": [
     {
       "changelog": null, 
