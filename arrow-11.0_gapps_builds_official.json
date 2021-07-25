@@ -399,6 +399,22 @@
             "version": "v11.0"
         }
     ], 
+    "potter": [
+        {
+            "changelog": "- Initial official release", 
+            "date": "2021-07-25", 
+            "datetime": "20210725", 
+            "filename": "Arrow-v11.0-potter-OFFICIAL-20210725-GAPPS.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20210725-GAPPS.zip", 
+            "maintainer": "aniket_jaiswal, kubersharma001, vinyas", 
+            "model": "Moto G5 Plus", 
+            "oem": "motorola", 
+            "sha256": "e6f2f14148ebcf953a2a1573aa37b7a6567cbf42d79df9cc8a6f7f709cd5e210", 
+            "size": "1119280889", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "raphael": [
         {
             "changelog": "- Misc changes and fixes\r\n\r\nNote:\r\n- Requires the latest MIUI Q vendor and firmware.", 
