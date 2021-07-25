@@ -3209,7 +3209,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "Hide user facing crash dialog for EUICC app\r\nFix Smart Charging Sepolicy", 
+      "changelog": "Update to 4.4.275 kernel\r\nImport Kcal control settings", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -3231,12 +3231,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-20", 
-                  "datetime": "20210620", 
-                  "filename": "Arrow-v11.0-taimen-OFFICIAL-20210620-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210620-VANILLA.zip", 
-                  "sha256": "0cbf859ae0d8372395831e4c208f679b9d0defebf42e4bca91dd5e36fa6953b6", 
-                  "size": "826583712", 
+                  "date": "2021-07-25", 
+                  "datetime": "20210725", 
+                  "filename": "Arrow-v11.0-taimen-OFFICIAL-20210725-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210725-VANILLA.zip", 
+                  "sha256": "95265746122e7a0c6315ce39a9ab930db7807e57dff04fe8ca640c97545da784", 
+                  "size": "826422858", 
                   "type": "official", 
                   "version": "v11.0"
                 }
