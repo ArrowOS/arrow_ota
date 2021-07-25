@@ -370,15 +370,15 @@
     "phoenix": [
         {
             "changelog": "\u2022 Revert back to qti power HAL\r\n\u2022 Import perf configs from miui PHOENIX 21.7.14\r\n\u2022 Update blobs from miui PHOENIX 21.7.14\r\n\u2022 Update graphic stack from LA.UM.9.1.r1-09600-SMxxx0.0\r\n\u2022 Update CarrierSettings from sunfish RQ3A.210705.001\r\n\u2022 Switch to WALT\r\n\u2022 Upstream kernel to 4.14.239\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-07-18", 
-            "datetime": "20210718", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210718-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210718-GAPPS.zip", 
+            "date": "2021-07-25", 
+            "datetime": "20210725", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210725-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210725-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "2f69abff3ee6dde80187bc463448347c61e6710f3e4f3e1eac78b4a8ddf76104", 
-            "size": "1421549303", 
+            "sha256": "d495f212f9b83dbb756524a20013546ec6b1d415fb49ad875313e42e64cf6611", 
+            "size": "1421743505", 
             "type": "official", 
             "version": "v11.0"
         }
