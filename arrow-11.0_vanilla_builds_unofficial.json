@@ -385,16 +385,16 @@
     ], 
     "star2lte": [
         {
-            "changelog": null, 
-            "date": "2021-05-23", 
-            "datetime": "20210523", 
-            "filename": "Arrow-v11.0-star2lte-UNOFFICIAL-20210523-VANILLA.zip", 
-            "filepath": "/arrow-11.0/star2lte/Arrow-v11.0-star2lte-UNOFFICIAL-20210523-VANILLA.zip", 
+            "changelog": "- Initial release", 
+            "date": "2021-07-25", 
+            "datetime": "20210725", 
+            "filename": "Arrow-v11.0-star2lte-UNOFFICIAL-20210725-VANILLA.zip", 
+            "filepath": "/arrow-11.0/star2lte/Arrow-v11.0-star2lte-UNOFFICIAL-20210725-VANILLA.zip", 
             "maintainer": "Baddar90", 
             "model": "SM-G965F", 
             "oem": "samsung", 
-            "sha256": "e37a986b61f8b09dbb350dd68de19f7d1970df62b73d02445fbb765fbc565337", 
-            "size": "666396420", 
+            "sha256": "130830c1d430e1814875d0204406dfdb815d3c4062c4747c8efe97def4140878", 
+            "size": "665995362", 
             "type": "unofficial", 
             "version": "v11.0"
         }
