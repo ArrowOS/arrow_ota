@@ -3441,7 +3441,7 @@
   ], 
   "vayu": [
     {
-      "changelog": "- This includes custom vendor built from source\r\n- MIUI 12.5.2.0 firmware is recommended", 
+      "changelog": "- DIsable Ultra low latency audio mode\r\n- Misc changes and improvements\r\n\r\nNote:\r\n- This includes custom vendor compiled from source\r\n- MIUI 12.5.2.0 firmware is recommended", 
       "maintainer": "kubersharma001", 
       "model": "Poco X3 Pro", 
       "oem": "POCO", 
@@ -3463,12 +3463,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-24", 
-                  "datetime": "20210724", 
-                  "filename": "Arrow-v11.0-vayu-COMMUNITY-20210724-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-COMMUNITY-20210724-VANILLA.zip", 
-                  "sha256": "54e7680ad6f6ee852804be15c2433e9e468f0bb6cbe1e347e9fa52f4b83bbda4", 
-                  "size": "1183236832", 
+                  "date": "2021-07-25", 
+                  "datetime": "20210725", 
+                  "filename": "Arrow-v11.0-vayu-COMMUNITY-20210725-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-COMMUNITY-20210725-VANILLA.zip", 
+                  "sha256": "08cd1a8333d349e3727762a09b95fd755657cd03ecdee959ab375718f58e8e21", 
+                  "size": "1183262826", 
                   "type": "community", 
                   "version": "v11.0"
                 }
