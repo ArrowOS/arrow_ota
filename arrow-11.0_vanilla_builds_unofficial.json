@@ -417,16 +417,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Fixed issues regarding flashing of gapps packages.\r\n- Enabled call recording.", 
-            "date": "2021-05-14", 
-            "datetime": "20210514", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210514-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210514-VANILLA.zip", 
+            "changelog": "TEST\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
+            "date": "2021-07-26", 
+            "datetime": "20210726", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210726-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210726-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "cae53090ecf741c898e9f0ddf03ed6345e481fb7a211662c2eb232e3bf12864f", 
-            "size": "1076132854", 
+            "sha256": "7788d0bf105c2e0281829969845467ed2d2ae4c9a89d95c1e62975f482466b23", 
+            "size": "1082250928", 
             "type": "official", 
             "version": "v11.0"
         }
