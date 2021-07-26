@@ -2545,7 +2545,7 @@
   ], 
   "raphael": [
     {
-      "changelog": "This build comes with OSS Vendor and requires only the MIUI Q firmware.", 
+      "changelog": "- Misc changes and fixes\r\n\r\nNote:\r\n- Requires the latest MIUI Q vendor and firmware.", 
       "maintainer": "kubersharma001", 
       "model": "Redmi K20 Pro", 
       "oem": "Xiaomi", 
@@ -2627,12 +2627,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-20", 
-                  "datetime": "20210720", 
-                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210720-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210720-VANILLA.zip", 
-                  "sha256": "5c0ccba5a339f260fd0f45b288f13034fa3e99d0f1452df1261f5e58da3144ba", 
-                  "size": "804962704", 
+                  "date": "2021-07-26", 
+                  "datetime": "20210726", 
+                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210726-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210726-VANILLA.zip", 
+                  "sha256": "bb60b940326385edbae3d790fa12c81a84e3c6150faf7f6e4261024495241cc7", 
+                  "size": "805247345", 
                   "type": "official", 
                   "version": "v11.0"
                 }
