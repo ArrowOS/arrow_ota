@@ -1565,7 +1565,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "Latest build:\r\n- Address tethering_service denial\r\n- kernel: Update to 4.4.274\r\n- kernel: Update to LA.UM.9.2.r1-03400-SDMxx0.0\r\n- Other fixes and improvement", 
+      "changelog": "Still WIP\r\nDO NOT FLASH", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1587,12 +1587,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-24", 
-                  "datetime": "20210724", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210724-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210724-VANILLA.zip", 
-                  "sha256": "b8441556be7c57231f2f856cfa158bc2e92e89909c595ff5dc7722759e37b85c", 
-                  "size": "972307602", 
+                  "date": "2021-07-27", 
+                  "datetime": "20210727", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210727-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210727-VANILLA.zip", 
+                  "sha256": "f158cceb63e56c14f5b480813caee55ba24dfbda087729d72ca22c59e8f7b062", 
+                  "size": "908930310", 
                   "type": "community", 
                   "version": "v11.0"
                 }
