@@ -1457,7 +1457,7 @@
   ], 
   "kebab": [
     {
-      "changelog": "Introduce raise to wake gesture", 
+      "changelog": null, 
       "maintainer": "java67", 
       "model": "KB2000", 
       "oem": "OnePlus", 
@@ -1479,12 +1479,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-06-20", 
-                  "datetime": "20210620", 
-                  "filename": "Arrow-v11.0-kebab-COMMUNITY-20210620-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210620-VANILLA.zip", 
-                  "sha256": "b5111228c5d70dce0acd81e09b223c6f5a762f2d355ac1ce18e848e52256b4c7", 
-                  "size": "1075083916", 
+                  "date": "2021-07-27", 
+                  "datetime": "20210727", 
+                  "filename": "Arrow-v11.0-kebab-COMMUNITY-20210727-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210727-VANILLA.zip", 
+                  "sha256": "137a740028a7e435590a03b1f0253096e0cb2f3654294918df2ae870a7ef4109", 
+                  "size": "1081324906", 
                   "type": "community", 
                   "version": "v11.0"
                 }
