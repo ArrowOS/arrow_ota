@@ -354,15 +354,15 @@
     "perseus": [
         {
             "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-07-15", 
-            "datetime": "20210715", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210715-GAPPS.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210715-GAPPS.zip", 
+            "date": "2021-07-27", 
+            "datetime": "20210727", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210727-GAPPS.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210727-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "33ba1f6234fd311718e1abe7b05b66074771b317642f6f44413a28868b6e5a11", 
-            "size": "1390810093", 
+            "sha256": "fdbd90cbfa5266fe3133823d1bccbf3490c3e423cf9143aec8729b8210551c97", 
+            "size": "1310675347", 
             "type": "official", 
             "version": "v11.0"
         }
