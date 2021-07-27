@@ -66,15 +66,15 @@
     "beryllium": [
         {
             "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-07-08", 
-            "datetime": "20210708", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210708-GAPPS.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210708-GAPPS.zip", 
+            "date": "2021-07-27", 
+            "datetime": "20210727", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210727-GAPPS.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210727-GAPPS.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "033e727a503b72be1318a7f0ce4d3d6df1e70ef5c40df7f9ca5e877185a9018b", 
-            "size": "1295031805", 
+            "sha256": "b04f7ac24c7372194089fc1d42cb1021f73a23c5687b41df69f840537dda07b6", 
+            "size": "1295095213", 
             "type": "official", 
             "version": "v11.0"
         }
