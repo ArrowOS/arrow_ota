@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "*no device side changes since last build*", 
-            "date": "2021-07-26", 
-            "datetime": "20210726", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210726-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210726-VANILLA.zip", 
+            "changelog": "- Drop sound trigger & revert to apollo hotword blobs\r\n- OK Google works (but not with screen off)\r\n- No audio lags\r\n- Some sepolicy added\r\n- Enable 802.11ax (wifi 6)\r\n- Fixed SBC Dual (thnx SebaUbuntu)", 
+            "date": "2021-07-29", 
+            "datetime": "20210729", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210729-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210729-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "26109f8f8cd53748c7f2971e78fee31f23ec88a4876648363d1f3c11dd5c2a65", 
-            "size": "1203753994", 
+            "sha256": "e180c999a0efe062c4ac82f8537633b7c320f76c83fbba1bbef100cb15ac4982", 
+            "size": "1197224186", 
             "type": "official", 
             "version": "v11.0"
         }
