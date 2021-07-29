@@ -209,16 +209,16 @@
     ], 
     "r5x": [
         {
-            "changelog": "1. Reboot and 50% fixed.\r\n2. Enabled Zygote preforking.\r\n3. Updated June Redfin FP. \r\n4. Status bar padding fixed.\r\n5. Rounded corners fixed.\r\n6. Disabled Vsync\r\n7. Added FPS tile.\r\n8. Decreased Boot time and UI imporvements.\r\n9. Removed Realme Settings from launcher(available inside settings)", 
-            "date": "2021-06-21", 
-            "datetime": "20210621", 
-            "filename": "Arrow-v11.0-r5x-COMMUNITY-20210621-VANILLA.zip", 
-            "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210621-VANILLA.zip", 
+            "changelog": "1. Reboot and 50% fixed.\r\n2. Enabled Zygote preforking.\r\n3. Updated June Redfin FP. \r\n4. Status bar padding fixed.\r\n5. Rounded corners fixed.\r\n6. Disabled Vsync\r\n7. Added FPS tile.\r\n8. Decreased Boot time and UI imporvements.\r\n9. Removed Realme Settings from launcher(available inside settings)\r\n10. Added Realme Dirac", 
+            "date": "2021-07-29", 
+            "datetime": "20210729", 
+            "filename": "Arrow-v11.0-r5x-COMMUNITY-20210729-VANILLA.zip", 
+            "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210729-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Realme 5 Series", 
             "oem": "Realme", 
-            "sha256": "566b6522baf325056affdd7853220424b12227a1ee1fb9a0e7a3d67ddeeff996", 
-            "size": "1031653673", 
+            "sha256": "fdb6a4672d2267d0d5b11cbd5f65e7c4a9e4c1bee273a9fff8ec9f283be0b471", 
+            "size": "1025117981", 
             "type": "community", 
             "version": "v11.0"
         }
