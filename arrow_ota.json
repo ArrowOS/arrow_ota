@@ -3441,7 +3441,7 @@
   ], 
   "vayu": [
     {
-      "changelog": "- DIsable Ultra low latency audio mode\r\n- Misc changes and improvements\r\n\r\nNote:\r\n- This includes custom vendor compiled from source\r\n- MIUI 12.5.2.0 firmware is recommended", 
+      "changelog": "- Fix power-off charging\r\n- Manual provisioning works\r\n- Misc changes\r\n- This is final build which requires pre-installed MIUI vendor hence upcoming OTAs will be blocked as safeguard.\r\n\r\n- Recommended Minimum vendor+firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
       "maintainer": "kubersharma001", 
       "model": "Poco X3 Pro", 
       "oem": "POCO", 
@@ -3491,12 +3491,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-23", 
-                  "datetime": "20210723", 
-                  "filename": "Arrow-v11.0-vayu-OFFICIAL-20210723-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210723-VANILLA.zip", 
-                  "sha256": "bf5267e76287cfab595da63ac1edcfbf0ec69757024b66fb985dd5a0c96aa522", 
-                  "size": "813112558", 
+                  "date": "2021-07-31", 
+                  "datetime": "20210731", 
+                  "filename": "Arrow-v11.0-vayu-OFFICIAL-20210731-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210731-VANILLA.zip", 
+                  "sha256": "cb6583d717c817c29da221465485e0ebee66e89eae1834c10e2149746d92d29b", 
+                  "size": "1177309526", 
                   "type": "official", 
                   "version": "v11.0"
                 }
