@@ -562,15 +562,15 @@
     "vayu": [
         {
             "changelog": "- Fix power-off charging\r\n- Manual provisioning works\r\n- Misc changes\r\n- This is final build which requires pre-installed MIUI vendor hence upcoming OTAs will be blocked as safeguard.\r\n\r\n- Recommended Minimum vendor+firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
-            "date": "2021-07-23", 
-            "datetime": "20210723", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210723-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210723-GAPPS.zip", 
+            "date": "2021-07-31", 
+            "datetime": "20210731", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210731-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210731-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "b067b972c75b69bfb38b3d820122929281bc6949e725dda3948211fb69db829b", 
-            "size": "1103837673", 
+            "sha256": "026cca272ea9225fab17b783f88293d53b88c8fb10539a07df9693849ad052de", 
+            "size": "1490298561", 
             "type": "official", 
             "version": "v11.0"
         }
