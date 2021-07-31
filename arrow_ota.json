@@ -1987,12 +1987,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-07-29", 
-                  "datetime": "20210729", 
-                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210729-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210729-VANILLA.zip", 
-                  "sha256": "02db8a73b1c807ea34c9bfec50192c695ebf52732e6dda257695743af033633f", 
-                  "size": "726272131", 
+                  "date": "2021-07-31", 
+                  "datetime": "20210731", 
+                  "filename": "Arrow-v11.0-monet-OFFICIAL-20210731-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20210731-VANILLA.zip", 
+                  "sha256": "ddb52a6fdcd327c2927af61662413f777ac25a53b9dfe952259d5ffee4f41f0a", 
+                  "size": "725896265", 
                   "type": "official", 
                   "version": "v11.0"
                 }
