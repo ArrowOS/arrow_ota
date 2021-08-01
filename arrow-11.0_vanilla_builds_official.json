@@ -386,15 +386,15 @@
     "phoenix": [
         {
             "changelog": "\u2022 Force show network traffic on the status bar\r\n\u2022 Add offline charging LED indicator\r\n\u2022 Relax refresh rate switching a bit\r\n\u2022 Define OEM fast charge sysfs node\r\n\u2022 Switch to AOSP BT from QTI BT stack\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-07-29", 
-            "datetime": "20210729", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210729-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210729-VANILLA.zip", 
+            "date": "2021-08-01", 
+            "datetime": "20210801", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210801-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210801-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "4c99867b9ba5ffa40dc3d05ce3728a3031895d6d2861413afab553e54c5970ec", 
-            "size": "1074389514", 
+            "sha256": "ab704da997c3b528176996145a63d5767673d325222359c56e4804204adcac08", 
+            "size": "1074263055", 
             "type": "official", 
             "version": "v11.0"
         }
