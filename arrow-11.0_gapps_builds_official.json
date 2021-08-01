@@ -514,15 +514,15 @@
     "taimen": [
         {
             "changelog": "Update to 4.4.275 kernel\r\nImport Kcal control settings", 
-            "date": "2021-07-29", 
-            "datetime": "20210729", 
-            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210729-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210729-GAPPS.zip", 
+            "date": "2021-08-01", 
+            "datetime": "20210801", 
+            "filename": "Arrow-v11.0-taimen-OFFICIAL-20210801-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-OFFICIAL-20210801-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "587b25299b9755ab771f4a250db85f067319e9c1d7e04149db328c25b860e2c8", 
-            "size": "1041723482", 
+            "sha256": "c12b91ae15c6fd136a7028efdf136d0f2cbb94267ea148644bd379aa716db43b", 
+            "size": "1120479959", 
             "type": "official", 
             "version": "v11.0"
         }
