@@ -577,7 +577,7 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Fix power-off charging\r\n- Manual provisioning works\r\n- Misc changes\r\n- This is final build which requires pre-installed MIUI vendor hence upcoming OTAs will be blocked as safeguard.\r\n\r\n- Recommended Minimum vendor+firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
+            "changelog": "- Initial official build with custom vendor", 
             "date": "2021-07-31", 
             "datetime": "20210731", 
             "filename": "Arrow-v11.0-vayu-OFFICIAL-20210731-VANILLA.zip", 
