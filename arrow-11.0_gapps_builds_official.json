@@ -290,15 +290,15 @@
     "miatoll": [
         {
             "changelog": "Device Changelogs:\r\n\r\n\u2022 Upstreamed kernel to 4.14.239\r\n\u2022 Merged latest tag LA.UM.9.1.r1-10600-SMxx0.0 in kernel\r\n\u2022 Merge tag ASB-2021-07-05_4.14-stable in kernel\r\n\u2022 Fixed over heating while charging with 33w\r\n\u2022 Updated build fingerprint to Redfin July\r\n\u2022 Updated Adreno/Vulkan blobs to v530\r\n\u2022 Switched to AOSP WFD", 
-            "date": "2021-07-26", 
-            "datetime": "20210726", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210726-GAPPS.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210726-GAPPS.zip", 
+            "date": "2021-08-02", 
+            "datetime": "20210802", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20210802-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20210802-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "66fa40aac2d128258c4be906b53e5b221e26b3307d43ea42e4f06f3aef6d182c", 
-            "size": "1715786444", 
+            "sha256": "c8b7c01886d64f192de2e8e4339d1034fa5c002b3d357f42274a2109336a0799", 
+            "size": "1707354194", 
             "type": "official", 
             "version": "v11.0"
         }
