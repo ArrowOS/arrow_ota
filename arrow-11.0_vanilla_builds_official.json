@@ -81,16 +81,16 @@
     ], 
     "beryllium": [
         {
-            "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-07-27", 
-            "datetime": "20210727", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210727-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210727-VANILLA.zip", 
+            "changelog": "- sdm845-common:\r\nUpdate blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- beryllium: Update blobs from V12.0.3.0.QEJMIXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
+            "date": "2021-08-02", 
+            "datetime": "20210802", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210802-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210802-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "cd04c8528a481c94e885275686991193fa744579bcc4fbdae7452ada07fee4b8", 
-            "size": "951912535", 
+            "sha256": "26356a383e53edd65f92202c4ce34042332e970840c1d6f0bf172cb921cc07cf", 
+            "size": "944737164", 
             "type": "official", 
             "version": "v11.0"
         }
