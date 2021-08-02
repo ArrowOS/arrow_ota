@@ -369,16 +369,16 @@
     ], 
     "perseus": [
         {
-            "changelog": "- Return and fix DiracSound\r\n- Improve ThermalProfiles UI\r\n- Fix worse hot when device chargering\r\n- Improve autobrightness config\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-07-27", 
-            "datetime": "20210727", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210727-VANILLA.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210727-VANILLA.zip", 
+            "changelog": "- sdm845-common: Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- perseus: Update blobs from MIUI V12.5.1.0.QEECNXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
+            "date": "2021-08-02", 
+            "datetime": "20210802", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210802-VANILLA.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210802-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "62490ef48d68796d5caa1ed2bcda205b62c4ab46645acdbfb2dd71e7c3a0f7f3", 
-            "size": "1047126102", 
+            "sha256": "75f7b1f1471a45ab3409a166dbe9103bfde9bccb210b06815b8884c9eeb5b69c", 
+            "size": "1040497563", 
             "type": "official", 
             "version": "v11.0"
         }
