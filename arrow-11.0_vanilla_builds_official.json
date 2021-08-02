@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- parts: Add High Touch Polling Rate support\r\n- Update blobs to V12.5.2.0.RKHMIXM\r\n- Update config DisplayCutout to MIUI V12.5.2.0\r\n- Update QDCM calibration configs to MIUI V12.5.2.0 and switch smart_MC1 by default mode\r\n- Update WCNSS config to MIUI V12.5.2.0\r\n- Remove SmartCharging\r\n- Add missed audio props\r\n- overlay: Return COLOR_MODE_SATURATED\r\n- Remove unused jars and libs\r\n- Kernel: Update display panel configuration to MIUI V12.5.2.0\r\n- Kernel: fixes for freq table\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-07-24", 
-            "datetime": "20210724", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210724-VANILLA.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210724-VANILLA.zip", 
+            "changelog": "- Optimise dex flags\r\n- overlay: enable WCG mode\r\n- libinit: Properly set ro.product.*.name/marketname\r\n- Fixes weird touch/scroll issues on fp touch event\r\n- Sepolicy: Address more denials\r\n- Kernel: USB: pd: Revert some CAF patches\r\n- Kernel: Update touchscreen ft3658 k11 firmware to the latest available release\r\n- Kernel: Disable coresight\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-08-02", 
+            "datetime": "20210802", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210802-VANILLA.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210802-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "12daaf751736b46c4b150dc788d9e43fd8cc3408dd51da4b31b77e4ff8aaadc4", 
-            "size": "1169424140", 
+            "sha256": "33daba21d1e99682a4804cd02eccd5bcbc1dc76003ef91493476a1bac5d05d16", 
+            "size": "1092327888", 
             "type": "official", 
             "version": "v11.0"
         }
