@@ -258,15 +258,15 @@
     "lavender": [
         {
             "changelog": "Latest build:\r\n- Address tethering_service denial\r\n- kernel: Update to 4.4.274\r\n- kernel: Update to LA.UM.9.2.r1-03400-SDMxx0.0\r\n- Other fixes and improvement", 
-            "date": "2021-07-26", 
-            "datetime": "20210726", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210726-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210726-GAPPS.zip", 
+            "date": "2021-08-02", 
+            "datetime": "20210802", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210802-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210802-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "0974e3b4f24234829527002ab6e4084f50072498b2283bce8c3b0d02c57bd908", 
-            "size": "1263655297", 
+            "sha256": "312a57f8702436b09989dc89978a34e8052eca833c1d1287cb8aebf19aeff0c0", 
+            "size": "1256338190", 
             "type": "official", 
             "version": "v11.0"
         }
