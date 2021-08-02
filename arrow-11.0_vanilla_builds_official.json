@@ -290,15 +290,15 @@
     "lmi": [
         {
             "changelog": "- Firmware and vendor require V12.2.1.0.RJKCNXM.\r\n\r\n- Device: https://github.com/ArrowOS-Devices/android_device_xiaomi_lmi/commits/arrow-11.0\r\n- Blobs: https://github.com/ArrowOS-Devices/android_vendor_xiaomi_lmi/commits/arrow-11.0", 
-            "date": "2021-07-26", 
-            "datetime": "20210726", 
-            "filename": "Arrow-v11.0-lmi-OFFICIAL-20210726-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lmi/Arrow-v11.0-lmi-OFFICIAL-20210726-VANILLA.zip", 
+            "date": "2021-08-02", 
+            "datetime": "20210802", 
+            "filename": "Arrow-v11.0-lmi-OFFICIAL-20210802-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lmi/Arrow-v11.0-lmi-OFFICIAL-20210802-VANILLA.zip", 
             "maintainer": "TH779, lamp216", 
             "model": "POCO F2 Pro", 
             "oem": "POCO", 
-            "sha256": "924dc4099010426183a027aae3ab4ab7e830c933a29423e59c4761d0ab12b12f", 
-            "size": "723481453", 
+            "sha256": "4d730f6e54c79a9099dfff59dfea799b35962b7b689bf5712f7904ddfa97481d", 
+            "size": "716543685", 
             "type": "official", 
             "version": "v11.0"
         }
