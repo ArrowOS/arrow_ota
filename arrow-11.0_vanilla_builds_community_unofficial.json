@@ -321,16 +321,16 @@
     ], 
     "vince": [
         {
-            "changelog": "Device Changelog:\r\n\u2022 Fixed \"Squared App Opening Animation\"\r\n\u2022 Fixed Minor Stutters while Scrolling\r\n\u2022 Switched to Pixel Power HAL (libperfmgr)\r\n\u2022 App opening speeds improved\r\n\u2022 Address Lots of Denials\r\n\u2022 Switched back To Old Thermal Engine\r\n\u2022 Misc Optimizations.", 
-            "date": "2021-08-01", 
-            "datetime": "20210801", 
-            "filename": "Arrow-v11.0-vince-COMMUNITY-20210801-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210801-VANILLA.zip", 
+            "changelog": "Device Changelog:\r\n\u2022 Fixed \"Squared App Opening Animation\"\r\n\u2022 Fixed Minor Stutters while Scrolling\r\n\u2022 Switched to Pixel Power HAL (libperfmgr)\r\n\u2022 App opening speeds improved\r\n\u2022 Address Lots of Denials\r\n\u2022 Switched back To Old Thermal Engine\r\n\u2022 Switched to Unitrix Kernel.\r\n\u2022 Misc Optimizations.", 
+            "date": "2021-08-03", 
+            "datetime": "20210803", 
+            "filename": "Arrow-v11.0-vince-COMMUNITY-20210803-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210803-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "5ed81ccb09a04efdf56235e4a22e22c3edf8422e55bd5b6add5c47b691d989f3", 
-            "size": "738531846", 
+            "sha256": "1220275bb72860172828d90a5d02dd4475b63f479253c9143ddccfb016972a86", 
+            "size": "737134049", 
             "type": "community", 
             "version": "v11.0"
         }
