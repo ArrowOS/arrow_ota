@@ -255,6 +255,22 @@
             "version": "v11.0"
         }
     ], 
+    "jasmine_sprout": [
+        {
+            "changelog": "First Official release", 
+            "date": "2021-08-03", 
+            "datetime": "20210803", 
+            "filename": "Arrow-v11.0-jasmine_sprout-OFFICIAL-20210803-VANILLA.zip", 
+            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-OFFICIAL-20210803-VANILLA.zip", 
+            "maintainer": "Immanuel_Raj", 
+            "model": "Mi A2", 
+            "oem": "Xiaomi", 
+            "sha256": "1dc9d3af004fdb36decdb61b7d0efc471dda5031dc9810a3cbdcdd01a6ad1b1c", 
+            "size": "794255000", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "land": [
         {
             "changelog": "-", 
