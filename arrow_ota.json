@@ -1438,6 +1438,22 @@
                 }
               ]
             }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-08-04", 
+                  "datetime": "20210804", 
+                  "filename": "Arrow-v11.0-jasmine_sprout-UNOFFICIAL-20210804-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-UNOFFICIAL-20210804-VANILLA.zip", 
+                  "sha256": "af0cd8dfbbb764821a3e8549ec3070d52f0433eee69366cc8f292c52cb230298", 
+                  "size": "792889934", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
           ]
         }
       ]
