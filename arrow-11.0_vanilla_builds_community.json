@@ -34,15 +34,15 @@
     "cas": [
         {
             "changelog": "1. Welcome OSS Vendor!\r\n2. Firmware: V12.5.3.0.RJJCNXM", 
-            "date": "2021-07-31", 
-            "datetime": "20210731", 
-            "filename": "Arrow-v11.0-cas-COMMUNITY-20210731-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210731-VANILLA.zip", 
+            "date": "2021-08-04", 
+            "datetime": "20210804", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210804-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210804-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "f5ddb18a3f5f544f11df77207e4d77963cdfb3843f4ad094b5d6f07ddb2f0aa2", 
-            "size": "1446205037", 
+            "sha256": "a7746fbfaa3b6dc5483c70ba4153c9daa61c1a973d0f12b1884aecf7fcfb39e5", 
+            "size": "1446586242", 
             "type": "community", 
             "version": "v11.0"
         }
