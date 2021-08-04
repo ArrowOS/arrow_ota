@@ -607,6 +607,22 @@
             "version": "v11.0"
         }
     ], 
+    "walleye": [
+        {
+            "changelog": null, 
+            "date": "2021-08-04", 
+            "datetime": "20210804", 
+            "filename": "Arrow-v11.0-walleye-OFFICIAL-20210804-GAPPS.zip", 
+            "filepath": "/arrow-11.0/walleye/Arrow-v11.0-walleye-OFFICIAL-20210804-GAPPS.zip", 
+            "maintainer": "ReallySnow, baolong24", 
+            "model": "Pixel 2", 
+            "oem": "google", 
+            "sha256": "05c97820ed9d54dd80a59dce405626e648e7412d64e8398c0cc197480c4c6d78", 
+            "size": "1137699835", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "wayne": [
         {
             "changelog": null, 
