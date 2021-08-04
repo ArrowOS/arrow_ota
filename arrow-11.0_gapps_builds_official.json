@@ -577,16 +577,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Fix power-off charging\r\n- Manual provisioning works\r\n- Misc changes\r\n- This is final build which requires pre-installed MIUI vendor hence upcoming OTAs will be blocked as safeguard.\r\n\r\n- Recommended Minimum vendor+firmware: \r\n  INDIA: MIUI 12.0.4.0 or above\r\n  EEA: 12.0.5.0 or above\r\n  GLOBAL: 12.0.6.0 or above", 
-            "date": "2021-07-31", 
-            "datetime": "20210731", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210731-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210731-GAPPS.zip", 
+            "changelog": "- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom vendor.\r\n- Update blobs from V12.5.3.0.RJUINXM\r\n- Show a ring on the camera cutout when its in use\r\n- Switch to GCamGOPrebuilt-V2\r\n- Address denials and cleanup unneeded policies\r\n- Fix crackling sound on some loud ringtones.\r\n- Address slow charging text issue, now it should show rapid charging with stock charger\r\n- Further debloat power and camera drivers in kernel\r\n- Fix screen selection issue on touching fp sensor\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+            "date": "2021-08-04", 
+            "datetime": "20210804", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210804-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210804-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "026cca272ea9225fab17b783f88293d53b88c8fb10539a07df9693849ad052de", 
-            "size": "1490298561", 
+            "sha256": "d1ac18f18f81cc0f6e254821ac2dfd52af85f47a8cba9ace037835d782102a9f", 
+            "size": "1507255342", 
             "type": "official", 
             "version": "v11.0"
         }
