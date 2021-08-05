@@ -289,16 +289,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "Latest build:\r\n- Address tethering_service denial\r\n- kernel: Update to 4.4.274\r\n- kernel: Update to LA.UM.9.2.r1-03400-SDMxx0.0\r\n- Other fixes and improvement", 
-            "date": "2021-08-02", 
-            "datetime": "20210802", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210802-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210802-VANILLA.zip", 
+            "changelog": "Latest build:\r\n- Add data f2fs entry into fstab\r\n- Other fixes and improvement", 
+            "date": "2021-08-05", 
+            "datetime": "20210805", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210805-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210805-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "3b9ebc7af92db8cacd01d3bcae7362af90b96a0141acf8ce855e5cfd65fef8d6", 
-            "size": "903880092", 
+            "sha256": "44207ddf8a1b4075b52bbbe733f3b034e7d0b7704b505d733bf1a604df204c43", 
+            "size": "903640694", 
             "type": "official", 
             "version": "v11.0"
         }
