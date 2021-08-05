@@ -3593,7 +3593,7 @@
   ], 
   "vince": [
     {
-      "changelog": "\u2022 Fixed \"Squared App Opening Animation\"\r\n\u2022 Fixed Minor Stutters while Scrolling\r\n\u2022 Switched to Pixel Power HAL (libperfmgr)\r\n\u2022 App opening speeds improved\r\n\u2022 Address Lots of Denials\r\n\u2022 Switched back To Old Thermal Engine\r\n\u2022 Switched to Unitrix Kernel.\r\n\u2022 Misc Optimizations.", 
+      "changelog": "- Fixed Most of the Issues Related to Mic/Audio\r\n- Fixed Cant Turn Off Dt2w\r\n- Fixed Squared App Opening Animation\r\n- Fixed Minor Stutters while Scrolling\r\n- Fixed Lags with Blur Enabled\r\n- Upstreamed Kernel to .278\r\n- Updated To Aug Redfin FP\r\n- Switched to Pixel Power HAL (libperfmgr)\r\n-Switch To GcamGO as Default Camera\r\n- App opening speeds improved\r\n- Address Lots of Denials\r\n- Switched back To Old Thermal Engine\r\n- Battery Backup Should be Slightly better\r\n- Misc Optimizations", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Redmi 5 Plus", 
       "oem": "Xiaomi", 
@@ -3615,12 +3615,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-04", 
-                  "datetime": "20210804", 
-                  "filename": "Arrow-v11.0-vince-COMMUNITY-20210804-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210804-VANILLA.zip", 
-                  "sha256": "38ebc8bbbe5f9fa205f34510af3d4c6ce9fda69ccfd9af53b8762227865533b2", 
-                  "size": "736577754", 
+                  "date": "2021-08-05", 
+                  "datetime": "20210805", 
+                  "filename": "Arrow-v11.0-vince-COMMUNITY-20210805-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210805-VANILLA.zip", 
+                  "sha256": "d12685eae565218df1d6fa496d16c23f3297f217a7d2f1264c95a1917180790a", 
+                  "size": "749274436", 
                   "type": "community", 
                   "version": "v11.0"
                 }
