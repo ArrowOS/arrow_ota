@@ -81,16 +81,16 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": null, 
-            "date": "2021-07-20", 
-            "datetime": "20210720", 
-            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210720-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210720-VANILLA.zip", 
+            "changelog": "- TEST", 
+            "date": "2021-08-05", 
+            "datetime": "20210805", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210805-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210805-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5000", 
             "oem": "OnePlus", 
-            "sha256": "ff544e81175d5169c9be71e756aa40382b0113047a1ae9758c2330cb4ac547da", 
-            "size": "828526300", 
+            "sha256": "07713979bb7032e90af45632dbdcbf5790479a439ac4aad549740e84e2cabf1b", 
+            "size": "822267146", 
             "type": "official", 
             "version": "v11.0"
         }
