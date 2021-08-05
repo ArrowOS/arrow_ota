@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Optimise dex flags\r\n- overlay: enable WCG mode\r\n- libinit: Properly set ro.product.*.name/marketname\r\n- Fixes weird touch/scroll issues on fp touch event\r\n- Sepolicy: Address more denials\r\n- Kernel: USB: pd: Revert some CAF patches\r\n- Kernel: Update touchscreen ft3658 k11 firmware to the latest available release\r\n- Kernel: Disable coresight\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-08-02", 
-            "datetime": "20210802", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210802-VANILLA.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210802-VANILLA.zip", 
+            "changelog": "- sepolicy: Address more denials\r\n- Cleanup rootdir scripts\r\n- Use Pixel animation for power-off charger\r\n- Add missed wfc overlay\r\n- Add missed ril and wifi props\r\n- Kernel: Fixed touch delay\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-08-05", 
+            "datetime": "20210805", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210805-VANILLA.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210805-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "33daba21d1e99682a4804cd02eccd5bcbc1dc76003ef91493476a1bac5d05d16", 
-            "size": "1092327888", 
+            "sha256": "e39a85b61eef4fd3156fecbf2344c482d4b1766a3b33dc5ac48314216429148c", 
+            "size": "1093886381", 
             "type": "official", 
             "version": "v11.0"
         }
