@@ -3225,7 +3225,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n27/07/2021\r\n\u2022 Added a ring to the cutout camera for fixing the halo effect on low conditions (only shown when the front camera is in use)\r\n\r\n24/07/2021\r\n\u2022 Reduced saturation level\r\n\u2022 Added Dirac sound enhancer\r\n\u2022 Fixed bad colors until turning the screen off and on\r\n\r\n12/07/2021\r\n\u2022 Merged July security patch\r\n\u2022 Added KCAL color profiles\r\n\u2022 Merged the tag LA.UM.9.1.r1-10500-SMxxx0.QSSI12.0 into the kernel\r\n\u2022 Improved vibration patterns and strength\r\n\u2022 Increased reserved space for extra add-ons\r\n\u2022 Fixed oversaturated colors\r\n\u2022 Updated blobs from MIUI V12.5.4.0\r\n\u2022 Built more stuff from source\r\n\r\n10/06/2021\r\n\u2022 Fixed Amazon Prime Video HD and Netflix HDR\r\n\u2022 Updated blobs from MIUI 12.5.3.0\r\n\u2022 Some other under the hood improvements\r\n\r\n04/06/2021\r\n\u2022 Switched to OSS display stack\r\n\u2022 Switched to OSS media stack\r\n\u2022 Fixed KCAL settings\r\n\u2022 Added a preview image to the KCAL settings page\r\n\u2022 Fixed screen flickering completely\r\n\u2022 Reduced delay for device specific settings to apply at boot", 
+      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n06/08/2021\r\n\u2022 Switched to AOSP refresh rate settings\r\n\u2022 Enabled content-based automatic refresh rate switching (configurable)\r\n\u2022 Fixed Dirac disabling itself randomly\r\n\r\n27/07/2021\r\n\u2022 Added a ring to the cutout camera for fixing the halo effect on low conditions (only shown when the front camera is in use)\r\n\r\n24/07/2021\r\n\u2022 Reduced saturation level\r\n\u2022 Added Dirac sound enhancer\r\n\u2022 Fixed bad colors until turning the screen off and on", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -3247,12 +3247,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-02", 
-                  "datetime": "20210802", 
-                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210802-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210802-VANILLA.zip", 
-                  "sha256": "79653c690eab0e8fe96a12763272c05d496dd324451c046ceedacaa5fa9a1c5b", 
-                  "size": "1119651509", 
+                  "date": "2021-08-06", 
+                  "datetime": "20210806", 
+                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210806-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210806-VANILLA.zip", 
+                  "sha256": "1be435ec6baec87f09919990fee4060d0faeac4256bef22d24bfad6f9d83db31", 
+                  "size": "1120595047", 
                   "type": "official", 
                   "version": "v11.0"
                 }
