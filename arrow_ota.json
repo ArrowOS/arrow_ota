@@ -1621,7 +1621,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "Latest build:\r\n- Add data f2fs entry into fstab\r\n- Other fixes and improvement", 
+      "changelog": "Still WIP\r\nDO NOT FLASH", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1643,12 +1643,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-01", 
-                  "datetime": "20210801", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210801-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210801-VANILLA.zip", 
-                  "sha256": "29bdcf36a5ef4482117ed4dbd2a41d6c2ef5f7751f1bb95e63b4401e49f41677", 
-                  "size": "964387168", 
+                  "date": "2021-08-08", 
+                  "datetime": "20210808", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210808-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210808-VANILLA.zip", 
+                  "sha256": "259617defa692e32a3cc075ed67f483ccd01580daaee3965900dbea9dc6156f6", 
+                  "size": "902216494", 
                   "type": "community", 
                   "version": "v11.0"
                 }
