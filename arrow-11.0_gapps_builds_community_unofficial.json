@@ -161,16 +161,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
-            "date": "2021-05-15", 
-            "datetime": "20210515", 
-            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210515-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210515-GAPPS.zip", 
-            "maintainer": "Hazama25", 
+            "changelog": "Still WIP\r\nDO NOT FLASH", 
+            "date": "2021-08-08", 
+            "datetime": "20210808", 
+            "filename": "Arrow-v11.0-lavender-COMMUNITY-20210808-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210808-GAPPS.zip", 
+            "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "f393116826a15f8454202a7bec307d7de138373c584e7a3a46325979630c7724", 
-            "size": "1316292000", 
+            "sha256": "b0f09d0504dacaa32d1792589f3d92cd9be10ba1a7a51e36ff8787a510945c97", 
+            "size": "1243791158", 
             "type": "community", 
             "version": "v11.0"
         }
