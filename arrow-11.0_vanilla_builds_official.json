@@ -593,16 +593,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom vendor.\r\n- Update blobs from V12.5.3.0.RJUINXM\r\n- Switch to GCamGOPrebuilt-V2\r\n- Address denials and cleanup unneeded policies\r\n- Fix crackling sound on some loud ringtones.\r\n- Address slow charging text issue, now it should show rapid charging with stock charger\r\n- Further debloat power and camera drivers in kernel\r\n- Fix screen selection issue on touching fp sensor\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-08-05", 
-            "datetime": "20210805", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210805-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210805-VANILLA.zip", 
+            "changelog": "- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom vendor\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+            "date": "2021-08-09", 
+            "datetime": "20210809", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210809-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210809-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "54698372526b77c1563ad9a9a0d0dd486f541e0d7b946968f22f254509adbd94", 
-            "size": "1194951092", 
+            "sha256": "b1afa8585205166886e87c289b46cc6c1026830ec055a0a9c4a1a33d4bc79cc6", 
+            "size": "1181799614", 
             "type": "official", 
             "version": "v11.0"
         }
