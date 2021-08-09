@@ -2293,7 +2293,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- STUFF", 
+      "changelog": null, 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2335,8 +2335,8 @@
                   "datetime": "20210809", 
                   "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210809-GAPPS.zip", 
                   "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210809-GAPPS.zip", 
-                  "sha256": "0d59e649fe7356f750e1d98f9598bff27e0f8442b160559e15f46c2b0d142514", 
-                  "size": "1397150119", 
+                  "sha256": "31407faee59e5ed5445060354ad94d282d68066194614bb5903196e03ca6185e", 
+                  "size": "1397199028", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
