@@ -273,16 +273,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "Latest build:\r\n- Add data f2fs entry into fstab\r\n- Other fixes and improvement", 
-            "date": "2021-08-05", 
-            "datetime": "20210805", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210805-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210805-GAPPS.zip", 
+            "changelog": "Latest build:\r\n- drop data f2fs entry\r\n- Update blobs from jasmine V11.0.28.0.QDIMIXM\r\n- Update redfin fingerprint to August\r\n- Fix status bar network traffic showing\r\n- Other fixes and improvement", 
+            "date": "2021-08-10", 
+            "datetime": "20210810", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210810-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210810-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "dff2a5761edc7f45e61e952d955b9fbf9fc932f4ef56ecaf14a7b47ad36799e1", 
-            "size": "1256818413", 
+            "sha256": "7e0cae40ad0dab70661ad61f29e6d5543f80e9cc84686a20615a5c9f6154dbe2", 
+            "size": "1257231244", 
             "type": "official", 
             "version": "v11.0"
         }
