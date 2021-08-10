@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- decommonise Hotword & Sound Trigger blobs\\n - OK google fully working\\n - Updated to August patches & fp\\n - Black ring overlay on front camera when in use (reduces halo / whitening effect) Thanks Daniml3\\n - Updated exfat driver thanks to Utsava & Kolkh", 
-            "date": "2021-08-05", 
-            "datetime": "20210805", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210805-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210805-VANILLA.zip", 
+            "changelog": "- decommonise Hotword & Sound Trigger blobs\r\n- OK google fully working\r\n- Updated to August patches & fp\r\n- Black ring overlay on front camera when in use (reduces halo / whitening effect)\r\nThanks Daniml3\r\n- Updated exfat driver thanks to Utsava & Kolkh", 
+            "date": "2021-08-10", 
+            "datetime": "20210810", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210810-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210810-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "5b9b48f6ebfac3abe969e36f4a0bbf2da69e3f89f92fe3d7705cb57ede551e95", 
-            "size": "1195439461", 
+            "sha256": "d756ceca718d60e8605dd2e7591a670c3e5a478a788f384abd485c5c8279f715", 
+            "size": "1195528012", 
             "type": "official", 
             "version": "v11.0"
         }
