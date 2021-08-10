@@ -337,16 +337,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": null, 
-            "date": "2021-08-09", 
-            "datetime": "20210809", 
-            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210809-GAPPS.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210809-GAPPS.zip", 
+            "changelog": "- Blob update", 
+            "date": "2021-08-10", 
+            "datetime": "20210810", 
+            "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210810-GAPPS.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210810-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "31407faee59e5ed5445060354ad94d282d68066194614bb5903196e03ca6185e", 
-            "size": "1397199028", 
+            "sha256": "6f39a169b3cf2f83b4606db7f1fff41adba6ba70f074cb1b1b1a36d7a87c4d19", 
+            "size": "1396152102", 
             "type": "unofficial", 
             "version": "v11.0"
         }
