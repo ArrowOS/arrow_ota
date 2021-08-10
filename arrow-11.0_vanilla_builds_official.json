@@ -529,16 +529,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n06/08/2021\r\n\u2022 Switched to AOSP refresh rate settings\r\n\u2022 Enabled content-based automatic refresh rate switching (configurable)\r\n\u2022 Fixed Dirac disabling itself randomly\r\n\r\n27/07/2021\r\n\u2022 Added a ring to the cutout camera for fixing the halo effect on low conditions (only shown when the front camera is in use)\r\n\r\n24/07/2021\r\n\u2022 Reduced saturation level\r\n\u2022 Added Dirac sound enhancer\r\n\u2022 Fixed bad colors until turning the screen off and on", 
-            "date": "2021-08-06", 
-            "datetime": "20210806", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210806-VANILLA.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210806-VANILLA.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n10/08/2021\r\n\u2022 Improved cutout ring rotation changes handling\r\n\u2022 Fixed cutout aliasing (by showing the cutout ring always, but smaller when camera is not in use)\r\n\u2022 Switched to Pixel offline charging animation\r\n\u2022 Increased status bar height (now icons are vertically aligned with the cutout)\r\n\u2022 Moved the device specific settings to system settings category\r\n\u2022 Removed more unused files in the vendor\r\n\u2022 Fixed KCAL out of the box (once again (might need a clean flash))\r\n\u2022 Merged the tag LA.UM.9.1.r1-10900-SMxxx0.0 into the kernel\r\n\u2022 Updated blobs from MIUI V12.5.6.0 RKFMIXM\r\n\r\n06/08/2021\r\n\u2022 Switched to AOSP refresh rate settings\r\n\u2022 Enabled content-based automatic refresh rate switching (configurable)\r\n\u2022 Fixed Dirac disabling itself randomly\r\n\r\n27/07/2021\r\n\u2022 Added a ring to the cutout camera for fixing the halo effect on low conditions (only shown when the front camera is in use)\r\n\r\n24/07/2021\r\n\u2022 Reduced saturation level\r\n\u2022 Added Dirac sound enhancer\r\n\u2022 Fixed bad colors until turning the screen off and on", 
+            "date": "2021-08-10", 
+            "datetime": "20210810", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210810-VANILLA.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210810-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "1be435ec6baec87f09919990fee4060d0faeac4256bef22d24bfad6f9d83db31", 
-            "size": "1120595047", 
+            "sha256": "7f95d9d743ad0b8f22df805327a3773c5839e2d8179fb7adc9f3105fc812843e", 
+            "size": "1117825239", 
             "type": "official", 
             "version": "v11.0"
         }
