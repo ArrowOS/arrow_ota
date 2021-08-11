@@ -241,16 +241,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Updated blobs, GPS HAL and kernel to LA.UM.9.11.r1-04500-NICOBAR.0 (CAF)\r\n- Updated MIUI blobs from V12.0.1.0.RCOMIXM\r\n- Kernel upstreamed to v4.14.241 (android-4.14-stable)\r\n- Enabled skiaGL as UI renderer (fix tiktok and few other apps crashing)\r\n- Boost GPU to max for blur and disable blur by default\r\n- Increased voice call volume steps to 6\r\n- Freed some RAM from useless virtual framebuffer\r\n- Added offline charging LED indicator\r\n- Removed schedtune boosts to reduce heat\r\n- Enabled IORap prefetching for faster app launch\r\n- Enabled compile-time CPU specific optimizations\r\n- Switched to QTI battery health implementation\r\n- Undervolt GPU to reduce heat and power draw\r\n- Misc kernel optimizations & fixes", 
-            "date": "2021-08-01", 
-            "datetime": "20210801", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210801-VANILLA.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210801-VANILLA.zip", 
+            "changelog": "- Upstreamed kernel to v4.14.242 (android-4.14-stable)\r\n- Attempted to fix random reboots", 
+            "date": "2021-08-11", 
+            "datetime": "20210811", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210811-VANILLA.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210811-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "087fcd293f8a481d2b946e3663129ce42001cde30953367380c5ab48d36407f6", 
-            "size": "959693475", 
+            "sha256": "b049cada2c84c03ea6dbfd427f957be97afdeff1a59c7c7c6d71ae4a1638db79", 
+            "size": "959893456", 
             "type": "official", 
             "version": "v11.0"
         }
