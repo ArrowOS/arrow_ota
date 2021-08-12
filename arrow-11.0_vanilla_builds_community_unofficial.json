@@ -17,7 +17,7 @@
     ], 
     "X01AD": [
         {
-            "changelog": "- Update Security Patch\r\n- Update stormbreaker kernel", 
+            "changelog": "- Update Security Patch\r\n- Update stormbreaker kernel\r\n- Misc changes", 
             "date": "2021-08-12", 
             "datetime": "20210812", 
             "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210812-VANILLA.zip", 
@@ -25,8 +25,8 @@
             "maintainer": "Arka", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "ad751022d9d91c8643f3c7c57f140e07a41958050a78864d7f6c4053b092aa76", 
-            "size": "849665949", 
+            "sha256": "1337180c9b1a575d925ab634b70ba8bca693c713efb008562e2ecdc4b65d4ef4", 
+            "size": "849645117", 
             "type": "community", 
             "version": "v11.0"
         }
