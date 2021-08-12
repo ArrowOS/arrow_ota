@@ -1621,7 +1621,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "Latest build:\r\n- drop data f2fs entry\r\n- Update blobs from jasmine V11.0.28.0.QDIMIXM\r\n- Update redfin fingerprint to August\r\n- Fix status bar network traffic showing\r\n- Other fixes and improvement", 
+      "changelog": "Still WIP\r\nDO NOT FLASH", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1631,12 +1631,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-08-10", 
-                  "datetime": "20210810", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210810-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210810-GAPPS.zip", 
-                  "sha256": "70c78feb64b24633e51da589579fa1c13899f1db65a00b693c0c9d2e8c976559", 
-                  "size": "1248498662", 
+                  "date": "2021-08-12", 
+                  "datetime": "20210812", 
+                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210812-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210812-GAPPS.zip", 
+                  "sha256": "e7350052f0c21b2b47292f4669a6781de6528f3b464dfb3a4325c4f387ad4520", 
+                  "size": "1248675735", 
                   "type": "community", 
                   "version": "v11.0"
                 }
