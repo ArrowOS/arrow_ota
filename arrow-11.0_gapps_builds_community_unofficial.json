@@ -17,16 +17,16 @@
     ], 
     "X01AD": [
         {
-            "changelog": "- Switch to stormbreaker\r\n- Misc fixes", 
-            "date": "2021-06-18", 
-            "datetime": "20210618", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210618-GAPPS.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210618-GAPPS.zip", 
+            "changelog": "- Update Security Patch\r\n- Update stormbreaker kernel", 
+            "date": "2021-08-12", 
+            "datetime": "20210812", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210812-GAPPS.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210812-GAPPS.zip", 
             "maintainer": "Arka", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "6e053ca946d1fe05ff19ee7140f1686e181cafcd4b349fe7a2753c90b9782b19", 
-            "size": "1201444103", 
+            "sha256": "b33a49fddd16b70d7fe584b6e136b60063de86481723ff7f93d0cddb873e5e75", 
+            "size": "1191895044", 
             "type": "community", 
             "version": "v11.0"
         }
