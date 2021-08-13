@@ -2601,7 +2601,7 @@
   ], 
   "raphael": [
     {
-      "changelog": "- Initial custom vendor official build.\r\n- Need clean flash.\r\n\r\nNote:\r\n- Requires firmware: MIUI V12.5.5.0.RFKCNXM or above.", 
+      "changelog": "08/08/2021:\r\n- Initial custom vendor official build.\r\n- Need clean flash.\r\n\r\n12/08/2021:\r\n- Add Dirac, thermal profiling support\r\n- Add f2fs support\r\n- Minor other improvements\r\n\r\nNote:\r\n- Requires firmware: \r\nMIUI V12.5.5.0.RFKCNXM or ANY latest MIUI R (android 11) firmware from your region (CN, IN, GLOBAL, EEA etc).", 
       "maintainer": "TH779, kubersharma001", 
       "model": "Redmi K20 Pro", 
       "oem": "Xiaomi", 
@@ -2683,12 +2683,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-10", 
-                  "datetime": "20210810", 
-                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210810-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210810-VANILLA.zip", 
-                  "sha256": "f5db5d7ff8a348b94f5fdb6cfc25d9da87d3affc618f24e25b751c52ca6b3092", 
-                  "size": "1083458379", 
+                  "date": "2021-08-13", 
+                  "datetime": "20210813", 
+                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210813-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210813-VANILLA.zip", 
+                  "sha256": "5d2546a1757d8f40b0c90d0d2dc6c5c5a9913632993858124dd819ce55bc4fef", 
+                  "size": "1084029111", 
                   "type": "official", 
                   "version": "v11.0"
                 }
