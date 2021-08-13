@@ -3169,7 +3169,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- Update blobs\r\n- Fix and update NFC configs to MIUI 12.0.8.0\r\n- audio: Define acdb ids for voice recorder (Fixed voice recorder in some apps)\r\n- Address selinux denials\r\n- Use actual QuicksilveR kernel sources\r\n- Fixed Netflix video playback\r\n- Add missed props\r\n- Relax refresh rate switching\r\n- Disable wide color display\r\n- Import hotword enrollment blobs and drop soundtrigger\r\n- Import USB init scripts from stock\r\n- parts: Update clear speaker audio from MIUI 12\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
+      "changelog": "- TEST\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3", 
       "oem": "POCO", 
@@ -3191,12 +3191,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-09", 
-                  "datetime": "20210809", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210809-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210809-VANILLA.zip", 
-                  "sha256": "2e365b316e954c7d00795696759fe4e5206d7c21b75166de0270a9c773a69e48", 
-                  "size": "1083080812", 
+                  "date": "2021-08-13", 
+                  "datetime": "20210813", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210813-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210813-VANILLA.zip", 
+                  "sha256": "3d2ec29e01de3eb40c1abcd8cbb593991c147da8f9d88705340d16323ea374f3", 
+                  "size": "1083285320", 
                   "type": "official", 
                   "version": "v11.0"
                 }

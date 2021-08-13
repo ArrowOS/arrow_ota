@@ -433,16 +433,16 @@
     ], 
     "surya": [
         {
-            "changelog": "TEST\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
-            "date": "2021-07-28", 
-            "datetime": "20210728", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210728-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210728-VANILLA.zip", 
+            "changelog": "- TEST\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
+            "date": "2021-08-13", 
+            "datetime": "20210813", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210813-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210813-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "36ca562dd14f839d919ffcc4cd3f53cc2e6ebc4619c92333dc45f5c622110289", 
-            "size": "1083039828", 
+            "sha256": "3d2ec29e01de3eb40c1abcd8cbb593991c147da8f9d88705340d16323ea374f3", 
+            "size": "1083285320", 
             "type": "official", 
             "version": "v11.0"
         }
