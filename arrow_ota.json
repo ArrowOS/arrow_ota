@@ -1495,12 +1495,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-08", 
-                  "datetime": "20210808", 
-                  "filename": "Arrow-v11.0-juice-COMMUNITY-20210808-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/juice/Arrow-v11.0-juice-COMMUNITY-20210808-VANILLA.zip", 
-                  "sha256": "5d00404a7c6d7b58c6321915929ba463b78c7a914b991c7b6fe2009f59d10320", 
-                  "size": "708931244", 
+                  "date": "2021-08-13", 
+                  "datetime": "20210813", 
+                  "filename": "Arrow-v11.0-juice-COMMUNITY-20210813-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/juice/Arrow-v11.0-juice-COMMUNITY-20210813-VANILLA.zip", 
+                  "sha256": "3b3150d1a8ffe6aef8d3331c4e960691853764809b64dc592fb3de47057f8988", 
+                  "size": "708345529", 
                   "type": "community", 
                   "version": "v11.0"
                 }
