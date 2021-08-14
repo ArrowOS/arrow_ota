@@ -493,9 +493,9 @@
   ], 
   "cas": [
     {
-      "changelog": "1. Welcome OSS Vendor!\r\n2. Firmware: V12.5.3.0.RJJCNXM", 
+      "changelog": "Firmware: V12.5.4.0.RJJCNXM", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
-      "model": "M2007J1SC", 
+      "model": "Mi 10 Ultra", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
@@ -515,12 +515,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-08", 
-                  "datetime": "20210808", 
-                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210808-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210808-VANILLA.zip", 
-                  "sha256": "55748f0086544b0c9d2c6596ee153e0d2bf32adae6295ecf47ddb646236d3748", 
-                  "size": "1446582028", 
+                  "date": "2021-08-14", 
+                  "datetime": "20210814", 
+                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210814-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210814-VANILLA.zip", 
+                  "sha256": "941d0d87f65d437b6a51cab2fdf79ad19cab20561ea4bbf3d05f8be7359517d9", 
+                  "size": "1412185990", 
                   "type": "community", 
                   "version": "v11.0"
                 }
