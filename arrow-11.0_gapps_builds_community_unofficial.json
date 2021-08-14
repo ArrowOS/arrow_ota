@@ -33,16 +33,16 @@
     ], 
     "cas": [
         {
-            "changelog": "1. Welcome OSS Vendor!\r\n2. Firmware: V12.5.3.0.RJJCNXM", 
-            "date": "2021-07-29", 
-            "datetime": "20210729", 
-            "filename": "Arrow-v11.0-cas-COMMUNITY-20210729-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210729-GAPPS.zip", 
+            "changelog": "Firmware: V12.5.4.0.RJJCNXM", 
+            "date": "2021-08-14", 
+            "datetime": "20210814", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210814-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210814-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
-            "model": "M2007J1SC", 
+            "model": "Mi 10 Ultra", 
             "oem": "Xiaomi", 
-            "sha256": "3c2d5445ecbd705f5f7f04f97eb269a26a2b9c30d53f912193d3755f8da533fc", 
-            "size": "1792120247", 
+            "sha256": "b3eae1af245b15a3fc056acaa1392e1787e5fddef9cfa56c045104944f025f80", 
+            "size": "1761358438", 
             "type": "community", 
             "version": "v11.0"
         }
