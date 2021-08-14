@@ -149,7 +149,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "- Update Security Patch\r\n- Update stormbreaker kernel\r\n- Change speaker & ear-piece volume\r\n- Misc changes", 
+      "changelog": "- Update Security Patch\r\n- Update stormbreaker kernel", 
       "maintainer": "Arka", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -159,12 +159,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-08-13", 
-                  "datetime": "20210813", 
-                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210813-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210813-GAPPS.zip", 
-                  "sha256": "0b63246506be7804e481dc6234028ac0ba1e17d8dc86e0c7f51a3293bae33978", 
-                  "size": "1192379557", 
+                  "date": "2021-08-14", 
+                  "datetime": "20210814", 
+                  "filename": "Arrow-v11.0-X01AD-COMMUNITY-20210814-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20210814-GAPPS.zip", 
+                  "sha256": "061565ec32c0a37aa6a6c4e408f1d4a9365e4a54287c70c28d63f0272a8ec722", 
+                  "size": "1192531242", 
                   "type": "community", 
                   "version": "v11.0"
                 }
