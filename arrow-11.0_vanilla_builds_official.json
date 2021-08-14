@@ -241,16 +241,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Upstreamed kernel to v4.14.243 (android-4.14-stable)\r\n- Updated MIUI blobs to V12.0.2.0.RCOMIXM\r\n- Fixed random reboots during widevine L1 playback\r\n- Removed widevine firmware hack, R firmware is mandatory\r\n- Boost I/O during bootup to improve boot speed\r\n- Boost CPU during wake for faster faceunlock\r\n- Increased default f2fs checkpoint interval\r\n- Increased hispeed freq for big cluster\r\n- Disabled conservative PL boost\r\n- Reverted AOSP's old VM settings tweaks\r\n- Misc optimizations and fixes in kernel", 
-            "date": "2021-08-13", 
-            "datetime": "20210813", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210813-VANILLA.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210813-VANILLA.zip", 
+            "changelog": "- Fixed deep sleep (in kernel)\r\n- Enabled conservative PL in battery saver mode\r\n- Disabled GPU boost in battery saver mode\r\n- Display correct hwversion in About Device", 
+            "date": "2021-08-14", 
+            "datetime": "20210814", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210814-VANILLA.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210814-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "583c1a83b87079dd499000e6aed60ddafd3ed334b6564df04742edf44d2e924d", 
-            "size": "959030893", 
+            "sha256": "4e8b9717179d6d941a9c8628624524d9799fe2b670b5f9dc10ea41e897321436", 
+            "size": "958663363", 
             "type": "official", 
             "version": "v11.0"
         }
