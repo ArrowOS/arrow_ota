@@ -2293,7 +2293,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Update blobs from miui PHOENIX 21.8.4\r\n\u2022 Upstream kernel to 4.14.242\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "\u2022 Fixed freeze issue after deepsleep\r\n\u2022 Override zRAM to 3GB from kernel\r\n\u2022 Upstream kernel to 4.14.244\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2315,12 +2315,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-13", 
-                  "datetime": "20210813", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210813-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210813-VANILLA.zip", 
-                  "sha256": "5eacbc737b231d48afc28b84d27f33b9b02d698b2ebc47b13c35c22eb29204bc", 
-                  "size": "1074427217", 
+                  "date": "2021-08-16", 
+                  "datetime": "20210816", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210816-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210816-VANILLA.zip", 
+                  "sha256": "6555dd2d0bd20f980acbd0abd19abeb9f4f6c948325115a00d4deaf02f5558d5", 
+                  "size": "1074168259", 
                   "type": "official", 
                   "version": "v11.0"
                 }
