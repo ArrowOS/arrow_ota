@@ -338,15 +338,15 @@
     "mido": [
         {
             "changelog": "Note:\r\n- These are still going to continue on 3.18 builds only.\r\n- Requests for 4.9 builds will be ignored.\r\n\r\nThis decision has been taken as per the equal no.of requests from both sides of the parties and concluded by the outcome of adverse performance affects.", 
-            "date": "2021-08-12", 
-            "datetime": "20210812", 
-            "filename": "Arrow-v11.0-mido-OFFICIAL-20210812-VANILLA.zip", 
-            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210812-VANILLA.zip", 
+            "date": "2021-08-16", 
+            "datetime": "20210816", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20210816-VANILLA.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210816-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi Note 4", 
             "oem": "Xiaomi", 
-            "sha256": "507bba6208d2c40c51deb74288c2e994df2cddcc494b7522216670edbb6a61e8", 
-            "size": "739960032", 
+            "sha256": "e036f0fd9be270881d7a1e01eaff8dd26c60524230f35055958cec683f72f643", 
+            "size": "740108082", 
             "type": "official", 
             "version": "v11.0"
         }
