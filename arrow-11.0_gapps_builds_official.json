@@ -433,16 +433,16 @@
     ], 
     "raphael": [
         {
-            "changelog": "08/08/2021:\r\n- Initial custom vendor official build.\r\n- Need clean flash.\r\n\r\n12/08/2021:\r\n- Add Dirac, thermal profiling support\r\n- Add f2fs support\r\n- Minor other improvements\r\n\r\nNote:\r\n- Requires firmware: \r\nMIUI V12.5.5.0.RFKCNXM or ANY latest MIUI R (android 11) firmware from your region (CN, IN, GLOBAL, EEA etc).", 
-            "date": "2021-08-13", 
-            "datetime": "20210813", 
-            "filename": "Arrow-v11.0-raphael-OFFICIAL-20210813-GAPPS.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210813-GAPPS.zip", 
+            "changelog": "- Misc changes and improvements\r\n- See full device sources at: https://github.com/ArrowOS-Devices?q=raphael\r\n- Requires firmware: \r\nMIUI V12.5.5.0.RFKCNXM or ANY latest MIUI R (android 11) firmware from your region (CN, IN, GLOBAL, EEA etc).", 
+            "date": "2021-08-16", 
+            "datetime": "20210816", 
+            "filename": "Arrow-v11.0-raphael-OFFICIAL-20210816-GAPPS.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210816-GAPPS.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "5ae8dac44066f50d7d517416d808ed701f083cc486569a99a9c4fbb9c0b01db8", 
-            "size": "1436494675", 
+            "sha256": "5f77371d5e23ff50629434918ee923cf87aad3a7a225746542b84d6c52fc9487", 
+            "size": "1436123230", 
             "type": "official", 
             "version": "v11.0"
         }
