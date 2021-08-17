@@ -95,38 +95,6 @@
             "version": "v11.0"
         }
     ], 
-    "daisy": [
-        {
-            "changelog": null, 
-            "date": "2021-05-15", 
-            "datetime": "20210515", 
-            "filename": "Arrow-v11.0-daisy-COMMUNITY-20210515-GAPPS.zip", 
-            "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-COMMUNITY-20210515-GAPPS.zip", 
-            "maintainer": "acras", 
-            "model": "Mi A2 Lite", 
-            "oem": "Xiaomi", 
-            "sha256": "f069042ca4e3cb07396f8624a86974e5bb6f4add922aebf5b06d3048bc07771c", 
-            "size": "1143564374", 
-            "type": "community", 
-            "version": "v11.0"
-        }
-    ], 
-    "jasmine_sprout": [
-        {
-            "changelog": "New clean trees", 
-            "date": "2021-02-21", 
-            "datetime": "20210221", 
-            "filename": "Arrow-v11.0-jasmine_sprout-COMMUNITY-20210221-GAPPS.zip", 
-            "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-COMMUNITY-20210221-GAPPS.zip", 
-            "maintainer": "Immanuel_Raj", 
-            "model": "Mi A2", 
-            "oem": "xiaomi", 
-            "sha256": "00da65def42eda826ae486a08fa2869f6767cc3edcb45232a9b3b852a8158be9", 
-            "size": "1136369171", 
-            "type": "community", 
-            "version": "v11.0"
-        }
-    ], 
     "juice": [
         {
             "changelog": null, 
@@ -223,22 +191,6 @@
             "version": "v11.0"
         }
     ], 
-    "raphael": [
-        {
-            "changelog": null, 
-            "date": "2021-04-07", 
-            "datetime": "20210407", 
-            "filename": "Arrow-v11.0-raphael-COMMUNITY-20210407-GAPPS.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-COMMUNITY-20210407-GAPPS.zip", 
-            "maintainer": "kubersharma001", 
-            "model": "Redmi K20 Pro", 
-            "oem": "Xiaomi", 
-            "sha256": "206a40db0ce5a53e8c1f20dbc1f4f8154aea4221d0748165d5859d4b7a997da6", 
-            "size": "1462486237", 
-            "type": "community", 
-            "version": "v11.0"
-        }
-    ], 
     "rosy": [
         {
             "changelog": null, 
@@ -255,38 +207,6 @@
             "version": "v11.0"
         }
     ], 
-    "star2lte": [
-        {
-            "changelog": null, 
-            "date": "2021-03-05", 
-            "datetime": "20210305", 
-            "filename": "Arrow-v11.0-star2lte-COMMUNITY-20210305-GAPPS.zip", 
-            "filepath": "/arrow-11.0/star2lte/Arrow-v11.0-star2lte-COMMUNITY-20210305-GAPPS.zip", 
-            "maintainer": "Baddar90", 
-            "model": "SM-G965F", 
-            "oem": "samsung", 
-            "sha256": "311f19d0d38da2fe5295644c0950ab30aac96c20171fba5e4c63806f7da9be8b", 
-            "size": "965331524", 
-            "type": "community", 
-            "version": "v11.0"
-        }
-    ], 
-    "starlte": [
-        {
-            "changelog": null, 
-            "date": "2021-03-05", 
-            "datetime": "20210305", 
-            "filename": "Arrow-v11.0-starlte-COMMUNITY-20210305-GAPPS.zip", 
-            "filepath": "/arrow-11.0/starlte/Arrow-v11.0-starlte-COMMUNITY-20210305-GAPPS.zip", 
-            "maintainer": "Baddar90", 
-            "model": "SM-G960F", 
-            "oem": "samsung", 
-            "sha256": "79aad4c6a33b388240657f3f2f9a28416478b31856c8b6e3730814818bee1144", 
-            "size": "965295028", 
-            "type": "community", 
-            "version": "v11.0"
-        }
-    ], 
     "umi": [
         {
             "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
@@ -299,22 +219,6 @@
             "oem": "Xiaomi", 
             "sha256": "bac940a10bcb342c734bf44a66bc49ee2faedc768311dfa69fe49da6f17d3554", 
             "size": "1018506256", 
-            "type": "community", 
-            "version": "v11.0"
-        }
-    ], 
-    "vayu": [
-        {
-            "changelog": "- This includes custom vendor built from source\r\n- MIUI 12.5.2.0 firmware is recommended", 
-            "date": "2021-07-17", 
-            "datetime": "20210717", 
-            "filename": "Arrow-v11.0-vayu-COMMUNITY-20210717-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-COMMUNITY-20210717-GAPPS.zip", 
-            "maintainer": "kubersharma001", 
-            "model": "Poco X3 Pro", 
-            "oem": "POCO", 
-            "sha256": "cf47a5a60de2872846c997cc8429f0da38877c7f43a495aa68efa3d9c94069d1", 
-            "size": "1493623728", 
             "type": "community", 
             "version": "v11.0"
         }
