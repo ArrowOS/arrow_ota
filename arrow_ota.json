@@ -3169,7 +3169,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- TEST\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
+      "changelog": "- Added MIUI offline charging daemon (Fixed offline charger)\r\n- Fixed offline charging LED indicator \r\n- Tweak perf config\r\n- Tune CPUfreqs\r\n- overlay: Cleanup\r\n- Remove wide color display props\r\n- Cleanup color profiles (display does not support WCD)\r\n- overlay: Limit screen recorder to 90fps\r\n- Update unpin blobs from MIUI V12.5.1.0.RJGMIXM\r\n- Update pin blobs from LA.UM.9.1.r1-10600-SMxxx0.0\r\n- gps hal: Update to LA.UM.9.1.r1-10600-SMxxx0.0\r\n- nfc configs: Sync configs with V12.5.1.0.RJGMIXM\r\n- audio configs: Cleanup and sync with V12.5.1.0.RJGMIXM\r\n- Fixed USB tethering\r\n- Add missed props\r\n- Remove nv_mac service\r\n- Kang SF phase offsets from coral and cmi\r\n- sepolicy: Correct wakeup lables\r\n- sepolicy: label spidev0.1\r\n- sepolicy: Address more denials\r\n- Remove XiaomiDoze package and move its functions to XiaomiParts\r\n- Build kernel with AOSP Clang 12.0.7\r\n- overlay: disable LED multiple colors\r\n- parts: Update RU and UA translations\r\n- overlay: Define OEM fast charge sysfs node\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3", 
       "oem": "POCO", 
@@ -3195,8 +3195,8 @@
                   "datetime": "20210818", 
                   "filename": "Arrow-v11.0-surya-OFFICIAL-20210818-VANILLA.zip", 
                   "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210818-VANILLA.zip", 
-                  "sha256": "ff6cb0cd123c20f3c77c1e5734a116cc9bf080ff362ebb614c000657ad85d558", 
-                  "size": "1078817606", 
+                  "sha256": "1a6abcebe381776dd0073d343f428358e0cb243f7a1431900b83aa1f3e2a67d0", 
+                  "size": "1077527629", 
                   "type": "official", 
                   "version": "v11.0"
                 }
