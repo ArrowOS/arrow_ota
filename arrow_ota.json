@@ -1377,7 +1377,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "First Official release", 
+      "changelog": "Fixed Fingerprint not working issues", 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "Xiaomi", 
@@ -1427,12 +1427,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-13", 
-                  "datetime": "20210813", 
-                  "filename": "Arrow-v11.0-jasmine_sprout-OFFICIAL-20210813-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-OFFICIAL-20210813-VANILLA.zip", 
-                  "sha256": "a51f0d48fe53a94056c5b655e3e3bc78705b1319fdad9645ce73b11516aad9a3", 
-                  "size": "794780649", 
+                  "date": "2021-08-18", 
+                  "datetime": "20210818", 
+                  "filename": "Arrow-v11.0-jasmine_sprout-OFFICIAL-20210818-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/jasmine_sprout/Arrow-v11.0-jasmine_sprout-OFFICIAL-20210818-VANILLA.zip", 
+                  "sha256": "d3a5753769faad977062e44c5f60acc416f2f0014034eda69e60b8b22fa40cf6", 
+                  "size": "795359965", 
                   "type": "official", 
                   "version": "v11.0"
                 }
