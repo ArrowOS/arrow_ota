@@ -225,16 +225,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Improve haptics.\r\n- Update audio configs.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
-            "date": "2021-08-13", 
-            "datetime": "20210813", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210813-VANILLA.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210813-VANILLA.zip", 
+            "changelog": "- Upstream blobs to global.\r\n- Upstream kernel.\r\n- Update light HAL.\r\n- Device tree improvements and performance enhancements.\r\n- Fixed traffic indicator visibility on status bar.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+            "date": "2021-08-18", 
+            "datetime": "20210818", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210818-VANILLA.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210818-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "f5a90cca92b3c134aab44db82480dbafb490684cfb781994c6049ce9bff6b355", 
-            "size": "736341533", 
+            "sha256": "cc4d75d43564e29a61fc273007ba3bf939d906750b2c93014267d916dc8c779c", 
+            "size": "735836826", 
             "type": "official", 
             "version": "v11.0"
         }
