@@ -241,16 +241,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "Latest build:\r\n- Fixed libperfmgr spam", 
-            "date": "2021-06-19", 
-            "datetime": "20210619", 
-            "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210619-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210619-VANILLA.zip", 
-            "maintainer": "Ratoriku, Hazama25", 
+            "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
+            "date": "2021-08-19", 
+            "datetime": "20210819", 
+            "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210819-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210819-VANILLA.zip", 
+            "maintainer": "Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "b5be425c5273d9a2e55c26177b85e13c18d7e4dce9c88cb95f2e1008294f30fa", 
-            "size": "911158197", 
+            "sha256": "a47ad051a6b4e113f88efd6fcf8d22a334b6c9469e28ccc47e2210e0d1f6a091", 
+            "size": "966183703", 
             "type": "unofficial", 
             "version": "v11.0"
         }
