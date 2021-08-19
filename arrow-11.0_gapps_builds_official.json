@@ -209,16 +209,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Improve haptics.\r\n- Update audio configs.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
-            "date": "2021-08-13", 
-            "datetime": "20210813", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210813-GAPPS.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210813-GAPPS.zip", 
+            "changelog": "- Upstream blobs to global.\r\n- Upstream kernel.\r\n- Update light HAL.\r\n- Device tree improvements and performance enhancements.\r\n- Fixed traffic indicator visibility on status bar.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+            "date": "2021-08-18", 
+            "datetime": "20210818", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210818-GAPPS.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210818-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "021b57cb1c1d4f32285a008af4436a90ef16ba13f6203f6f9afedb75df9c5e23", 
-            "size": "1078388625", 
+            "sha256": "6eb7a6a75ce25b1983e2d6959f0d211f2bb09a4489df3441377595c4a7b1b27c", 
+            "size": "1078789652", 
             "type": "official", 
             "version": "v11.0"
         }
