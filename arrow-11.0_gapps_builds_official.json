@@ -498,15 +498,15 @@
     "surya": [
         {
             "changelog": "- Added MIUI offline charging daemon (Fixed offline charger)\r\n- Fixed offline charging LED indicator \r\n- Tweak perf config\r\n- Tune CPUfreqs\r\n- overlay: Cleanup\r\n- Remove wide color display props\r\n- Cleanup color profiles (display does not support WCD)\r\n- overlay: Limit screen recorder to 90fps\r\n- Update unpin blobs from MIUI V12.5.1.0.RJGMIXM\r\n- Update pin blobs from LA.UM.9.1.r1-10600-SMxxx0.0\r\n- gps hal: Update to LA.UM.9.1.r1-10600-SMxxx0.0\r\n- nfc configs: Sync configs with V12.5.1.0.RJGMIXM\r\n- audio configs: Cleanup and sync with V12.5.1.0.RJGMIXM\r\n- Fixed USB tethering\r\n- Add missed props\r\n- Remove nv_mac service\r\n- Kang SF phase offsets from coral and cmi\r\n- sepolicy: Correct wakeup lables\r\n- sepolicy: label spidev0.1\r\n- sepolicy: Address more denials\r\n- Remove XiaomiDoze package and move its functions to XiaomiParts\r\n- Build kernel with AOSP Clang 12.0.7\r\n- overlay: disable LED multiple colors\r\n- parts: Update RU and UA translations\r\n- overlay: Define OEM fast charge sysfs node\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
-            "date": "2021-08-18", 
-            "datetime": "20210818", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210818-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210818-GAPPS.zip", 
+            "date": "2021-08-19", 
+            "datetime": "20210819", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210819-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210819-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "39c54f2a64cb715acaf5880530ee495f27f155cf8782b7dab30f3af37188b4b2", 
-            "size": "1395807046", 
+            "sha256": "7114720a0eb4392f4f0f2fe07d3aef167c66ff985b3990d9713291941a14e44e", 
+            "size": "1396818156", 
             "type": "official", 
             "version": "v11.0"
         }
