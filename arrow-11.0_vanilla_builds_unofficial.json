@@ -191,6 +191,22 @@
             "version": "v11.0"
         }
     ], 
+    "guacamole": [
+        {
+            "changelog": null, 
+            "date": "2021-08-19", 
+            "datetime": "20210819", 
+            "filename": "Arrow-v11.0-guacamole-UNOFFICIAL-20210819-VANILLA.zip", 
+            "filepath": "/arrow-11.0/guacamole/Arrow-v11.0-guacamole-UNOFFICIAL-20210819-VANILLA.zip", 
+            "maintainer": "alk3p", 
+            "model": "OnePlus 7 Pro", 
+            "oem": "OnePlus", 
+            "sha256": "16d5edf84c29e5158458ac26dccc2c7d9d1a4717110cbeabdf6f5d445cb8a72d", 
+            "size": "818544588", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "jasmine_sprout": [
         {
             "changelog": "First Official release", 
