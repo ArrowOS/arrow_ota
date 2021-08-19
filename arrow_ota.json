@@ -1627,34 +1627,6 @@
       "oem": "Xiaomi", 
       "v11.0": [
         {
-          "COMMUNITY": [
-            {
-              "GAPPS": [
-                {
-                  "date": "2021-08-14", 
-                  "datetime": "20210814", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210814-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210814-GAPPS.zip", 
-                  "sha256": "337e0afc78acd051cccdb56aa58dbfcf089e84148aa2472399a192b5247b51d5", 
-                  "size": "1306371951", 
-                  "type": "community", 
-                  "version": "v11.0"
-                }
-              ], 
-              "VANILLA": [
-                {
-                  "date": "2021-08-14", 
-                  "datetime": "20210814", 
-                  "filename": "Arrow-v11.0-lavender-COMMUNITY-20210814-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-COMMUNITY-20210814-VANILLA.zip", 
-                  "sha256": "881b62bedc03e809be214ff574f017faad5a215f75047722c908f26c2ed0ea2f", 
-                  "size": "965224543", 
-                  "type": "community", 
-                  "version": "v11.0"
-                }
-              ]
-            }
-          ], 
           "OFFICIAL": [
             {
               "GAPPS": [
