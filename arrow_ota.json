@@ -297,7 +297,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- add thermal profiles per apps (under battery settings)\r\n- add back saturated colour profile for display\r\n- bump gcam mic volume to match redfin (can hear things in videos now)\r\n- general fixups", 
+      "changelog": "BLOCK UPCOMING OTAs - grab the next update from the website when available.\r\n***After this build, you must format data when updating to the next build. This only needs to be done once. We will move to a newer encryption.***\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -319,12 +319,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-15", 
-                  "datetime": "20210815", 
-                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210815-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210815-VANILLA.zip", 
-                  "sha256": "48b4ba35d3974e6734d018f3176bbd9ce1523474a9fc6fd5a3ce6f201c9e65b1", 
-                  "size": "1197076677", 
+                  "date": "2021-08-20", 
+                  "datetime": "20210820", 
+                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210820-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210820-VANILLA.zip", 
+                  "sha256": "df67d56a2003249f33a12de8e93cd6300b47c8e08133680c750c96c4e9731ff7", 
+                  "size": "1196134342", 
                   "type": "official", 
                   "version": "v11.0"
                 }
