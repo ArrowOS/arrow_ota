@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- decommonise Hotword & Sound Trigger blobs\r\n- OK google fully working\r\n- Updated to August patches & fp\r\n- Black ring overlay on front camera when in use (reduces halo / whitening effect)\r\nThanks Daniml3\r\n- Updated exfat driver thanks to Utsava & Kolkh", 
-            "date": "2021-08-10", 
-            "datetime": "20210810", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210810-GAPPS.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210810-GAPPS.zip", 
+            "changelog": "BLOCK UPCOMING OTAs - grab the next update from the website when available.\r\n***After this build, you must format data when updating to the next build. This only needs to be done once. We will move to a newer encryption.***\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2021-08-20", 
+            "datetime": "20210820", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210820-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210820-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "768613ea14236a42bc1b7d1b4af64e1fd9070b3dfd5bd972d0918c18ccc0604f", 
-            "size": "1545512983", 
+            "sha256": "19df29a2a5293d8dd95720848e60856def073ccd15c5fd1887a28dea083223df", 
+            "size": "1545924317", 
             "type": "official", 
             "version": "v11.0"
         }
