@@ -49,6 +49,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-08-21", 
+                  "datetime": "20210821", 
+                  "filename": "Arrow-v11.0-GM8_sprout-OFFICIAL-20210821-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/GM8_sprout/Arrow-v11.0-GM8_sprout-OFFICIAL-20210821-GAPPS.zip", 
+                  "sha256": "0c5753cff8caf28480e715d9f3fb00146cf7fa4f4a6ee7c715862a6a8294539f", 
+                  "size": "1041107881", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-08-21", 
