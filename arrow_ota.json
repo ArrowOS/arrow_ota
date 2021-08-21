@@ -39,6 +39,34 @@
       ]
     }
   ], 
+  "GM8_sprout": [
+    {
+      "changelog": "Initial official build.", 
+      "maintainer": "noonlord", 
+      "model": "GM 8", 
+      "oem": "GM", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-08-21", 
+                  "datetime": "20210821", 
+                  "filename": "Arrow-v11.0-GM8_sprout-OFFICIAL-20210821-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/GM8_sprout/Arrow-v11.0-GM8_sprout-OFFICIAL-20210821-VANILLA.zip", 
+                  "sha256": "986d610875a51970e179ee350ef4c405d68d9cb2909cad8cdaf9017bde436655", 
+                  "size": "742316529", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "RMX1801": [
     {
       "changelog": null, 
