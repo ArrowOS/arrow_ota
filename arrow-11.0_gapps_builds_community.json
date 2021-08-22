@@ -257,16 +257,16 @@
     ], 
     "vince": [
         {
-            "changelog": "- Fixed Most of the Issues Related to Mic/Audio\r\n- Fixed Cant Turn Off Dt2w\r\n- Fixed Squared App Opening Animation\r\n- Fixed Minor Stutters while Scrolling\r\n- Fixed Lags with Blur Enabled\r\n- Upstreamed Kernel to .278\r\n- Updated To Aug Redfin FP\r\n- Switched to Pixel Power HAL (libperfmgr)\r\n-Switch To GcamGO as Default Camera\r\n- App opening speeds improved\r\n- Address Lots of Denials\r\n- Switched back To Old Thermal Engine\r\n- Battery Backup Should be Slightly better\r\n- Misc Optimizations", 
-            "date": "2021-08-05", 
-            "datetime": "20210805", 
-            "filename": "Arrow-v11.0-vince-COMMUNITY-20210805-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210805-GAPPS.zip", 
+            "changelog": "\u2022 Increase Mic and Earpiece Volume", 
+            "date": "2021-08-22", 
+            "datetime": "20210822", 
+            "filename": "Arrow-v11.0-vince-COMMUNITY-20210822-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210822-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "3f3de0c7fdc8e99c85a56217c74ddd7e89f8947561b7b1af47eb2acd01494977", 
-            "size": "1089222500", 
+            "sha256": "a8070a10b847527432a355104911320aa65d75ce9b3b35e3ea9b72602f2ecfa3", 
+            "size": "1089938193", 
             "type": "community", 
             "version": "v11.0"
         }
