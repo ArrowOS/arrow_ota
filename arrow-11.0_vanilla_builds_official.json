@@ -674,15 +674,15 @@
     "whyred": [
         {
             "changelog": "\u2022 Fixed Bluetooth audio\r\n\u2022 Upstream kernel to v4.4.268\r\n\u2022 Misc changes", 
-            "date": "2021-08-17", 
-            "datetime": "20210817", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210817-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210817-VANILLA.zip", 
+            "date": "2021-08-22", 
+            "datetime": "20210822", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20210822-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20210822-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "0d43825a0a0d82f4d819f9b126cc60685ab71d9aa93a8105a240301e7ab2fcb5", 
-            "size": "814676772", 
+            "sha256": "7c218aad1b0b5cde7ffb6db9567858553ee84e5fd077babd20ff697a29560b22", 
+            "size": "816662477", 
             "type": "official", 
             "version": "v11.0"
         }
