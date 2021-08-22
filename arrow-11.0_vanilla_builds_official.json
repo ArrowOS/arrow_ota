@@ -210,15 +210,15 @@
     "dumpling": [
         {
             "changelog": "- Fixed Smart Charging sepolicy and permissions\r\n- Sepolicy: Address more denials\r\n- Doze: Improve support for AOD\r\n- fstab: Disable force encryption for f2fs\r\n- Update Media blobs from LA.UM.9.2.r1-01800-SDMxx0.0\r\n- Update WFD blobs from phoenix_sprout 11 RKQ1.201123.002\r\n- Fixes for WFD (maybe will work)\r\n- Inlined Camera DotFix (v6.0)\r\n- Fixes sepolicy and permissions for vibration strength into OnePlus settings\r\n- Drop all SF offset related props\r\n- Disable surfaceflinger backpressure\r\n- pocketmode: Rework\r\n- Add dummy libqti-perfd-client\r\n- Kernel: Enable support NTFS\r\n- Misc fixes and upstream changes.", 
-            "date": "2021-08-18", 
-            "datetime": "20210818", 
-            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210818-VANILLA.zip", 
-            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210818-VANILLA.zip", 
+            "date": "2021-08-22", 
+            "datetime": "20210822", 
+            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210822-VANILLA.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210822-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5010", 
             "oem": "OnePlus", 
-            "sha256": "c796dfe65eb3271cb84ea1cb66f4d25bb0b58075729cd683298782071947f200", 
-            "size": "821162000", 
+            "sha256": "41428acceaad49bd16fd831c56ff7429373582f8c44ad075f394cc03815c8167", 
+            "size": "821957587", 
             "type": "official", 
             "version": "v11.0"
         }
