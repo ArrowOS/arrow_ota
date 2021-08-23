@@ -50,15 +50,15 @@
     "cepheus": [
         {
             "changelog": "Kernel changes:\r\n\u2022 Upstreamed to .232\r\n\u2022 Merge latest CAF tag LA.UM.9.1.r1-10200-SMxxx0.0\r\n\u2022 Merge WireGuard v1.0.20210424\r\n\u2022 Improve low memory killer\r\n\u2022 Mirco-optimize scheduler\r\n\u2022 Drop unused NUMA feature(Non-Uniform Memory Access)\r\n\u2022 Bring back userspace boost method\r\n\u2022 Add some thermal zones for mi_thermald\r\n\u2022 Enable Ftrace for iorap perfetto\r\n\r\nDevice specific changes:\r\n\u2022 Update prebuilt firmware and blobs from cepheus-user 11 RKQ1.200826.002 21.4.7 release-keys\r\n\u2022 Switch to POCO X3 Pro Global Listen stack and hotwordenrollment blobs (fixes screen off Google hotword detection and low mic volume when enabled OK Google)\r\n\u2022 Add proper configs for burn-in protection\r\n\u2022 Drop non-functional power off alarm blobs\r\n\u2022 Reset to miui stock audio configs\r\n\u2022 Cleanup SEPolicy rules also resolve all neverallow rues\r\n\u2022 Disable GPU Boost during interaction powerhint\r\n\u2022 Fix camera stutter in some apps\r\n\u2022 Enable iorap readahead (Improve app startup time)\r\n\u2022 Enable unspecialized app process pool\r\n\u2022 Use Gcam Go only with gapped releases (use snap with vanila releases)\r\n\u2022 Update to June redfin fingerprint \r\n\u2022 Flatten APEXs for performance\r\n\u2022 Make the UI smoother\r\n\u2022 Use \"Xiaomi Mi 9\" for default ssid name \r\n\u2022 Some stuff else, go read commit list on Github.", 
-            "date": "2021-08-18", 
-            "datetime": "20210818", 
-            "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210818-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210818-GAPPS.zip", 
+            "date": "2021-08-23", 
+            "datetime": "20210823", 
+            "filename": "Arrow-v11.0-cepheus-COMMUNITY-20210823-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cepheus/Arrow-v11.0-cepheus-COMMUNITY-20210823-GAPPS.zip", 
             "maintainer": "lamjiidii1", 
             "model": "Mi 9", 
             "oem": "Xiaomi", 
-            "sha256": "4f24dcc78c10d9c759f433ce962a279bad9a1485bfe057d1014a4d9bd08c1e93", 
-            "size": "1347707085", 
+            "sha256": "54d1287be29ef8631706f46363477c2b3cb8f8388e6ca2093af32fb15a89899e", 
+            "size": "1396396303", 
             "type": "community", 
             "version": "v11.0"
         }
