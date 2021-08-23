@@ -2333,7 +2333,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Fixed freeze issue after deepsleep\r\n\u2022 Override zRAM to 3GB from kernel\r\n\u2022 Upstream kernel to 4.14.244\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "\u2022 Kang SF phase offsets from coral\r\n\u2022 Allocate dedicated pcm node for in call recording\r\n\u2022 Suppress overly verbose log spam\r\n\u2022 Remove 10 ms CPU idle latency unvote timeout\r\n\u2022 Remove pm qos latency overrides\r\n\u2022 Properly set GPU timeout\r\n\u2022 Override zRAM to 3GB from kernel\r\n\u2022 Upstream kernel to 4.14.244\r\n\u2022 Many more changes inlined from StormBreaker-X4 \r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2355,12 +2355,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-19", 
-                  "datetime": "20210819", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210819-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210819-VANILLA.zip", 
-                  "sha256": "f8c102ad9b421d2660f5a4e02fd5f28830990ae7a2f0ab71bb124e4359f6af63", 
-                  "size": "1074317597", 
+                  "date": "2021-08-23", 
+                  "datetime": "20210823", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210823-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210823-VANILLA.zip", 
+                  "sha256": "c07a51b00207928aff4fbd02fc81959fc44f79a31bb8ed5b52070599d9670c44", 
+                  "size": "1075710828", 
                   "type": "official", 
                   "version": "v11.0"
                 }
