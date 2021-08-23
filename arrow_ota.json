@@ -2601,7 +2601,7 @@
   ], 
   "r5x": [
     {
-      "changelog": "1. Enforcing.\r\n2. Community Build.", 
+      "changelog": "Testing Build - August", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Realme 5 Series", 
       "oem": "Realme", 
@@ -2623,12 +2623,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-09", 
-                  "datetime": "20210809", 
-                  "filename": "Arrow-v11.0-r5x-COMMUNITY-20210809-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210809-VANILLA.zip", 
-                  "sha256": "68c6e4f0907c6646a0a8ec59b30083618f1fcbcddc63aa6d0bad5364271d8cb0", 
-                  "size": "1025979640", 
+                  "date": "2021-08-23", 
+                  "datetime": "20210823", 
+                  "filename": "Arrow-v11.0-r5x-COMMUNITY-20210823-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210823-VANILLA.zip", 
+                  "sha256": "c0af89b8d72180b5bf4ac28da5cb05ca57e66e06182d8dcc14bc06adf2177b42", 
+                  "size": "1021186059", 
                   "type": "community", 
                   "version": "v11.0"
                 }
