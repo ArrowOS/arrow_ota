@@ -1689,7 +1689,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Kernel: Add TTL Fixation\r\n- Other fixes and improvement", 
+      "changelog": "TEST VERSION\r\nFLASH IT AT YOUR RISK", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1727,12 +1727,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-08-19", 
-                  "datetime": "20210819", 
-                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210819-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210819-GAPPS.zip", 
-                  "sha256": "982036d5d2ec34b61eec1e25fc08076b76dd40058aecc1ff03eb70e4cb6d766c", 
-                  "size": "1306493565", 
+                  "date": "2021-08-23", 
+                  "datetime": "20210823", 
+                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210823-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210823-GAPPS.zip", 
+                  "sha256": "40cf5e6d66a84bb8bf731b7183436740fda261b4ec1bc9720a8667253e7adc59", 
+                  "size": "1256634254", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
