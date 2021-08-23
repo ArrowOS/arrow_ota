@@ -242,15 +242,15 @@
     "gauguin": [
         {
             "changelog": "- Upstream blobs to global.\r\n- Upstream kernel.\r\n- Update light HAL.\r\n- Device tree improvements and performance enhancements.\r\n- Fixed traffic indicator visibility on status bar.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
-            "date": "2021-08-18", 
-            "datetime": "20210818", 
-            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210818-VANILLA.zip", 
-            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210818-VANILLA.zip", 
+            "date": "2021-08-23", 
+            "datetime": "20210823", 
+            "filename": "Arrow-v11.0-gauguin-OFFICIAL-20210823-VANILLA.zip", 
+            "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20210823-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "arrow_gauguin", 
             "oem": "Xiaomi", 
-            "sha256": "cc4d75d43564e29a61fc273007ba3bf939d906750b2c93014267d916dc8c779c", 
-            "size": "735836826", 
+            "sha256": "dd539192053655e8543d6fbba546d0daa4bd4fd24b499b0e4fbcdd39d3681b17", 
+            "size": "737500277", 
             "type": "official", 
             "version": "v11.0"
         }
