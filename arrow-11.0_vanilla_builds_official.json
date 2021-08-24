@@ -271,6 +271,22 @@
             "version": "v11.0"
         }
     ], 
+    "guacamole": [
+        {
+            "changelog": "- Initial build.", 
+            "date": "2021-08-24", 
+            "datetime": "20210824", 
+            "filename": "Arrow-v11.0-guacamole-OFFICIAL-20210824-VANILLA.zip", 
+            "filepath": "/arrow-11.0/guacamole/Arrow-v11.0-guacamole-OFFICIAL-20210824-VANILLA.zip", 
+            "maintainer": "alk3p", 
+            "model": "OnePlus 7 Pro", 
+            "oem": "OnePlus", 
+            "sha256": "45f3f663a99a688ba16225fc57a1d1bc2c193e1fb2245365d1ff585ef689e4ed", 
+            "size": "820242074", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "jasmine_sprout": [
         {
             "changelog": "Fixed Fingerprint not working issues", 
