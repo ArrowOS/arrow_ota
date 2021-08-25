@@ -65,16 +65,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "BLOCK UPCOMING OTAs - grab the next update from the website when available.\r\n***After this build, you must format data when updating to the next build. This only needs to be done once. We will move to a newer encryption.***\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2021-08-20", 
-            "datetime": "20210820", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210820-GAPPS.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210820-GAPPS.zip", 
+            "changelog": "***Encryption has changed - format data when installing this build*** (FDE does not work)\r\n- Switch to AES-256-XTS encryption\r\n- Switch to QTI Bluetooth (thanks krasCGQ)\r\n- Aptx adaptive & TWS working\r\n- Enable dex2oat64\r\n- Set dexpreopt to work as default android recommends\r\n- Bump mic gain for video recording\r\n- Enable QTI codec2 (thanks krasCGQ)\r\n- Enable some wifi power savings\r\n- Define stock charger sysfs node (all kernels will display fast charging with 33w charger)\r\n- Move parts to system_ext\r\n- Enable idle timer with kernel support\r\n\r\n***Encryption has changed - format data when installing this build*** I will not warn again.\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2021-08-25", 
+            "datetime": "20210825", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20210825-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210825-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "19df29a2a5293d8dd95720848e60856def073ccd15c5fd1887a28dea083223df", 
-            "size": "1545924317", 
+            "sha256": "b393ce221b51f7ad446e5e17e87f5cee8f0f889ec39ab4cf245564c5a282c368", 
+            "size": "1544006084", 
             "type": "official", 
             "version": "v11.0"
         }
