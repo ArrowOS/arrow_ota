@@ -50,15 +50,15 @@
     "alioth": [
         {
             "changelog": "- sepolicy: Address more denials\r\n- Update qdcm to MIUI 21.8.4 Weekly\r\n- Update Camera, Fingerprint, SDM, Perf, Sensors blobs to MIUI 21.8.4 Weekly \r\n- Build kernel with AOSP Clang 12.0.7\r\n- parts: Add dynamic thermal profile implementation\r\n- parts: Implement Clear Speaker\r\n- overlay: Enable burn-in protection for status/navbar\r\n- cutout: show a ring on the camera cutout when its in use\r\n- props: Set shutdown timeout\r\n- Cleanup props\r\n- Misc fixes and upstream changes.\r\n\r\n- New kernel:\r\n* Rebase and cleanup.\r\n* Base on last SMxx50.0 CAF tag and android-4.19-stable\r\n* Merged jaegeuk/f2fs-stable\r\n* Imported exfat driver\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-08-20", 
-            "datetime": "20210820", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210820-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210820-GAPPS.zip", 
+            "date": "2021-08-25", 
+            "datetime": "20210825", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210825-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210825-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "0ec463d3ad2ffc55209390210cfce08b567f4bd708815c8b00097432d18b3a48", 
-            "size": "1393289674", 
+            "sha256": "3a69dc60d1edacb6814295dee1149caa57c5dff07a3f4f294ad46f74fa6261fd", 
+            "size": "1393279046", 
             "type": "official", 
             "version": "v11.0"
         }
