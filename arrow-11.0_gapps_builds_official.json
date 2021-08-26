@@ -49,16 +49,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- sepolicy: Address more denials\r\n- Update qdcm to MIUI 21.8.4 Weekly\r\n- Update Camera, Fingerprint, SDM, Perf, Sensors blobs to MIUI 21.8.4 Weekly \r\n- Build kernel with AOSP Clang 12.0.7\r\n- parts: Add dynamic thermal profile implementation\r\n- parts: Implement Clear Speaker\r\n- overlay: Enable burn-in protection for status/navbar\r\n- cutout: show a ring on the camera cutout when its in use\r\n- props: Set shutdown timeout\r\n- Cleanup props\r\n- Misc fixes and upstream changes.\r\n\r\n- New kernel:\r\n* Rebase and cleanup.\r\n* Base on last SMxx50.0 CAF tag and android-4.19-stable\r\n* Merged jaegeuk/f2fs-stable\r\n* Imported exfat driver\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-08-25", 
-            "datetime": "20210825", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210825-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210825-GAPPS.zip", 
+            "changelog": "- Enable LLVM tools flag, build with ld.lld\r\n- parts: Import RU translations\r\n- overlay: Define OEM fast charge sysfs node\r\n- Update some blobs to CAF LA.UM.9.12.r1-12000-SMxx50.0:\r\nADSP, CDSP, CNE, Configstore, Display Postprocessing, DPM, DSP service, ESE, FEC, Graphics (Adreno and Vulkan)\r\nMedia, Neural Networks, Peripheral manager, QCC, QMI, QTEE Connector, RIL, RIL (IMS), SCVE, Time, TUI, WFD\r\n- Build GNSS HAL from source and update GPS blobs to LA.UM.9.12.r1-12000-SMxx50.0\r\n- Update Camera and Sensor blobs to MIUI 21.8.18 Weekly\r\n- Import missed mi_thermald blobs (fix overheating)\r\n- Remove unused firmware bins\r\n- Import qti telephony injection\r\n- Cleanup init scripts\r\n- Add Notch Bar Killer overlay\r\n- Build mock power stats HAL and label it\r\n- Kernel: Build with LLD, RELR, Clang ThinLTO optimizations\r\n- Kernel: Disable some unuse drivers\r\n- Kernel: Enable jump label\r\n- Kernel: Makefile: Use -O3 optimization level\r\n- Kernel: Enable power efficient workqueues\r\n- Kernel: Re-enable qti core control and sched autogroup\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-08-26", 
+            "datetime": "20210826", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210826-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210826-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "3a69dc60d1edacb6814295dee1149caa57c5dff07a3f4f294ad46f74fa6261fd", 
-            "size": "1393279046", 
+            "sha256": "84bf74a3716c70f792e00cc99531b7c346a325e25d040409c51aa1e515ed4c1b", 
+            "size": "1394419624", 
             "type": "official", 
             "version": "v11.0"
         }
