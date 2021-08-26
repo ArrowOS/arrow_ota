@@ -3399,6 +3399,34 @@
       ]
     }
   ], 
+  "tulip": [
+    {
+      "changelog": null, 
+      "maintainer": "IceBreaker2451", 
+      "model": "Redmi Note 6 Pro", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-08-26", 
+                  "datetime": "20210826", 
+                  "filename": "Arrow-v11.0-tulip-COMMUNITY-20210826-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20210826-GAPPS.zip", 
+                  "sha256": "5eda8b1f1753d881b9fbc03da8ac4a96eb86fa64565c5457dbf96e014dff20d2", 
+                  "size": "1172202272", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "umi": [
     {
       "changelog": "Firmware and vendor require lastest MIUI Stable V12.2.10\r\n\r\n- Show FOD Animation settings\r\n- Update WifiOverlay and TetheringOverlay\r\n- wifi: Enable QPower and Deep sleep together\r\n- Remove extra GBoard spacing\r\n- Update CarrierConfig overlays\r\n- More comfortable rounded corners", 
