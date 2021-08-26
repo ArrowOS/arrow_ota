@@ -546,15 +546,15 @@
     "sweet": [
         {
             "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
-            "date": "2021-08-21", 
-            "datetime": "20210821", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210821-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210821-GAPPS.zip", 
+            "date": "2021-08-26", 
+            "datetime": "20210826", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210826-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210826-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "2dfe198a2785854d87f68b640ac4c6f3c7f686a6c116f5fd05a1650e85291324", 
-            "size": "1465606988", 
+            "sha256": "683b79d0309808e534b9335aacf283b021b6ae5f115bb802bcd9065d5e777e15", 
+            "size": "1469288179", 
             "type": "official", 
             "version": "v11.0"
         }
