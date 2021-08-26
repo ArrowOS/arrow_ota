@@ -1417,7 +1417,7 @@
   ], 
   "guacamole": [
     {
-      "changelog": "- Initial build.", 
+      "changelog": null, 
       "maintainer": "alk3p", 
       "model": "OnePlus 7 Pro", 
       "oem": "OnePlus", 
@@ -1455,12 +1455,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2021-08-19", 
-                  "datetime": "20210819", 
-                  "filename": "Arrow-v11.0-guacamole-UNOFFICIAL-20210819-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/guacamole/Arrow-v11.0-guacamole-UNOFFICIAL-20210819-VANILLA.zip", 
-                  "sha256": "16d5edf84c29e5158458ac26dccc2c7d9d1a4717110cbeabdf6f5d445cb8a72d", 
-                  "size": "818544588", 
+                  "date": "2021-08-26", 
+                  "datetime": "20210826", 
+                  "filename": "Arrow-v11.0-guacamole-UNOFFICIAL-20210826-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/guacamole/Arrow-v11.0-guacamole-UNOFFICIAL-20210826-VANILLA.zip", 
+                  "sha256": "9560694ff6c3f2bbfd3254bb1bdf3fb4236babf25a9c3df1c5a262fe174dfa1f", 
+                  "size": "819915418", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
