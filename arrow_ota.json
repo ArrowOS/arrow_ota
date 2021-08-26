@@ -1717,7 +1717,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Kernel: Upstream to 4.4.278\r\n- Kernel: Misc optimizations from los\r\n- Other fixes and improvement", 
+      "changelog": "TEST VERSION\r\nFLASH IT AT YOUR RISK", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1755,12 +1755,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-08-25", 
-                  "datetime": "20210825", 
-                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210825-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210825-GAPPS.zip", 
-                  "sha256": "7af8f8e9aa9b48c9fbf25637fab63910f54d010d9cda769ebad486f71cd3df7a", 
-                  "size": "1256903655", 
+                  "date": "2021-08-26", 
+                  "datetime": "20210826", 
+                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210826-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210826-GAPPS.zip", 
+                  "sha256": "b3bf3f3ccaffb9a5cdc7cf29aea83363f422cf277ea5b2effa3f46b67f3c183a", 
+                  "size": "1256887807", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
