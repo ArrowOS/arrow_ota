@@ -66,16 +66,16 @@
     "beryllium": [
         {
             "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-05-26", 
-            "datetime": "20210526", 
-            "filename": "Arrow-v11.0-beryllium-UNOFFICIAL-20210526-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-UNOFFICIAL-20210526-VANILLA.zip", 
+            "date": "2021-08-26", 
+            "datetime": "20210826", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210826-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210826-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "a5a086c147e4e7e114e254a2dca36953e52006b751f8871a728c13561448284d", 
-            "size": "949989373", 
-            "type": "unofficial", 
+            "sha256": "fad0353cf947c92e077e230b1b5c8d6e08de6102a69c27ec9ad05a3e2ed1d340", 
+            "size": "947155259", 
+            "type": "official", 
             "version": "v11.0"
         }
     ], 
