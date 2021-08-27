@@ -418,15 +418,15 @@
     "perseus": [
         {
             "changelog": "- sdm845-common: Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- perseus: Update blobs from MIUI V12.5.1.0.QEECNXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).", 
-            "date": "2021-08-22", 
-            "datetime": "20210822", 
-            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210822-VANILLA.zip", 
-            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210822-VANILLA.zip", 
+            "date": "2021-08-27", 
+            "datetime": "20210827", 
+            "filename": "Arrow-v11.0-perseus-OFFICIAL-20210827-VANILLA.zip", 
+            "filepath": "/arrow-11.0/perseus/Arrow-v11.0-perseus-OFFICIAL-20210827-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 3", 
             "oem": "Xiaomi", 
-            "sha256": "46d6788cdf1dac21a540223b0f19e622e091029088eda451414ff205797db4c1", 
-            "size": "1041690368", 
+            "sha256": "919cff44c0fc21a9a190013931b6b7a055c54feb3eb4e4c4c7323b9bca455f1f", 
+            "size": "1042349252", 
             "type": "official", 
             "version": "v11.0"
         }
