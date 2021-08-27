@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Switch to Lolla kernel\r\n- Switch to Pixel Power HAL (thx Ayrton990 & Dynteve)\r\n- Fixed LED blink (thx Ramii)\r\n- Fixed wakelocks not suspending (thx Ayrton990)\r\n- Fixed jitters & made refresh rates smoother (thx Ramii, superman_in_ur_garden & ghostriderreborn)", 
-            "date": "2021-06-18", 
-            "datetime": "20210618", 
-            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210618-VANILLA.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210618-VANILLA.zip", 
+            "changelog": "updated many blobs\r\nupdated encryption\r\n\r\n***this build features new encryption and requires CLEAN FLASH***", 
+            "date": "2021-08-27", 
+            "datetime": "20210827", 
+            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210827-VANILLA.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210827-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "8431a9e13dceb4b532184c61072dd0e129b1949bd1fa76257f6f36ef8730665d", 
-            "size": "1215142915", 
+            "sha256": "11a47cb25591f6c4fe7f34fcdc9af4cb0edf212975b2cd1aa929c0287d1284ba", 
+            "size": "1200628911", 
             "type": "unofficial", 
             "version": "v11.0"
         }
