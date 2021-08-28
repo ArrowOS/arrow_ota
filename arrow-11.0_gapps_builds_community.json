@@ -257,16 +257,16 @@
     ], 
     "vince": [
         {
-            "changelog": "\u2022 Increase Mic and Earpiece Volume", 
-            "date": "2021-08-23", 
-            "datetime": "20210823", 
-            "filename": "Arrow-v11.0-vince-COMMUNITY-20210823-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210823-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2021-08-28", 
+            "datetime": "20210828", 
+            "filename": "Arrow-v11.0-vince-COMMUNITY-20210828-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210828-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "03ce7d44eba338f3e9181ef5e35750dac44fef337748ee349bf5e191b8558fcc", 
-            "size": "1089942798", 
+            "sha256": "99e31bb1c652ea629d556306d910e2fdbcbd35f84c2b438263c06cbe5b545cf7", 
+            "size": "1092720083", 
             "type": "community", 
             "version": "v11.0"
         }
