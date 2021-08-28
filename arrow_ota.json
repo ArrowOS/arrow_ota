@@ -533,9 +533,9 @@
   ], 
   "cas": [
     {
-      "changelog": "Firmware: V12.5.4.0.RJJCNXM", 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
-      "model": "Mi 10 Ultra", 
+      "changelog": "Firmware: V12.5.5.0.RJJCNXM\r\nFixed:\r\n1.Fod in low brightness", 
+      "maintainer": "Xayah", 
+      "model": "M2007J1SC", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
@@ -555,12 +555,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-14", 
-                  "datetime": "20210814", 
-                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210814-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210814-VANILLA.zip", 
-                  "sha256": "941d0d87f65d437b6a51cab2fdf79ad19cab20561ea4bbf3d05f8be7359517d9", 
-                  "size": "1412185990", 
+                  "date": "2021-08-28", 
+                  "datetime": "20210828", 
+                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210828-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210828-VANILLA.zip", 
+                  "sha256": "346d92adbafb185c368e929ed345c88edcc955abb4b8b52d599b44bc6a6073b0", 
+                  "size": "1447520560", 
                   "type": "community", 
                   "version": "v11.0"
                 }
