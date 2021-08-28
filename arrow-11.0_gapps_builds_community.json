@@ -33,16 +33,16 @@
     ], 
     "cas": [
         {
-            "changelog": "1. Welcome OSS Vendor!\r\n2. Firmware: V12.5.3.0.RJJCNXM", 
-            "date": "2021-08-08", 
-            "datetime": "20210808", 
-            "filename": "Arrow-v11.0-cas-COMMUNITY-20210808-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210808-GAPPS.zip", 
-            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "changelog": "Firmware: V12.5.5.0.RJJCNXM\r\nFixed:\r\n1.Fod in low brightness", 
+            "date": "2021-08-28", 
+            "datetime": "20210828", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210828-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210828-GAPPS.zip", 
+            "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "3a587961c233575e5c858bab897c6c0b46426935e8cd25455c4a7c57a04f9f19", 
-            "size": "1793517653", 
+            "sha256": "8fa99af6eb8c17a799b542c015df4063bded67f33812a669dabdb9c63130d11c", 
+            "size": "1793324583", 
             "type": "community", 
             "version": "v11.0"
         }
