@@ -2831,12 +2831,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-22", 
-                  "datetime": "20210822", 
-                  "filename": "Arrow-v11.0-river-COMMUNITY-20210822-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/river/Arrow-v11.0-river-COMMUNITY-20210822-VANILLA.zip", 
-                  "sha256": "aa0198c54e65a14b479c7a91aacbd4bc4f9f88b5151b1c13738d2eb5fc6ff085", 
-                  "size": "837770782", 
+                  "date": "2021-08-28", 
+                  "datetime": "20210828", 
+                  "filename": "Arrow-v11.0-river-COMMUNITY-20210828-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/river/Arrow-v11.0-river-COMMUNITY-20210828-VANILLA.zip", 
+                  "sha256": "59a1383b30d0d89271a198cf899c68ddb27633dbacf61e5e3d71e25c740eecf0", 
+                  "size": "838215926", 
                   "type": "community", 
                   "version": "v11.0"
                 }
