@@ -257,16 +257,16 @@
     ], 
     "vince": [
         {
-            "changelog": null, 
-            "date": "2021-08-28", 
-            "datetime": "20210828", 
-            "filename": "Arrow-v11.0-vince-COMMUNITY-20210828-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210828-GAPPS.zip", 
+            "changelog": "\u2022 Fixed Battery Drain (Reduced Boost Duration Slightly)\r\n\u2022 Fixed DT2W Toggle\r\n\u2022 Fixed Signal Delay after Boot\r\n\u2022 Updated Perf and IOP Stack To R (from pan_sprout)\r\n\u2022 Update Graphics Firmware from Daisy (V11.0.21.0.QDLMIXM)\r\n\u2022 Update Vulkan Configs\r\n\u2022 Tune SurfaceFlinger Phase Offsets\r\n\u2022 Increased Mic Gain\r\n\u2022 Switched To Dark Ages\r\n\u2022 Enabled dex2oat64 (Faster Boot Time)\r\n\u2022 Enable Pre-rendering Feature\r\n\u2022 Update Boot Scripts from LA.UM.9.6.2.r1-04800-89xx.0\r\n\u2022 69+ Misc Optimisations (Check my git)", 
+            "date": "2021-08-29", 
+            "datetime": "20210829", 
+            "filename": "Arrow-v11.0-vince-COMMUNITY-20210829-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210829-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "99e31bb1c652ea629d556306d910e2fdbcbd35f84c2b438263c06cbe5b545cf7", 
-            "size": "1092720083", 
+            "sha256": "208f618d69e1e657e6a1aa9e7d7e1f9f2d8e26358a0a434f1e79dbeed66bbd34", 
+            "size": "1092764982", 
             "type": "community", 
             "version": "v11.0"
         }
