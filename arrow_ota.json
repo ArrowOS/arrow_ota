@@ -1643,12 +1643,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-16", 
-                  "datetime": "20210816", 
-                  "filename": "Arrow-v11.0-kebab-COMMUNITY-20210816-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210816-VANILLA.zip", 
-                  "sha256": "ca096354eecd65cfcd91ebdc62e3873dc286df33418e88fcd4e43305ebbfcd84", 
-                  "size": "1075674800", 
+                  "date": "2021-08-29", 
+                  "datetime": "20210829", 
+                  "filename": "Arrow-v11.0-kebab-COMMUNITY-20210829-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/kebab/Arrow-v11.0-kebab-COMMUNITY-20210829-VANILLA.zip", 
+                  "sha256": "37b31eac78bfccddc618a7ca8e7c1b53c18473fb5209da1f205fcfbd201018bf", 
+                  "size": "1276244643", 
                   "type": "community", 
                   "version": "v11.0"
                 }
