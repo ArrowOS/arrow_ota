@@ -257,16 +257,16 @@
     ], 
     "guacamole": [
         {
-            "changelog": "- Initial build.", 
-            "date": "2021-08-24", 
-            "datetime": "20210824", 
-            "filename": "Arrow-v11.0-guacamole-OFFICIAL-20210824-GAPPS.zip", 
-            "filepath": "/arrow-11.0/guacamole/Arrow-v11.0-guacamole-OFFICIAL-20210824-GAPPS.zip", 
+            "changelog": "- Bug fixes and stability improvements.", 
+            "date": "2021-08-29", 
+            "datetime": "20210829", 
+            "filename": "Arrow-v11.0-guacamole-OFFICIAL-20210829-GAPPS.zip", 
+            "filepath": "/arrow-11.0/guacamole/Arrow-v11.0-guacamole-OFFICIAL-20210829-GAPPS.zip", 
             "maintainer": "alk3p", 
             "model": "OnePlus 7 Pro", 
             "oem": "OnePlus", 
-            "sha256": "84f70efb0897ad5280d990058e95828bf55c9fcdc1b39efe3183306dc7360d14", 
-            "size": "1124625672", 
+            "sha256": "8574a162ff314fc6350bf8b29a96b4dd2829ae563aa7d5b66028d9c9a01c3dd2", 
+            "size": "1124381024", 
             "type": "official", 
             "version": "v11.0"
         }
