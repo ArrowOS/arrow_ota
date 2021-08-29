@@ -2373,7 +2373,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Kang SF phase offsets from coral\r\n\u2022 Allocate dedicated pcm node for in call recording\r\n\u2022 Suppress overly verbose log spam\r\n\u2022 Remove 10 ms CPU idle latency unvote timeout\r\n\u2022 Remove pm qos latency overrides\r\n\u2022 Properly set GPU timeout\r\n\u2022 Override zRAM to 3GB from kernel\r\n\u2022 Upstream kernel to 4.14.244\r\n\u2022 Many more changes inlined from StormBreaker-X4 \r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "- 24bit audio playback", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2411,12 +2411,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-08-10", 
-                  "datetime": "20210810", 
-                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210810-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210810-GAPPS.zip", 
-                  "sha256": "6f39a169b3cf2f83b4606db7f1fff41adba6ba70f074cb1b1b1a36d7a87c4d19", 
-                  "size": "1396152102", 
+                  "date": "2021-08-29", 
+                  "datetime": "20210829", 
+                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210829-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210829-GAPPS.zip", 
+                  "sha256": "0dfaefd8e37b253c3981dbdf36c4e9d91972137b29a7a8cc348087e8f4b23379", 
+                  "size": "1411158366", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
