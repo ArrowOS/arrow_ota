@@ -2061,8 +2061,8 @@
   ], 
   "mido": [
     {
-      "changelog": "Note:\r\n- These are still going to continue on 3.18 builds only.\r\n- Requests for 4.9 builds will be ignored.\r\n\r\nThis decision has been taken as per the equal no.of requests from both sides of the parties and concluded by the outcome of adverse performance affects.", 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "changelog": "- Upstream device sources\r\n- Switch to 4.9 kernel\r\n- Upstream blobs\r\n\r\nNote:\r\n* Mido breathes *\r\n- A clean flash is recommended if coming from previous builds.", 
+      "maintainer": "Ganesh Varma, Sonal Singh", 
       "model": "Redmi Note 4", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -2071,12 +2071,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-08-26", 
-                  "datetime": "20210826", 
-                  "filename": "Arrow-v11.0-mido-OFFICIAL-20210826-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210826-GAPPS.zip", 
-                  "sha256": "b0ac7bd2f817d87a86b73cc0b35f833cea0d5b62e2edd3a82c2faaf03684f113", 
-                  "size": "1080020702", 
+                  "date": "2021-08-30", 
+                  "datetime": "20210830", 
+                  "filename": "Arrow-v11.0-mido-OFFICIAL-20210830-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210830-GAPPS.zip", 
+                  "sha256": "c7404b284999f9b5aa2ff44366612067a374608938cdaa7b7f35cab204cc2e06", 
+                  "size": "1060378676", 
                   "type": "official", 
                   "version": "v11.0"
                 }
