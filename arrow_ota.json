@@ -3305,7 +3305,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
+      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n30/08/2021\r\n\u2022 Fixed oversaturated colors\r\n\u2022 Reworked color modes\r\n\u2022 Improved idle drain\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -3331,8 +3331,8 @@
                   "datetime": "20210830", 
                   "filename": "Arrow-v11.0-sweet-OFFICIAL-20210830-VANILLA.zip", 
                   "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210830-VANILLA.zip", 
-                  "sha256": "3cc65902ec0ad91fc2466cb7a0d11d1f03466159d02432ec321a5f602feb28f6", 
-                  "size": "1120582079", 
+                  "sha256": "c57119bb0ff4f1ac0a8b1724faec591d0303e76ef1431ce8f96ae6b8f7ceb526", 
+                  "size": "1120770093", 
                   "type": "official", 
                   "version": "v11.0"
                 }
