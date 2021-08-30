@@ -258,15 +258,15 @@
     "ginkgo": [
         {
             "changelog": "- Fixed deep sleep (in kernel)\r\n- Enabled conservative PL in battery saver mode\r\n- Disabled GPU boost in battery saver mode\r\n- Display correct hwversion in About Device", 
-            "date": "2021-08-24", 
-            "datetime": "20210824", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210824-VANILLA.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210824-VANILLA.zip", 
+            "date": "2021-08-30", 
+            "datetime": "20210830", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210830-VANILLA.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210830-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "3a3b662c499ccb744418217af42a4ccecb1af85bf06cf782793559288412bf66", 
-            "size": "960245138", 
+            "sha256": "b1958c493df901fd4842c2ab3362a66d9da67c1bb11ea6c0400306e04d747833", 
+            "size": "960041082", 
             "type": "official", 
             "version": "v11.0"
         }
