@@ -321,16 +321,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Kernel: Upstream to 4.4.278\r\n- Kernel: Misc optimizations from los\r\n- Other fixes and improvement", 
-            "date": "2021-08-25", 
-            "datetime": "20210825", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210825-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210825-VANILLA.zip", 
+            "changelog": "- Update vibrator hal to AIDL\r\n- Backport qti haptics driver from k4.19 and use it\r\n- Use AOSP default vibrator pattern\r\n- Update device specific blobs from lavender V12.5.3.0.QFGCNXM\r\n- Fix thermal profiles not\r\ngetting restored after turning screen back on\r\n- Activates some options on Settings>accessibility>vibration\r\n- Miscellaneous fixes and improvements", 
+            "date": "2021-08-30", 
+            "datetime": "20210830", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210830-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210830-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "08e39a947321600577dad773dc9370381d746d2ec3ba09cb5ae3b89544621432", 
-            "size": "905534853", 
+            "sha256": "38b99174de05adab19fde649daf2aae514d5fc6ca9ade43993156174ba3188c3", 
+            "size": "905429594", 
             "type": "official", 
             "version": "v11.0"
         }
