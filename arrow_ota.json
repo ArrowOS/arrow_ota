@@ -2094,6 +2094,22 @@
                 }
               ]
             }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-08-31", 
+                  "datetime": "20210831", 
+                  "filename": "Arrow-v11.0-mido-UNOFFICIAL-20210831-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-UNOFFICIAL-20210831-GAPPS.zip", 
+                  "sha256": "152437db2bd59d7389793eb6c425f880801b36e2ff811fae14288a81d0eac9f4", 
+                  "size": "1059821977", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
           ]
         }
       ]
