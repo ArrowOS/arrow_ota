@@ -545,16 +545,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
-            "date": "2021-08-26", 
-            "datetime": "20210826", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210826-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210826-GAPPS.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n30/08/2021\r\n\u2022 Fixed oversaturated colors\r\n\u2022 Reworked color modes\r\n\u2022 Improved idle drain\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
+            "date": "2021-08-30", 
+            "datetime": "20210830", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210830-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210830-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "683b79d0309808e534b9335aacf283b021b6ae5f115bb802bcd9065d5e777e15", 
-            "size": "1469288179", 
+            "sha256": "132d2a26fcc7eff0c3ff6632ac49d90d5a1915d8fd8b36f2752a513e9b70cb82", 
+            "size": "1469133263", 
             "type": "official", 
             "version": "v11.0"
         }
