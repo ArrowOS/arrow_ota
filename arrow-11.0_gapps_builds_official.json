@@ -2,15 +2,15 @@
     "GM8_sprout": [
         {
             "changelog": "Switched to libperfmgr for better performance, battery and less heating.\r\nSome stability improvements.", 
-            "date": "2021-08-30", 
-            "datetime": "20210830", 
-            "filename": "Arrow-v11.0-GM8_sprout-OFFICIAL-20210830-GAPPS.zip", 
-            "filepath": "/arrow-11.0/GM8_sprout/Arrow-v11.0-GM8_sprout-OFFICIAL-20210830-GAPPS.zip", 
+            "date": "2021-09-02", 
+            "datetime": "20210902", 
+            "filename": "Arrow-v11.0-GM8_sprout-OFFICIAL-20210902-GAPPS.zip", 
+            "filepath": "/arrow-11.0/GM8_sprout/Arrow-v11.0-GM8_sprout-OFFICIAL-20210902-GAPPS.zip", 
             "maintainer": "noonlord", 
             "model": "GM 8", 
             "oem": "GM", 
-            "sha256": "a2bfb9933d1be6f7295f0d44f5038cd990cdda80d94e3ce6f313a2689bde200e", 
-            "size": "1040409130", 
+            "sha256": "6b2bddc045f6909a656336fc3959979dce942129e24fd3b1dcc03889a519ede8", 
+            "size": "1040410494", 
             "type": "official", 
             "version": "v11.0"
         }
