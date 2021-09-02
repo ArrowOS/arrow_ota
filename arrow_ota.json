@@ -555,12 +555,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-28", 
-                  "datetime": "20210828", 
-                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210828-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210828-VANILLA.zip", 
-                  "sha256": "42d68f76433536c07b11f56c38cdd7ee566e585eaa4451bbb79d149a9284754e", 
-                  "size": "1447358972", 
+                  "date": "2021-09-02", 
+                  "datetime": "20210902", 
+                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210902-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210902-VANILLA.zip", 
+                  "sha256": "1c08c0979ef23736cb3e63f6137ccbe356a0bcaf72044a69b35ace2fa7d904bf", 
+                  "size": "1447341511", 
                   "type": "community", 
                   "version": "v11.0"
                 }
