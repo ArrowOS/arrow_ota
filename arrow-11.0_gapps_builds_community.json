@@ -239,6 +239,22 @@
             "version": "v11.0"
         }
     ], 
+    "tulip": [
+        {
+            "changelog": null, 
+            "date": "2021-09-02", 
+            "datetime": "20210902", 
+            "filename": "Arrow-v11.0-tulip-COMMUNITY-20210902-GAPPS.zip", 
+            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20210902-GAPPS.zip", 
+            "maintainer": "IceBreaker2451", 
+            "model": "Redmi Note 6 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "6faba2f031950e02b5ac35be2dfd7b9828228c6b60dece01af10dd35e0b44052", 
+            "size": "1179735395", 
+            "type": "community", 
+            "version": "v11.0"
+        }
+    ], 
     "umi": [
         {
             "changelog": "Rounded corners without jagged\r\nBetter 5G network support\r\nAdd refresh rate switch\r\nFix the problem that the recorded voice is too small\r\nImprove SQL performance a little bit\r\nMore adjustments waiting for you to discover", 
