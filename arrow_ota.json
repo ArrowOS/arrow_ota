@@ -1729,8 +1729,8 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Update vibrator hal to AIDL\r\n- Backport qti haptics driver from k4.19 and use it\r\n- Use AOSP default vibrator pattern\r\n- Update device specific blobs from lavender V12.5.3.0.QFGCNXM\r\n- Fix thermal profiles not\r\ngetting restored after turning screen back on\r\n- Activates some options on Settings>accessibility>vibration\r\n- Miscellaneous fixes and improvements", 
-      "maintainer": "Ratoriku, Hazama25", 
+      "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
+      "maintainer": "Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -1779,12 +1779,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-29", 
-                  "datetime": "20210829", 
-                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210829-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210829-VANILLA.zip", 
-                  "sha256": "5681696d9f9e3a33dcb1ac9144425e96bfb7e5bd0326abaf7f7f120fa43c7f3f", 
-                  "size": "966505682", 
+                  "date": "2021-09-03", 
+                  "datetime": "20210903", 
+                  "filename": "Arrow-v11.0-lavender-UNOFFICIAL-20210903-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-UNOFFICIAL-20210903-VANILLA.zip", 
+                  "sha256": "8f00e854d53bbc7817b6ebaec40dc135352bc070a82667db0bad03f4c0ad66b7", 
+                  "size": "966290277", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
