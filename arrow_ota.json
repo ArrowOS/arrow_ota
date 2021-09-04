@@ -1729,8 +1729,8 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Update Redfin FP for May\r\n- Inlined Predator Stormbreaker Kernel HMP", 
-      "maintainer": "Hazama25", 
+      "changelog": "- Fixed laggy when pull QS title if color mode is automatic\r\n- Fixed a performance regression\r\n- Apply runtime blkio optimizations from coral\r\n- Move some rro overlays to vendor\r\n- Miscellaneous fixes and improvements", 
+      "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -1751,12 +1751,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-08-30", 
-                  "datetime": "20210830", 
-                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210830-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210830-VANILLA.zip", 
-                  "sha256": "38b99174de05adab19fde649daf2aae514d5fc6ca9ade43993156174ba3188c3", 
-                  "size": "905429594", 
+                  "date": "2021-09-04", 
+                  "datetime": "20210904", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210904-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210904-VANILLA.zip", 
+                  "sha256": "eeaedce050d35dfb95753203dfa946960888d3afcecb5728e325625c0f1b8f52", 
+                  "size": "905450556", 
                   "type": "official", 
                   "version": "v11.0"
                 }
