@@ -305,16 +305,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Update vibrator hal to AIDL\r\n- Backport qti haptics driver from k4.19 and use it\r\n- Use AOSP default vibrator pattern\r\n- Update device specific blobs from lavender V12.5.3.0.QFGCNXM\r\n- Fix thermal profiles not\r\ngetting restored after turning screen back on\r\n- Activates some options on Settings>accessibility>vibration\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-08-30", 
-            "datetime": "20210830", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210830-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210830-GAPPS.zip", 
+            "changelog": "- Fixed laggy when pull QS title if color mode is automatic\r\n- Fixed a performance regression\r\n- Apply runtime blkio optimizations from coral\r\n- Move some rro overlays to vendor\r\n- Miscellaneous fixes and improvements", 
+            "date": "2021-09-04", 
+            "datetime": "20210904", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210904-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210904-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "0258c3b228cdf78da8d871b8e66740bc9ca4ec4fbfa885bc9a3d06db7f0f025a", 
-            "size": "1257419019", 
+            "sha256": "780037fe3a708f84542fa81d61eddf14cafea621be76caca0a47a2a280997895", 
+            "size": "1257784055", 
             "type": "official", 
             "version": "v11.0"
         }
