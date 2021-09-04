@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- First official builds.", 
-            "date": "2021-06-08", 
-            "datetime": "20210608", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210608-VANILLA.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210608-VANILLA.zip", 
+            "changelog": "- TEST\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-09-04", 
+            "datetime": "20210904", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210904-VANILLA.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210904-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "098f4aaf00461eabc1b49ef28cbf09b1afd85b852331952cb74f3b9a58554328", 
-            "size": "1169125553", 
+            "sha256": "8c1f3f985c238cf944101de8b4d513957e70dd07988073fc8ca25e926e0a2691", 
+            "size": "1096237074", 
             "type": "official", 
             "version": "v11.0"
         }
