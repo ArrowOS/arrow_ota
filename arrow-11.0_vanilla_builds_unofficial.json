@@ -561,16 +561,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "-", 
-            "date": "2021-05-28", 
-            "datetime": "20210528", 
-            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20210528-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20210528-VANILLA.zip", 
+            "changelog": "- wfd and nightlight", 
+            "date": "2021-09-05", 
+            "datetime": "20210905", 
+            "filename": "Arrow-v11.0-whyred-UNOFFICIAL-20210905-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-UNOFFICIAL-20210905-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "1c1843806430bb38dbd095dfca0c45604a2d246053616418949a79ca0a2cf5fd", 
-            "size": "821014198", 
+            "sha256": "613db3983b69e881a2f1a95aea1d8e3bec1347b549c56a7f71d1f14e8b311f1f", 
+            "size": "811071778", 
             "type": "unofficial", 
             "version": "v11.0"
         }
