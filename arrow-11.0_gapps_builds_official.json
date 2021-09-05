@@ -673,7 +673,7 @@
     ], 
     "whyred": [
         {
-            "changelog": "\u2022 Fixed Bluetooth audio\r\n\u2022 Upstream kernel to v4.4.268\r\n\u2022 Misc changes", 
+            "changelog": "\u2022 Switched to AOSP WFD\r\n\u2022 Upstream kernel to 4.4.283\r\n\u2022 Drop perfd blobs\r\n\u2022 Fixed nightlight\r\n\u2022 Cleanup useless blobs\r\n\u2022 Misc changes", 
             "date": "2021-09-05", 
             "datetime": "20210905", 
             "filename": "Arrow-v11.0-whyred-OFFICIAL-20210905-GAPPS.zip", 
@@ -681,8 +681,8 @@
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "1c55b7c8834c302c421b05304bc2153e1b961e140fbac8658bacac0c06f8e605", 
-            "size": "1154040366", 
+            "sha256": "1568f682c7a53aa7cff6f4e1bd828c8ec8a05e1f44cf1d971f073df5ae9d1456", 
+            "size": "1153667267", 
             "type": "official", 
             "version": "v11.0"
         }
