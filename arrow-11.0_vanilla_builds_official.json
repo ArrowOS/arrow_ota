@@ -625,16 +625,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom vendor\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-08-29", 
-            "datetime": "20210829", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210829-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210829-VANILLA.zip", 
+            "changelog": "- Merge latest CAF tag on kernel\r\n- Migrate to libperfmgr power aidl hal (pixel power hal)\r\n- Add NotchBar killer (Can be seen in cutout menu in developer settings)\r\n- Update Brazillian translations in device settings\r\n- Cleanup init rc files/scripts\r\n- Sync init rc files/scripts from CAF 9.1.r1-10900 SMxxx0.0 tag\r\n- Cleanup unneeded blobs\r\n- Add missing vintf entries\r\n- Remove duplicate, irrelevant references in init rc files\r\n- Introduce raise to wake gesture\r\n- Enforce all RRO for all resource overlays\r\n- Remove QTI perfd, I/O prefetcher blobs, props in favor of moving to libperfmgr\r\n- Decrease minimum brightness value\r\n- Update SE policy rules\r\n- Synchronise some props from stock MIUI\r\n- Enable idle_state mechanism\r\n- Fix Clear speaker footer text issues\r\n- Add a summary for clear speaker and Dirac preferences\r\n- Zram/swap improvements\r\n- Move remaining device-side RROs to vendor partition\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above (Remember you need to boot to that specific MIUI version first for MIUI to do its magic on firmware partitions before moving back to ArrowOS)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+            "date": "2021-09-05", 
+            "datetime": "20210905", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210905-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210905-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "a2490d72ca463039af513c3ccb72148b187459e42792b1751fe5a82fd6192e76", 
-            "size": "1183403315", 
+            "sha256": "441c5b5c4780355fe9236ce19e5ca692c061ed7172d943813ed3c9cb0b8615eb", 
+            "size": "1179674281", 
             "type": "official", 
             "version": "v11.0"
         }
