@@ -4033,8 +4033,8 @@
   ], 
   "z2_plus": [
     {
-      "changelog": "-", 
-      "maintainer": "kubersharma001", 
+      "changelog": null, 
+      "maintainer": "PranavTemkar", 
       "model": "Z2 Plus", 
       "oem": "ZUK", 
       "v10.0": [
@@ -4063,6 +4063,26 @@
                   "size": "663316860", 
                   "type": "official", 
                   "version": "v10.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v11.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-09-06", 
+                  "datetime": "20210906", 
+                  "filename": "Arrow-v11.0-z2_plus-COMMUNITY-20210906-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-COMMUNITY-20210906-VANILLA.zip", 
+                  "sha256": "5cd9e83aed573cf17f8593f911794708b23181a14b49ba93fb18dba757044a5f", 
+                  "size": "754078759", 
+                  "type": "community", 
+                  "version": "v11.0"
                 }
               ]
             }
