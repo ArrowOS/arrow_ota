@@ -3729,7 +3729,7 @@
   ], 
   "vince": [
     {
-      "changelog": null, 
+      "changelog": "\u2022 Fixed Battery Drain (Reduced Boost Duration Slightly)\r\n\u2022 Fixed DT2W Toggle\r\n\u2022 Fixed Signal Delay after Boot\r\n\u2022 Updated Perf and IOP Stack To R (from pan_sprout)\r\n\u2022 Update Graphics Firmware from Daisy (V11.0.21.0.QDLMIXM)\r\n\u2022 Update Vulkan Configs\r\n\u2022 Tune SurfaceFlinger Phase Offsets\r\n\u2022 Increased Mic Gain\r\n\u2022 Switched To Dark Ages\r\n\u2022 Enabled dex2oat64 (Faster Boot Time)\r\n\u2022 Enable Pre-rendering Feature\r\n\u2022 Update Boot Scripts from LA.UM.9.6.2.r1-04800-89xx.0\r\n\u2022 69+ Misc Optimisations (Check my git)", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Redmi 5 Plus", 
       "oem": "Xiaomi", 
@@ -3751,12 +3751,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-03", 
-                  "datetime": "20210903", 
-                  "filename": "Arrow-v11.0-vince-COMMUNITY-20210903-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210903-VANILLA.zip", 
-                  "sha256": "43e3163badd0124c810d27e63204423a703b9fdc4a13f85ff630f875a81b4909", 
-                  "size": "754287227", 
+                  "date": "2021-09-06", 
+                  "datetime": "20210906", 
+                  "filename": "Arrow-v11.0-vince-COMMUNITY-20210906-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210906-VANILLA.zip", 
+                  "sha256": "80ad96ff78353b2bb9ecf8d08140aef7e4ad19788a6335f18629aee8e28f8558", 
+                  "size": "754515412", 
                   "type": "community", 
                   "version": "v11.0"
                 }
