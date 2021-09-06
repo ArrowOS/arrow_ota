@@ -2195,12 +2195,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-01", 
-                  "datetime": "20210901", 
-                  "filename": "Arrow-v11.0-ocean-COMMUNITY-20210901-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/ocean/Arrow-v11.0-ocean-COMMUNITY-20210901-VANILLA.zip", 
-                  "sha256": "b81205c52363421e2c1b5671b7570b3a9a88e9b1d48053997b745eadf5f453ce", 
-                  "size": "810853921", 
+                  "date": "2021-09-06", 
+                  "datetime": "20210906", 
+                  "filename": "Arrow-v11.0-ocean-COMMUNITY-20210906-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ocean/Arrow-v11.0-ocean-COMMUNITY-20210906-VANILLA.zip", 
+                  "sha256": "9bfe1f9b7eb04bed0a7028906bc476457ab8194027e0d5af9d69cfe2c2ffce37", 
+                  "size": "810856964", 
                   "type": "community", 
                   "version": "v11.0"
                 }
