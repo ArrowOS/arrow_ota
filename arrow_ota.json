@@ -2389,7 +2389,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- Update blobs", 
+      "changelog": "\u2022 Update blobs from PHOENIX 21.9.1\r\n\u2022 Update graphics from LA.UM.9.1.r1-10900-SMxxx0.0\r\n\u2022 Upstream kernel to 4.14.246\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2411,12 +2411,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-02", 
-                  "datetime": "20210902", 
-                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210902-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210902-VANILLA.zip", 
-                  "sha256": "90e77d4e1d6930ae38232f6da3c6332c2f14789defe6179b8c61d93c24567f77", 
-                  "size": "1075802726", 
+                  "date": "2021-09-07", 
+                  "datetime": "20210907", 
+                  "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210907-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210907-VANILLA.zip", 
+                  "sha256": "50408b739b910e1c79243c3d8b482f2e3078e62ea02dc09a18c469ffe55dead0", 
+                  "size": "1075918765", 
                   "type": "official", 
                   "version": "v11.0"
                 }
