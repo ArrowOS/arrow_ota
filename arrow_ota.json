@@ -3265,7 +3265,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- TEST\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
+      "changelog": "- perf: Kang app compaction props from lahaina\r\n- rootdir: Fine-tune schedutil rate limits for SDMMAGPIE\r\n- rootdir: Bump hispeed_freq of both clusters for SDMMAGPIE\r\n- rootdir: Disable sched_conservative_pl\r\n- Add prop ro.gfx.driver.1 and label it\r\n- props: Enable usage of dex2oat64\r\n- props: Enable SSR ramdumps\r\n- sepolicy: Address denials\r\n- Build atrace service\r\n- Build mock power stats HAL and label it\r\n- Remove WiFi Aware support\r\n- parts: Add support for LCD HBM and CABC\r\n- parts: Add touchscreen/gaming profiles\r\n- Build with AOSP Clang 13.0.1\r\n- init: Properly set marketname\r\n- init: Switch to walleye oreo build fingerprint\r\n- init: Set hardware revision property\r\n- parts: Update RU and UA translations\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3", 
       "oem": "POCO", 
@@ -3287,12 +3287,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-04", 
-                  "datetime": "20210904", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210904-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210904-VANILLA.zip", 
-                  "sha256": "8ffccb2ffce2051e2f0d49cf324397b882f8f95b62831b10e04725ff46bc693b", 
-                  "size": "1079250736", 
+                  "date": "2021-09-07", 
+                  "datetime": "20210907", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20210907-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210907-VANILLA.zip", 
+                  "sha256": "d98852a01380d5f1743ad519ca904775f3f262979c7002857803285c50292b49", 
+                  "size": "1079358907", 
                   "type": "official", 
                   "version": "v11.0"
                 }
