@@ -609,16 +609,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Merge latest CAF tag on kernel\r\n- Migrate to libperfmgr power aidl hal (pixel power hal)\r\n- Add NotchBar killer (Can be seen in cutout menu in developer settings)\r\n- Update Brazillian translations in device settings\r\n- Cleanup init rc files/scripts\r\n- Sync init rc files/scripts from CAF 9.1.r1-10900 SMxxx0.0 tag\r\n- Cleanup unneeded blobs\r\n- Add missing vintf entries\r\n- Remove duplicate, irrelevant references in init rc files\r\n- Introduce raise to wake gesture\r\n- Enforce all RRO for all resource overlays\r\n- Remove QTI perfd, I/O prefetcher blobs, props in favor of moving to libperfmgr\r\n- Decrease minimum brightness value\r\n- Update SE policy rules\r\n- Synchronise some props from stock MIUI\r\n- Enable idle_state mechanism\r\n- Fix Clear speaker footer text issues\r\n- Add a summary for clear speaker and Dirac preferences\r\n- Zram/swap improvements\r\n- Move remaining device-side RROs to vendor partition\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above (Remember you need to boot to that specific MIUI version first for MIUI to do its magic on firmware partitions before moving back to ArrowOS)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-09-05", 
-            "datetime": "20210905", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210905-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210905-GAPPS.zip", 
+            "changelog": "- Update blobs from V12.5.4.0.RJUMIXM\r\n- Bring back and switch to AOSP WFD implementation\r\n- Import remaining Xiaomi init script changes\r\n- Fix Ambient Display crash on clean installs\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest firmware you can use 12.0.4.0 or above (Remember you need to boot to that specific MIUI version first for MIUI to do its magic on firmware partitions before moving back to ArrowOS)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+            "date": "2021-09-08", 
+            "datetime": "20210908", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210908-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210908-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "358a50fdf1fa676f6863e89c16692d79070381b8a5f662c434599de591a94e79", 
-            "size": "1491382698", 
+            "sha256": "fb86ad90f9771b3edfb0efd0e244b041892655a10679aa44ca7f60343c047c1e", 
+            "size": "1488483416", 
             "type": "official", 
             "version": "v11.0"
         }
