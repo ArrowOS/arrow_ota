@@ -178,15 +178,15 @@
     "r5x": [
         {
             "changelog": "1. ScreenRecording lag fixed.\r\n2. Reverted Realme parts for now.\r\n3. Enabled call recording.\r\n4. DIsabled vilte by default to avoid issues with VoLTE.\r\n5. Enabled Adaptive sleep.\r\n6.  Redfin August FP", 
-            "date": "2021-09-02", 
-            "datetime": "20210902", 
-            "filename": "Arrow-v11.0-r5x-COMMUNITY-20210902-VANILLA.zip", 
-            "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210902-VANILLA.zip", 
+            "date": "2021-09-08", 
+            "datetime": "20210908", 
+            "filename": "Arrow-v11.0-r5x-COMMUNITY-20210908-VANILLA.zip", 
+            "filepath": "/arrow-11.0/r5x/Arrow-v11.0-r5x-COMMUNITY-20210908-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Realme 5 Series", 
             "oem": "Realme", 
-            "sha256": "729e9a6ed4c69591c050c45c3f16b5e9d0ba9a973eb821d6fc5ac6338ecbe155", 
-            "size": "1021789657", 
+            "sha256": "5be255743c85b2aeef12b7b03c8240eec2beaaa37e156e75974ebe252625ff72", 
+            "size": "1021697764", 
             "type": "community", 
             "version": "v11.0"
         }
