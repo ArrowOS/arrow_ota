@@ -4073,6 +4073,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-09-09", 
+                  "datetime": "20210909", 
+                  "filename": "Arrow-v11.0-z2_plus-COMMUNITY-20210909-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-COMMUNITY-20210909-GAPPS.zip", 
+                  "sha256": "18b5625ff3d3e6f7db86bb7158d776dea16f92f873e48510f219206fbb1a07b9", 
+                  "size": "1087473639", 
+                  "type": "community", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-09-09", 
