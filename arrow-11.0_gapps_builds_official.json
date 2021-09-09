@@ -610,15 +610,15 @@
     "vayu": [
         {
             "changelog": "- Update blobs from V12.5.4.0.RJUMIXM\r\n- Bring back and switch to AOSP WFD implementation\r\n- Import remaining Xiaomi init script changes\r\n- Fix Ambient Display crash on clean installs\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest firmware you can use 12.0.4.0 or above (Remember you need to boot to that specific MIUI version first for MIUI to do its magic on firmware partitions before moving back to ArrowOS)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-09-08", 
-            "datetime": "20210908", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210908-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210908-GAPPS.zip", 
+            "date": "2021-09-09", 
+            "datetime": "20210909", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210909-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210909-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "fb86ad90f9771b3edfb0efd0e244b041892655a10679aa44ca7f60343c047c1e", 
-            "size": "1488483416", 
+            "sha256": "5d744a72682f889ce72b9fb1aae4e675e96bc4f101e6d0fda1bde7e5e1facf76", 
+            "size": "1488534291", 
             "type": "official", 
             "version": "v11.0"
         }
