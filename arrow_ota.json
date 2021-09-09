@@ -337,7 +337,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "Revert many blobs\r\n\r\nThis version is not compatible for dirty flashing\r\nInstall at your own risk", 
+      "changelog": "Use Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -359,12 +359,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-03", 
-                  "datetime": "20210903", 
-                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210903-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210903-VANILLA.zip", 
-                  "sha256": "65303d5aca6d25df55112c6dfe0cc3dfb2931e5e74a494c981d7618358364a00", 
-                  "size": "1196603772", 
+                  "date": "2021-09-09", 
+                  "datetime": "20210909", 
+                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20210909-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20210909-VANILLA.zip", 
+                  "sha256": "d46627869ef806855f1c268ef8771bdd2ee44e3b211eb972adbf7d6700c60517", 
+                  "size": "1197363880", 
                   "type": "official", 
                   "version": "v11.0"
                 }
