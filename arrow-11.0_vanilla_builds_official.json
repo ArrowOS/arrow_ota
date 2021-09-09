@@ -482,15 +482,15 @@
     "raphael": [
         {
             "changelog": "- Update blobs from V12.5.2.0.RFKMIXM\r\n- Fix Ambient Display crash on clean installs\r\n- Remove redundant references from init scripts\r\n- Import remaining missing Xiaomi init scripts changes\r\n- Import some missing blobs \r\n- Better heat management while charging\r\n- Misc changes and improvements\r\n- See full device sources at: https://github.com/ArrowOS-Devices?q=raphael\r\n\r\nNOTE\r\n- Requires firmware: \r\nMIUI V12.5.5.0.RFKCNXM or ANY latest MIUI R (android 11) firmware from your region (CN, IN, GLOBAL, EEA, etc).", 
-            "date": "2021-09-08", 
-            "datetime": "20210908", 
-            "filename": "Arrow-v11.0-raphael-OFFICIAL-20210908-VANILLA.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210908-VANILLA.zip", 
+            "date": "2021-09-09", 
+            "datetime": "20210909", 
+            "filename": "Arrow-v11.0-raphael-OFFICIAL-20210909-VANILLA.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210909-VANILLA.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "9cfc098f6721ee359236b24e8f3757ba7036747194c35547fc409a16e1406648", 
-            "size": "1085605406", 
+            "sha256": "3d3b0e58fb50320fe11d8e90819bc7cfa192d105f32c2c3cd9a4ad8ad6cbf919", 
+            "size": "1085879903", 
             "type": "official", 
             "version": "v11.0"
         }
