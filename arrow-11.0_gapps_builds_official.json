@@ -306,15 +306,15 @@
     "lavender": [
         {
             "changelog": "- Fixed laggy when pull QS title if color mode is automatic\r\n- Fixed a performance regression\r\n- Apply runtime blkio optimizations from coral\r\n- Move some rro overlays to vendor\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-09-04", 
-            "datetime": "20210904", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210904-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210904-GAPPS.zip", 
+            "date": "2021-09-10", 
+            "datetime": "20210910", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210910-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210910-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "780037fe3a708f84542fa81d61eddf14cafea621be76caca0a47a2a280997895", 
-            "size": "1257784055", 
+            "sha256": "8bbab95533d9802fc9038b70cac85f6f8b1d2e00e64f6ca8a0b1adf50efbfca9", 
+            "size": "1257481646", 
             "type": "official", 
             "version": "v11.0"
         }
