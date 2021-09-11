@@ -2847,12 +2847,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-07", 
-                  "datetime": "20210907", 
-                  "filename": "Arrow-v11.0-river-COMMUNITY-20210907-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/river/Arrow-v11.0-river-COMMUNITY-20210907-VANILLA.zip", 
-                  "sha256": "582faa1451ebff74076ab83350f808d9159a58a2a26dddc61649937d982561d7", 
-                  "size": "838183681", 
+                  "date": "2021-09-11", 
+                  "datetime": "20210911", 
+                  "filename": "Arrow-v11.0-river-COMMUNITY-20210911-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/river/Arrow-v11.0-river-COMMUNITY-20210911-VANILLA.zip", 
+                  "sha256": "e9b9207ba6a31e9037a84be64c39ce2338dded41a2988588b3eb1fb43cc828cd", 
+                  "size": "838324002", 
                   "type": "community", 
                   "version": "v11.0"
                 }
