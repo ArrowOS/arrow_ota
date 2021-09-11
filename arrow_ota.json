@@ -297,7 +297,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- TEST\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+      "changelog": "- Remove qti telephony injection (Fix SIM-Switcher)\r\n- sepolicy: Address denials\r\n- rootdir: Disable sched_walt_rotate_big_tasks\r\n- Build with Clang 13.0.1\r\n- media: Sync configs with CAF\r\n- audio: Sync configs with CAF\r\n- proprietary-files: Restore all vibrator firmware\r\n- proprietary-files: Unpin Display blobs\r\n- Convert CarrierConfig overlays into RRO\r\n- rro_overlays: {Wifi,Tethering}Overlay: Move to vendor\r\n- Import full QTI Codec2 HAL and switch to Codec2 by default\r\n- libinit: Switch to walleye oreo build fingerprint\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag \"LA.UM.9.12.r1-12800.01-SMxx50.QSSI12.0\"\r\n- cpu-boost: Rework\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -319,12 +319,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-09", 
-                  "datetime": "20210909", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210909-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210909-VANILLA.zip", 
-                  "sha256": "b41da70b9d6a3fda9d385555f31d5b8fd5fcbb0a6d04d2aa197d1cb812ec7661", 
-                  "size": "1096209267", 
+                  "date": "2021-09-11", 
+                  "datetime": "20210911", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210911-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210911-VANILLA.zip", 
+                  "sha256": "414fc375fcc234e3aba76e3a629c5a64c1024e57f11104c6f7dbfd2fd11489a1", 
+                  "size": "1096281416", 
                   "type": "official", 
                   "version": "v11.0"
                 }
