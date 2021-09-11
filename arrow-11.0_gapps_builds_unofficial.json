@@ -465,16 +465,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
-            "date": "2021-08-30", 
-            "datetime": "20210830", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210830-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210830-GAPPS.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n\u2022 Fixed front camera video recording on MIUI camera", 
+            "date": "2021-09-11", 
+            "datetime": "20210911", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210911-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210911-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "eb9a29679f076f5c7da60cc880cc02ea2ee47b58f368d51e726356bf336d37ce", 
-            "size": "1469067398", 
+            "sha256": "02a3e3e403ec76ac69d13f9934eea0d3927b20e3cd2415aa4d04b19ba87835b1", 
+            "size": "1469169459", 
             "type": "official", 
             "version": "v11.0"
         }
