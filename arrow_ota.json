@@ -3321,7 +3321,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n30/08/2021\r\n\u2022 Fixed oversaturated colors\r\n\u2022 Reworked color modes\r\n\u2022 Improved idle drain\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
+      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n\u2022 Fixed front camera video recording on MIUI camera", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -3343,12 +3343,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-10", 
-                  "datetime": "20210910", 
-                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210910-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210910-VANILLA.zip", 
-                  "sha256": "ee316001af25d75821646f7952d83b50ce00bc7163c03630e6c24d6fd0cb5cc8", 
-                  "size": "1120041367", 
+                  "date": "2021-09-11", 
+                  "datetime": "20210911", 
+                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20210911-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210911-VANILLA.zip", 
+                  "sha256": "52adb7ea5877d35c5f4c61cc91cd44b8ed7131e832715c3efe270a9e049a2ee8", 
+                  "size": "1121020894", 
                   "type": "official", 
                   "version": "v11.0"
                 }
