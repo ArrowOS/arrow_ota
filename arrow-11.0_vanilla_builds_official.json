@@ -257,16 +257,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Fixed deep sleep (in kernel)\r\n- Enabled conservative PL in battery saver mode\r\n- Disabled GPU boost in battery saver mode\r\n- Display correct hwversion in About Device", 
-            "date": "2021-09-08", 
-            "datetime": "20210908", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210908-VANILLA.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210908-VANILLA.zip", 
+            "changelog": "- Added LCD HBM and CABC in XiaomiParts\r\n- Added missing qti_whitelist sysconfig\r\n- Switched to framework-side safetynet fix\r\n- Disabled useless cnss-diag service\r\n- Improved schedutil governor ratelimits\r\n- Updated clear speaker audio from MIUI12\r\n- Upstreamed kernel to v4.14.245\r\n- Misc optimizations & fixes in kernel", 
+            "date": "2021-09-12", 
+            "datetime": "20210912", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210912-VANILLA.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210912-VANILLA.zip", 
             "maintainer": "Adithya R", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "3b9d4707b41e1ccc915761de7a151a3311f8017ff7fd1021e474499b1a67528c", 
-            "size": "960210108", 
+            "sha256": "59b8cd924a23e5e24a27cac97e3d0501754511c0017b9b0f9b003ad64e4790e9", 
+            "size": "959532825", 
             "type": "official", 
             "version": "v11.0"
         }
