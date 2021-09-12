@@ -34,15 +34,15 @@
     "cas": [
         {
             "changelog": "Firmware: V12.5.5.0.RJJCNXM\r\nFixed:\r\n1.Fod in low brightness", 
-            "date": "2021-09-07", 
-            "datetime": "20210907", 
-            "filename": "Arrow-v11.0-cas-COMMUNITY-20210907-VANILLA.zip", 
-            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210907-VANILLA.zip", 
+            "date": "2021-09-11", 
+            "datetime": "20210911", 
+            "filename": "Arrow-v11.0-cas-COMMUNITY-20210911-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210911-VANILLA.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "b8fd2afac2986f381d408fa11a9d41217289e5798b9135f52468241d1b416a23", 
-            "size": "1447312829", 
+            "sha256": "932a31d3be71c1d642abad4168f250e15a742148027c729c6f1fb114ec159ced", 
+            "size": "1447776104", 
             "type": "community", 
             "version": "v11.0"
         }
