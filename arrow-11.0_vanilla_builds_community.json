@@ -257,16 +257,16 @@
     ], 
     "vince": [
         {
-            "changelog": "\u2022 Fixed Battery Drain (Reduced Boost Duration Slightly)\r\n\u2022 Fixed DT2W Toggle\r\n\u2022 Fixed Signal Delay after Boot\r\n\u2022 Updated Perf and IOP Stack To R (from pan_sprout)\r\n\u2022 Update Graphics Firmware from Daisy (V11.0.21.0.QDLMIXM)\r\n\u2022 Update Vulkan Configs\r\n\u2022 Tune SurfaceFlinger Phase Offsets\r\n\u2022 Increased Mic Gain\r\n\u2022 Switched To Dark Ages\r\n\u2022 Enabled dex2oat64 (Faster Boot Time)\r\n\u2022 Enable Pre-rendering Feature\r\n\u2022 Update Boot Scripts from LA.UM.9.6.2.r1-04800-89xx.0\r\n\u2022 69+ Misc Optimisations (Check my git)", 
-            "date": "2021-09-09", 
-            "datetime": "20210909", 
-            "filename": "Arrow-v11.0-vince-COMMUNITY-20210909-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210909-VANILLA.zip", 
+            "changelog": "\u2022 Sync Bluetooth with CAF (LA.UM.9.6.2.r1-04800-89xx.0)\r\n\u2022 Update DRM Widewine Stack from CrossHatch\r\n\u2022 Update Thermal Blobs from Onclite V12.5.1.0.QFLCNXM\r\n\u2022 Upstreamed Kernel to .282\r\n\u2022 Updated To Sept Redfin FP\r\n\u2022 Address Lots of Denials\r\n\u2022 Switched back To Old Thermal Engine\r\n\u2022 Misc Optimizations.", 
+            "date": "2021-09-13", 
+            "datetime": "20210913", 
+            "filename": "Arrow-v11.0-vince-COMMUNITY-20210913-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210913-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "647a3975940932d6a796d3ea0bea3445ebc5811ff132b6a78620358ad376ddc2", 
-            "size": "754474101", 
+            "sha256": "0069849683a346fb7cc0c99b73702a88dc4cdfe74c2290f78796c14955411b88", 
+            "size": "754224703", 
             "type": "community", 
             "version": "v11.0"
         }
