@@ -286,5 +286,21 @@
             "type": "community", 
             "version": "v11.0"
         }
+    ], 
+    "z2_plus": [
+        {
+            "changelog": "* Update bluetooth blobs from cheeseburger\r\n* Added ant+\r\n* Disabled significant motion detector which caused idle drain\r\n* Fixed wifi and bluetooth mac\r\n* Added drm props\r\n* Set voice call volume steps like on stock zui\r\n* Fixed geekbench opencl test\r\n* Removed unneeded cmdline options\r\n* Improved pixel offline charger animation\r\n* Build libdac from source\r\n* Added xml for unlimited google photos", 
+            "date": "2021-09-13", 
+            "datetime": "20210913", 
+            "filename": "Arrow-v11.0-z2_plus-COMMUNITY-20210913-GAPPS.zip", 
+            "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-COMMUNITY-20210913-GAPPS.zip", 
+            "maintainer": "PranavTemkar", 
+            "model": "Z2 Plus", 
+            "oem": "ZUK", 
+            "sha256": "eaea07ffbcfc9dded23c72e7d2eebf5c24ad2cbd85cfc993b6cf9fad12abf563", 
+            "size": "1091459139", 
+            "type": "community", 
+            "version": "v11.0"
+        }
     ]
 }
