@@ -3451,12 +3451,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-11", 
-                  "datetime": "20210911", 
-                  "filename": "Arrow-v11.0-tulip-COMMUNITY-20210911-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20210911-VANILLA.zip", 
-                  "sha256": "19721f9895964a822cce76305fbcf711813931bf0b8e5f8f7795d2443ac2b182", 
-                  "size": "865121701", 
+                  "date": "2021-09-12", 
+                  "datetime": "20210912", 
+                  "filename": "Arrow-v11.0-tulip-COMMUNITY-20210912-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20210912-VANILLA.zip", 
+                  "sha256": "e073536b311ce541b2c22a49b3a8bc2c02cbd4ce579adf3dab9b270597ea98cf", 
+                  "size": "865121621", 
                   "type": "community", 
                   "version": "v11.0"
                 }
