@@ -625,16 +625,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Update blobs from V12.5.4.0.RJUMIXM\r\n- Bring back and switch to AOSP WFD implementation\r\n- Import remaining Xiaomi init script changes\r\n- Fix Ambient Display crash on clean installs\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest firmware you can use 12.0.4.0 or above (Remember you need to boot to that specific MIUI version first for MIUI to do its magic on firmware partitions before moving back to ArrowOS)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-09-09", 
-            "datetime": "20210909", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210909-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210909-VANILLA.zip", 
+            "changelog": "- Update blobs from V12.5.4.0.RJUMIXM\r\n- Bring back and switch to AOSP WFD implementation\r\n- Import remaining Xiaomi init script changes\r\n- Fix Ambient Display crash on clean installs\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+            "date": "2021-09-14", 
+            "datetime": "20210914", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210914-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210914-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "401ec989423361a4d2162dff162682ca41c5ac649e67e0e601cd6c8ee335e8fe", 
-            "size": "1176501644", 
+            "sha256": "b2a4bf1b52fa19ee7a061310d1f4edcd4e6d0b58de3db32d04795c41183cd0ae", 
+            "size": "1176498334", 
             "type": "official", 
             "version": "v11.0"
         }
