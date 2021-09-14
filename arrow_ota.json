@@ -2697,7 +2697,7 @@
   ], 
   "raphael": [
     {
-      "changelog": "NOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
+      "changelog": "- Update blobs from V12.5.2.0.RFKMIXM\r\n- Fix Ambient Display crash on clean installs\r\n- Remove redundant references from init scripts\r\n- Import remaining missing Xiaomi init scripts changes\r\n- Import some missing blobs \r\n- Better heat management while charging\r\n- Misc changes and improvements\r\n- See full device sources at: https://github.com/ArrowOS-Devices?q=raphael\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
       "maintainer": "TH779, kubersharma001", 
       "model": "Redmi K20 Pro", 
       "oem": "Xiaomi", 
@@ -2779,12 +2779,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-13", 
-                  "datetime": "20210913", 
-                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210913-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210913-VANILLA.zip", 
-                  "sha256": "eaf476f047a3755ca30c1ae1f8f0cfafd1b31ea4771f550214d0646415763fdd", 
-                  "size": "1085713782", 
+                  "date": "2021-09-14", 
+                  "datetime": "20210914", 
+                  "filename": "Arrow-v11.0-raphael-OFFICIAL-20210914-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20210914-VANILLA.zip", 
+                  "sha256": "1c3cb34a252d5a43df07ee9a16dbe33adf7434508037f12ea6a71c044e382b48", 
+                  "size": "1085634501", 
                   "type": "official", 
                   "version": "v11.0"
                 }
