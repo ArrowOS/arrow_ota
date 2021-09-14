@@ -321,16 +321,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Fixed laggy when pull QS title if color mode is automatic\r\n- Fixed a performance regression\r\n- Apply runtime blkio optimizations from coral\r\n- Move some rro overlays to vendor\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-09-09", 
-            "datetime": "20210909", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210909-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210909-VANILLA.zip", 
+            "changelog": "- Kernel: Enable NTFS support\r\n- Kernel: Set default timer to 100HZ\r\n- Set default GPU idle timer to 70ms\r\n- Update redfin fp to September\r\n- Miscellaneous fixes and improvements", 
+            "date": "2021-09-14", 
+            "datetime": "20210914", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210914-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210914-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "b1e394f7262788925308be95bf278001168fe721bdeeb367d1308f3530d38957", 
-            "size": "905453835", 
+            "sha256": "6fd5e5a83ab9956ed5526b2d71e56f33008ebbf56b2358fcfd187aa53a063c70", 
+            "size": "905329712", 
             "type": "official", 
             "version": "v11.0"
         }
