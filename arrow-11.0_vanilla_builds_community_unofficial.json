@@ -226,15 +226,15 @@
     "vince": [
         {
             "changelog": "\u2022 Sync Bluetooth with CAF (LA.UM.9.6.2.r1-04800-89xx.0)\r\n\u2022 Update DRM Widewine Stack from CrossHatch\r\n\u2022 Update Thermal Blobs from Onclite V12.5.1.0.QFLCNXM\r\n\u2022 Upstreamed Kernel to .282\r\n\u2022 Updated To Sept Redfin FP\r\n\u2022 Address Lots of Denials\r\n\u2022 Switched back To Old Thermal Engine\r\n\u2022 Misc Optimizations.", 
-            "date": "2021-09-10", 
-            "datetime": "20210910", 
-            "filename": "Arrow-v11.0-vince-COMMUNITY-20210910-VANILLA.zip", 
-            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210910-VANILLA.zip", 
+            "date": "2021-09-14", 
+            "datetime": "20210914", 
+            "filename": "Arrow-v11.0-vince-COMMUNITY-20210914-VANILLA.zip", 
+            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210914-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "517b6e4c132c23723e7c711f5547c49761f5c0428469300a07c05e4ea8ff0fc9", 
-            "size": "754438037", 
+            "sha256": "21cfd211916311a8a9fa7ea9c7f1492b49f8dfd328aa6dcce28a8627c2b55c1e", 
+            "size": "754603276", 
             "type": "community", 
             "version": "v11.0"
         }
