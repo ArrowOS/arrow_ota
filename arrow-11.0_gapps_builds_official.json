@@ -545,16 +545,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n30/08/2021\r\n\u2022 Fixed oversaturated colors\r\n\u2022 Reworked color modes\r\n\u2022 Improved idle drain\r\n\r\n20/08/2021\r\n\u2022 Moved refresh rate settings to the device specific settings again\r\n\u2022 Removed KCAL color adjustment\r\n\u2022 Added back AOSP color modes settings\r\n\u2022 Enabled RGB color adjustment\r\n\u2022 Switched to OSS GPS/GNSS stack\r\n\u2022 Switched bootanimation resource to 1080\r\n\u2022 Disabled proximity check on pulse\r\n\r\n15/08/2021\r\n\u2022 Removed more unused files and services in the vendor\r\n\u2022 Solved batterysecret denials (fast charging should work better now)\r\n\u2022 Dropped QTI perfd (improved device temperatures)\r\n\u2022 Enabled burn-in protection on the navigation bar and status bar\r\n\u2022 Added russian translations to the device specific settings", 
-            "date": "2021-09-10", 
-            "datetime": "20210910", 
-            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210910-GAPPS.zip", 
-            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210910-GAPPS.zip", 
+            "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n\u2022 Fixed front camera video recording on MIUI camera", 
+            "date": "2021-09-15", 
+            "datetime": "20210915", 
+            "filename": "Arrow-v11.0-sweet-OFFICIAL-20210915-GAPPS.zip", 
+            "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20210915-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "f19de26e30233f878c54d3f73e7dcd4b78c368c7894f1a58bca01fdaa644388e", 
-            "size": "1468213941", 
+            "sha256": "23bf193be64055ab9f0b21ccadeb1b468c828e7cab114b10a8344dc9b3052df2", 
+            "size": "1469350659", 
             "type": "official", 
             "version": "v11.0"
         }
