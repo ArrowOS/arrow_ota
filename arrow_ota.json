@@ -487,12 +487,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-10", 
-                  "datetime": "20210910", 
-                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210910-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210910-VANILLA.zip", 
-                  "sha256": "d2b3d760c170adaa2d537265bc66e2075485362e931dc499e82262b577b63124", 
-                  "size": "947098408", 
+                  "date": "2021-09-15", 
+                  "datetime": "20210915", 
+                  "filename": "Arrow-v11.0-beryllium-OFFICIAL-20210915-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20210915-VANILLA.zip", 
+                  "sha256": "578bb419b4152e8dc3a24425254bcb8689a29cb28d00c94348fad0f0295d081d", 
+                  "size": "946817073", 
                   "type": "official", 
                   "version": "v11.0"
                 }
