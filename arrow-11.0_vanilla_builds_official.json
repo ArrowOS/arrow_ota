@@ -370,15 +370,15 @@
     "mido": [
         {
             "changelog": "- Upstream device sources\r\n- Move to R HALS\r\n- Switch to 4.9.282 kernel\r\n- Upstream blobs\r\n\r\nNote:\r\n* Mido breathes *\r\n- A clean flash is recommended if coming from previous builds.", 
-            "date": "2021-09-10", 
-            "datetime": "20210910", 
-            "filename": "Arrow-v11.0-mido-OFFICIAL-20210910-VANILLA.zip", 
-            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210910-VANILLA.zip", 
+            "date": "2021-09-15", 
+            "datetime": "20210915", 
+            "filename": "Arrow-v11.0-mido-OFFICIAL-20210915-VANILLA.zip", 
+            "filepath": "/arrow-11.0/mido/Arrow-v11.0-mido-OFFICIAL-20210915-VANILLA.zip", 
             "maintainer": "Ganesh Varma, Sonal Singh", 
             "model": "Redmi Note 4", 
             "oem": "Xiaomi", 
-            "sha256": "96fb9ee29ff26128dd5842e25edbd973edf29413842ee138419591b0c2bf27b7", 
-            "size": "723208927", 
+            "sha256": "0938f9594c3532a90adafa15b62c792f208080a54a0b1981f8971fa0c4e4c413", 
+            "size": "723007175", 
             "type": "official", 
             "version": "v11.0"
         }
