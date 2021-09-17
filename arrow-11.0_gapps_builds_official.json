@@ -609,16 +609,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Update blobs from V12.5.4.0.RJUMIXM\r\n- Bring back and switch to AOSP WFD implementation\r\n- Import remaining Xiaomi init script changes\r\n- Fix Ambient Display crash on clean installs\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-09-15", 
-            "datetime": "20210915", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210915-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210915-GAPPS.zip", 
+            "changelog": "- Enable AOSP Sim toggle\r\n- Minor refresh rate improvement\r\n- Fix SafetyNet issues for all users\r\n- Fix GoogleCamera mod video recording issue\r\n- Allow all 4 rotations\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+            "date": "2021-09-17", 
+            "datetime": "20210917", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20210917-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210917-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "caf3cdd366f28576fdb99d60fba3e00202c2391f01b01f6372f2c0f87805d939", 
-            "size": "1487899939", 
+            "sha256": "fbbb7d8fd8241726af541ed6c0322c249b02ea5bd3088105977e2fb41feba383", 
+            "size": "1487892396", 
             "type": "official", 
             "version": "v11.0"
         }
