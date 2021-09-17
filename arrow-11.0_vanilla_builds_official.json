@@ -433,16 +433,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "\u2022 Update blobs from PHOENIX 21.9.1\r\n\u2022 Update graphics from LA.UM.9.1.r1-10900-SMxxx0.0\r\n\u2022 Upstream kernel to 4.14.246\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-09-12", 
-            "datetime": "20210912", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210912-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210912-VANILLA.zip", 
+            "changelog": "\u2022 Fixup IFAA fingerprint payment support\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+            "date": "2021-09-17", 
+            "datetime": "20210917", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210917-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210917-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "de5964a0364564b10395bd9c5ff7811ae6a06cbc43569c8e8438f3fe1f75c3d1", 
-            "size": "1075794598", 
+            "sha256": "b514ff2844e82f227a39d549ed286f60d7aadbe7043b568908940823b6754f07", 
+            "size": "1074966066", 
             "type": "official", 
             "version": "v11.0"
         }
