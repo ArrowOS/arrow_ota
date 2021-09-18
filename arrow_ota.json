@@ -230,8 +230,8 @@
   "X01BD": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
-      "model": "ASUS_X01BDA", 
+      "maintainer": "SonalSingh", 
+      "model": "Asus Zenfone Max Pro M2", 
       "oem": "asus", 
       "v11.0": [
         {
@@ -251,12 +251,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-13", 
-                  "datetime": "20210913", 
-                  "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210913-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210913-VANILLA.zip", 
-                  "sha256": "a2a1cd7369faca239113133681146e27a246983f5ee3e0a03557f5d540b49733", 
-                  "size": "848761613", 
+                  "date": "2021-09-18", 
+                  "datetime": "20210918", 
+                  "filename": "Arrow-v11.0-X01BD-OFFICIAL-20210918-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X01BD/Arrow-v11.0-X01BD-OFFICIAL-20210918-VANILLA.zip", 
+                  "sha256": "acec54bc8636c2b78839bb8df0fdf8aa730b0dccf46354d86922842d60e1d7eb", 
+                  "size": "848747635", 
                   "type": "official", 
                   "version": "v11.0"
                 }
