@@ -2389,7 +2389,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Fixup IFAA fingerprint payment support\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "- stuff.", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2427,12 +2427,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-09-06", 
-                  "datetime": "20210906", 
-                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210906-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210906-GAPPS.zip", 
-                  "sha256": "5b5131c210f33476a97a93fe1e76fb94995cf781126043fe8ee9cf976d282e25", 
-                  "size": "1412124352", 
+                  "date": "2021-09-18", 
+                  "datetime": "20210918", 
+                  "filename": "Arrow-v11.0-phoenix-UNOFFICIAL-20210918-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-UNOFFICIAL-20210918-GAPPS.zip", 
+                  "sha256": "42af3f4a65e41e707043ae73a7b0c37d8c731f9110ec1ef82dbfc8591b297987", 
+                  "size": "1411979273", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
