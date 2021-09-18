@@ -97,16 +97,16 @@
     ], 
     "cheeseburger": [
         {
-            "changelog": "- Fixed Smart Charging sepolicy and permissions\r\n- Sepolicy: Address more denials\r\n- Doze: Improve support for AOD\r\n- fstab: Disable force encryption for f2fs\r\n- Update Media blobs from LA.UM.9.2.r1-01800-SDMxx0.0\r\n- Update WFD blobs from phoenix_sprout 11 RKQ1.201123.002\r\n- Fixes for WFD (maybe will work)\r\n- Inlined Camera DotFix (v6.0)\r\n- Fixes sepolicy and permissions for vibration strength into OnePlus settings\r\n- Drop all SF offset related props\r\n- Disable surfaceflinger backpressure\r\n- pocketmode: Rework\r\n- Add dummy libqti-perfd-client\r\n- Kernel: Enable support NTFS\r\n- Misc fixes and upstream changes.", 
-            "date": "2021-09-17", 
-            "datetime": "20210917", 
-            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210917-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210917-GAPPS.zip", 
+            "changelog": "- Cleanup overlays\r\n- Cleanup init scripts\r\n- Switch AOSP WFD\r\n- Update Graphics blobs from LA.UM.8.2.r1-07500-sdm660.0 (Fixed Nightlight)\r\n- Misc fixes and upstream changes.", 
+            "date": "2021-09-18", 
+            "datetime": "20210918", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210918-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210918-GAPPS.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5000", 
             "oem": "OnePlus", 
-            "sha256": "1171514c89b880b34d5cdac92720340bf61a590a93b98b072ac2b5f7d38333ec", 
-            "size": "1166004939", 
+            "sha256": "acd5644026ca5269e5fce5d21c498d7cfa15743a3eaa74a65557e28138a2e85f", 
+            "size": "1165030349", 
             "type": "official", 
             "version": "v11.0"
         }
