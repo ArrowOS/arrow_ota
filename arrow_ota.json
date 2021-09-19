@@ -297,7 +297,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- TEST\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+      "changelog": "- Fixed crash XiaomiParts in Doze options\r\n- Fixed mic with wireless headphones\r\n- Fixed \"Ok, Google\"\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merged android-4.19-stable android kernel common\r\n- Merged jaegeuk/f2fs-stable\r\n- Import changes from micode/elish-r-oss\r\n- Rework dts\r\n- kernel: sched: Reset changes to CAF\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -319,12 +319,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-17", 
-                  "datetime": "20210917", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210917-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210917-VANILLA.zip", 
-                  "sha256": "775d748d1b31fa37256a4f20846c01ec65f10061997ff55daf40114362403173", 
-                  "size": "1096478735", 
+                  "date": "2021-09-19", 
+                  "datetime": "20210919", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210919-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210919-VANILLA.zip", 
+                  "sha256": "15ce6e3c53295e972ab83008abca0725a8150e8e73a699a6bf54d60bed1a8c01", 
+                  "size": "1096410393", 
                   "type": "official", 
                   "version": "v11.0"
                 }
