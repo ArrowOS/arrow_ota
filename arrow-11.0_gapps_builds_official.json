@@ -305,16 +305,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Kernel: Enable NTFS support\r\n- Kernel: Set default timer to 100HZ\r\n- Set default GPU idle timer to 70ms\r\n- Update redfin fp to September\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-09-14", 
-            "datetime": "20210914", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210914-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210914-GAPPS.zip", 
+            "changelog": "- Drop cfq tunes\r\n- Fixed a wrong sepolicy rule\r\n- Miscellaneous fixes and improvements", 
+            "date": "2021-09-19", 
+            "datetime": "20210919", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210919-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210919-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "7623b78ad2848f728a4b74049d5a344543175f47e9dc4e71aebd8da2a92e1a06", 
-            "size": "1258184520", 
+            "sha256": "f6beab136c1b261ea00b4830faf2b354436aa70697a99613b1184e1296990a90", 
+            "size": "1257792164", 
             "type": "official", 
             "version": "v11.0"
         }
