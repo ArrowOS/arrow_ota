@@ -49,16 +49,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Remove qti telephony injection (Fix SIM-Switcher)\r\n- sepolicy: Address denials\r\n- rootdir: Disable sched_walt_rotate_big_tasks\r\n- Build with Clang 13.0.1\r\n- media: Sync configs with CAF\r\n- audio: Sync configs with CAF\r\n- proprietary-files: Restore all vibrator firmware\r\n- proprietary-files: Unpin Display blobs\r\n- Convert CarrierConfig overlays into RRO\r\n- rro_overlays: {Wifi,Tethering}Overlay: Move to vendor\r\n- Import full QTI Codec2 HAL and switch to Codec2 by default\r\n- libinit: Switch to walleye oreo build fingerprint\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag \"LA.UM.9.12.r1-12800.01-SMxx50.QSSI12.0\"\r\n- cpu-boost: Rework\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-09-14", 
-            "datetime": "20210914", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210914-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210914-GAPPS.zip", 
+            "changelog": "- Fixed crash XiaomiParts in Doze options\r\n- Fixed mic with wireless headphones\r\n- Fixed \"Ok, Google\"\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merged android-4.19-stable android kernel common\r\n- Merged jaegeuk/f2fs-stable\r\n- Import changes from micode/elish-r-oss\r\n- Rework dts\r\n- kernel: sched: Reset changes to CAF\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-09-19", 
+            "datetime": "20210919", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210919-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210919-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "9d4ec0fdf6e156f73bcd68da49d76cca4d810257b715e9fef89e63372fb46bc7", 
-            "size": "1395601042", 
+            "sha256": "25786269822b9b25b1e494339581fd7b40059ecdcb3e02ed4ed9a247f209fe19", 
+            "size": "1395762003", 
             "type": "official", 
             "version": "v11.0"
         }
