@@ -1329,8 +1329,8 @@
   ], 
   "ginkgo": [
     {
-      "changelog": "- Added support for per-SIM toggle\r\n- Removed notification LED settings on willow", 
-      "maintainer": "Adithya R", 
+      "changelog": "- Added support for per-SIM toggle in SIM settings\r\n- Removed notification and battery LED settings on willow\r\n- Removed TM symbol in kernel name (required by some apps)\r\n- Merged LA.UM.9.11.r1-04700.02 CAF tag in kernel", 
+      "maintainer": "Adithya (ghostrider_reborn)", 
       "model": "Redmi Note 8", 
       "oem": "Xiaomi", 
       "v10.0": [
@@ -1383,12 +1383,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-13", 
-                  "datetime": "20210913", 
-                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210913-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210913-VANILLA.zip", 
-                  "sha256": "f6348bed834980d31188357bc07be4e55836ccb6e6ad6125a3e6fd27abefa977", 
-                  "size": "960144017", 
+                  "date": "2021-09-20", 
+                  "datetime": "20210920", 
+                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210920-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210920-VANILLA.zip", 
+                  "sha256": "d60a161881b30d15dc584c54ab7bd752723cce7ac266b111eb8d552c06505256", 
+                  "size": "960168178", 
                   "type": "official", 
                   "version": "v11.0"
                 }
