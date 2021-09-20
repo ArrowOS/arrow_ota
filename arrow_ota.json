@@ -1751,12 +1751,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-19", 
-                  "datetime": "20210919", 
-                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210919-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210919-VANILLA.zip", 
-                  "sha256": "552ca6f468f95371c798bde3ccdb4768d87e336ebd0ee7a8b4db6f766b8b28ab", 
-                  "size": "905957023", 
+                  "date": "2021-09-20", 
+                  "datetime": "20210920", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210920-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210920-VANILLA.zip", 
+                  "sha256": "dbaf4c1aea90777b0281a142822a1e4a654fb33346e5ba88befae429d815407b", 
+                  "size": "905930956", 
                   "type": "official", 
                   "version": "v11.0"
                 }
