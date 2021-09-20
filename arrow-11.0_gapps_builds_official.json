@@ -241,16 +241,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Added LCD HBM and CABC in XiaomiParts\r\n- Added missing qti_whitelist sysconfig\r\n- Switched to framework-side safetynet fix\r\n- Disabled useless cnss-diag service\r\n- Improved schedutil governor ratelimits\r\n- Updated clear speaker audio from MIUI12\r\n- Upstreamed kernel to v4.14.245\r\n- Misc optimizations & fixes in kernel", 
-            "date": "2021-09-14", 
-            "datetime": "20210914", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210914-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210914-GAPPS.zip", 
-            "maintainer": "Adithya R", 
+            "changelog": "- Added support for per-SIM toggle in SIM settings\r\n- Removed notification and battery LED settings on willow\r\n- Removed TM symbol in kernel name (required by some apps)\r\n- Merged LA.UM.9.11.r1-04700.02 CAF tag in kernel", 
+            "date": "2021-09-20", 
+            "datetime": "20210920", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20210920-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20210920-GAPPS.zip", 
+            "maintainer": "Adithya (ghostrider_reborn)", 
             "model": "Redmi Note 8", 
             "oem": "Xiaomi", 
-            "sha256": "4bb5d65470d17b30e03f98b03f01ea3b80f3a29269a17ba451a6e2c31ae55ecd", 
-            "size": "1302522168", 
+            "sha256": "e0bb7ed242dcf3d6e450ec45655fcfe047868c376c349b76378afb9ce4824e4a", 
+            "size": "1302052653", 
             "type": "official", 
             "version": "v11.0"
         }
