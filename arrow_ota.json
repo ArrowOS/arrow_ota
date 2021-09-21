@@ -635,12 +635,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-16", 
-                  "datetime": "20210916", 
-                  "filename": "Arrow-v11.0-channel-COMMUNITY-20210916-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/channel/Arrow-v11.0-channel-COMMUNITY-20210916-VANILLA.zip", 
-                  "sha256": "90943ab604b29f97312e0cda6b23fa69f0d387d58248949d2a8556f1b5cac8b6", 
-                  "size": "755012519", 
+                  "date": "2021-09-21", 
+                  "datetime": "20210921", 
+                  "filename": "Arrow-v11.0-channel-COMMUNITY-20210921-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/channel/Arrow-v11.0-channel-COMMUNITY-20210921-VANILLA.zip", 
+                  "sha256": "88df8467ff6a7ce4d0308202428024bcb68eac3433c94e2106a901acaebc19cc", 
+                  "size": "755004440", 
                   "type": "community", 
                   "version": "v11.0"
                 }
