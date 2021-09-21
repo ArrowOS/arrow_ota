@@ -481,16 +481,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Hide user facing crash dialog for EUICC app\r\nFix Smart Charging Sepolicy", 
-            "date": "2021-06-18", 
-            "datetime": "20210618", 
-            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210618-GAPPS.zip", 
-            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210618-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2021-09-21", 
+            "datetime": "20210921", 
+            "filename": "Arrow-v11.0-taimen-UNOFFICIAL-20210921-GAPPS.zip", 
+            "filepath": "/arrow-11.0/taimen/Arrow-v11.0-taimen-UNOFFICIAL-20210921-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "deba204bc5ba0280c2661ab5d9462e3885e251de3c3f6250493a9928ca40d9d8", 
-            "size": "1128078580", 
+            "sha256": "0cc0cf49795dbf31ed468d9486dab36c49a2b80cf0ca2f1cb7115295394c4ef1", 
+            "size": "1118417557", 
             "type": "unofficial", 
             "version": "v11.0"
         }
