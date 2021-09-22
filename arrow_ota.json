@@ -543,12 +543,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-09-17", 
-                  "datetime": "20210917", 
-                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210917-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210917-GAPPS.zip", 
-                  "sha256": "22804bc0113c9e675e3ccdf0af35710460e36ed286bcbf193a13b632b5763ede", 
-                  "size": "1793327015", 
+                  "date": "2021-09-21", 
+                  "datetime": "20210921", 
+                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210921-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210921-GAPPS.zip", 
+                  "sha256": "4a90dab68b26274cc748cfd345cf51495cb4d887b88e7a1f553215b0db591aff", 
+                  "size": "1793271614", 
                   "type": "community", 
                   "version": "v11.0"
                 }
