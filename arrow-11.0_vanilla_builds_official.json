@@ -433,16 +433,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "\u2022 Fixup IFAA fingerprint payment support\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
-            "date": "2021-09-17", 
-            "datetime": "20210917", 
-            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210917-VANILLA.zip", 
-            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210917-VANILLA.zip", 
+            "changelog": "\u2022 Enable option to disable sim in network settings\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+            "date": "2021-09-22", 
+            "datetime": "20210922", 
+            "filename": "Arrow-v11.0-phoenix-OFFICIAL-20210922-VANILLA.zip", 
+            "filepath": "/arrow-11.0/phoenix/Arrow-v11.0-phoenix-OFFICIAL-20210922-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "b514ff2844e82f227a39d549ed286f60d7aadbe7043b568908940823b6754f07", 
-            "size": "1074966066", 
+            "sha256": "7081338593778de450a2ab27416b998b22660ec3c7f73730f5565eb5bdaa1c22", 
+            "size": "1075144405", 
             "type": "official", 
             "version": "v11.0"
         }
