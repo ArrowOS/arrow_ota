@@ -321,16 +321,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Drop cfq tunes\r\n- Fixed a wrong sepolicy rule\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-09-20", 
-            "datetime": "20210920", 
-            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210920-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210920-VANILLA.zip", 
+            "changelog": "- Upstream kernel linux version to 4.4.283\r\n- Binderize IR HAL\r\n- Regen manifest\r\n- Miscellaneous fixes and improvements", 
+            "date": "2021-09-24", 
+            "datetime": "20210924", 
+            "filename": "Arrow-v11.0-lavender-OFFICIAL-20210924-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210924-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "dbaf4c1aea90777b0281a142822a1e4a654fb33346e5ba88befae429d815407b", 
-            "size": "905930956", 
+            "sha256": "8635771b37a9a54dbbfde62e714245a95238ab7d6d2da8d34821d01fac58d9ea", 
+            "size": "905995012", 
             "type": "official", 
             "version": "v11.0"
         }
