@@ -121,7 +121,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "Beta build", 
+      "changelog": "- Fixed WFD\r\n- Fixed secure content playback on apps like hotstar", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -143,12 +143,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-20", 
-                  "datetime": "20210920", 
-                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210920-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210920-VANILLA.zip", 
-                  "sha256": "c9479eef79036041a7646dc11a092d513b25b793498d1f368538df9fd2e6dc5e", 
-                  "size": "789058759", 
+                  "date": "2021-09-25", 
+                  "datetime": "20210925", 
+                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20210925-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20210925-VANILLA.zip", 
+                  "sha256": "88a147c3ef7ab9cf95b8d1d3a486c5f3b2e8b0a34a326b138907a139c86cf84b", 
+                  "size": "789449574", 
                   "type": "official", 
                   "version": "v11.0"
                 }
