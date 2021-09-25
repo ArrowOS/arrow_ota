@@ -297,7 +297,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- TEST\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+      "changelog": "- Fixed recording 4k video\r\n- Fixed mic in some apps\r\n- Fixed random crash audio service\r\n- libinit: Switch to OEM build fingerprint\r\n- overlay: Allow to be rotated in all 4 rotations\r\n- overlay: Improve screen brightness config\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- techpack/audio: kona: Report correct key code of headset buttons\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -319,12 +319,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-24", 
-                  "datetime": "20210924", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210924-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210924-VANILLA.zip", 
-                  "sha256": "52be482df73ec873d94b036a3af6f674f90309973b6d43c380e19512e855aa0e", 
-                  "size": "1095137680", 
+                  "date": "2021-09-25", 
+                  "datetime": "20210925", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20210925-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210925-VANILLA.zip", 
+                  "sha256": "c835117b9064dcc16418a9f4ddd96012ab2bc63f40e968b8394626ed0c6a0765", 
+                  "size": "1095139913", 
                   "type": "official", 
                   "version": "v11.0"
                 }
