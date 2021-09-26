@@ -3633,7 +3633,7 @@
   ], 
   "vayu": [
     {
-      "changelog": "- Enable AOSP Sim toggle\r\n- Minor refresh rate improvement\r\n- Fix SafetyNet issues for all users\r\n- Fix GoogleCamera mod video recording issue\r\n- Allow all 4 rotations\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+      "changelog": "NOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
       "maintainer": "kubersharma001", 
       "model": "Poco X3 Pro", 
       "oem": "POCO", 
@@ -3683,12 +3683,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-23", 
-                  "datetime": "20210923", 
-                  "filename": "Arrow-v11.0-vayu-OFFICIAL-20210923-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210923-VANILLA.zip", 
-                  "sha256": "be4c28373ac7b27f2c7bc750f56ad5f2a7b8e871841c2de243239d1fb8f068ec", 
-                  "size": "1176469439", 
+                  "date": "2021-09-26", 
+                  "datetime": "20210926", 
+                  "filename": "Arrow-v11.0-vayu-OFFICIAL-20210926-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20210926-VANILLA.zip", 
+                  "sha256": "3734ef6a213943f8ab63ef9b4ad6a700d3f8612a1cd6a7dc3cc5da314d549c36", 
+                  "size": "1176218359", 
                   "type": "official", 
                   "version": "v11.0"
                 }
