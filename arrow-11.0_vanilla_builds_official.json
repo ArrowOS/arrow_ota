@@ -450,15 +450,15 @@
     "polaris": [
         {
             "changelog": "- Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!\r\n- From now on it is required to be on Q firmware (11.0.3.0 global or more new)", 
-            "date": "2021-09-22", 
-            "datetime": "20210922", 
-            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210922-VANILLA.zip", 
-            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210922-VANILLA.zip", 
+            "date": "2021-09-26", 
+            "datetime": "20210926", 
+            "filename": "Arrow-v11.0-polaris-OFFICIAL-20210926-VANILLA.zip", 
+            "filepath": "/arrow-11.0/polaris/Arrow-v11.0-polaris-OFFICIAL-20210926-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Mi MIX 2S", 
             "oem": "Xiaomi", 
-            "sha256": "a6401cbb364585fb44a8be19c7f2af5b9c2dc83f54b6e6af944f4b9146a7f825", 
-            "size": "960598074", 
+            "sha256": "dbbe213e85a43139e149496cfe70d9cc0b8d636b6f8b6df678559472955a3de9", 
+            "size": "960253647", 
             "type": "official", 
             "version": "v11.0"
         }
