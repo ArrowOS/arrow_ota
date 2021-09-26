@@ -1729,7 +1729,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "TEST VERSION\r\nFLASH IT AT YOUR RISK", 
+      "changelog": "- Switch to AIDL Light HAL\r\n- Miscellaneous fixes and improvements", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1751,12 +1751,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-24", 
-                  "datetime": "20210924", 
-                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210924-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210924-VANILLA.zip", 
-                  "sha256": "8635771b37a9a54dbbfde62e714245a95238ab7d6d2da8d34821d01fac58d9ea", 
-                  "size": "905995012", 
+                  "date": "2021-09-26", 
+                  "datetime": "20210926", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210926-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210926-VANILLA.zip", 
+                  "sha256": "059882e00d0728a9d0edae6290ef4c7e4e7baf5046deed0ff9cc596f085234d4", 
+                  "size": "905940987", 
                   "type": "official", 
                   "version": "v11.0"
                 }
