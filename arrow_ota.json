@@ -623,12 +623,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-09-21", 
-                  "datetime": "20210921", 
-                  "filename": "Arrow-v11.0-channel-COMMUNITY-20210921-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/channel/Arrow-v11.0-channel-COMMUNITY-20210921-GAPPS.zip", 
-                  "sha256": "85fc0fcd20834865452ea9c60d31a86836aa23673ebb68238b8af9af2125998c", 
-                  "size": "1069171860", 
+                  "date": "2021-09-26", 
+                  "datetime": "20210926", 
+                  "filename": "Arrow-v11.0-channel-COMMUNITY-20210926-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/channel/Arrow-v11.0-channel-COMMUNITY-20210926-GAPPS.zip", 
+                  "sha256": "9f0a0051a2b7bfd815229d89e354c920d3f967ad4778ea0ba3fa2703fe94ce14", 
+                  "size": "1069236649", 
                   "type": "community", 
                   "version": "v11.0"
                 }
