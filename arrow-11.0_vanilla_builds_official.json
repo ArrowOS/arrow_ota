@@ -642,15 +642,15 @@
     "violet": [
         {
             "changelog": "- Updated blobs to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Removed Violet parts and added Mi sound Enhancer to Settings>sounds and fps meter can be accessed through QS tiles\r\n- Removed Smart Charging\r\n- Enabled 24bit Playback as default\r\n- Fixes weird touch/scroll issues on fp touch event\r\n- Added Color modes \r\n- Enabled iorap\r\n- Rebased and updated kernel to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Upstreamed media HAL to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Added LSE Atomic Optimization\r\n- Added Dev frequency boost\r\n- Backported LZ4 from mainline", 
-            "date": "2021-09-21", 
-            "datetime": "20210921", 
-            "filename": "Arrow-v11.0-violet-OFFICIAL-20210921-VANILLA.zip", 
-            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210921-VANILLA.zip", 
+            "date": "2021-09-26", 
+            "datetime": "20210926", 
+            "filename": "Arrow-v11.0-violet-OFFICIAL-20210926-VANILLA.zip", 
+            "filepath": "/arrow-11.0/violet/Arrow-v11.0-violet-OFFICIAL-20210926-VANILLA.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "81a9a0a7071b9d9fd0fb5c794f531abb58e4fee612c1c39f203a10a996336e81", 
-            "size": "976416580", 
+            "sha256": "b2e1ab160a63c54fda62560f6f282e3c8eac36f6ba0af6aaefa89f6f99caed54", 
+            "size": "976549187", 
             "type": "official", 
             "version": "v11.0"
         }
