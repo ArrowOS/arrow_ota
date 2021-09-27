@@ -210,15 +210,15 @@
     "dumpling": [
         {
             "changelog": "- Cleanup overlays\r\n- Cleanup init scripts\r\n- Switch AOSP WFD\r\n- Update Graphics blobs from LA.UM.8.2.r1-07500-sdm660.0 (Fixed Nightlight)\r\n- Misc fixes and upstream changes.", 
-            "date": "2021-09-21", 
-            "datetime": "20210921", 
-            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210921-VANILLA.zip", 
-            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210921-VANILLA.zip", 
+            "date": "2021-09-27", 
+            "datetime": "20210927", 
+            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20210927-VANILLA.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20210927-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5010", 
             "oem": "OnePlus", 
-            "sha256": "a14614dafbd7d7bc8a2d77bfc2ae084dbcf12916a6669c3d1f0515d9ad09b535", 
-            "size": "821581490", 
+            "sha256": "776ebf3f517bc2bf8a4abe23087580208783ab1c32769dec4e3f9b3d6ab54196", 
+            "size": "821323029", 
             "type": "official", 
             "version": "v11.0"
         }
