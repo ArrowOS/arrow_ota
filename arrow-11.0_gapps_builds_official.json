@@ -98,15 +98,15 @@
     "cheeseburger": [
         {
             "changelog": "- Cleanup overlays\r\n- Cleanup init scripts\r\n- Switch AOSP WFD\r\n- Update Graphics blobs from LA.UM.8.2.r1-07500-sdm660.0 (Fixed Nightlight)\r\n- Misc fixes and upstream changes.", 
-            "date": "2021-09-21", 
-            "datetime": "20210921", 
-            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210921-GAPPS.zip", 
-            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210921-GAPPS.zip", 
+            "date": "2021-09-27", 
+            "datetime": "20210927", 
+            "filename": "Arrow-v11.0-cheeseburger-OFFICIAL-20210927-GAPPS.zip", 
+            "filepath": "/arrow-11.0/cheeseburger/Arrow-v11.0-cheeseburger-OFFICIAL-20210927-GAPPS.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5000", 
             "oem": "OnePlus", 
-            "sha256": "861bc0f1fddaa35e2cd1bba47c294d20590d26e02bfcb1ea93e4aef65c18573a", 
-            "size": "1165032429", 
+            "sha256": "e88a66c254066e32776428b759efbccef80e3030a0aff94405bb95c371ffa7a2", 
+            "size": "1164692569", 
             "type": "official", 
             "version": "v11.0"
         }
