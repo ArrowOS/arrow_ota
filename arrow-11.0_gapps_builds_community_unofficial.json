@@ -225,16 +225,16 @@
     ], 
     "vince": [
         {
-            "changelog": null, 
-            "date": "2021-09-09", 
-            "datetime": "20210909", 
-            "filename": "Arrow-v11.0-vince-COMMUNITY-20210909-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210909-GAPPS.zip", 
+            "changelog": "\u2022 Sync Bluetooth with CAF (LA.UM.9.6.2.r1-04800-89xx.0)\r\n\u2022 Update DRM Widewine Stack from CrossHatch\r\n\u2022 Update Thermal Blobs from Onclite V12.5.1.0.QFLCNXM\r\n\u2022 Upstreamed Kernel to .282\r\n\u2022 Updated To Sept Redfin FP\r\n\u2022 Address Lots of Denials\r\n\u2022 Switched back To Old Thermal Engine\r\n\u2022 Misc Optimizations.", 
+            "date": "2021-09-28", 
+            "datetime": "20210928", 
+            "filename": "Arrow-v11.0-vince-COMMUNITY-20210928-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20210928-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi 5 Plus", 
             "oem": "Xiaomi", 
-            "sha256": "d9620c99332b4ac7b1abbc19f06e6c2466528e637bf98c5ddc19aefddda679d7", 
-            "size": "1092625614", 
+            "sha256": "6080991dd7dc8effeea75b8a80099daee9a2ea3f8494658957aa7374d2f4577a", 
+            "size": "1098597955", 
             "type": "community", 
             "version": "v11.0"
         }
