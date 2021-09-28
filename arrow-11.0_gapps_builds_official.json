@@ -530,15 +530,15 @@
     "surya": [
         {
             "changelog": "- perf: Kang app compaction props from lahaina\r\n- rootdir: Fine-tune schedutil rate limits for SDMMAGPIE\r\n- rootdir: Bump hispeed_freq of both clusters for SDMMAGPIE\r\n- rootdir: Disable sched_conservative_pl\r\n- Add prop ro.gfx.driver.1 and label it\r\n- props: Enable usage of dex2oat64\r\n- props: Enable SSR ramdumps\r\n- sepolicy: Address denials\r\n- Build atrace service\r\n- Build mock power stats HAL and label it\r\n- Remove WiFi Aware support\r\n- parts: Add support for LCD HBM and CABC\r\n- parts: Add touchscreen/gaming profiles\r\n- Build with AOSP Clang 13.0.1\r\n- init: Properly set marketname\r\n- init: Switch to walleye oreo build fingerprint\r\n- init: Set hardware revision property\r\n- parts: Update RU and UA translations\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
-            "date": "2021-09-23", 
-            "datetime": "20210923", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20210923-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210923-GAPPS.zip", 
+            "date": "2021-09-28", 
+            "datetime": "20210928", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20210928-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20210928-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "87d81e6a816f96bae27f11241b3cfc3338a7b2e23016a0a9eda692ca30e6369b", 
-            "size": "1397232993", 
+            "sha256": "f152eb4d93badbb4c259effb4907456307d85c6c0d03c8d34f2ee7f054f3a6eb", 
+            "size": "1397245812", 
             "type": "official", 
             "version": "v11.0"
         }
