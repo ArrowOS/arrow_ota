@@ -49,16 +49,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Fixed recording 4k video\r\n- Fixed mic in some apps\r\n- Fixed random crash audio service\r\n- libinit: Switch to OEM build fingerprint\r\n- overlay: Allow to be rotated in all 4 rotations\r\n- overlay: Improve screen brightness config\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- techpack/audio: kona: Report correct key code of headset buttons\r\n- Misc fixes and upstream changes.\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-09-25", 
-            "datetime": "20210925", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210925-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210925-GAPPS.zip", 
+            "changelog": "- Fixed proximity sensor\r\n- Restore stock RIL-related blobs (fixed random crashs)\r\n- wifi: Partial sync config and overlay with CAF\r\n- Switch AOSP WFD impl\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge CAF tag LA.UM.9.12.r1-12900-SMxx50.QSSI12.0\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-09-29", 
+            "datetime": "20210929", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20210929-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20210929-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "a4cf2b6082425bc72d16368b2c7847f274205d95df50e53a90606b301e023e37", 
-            "size": "1394912613", 
+            "sha256": "1b759214320f2b171b641340d6a1f5ccf8b21a0648b3bad34d801b9fbdbe7a2e", 
+            "size": "1392020238", 
             "type": "official", 
             "version": "v11.0"
         }
