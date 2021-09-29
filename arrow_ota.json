@@ -1729,7 +1729,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "TEST VERSION\r\nFLASH IT AT YOUR RISK", 
+      "changelog": "- Switch to AIDL Light HAL\r\n- XiaomiParts: Drop KCAL settings\r\n- XiaomiParts: Add dirac\r\n- Fixed nightlight reset after reboot\r\n- Fixed voice issues in some apps\r\n- Miscellaneous fixes and improvements", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1751,12 +1751,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-26", 
-                  "datetime": "20210926", 
-                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210926-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210926-VANILLA.zip", 
-                  "sha256": "059882e00d0728a9d0edae6290ef4c7e4e7baf5046deed0ff9cc596f085234d4", 
-                  "size": "905940987", 
+                  "date": "2021-09-29", 
+                  "datetime": "20210929", 
+                  "filename": "Arrow-v11.0-lavender-OFFICIAL-20210929-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lavender/Arrow-v11.0-lavender-OFFICIAL-20210929-VANILLA.zip", 
+                  "sha256": "4e77f751b689ec8de8dc3b0e4137a51e4b25de483a15ce729a606fa245e84128", 
+                  "size": "906833806", 
                   "type": "official", 
                   "version": "v11.0"
                 }
