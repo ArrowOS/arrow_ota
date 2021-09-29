@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Improve haptic vibrations\r\n- Move to Arrow kernel by Palaych & Utsav\r\n- Kernel upstream & more\r\n- Inherit changes from LOS trees\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2021-09-17", 
-            "datetime": "20210917", 
-            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210917-GAPPS.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210917-GAPPS.zip", 
+            "changelog": "Use Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2021-09-29", 
+            "datetime": "20210929", 
+            "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210929-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210929-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "c17567706808979ef099261b3981599d95a20e352907968a3fcf00fd6f96c784", 
-            "size": "1544055099", 
+            "sha256": "db9c1d83efc092e3a38ab30b4238aeb1cd2ea4235ab3069b73df6caaf399fa37", 
+            "size": "1539819837", 
             "type": "unofficial", 
             "version": "v11.0"
         }
