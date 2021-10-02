@@ -530,15 +530,15 @@
     "vayu": [
         {
             "changelog": "NOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- Misc changes and improvements\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-10-01", 
-            "datetime": "20211001", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20211001-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20211001-GAPPS.zip", 
+            "date": "2021-10-02", 
+            "datetime": "20211002", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20211002-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20211002-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "74481e9dd03f062cdea9b3694de87a95da42e9269b76ae4d0682228b3ca91128", 
-            "size": "1487704165", 
+            "sha256": "128ed098ae6a1c67a93d2dc3d4e6d27a0c89c631e6d5031cf6d657de3d0a20fc", 
+            "size": "1488155563", 
             "type": "official", 
             "version": "v11.0"
         }
