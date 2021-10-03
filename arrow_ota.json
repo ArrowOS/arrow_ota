@@ -533,7 +533,7 @@
   ], 
   "cas": [
     {
-      "changelog": "Firmware: V12.5.5.0.RJJCNXM\r\nFixed:\r\n1.Fod in low brightness", 
+      "changelog": "Firmware: V12.5.6.0.RJJCNXM\r\nChangelog:\r\n1. SeLinux enforce now.\r\n2. Fix overtheating when charging.\r\n3. Firmware included.", 
       "maintainer": "Xayah", 
       "model": "M2007J1SC", 
       "oem": "Xiaomi", 
@@ -555,12 +555,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-09-27", 
-                  "datetime": "20210927", 
-                  "filename": "Arrow-v11.0-cas-COMMUNITY-20210927-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20210927-VANILLA.zip", 
-                  "sha256": "84ca8e5169eee51221cd718b6cc02966919ab49dc3d284d2708b6816610be6b9", 
-                  "size": "1448348928", 
+                  "date": "2021-10-03", 
+                  "datetime": "20211003", 
+                  "filename": "Arrow-v11.0-cas-COMMUNITY-20211003-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-COMMUNITY-20211003-VANILLA.zip", 
+                  "sha256": "7e44e08bec7b73a4fa5d2bb29fde5d78b0973b73c679c5a35611c94154c674b5", 
+                  "size": "1633443067", 
                   "type": "community", 
                   "version": "v11.0"
                 }
