@@ -193,16 +193,16 @@
     ], 
     "tulip": [
         {
-            "changelog": "Testing with AtomX 4.19 kernel", 
-            "date": "2021-09-25", 
-            "datetime": "20210925", 
-            "filename": "Arrow-v11.0-tulip-COMMUNITY-20210925-VANILLA.zip", 
-            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20210925-VANILLA.zip", 
-            "maintainer": "Nischay Sanjay (IceBreaker2451)", 
+            "changelog": "Switch back to FBE trees.", 
+            "date": "2021-10-03", 
+            "datetime": "20211003", 
+            "filename": "Arrow-v11.0-tulip-COMMUNITY-20211003-VANILLA.zip", 
+            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211003-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "78cc87eecd2e3983a25f3c947b24b004018e81ce1eaed976f312f530b71d2b8d", 
-            "size": "894383034", 
+            "sha256": "c4bb32d81ca87fc560fb926648151ab83bae3be79bdcecb910d580d44e617e1b", 
+            "size": "831889523", 
             "type": "community", 
             "version": "v11.0"
         }
