@@ -1037,6 +1037,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-10-04", 
+                  "datetime": "20211004", 
+                  "filename": "Arrow-v11.0-daisy-UNOFFICIAL-20211004-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-UNOFFICIAL-20211004-GAPPS.zip", 
+                  "sha256": "d7d69882240baae51190a687d47202b73071cb11074dea09d91eb0548e345ff1", 
+                  "size": "1073085936", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-09-30", 

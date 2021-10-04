@@ -111,6 +111,22 @@
             "version": "v11.0"
         }
     ], 
+    "daisy": [
+        {
+            "changelog": null, 
+            "date": "2021-10-04", 
+            "datetime": "20211004", 
+            "filename": "Arrow-v11.0-daisy-UNOFFICIAL-20211004-GAPPS.zip", 
+            "filepath": "/arrow-11.0/daisy/Arrow-v11.0-daisy-UNOFFICIAL-20211004-GAPPS.zip", 
+            "maintainer": "acras", 
+            "model": "Mi A2 Lite", 
+            "oem": "Xiaomi", 
+            "sha256": "d7d69882240baae51190a687d47202b73071cb11074dea09d91eb0548e345ff1", 
+            "size": "1073085936", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "22/05/2021\r\n- Improved power consumption\r\n- Switched to VantomKernel\r\n\r\n11/05/2021\r\n- Updated blobs from MIUI 21.4.28\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
