@@ -402,15 +402,15 @@
     "raphael": [
         {
             "changelog": "NOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
-            "date": "2021-10-03", 
-            "datetime": "20211003", 
-            "filename": "Arrow-v11.0-raphael-OFFICIAL-20211003-GAPPS.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20211003-GAPPS.zip", 
+            "date": "2021-10-04", 
+            "datetime": "20211004", 
+            "filename": "Arrow-v11.0-raphael-OFFICIAL-20211004-GAPPS.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20211004-GAPPS.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "2880ec0331b53e1ded2abda51bfda6b407c31ec32a26e3800dcb3e7469d5529c", 
-            "size": "1438766916", 
+            "sha256": "253b8b7ed397b030e73a09b114766eb1e885108263b94462091c3d02448b3aba", 
+            "size": "1438652758", 
             "type": "official", 
             "version": "v11.0"
         }
