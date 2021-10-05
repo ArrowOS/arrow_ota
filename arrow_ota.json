@@ -337,7 +337,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- add simplified Chinese translation for thermal profiles\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "- Try to add HBM + CABC controls\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -375,12 +375,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-09-29", 
-                  "datetime": "20210929", 
-                  "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20210929-GAPPS.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20210929-GAPPS.zip", 
-                  "sha256": "db9c1d83efc092e3a38ab30b4238aeb1cd2ea4235ab3069b73df6caaf399fa37", 
-                  "size": "1539819837", 
+                  "date": "2021-10-05", 
+                  "datetime": "20211005", 
+                  "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20211005-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-UNOFFICIAL-20211005-GAPPS.zip", 
+                  "sha256": "5fc8d731f0e1eb72724d02984cca99b1b0a668736cd8ee4d43da0248fda94f22", 
+                  "size": "1545929925", 
                   "type": "unofficial", 
                   "version": "v11.0"
                 }
