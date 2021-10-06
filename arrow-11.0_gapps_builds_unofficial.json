@@ -49,7 +49,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Try to add HBM + CABC controls\r\n- Test using MIUI brightness overlays capped to 615 nits\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "changelog": "- Try to add HBM + CABC controls\r\n- Test using MIUI brightness overlays capped to 615 nits\r\n- address sepolicy\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
             "date": "2021-10-06", 
             "datetime": "20211006", 
             "filename": "Arrow-v11.0-apollo-UNOFFICIAL-20211006-GAPPS.zip", 
@@ -57,8 +57,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "f0e9dc8e36827246a9e8900de46561d7c269411b15b5672e0ac886a81714feab", 
-            "size": "1545260465", 
+            "sha256": "35e234a32f75b7e2e0c593725d11cbcbaec253d04c5991c474a18f70525c2535", 
+            "size": "1545260007", 
             "type": "unofficial", 
             "version": "v11.0"
         }
