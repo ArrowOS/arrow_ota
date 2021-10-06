@@ -193,16 +193,16 @@
     ], 
     "tulip": [
         {
-            "changelog": "Disable blurs by default and trying to fix night light.", 
-            "date": "2021-10-03", 
-            "datetime": "20211003", 
-            "filename": "Arrow-v11.0-tulip-COMMUNITY-20211003-VANILLA.zip", 
-            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211003-VANILLA.zip", 
+            "changelog": "Switch back to FBE based trees", 
+            "date": "2021-10-06", 
+            "datetime": "20211006", 
+            "filename": "Arrow-v11.0-tulip-COMMUNITY-20211006-VANILLA.zip", 
+            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211006-VANILLA.zip", 
             "maintainer": "IceBreaker2451", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "518b7195b7ea4d196b5e413d53b4be0222c11f9e289af623474e1cbf6659df7c", 
-            "size": "841118848", 
+            "sha256": "a09128cc16fc39047edaef172014111033ccbc61717f41764e07055cf29a50ed", 
+            "size": "840166107", 
             "type": "community", 
             "version": "v11.0"
         }
