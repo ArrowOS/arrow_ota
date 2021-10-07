@@ -3441,7 +3441,7 @@
   ], 
   "tulip": [
     {
-      "changelog": "Switch back to FBE based trees", 
+      "changelog": "Trying to fix NightLight", 
       "maintainer": "IceBreaker2451", 
       "model": "Redmi Note 6 Pro", 
       "oem": "Xiaomi", 
@@ -3463,12 +3463,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-06", 
-                  "datetime": "20211006", 
-                  "filename": "Arrow-v11.0-tulip-COMMUNITY-20211006-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211006-VANILLA.zip", 
-                  "sha256": "a09128cc16fc39047edaef172014111033ccbc61717f41764e07055cf29a50ed", 
-                  "size": "840166107", 
+                  "date": "2021-10-07", 
+                  "datetime": "20211007", 
+                  "filename": "Arrow-v11.0-tulip-COMMUNITY-20211007-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211007-VANILLA.zip", 
+                  "sha256": "927d48c53828ab65d5ee8daeddac28219c0f2fcd82b32ccbec9e63721bc77cfd", 
+                  "size": "840991475", 
                   "type": "community", 
                   "version": "v11.0"
                 }
