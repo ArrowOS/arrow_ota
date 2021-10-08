@@ -545,16 +545,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- perf: Kang app compaction props from lahaina\r\n- rootdir: Fine-tune schedutil rate limits for SDMMAGPIE\r\n- rootdir: Bump hispeed_freq of both clusters for SDMMAGPIE\r\n- rootdir: Disable sched_conservative_pl\r\n- Add prop ro.gfx.driver.1 and label it\r\n- props: Enable usage of dex2oat64\r\n- props: Enable SSR ramdumps\r\n- sepolicy: Address denials\r\n- Build atrace service\r\n- Build mock power stats HAL and label it\r\n- Remove WiFi Aware support\r\n- parts: Add support for LCD HBM and CABC\r\n- parts: Add touchscreen/gaming profiles\r\n- Build with AOSP Clang 13.0.1\r\n- init: Properly set marketname\r\n- init: Switch to walleye oreo build fingerprint\r\n- init: Set hardware revision property\r\n- parts: Update RU and UA translations\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
-            "date": "2021-10-03", 
-            "datetime": "20211003", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20211003-VANILLA.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20211003-VANILLA.zip", 
+            "changelog": "- sepolicy: Label ro.product.marketname\r\n- perf: Reduce trim enable memory to 2GB\r\n- perf: Boost GPU on specific events\r\n- sepolicy: Allow vendor_init to set ssr prop\r\n- parts: Update CABC icon from WSTxda\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
+            "date": "2021-10-08", 
+            "datetime": "20211008", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20211008-VANILLA.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20211008-VANILLA.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "90a6b26ea30f9e718642d6b7988c3f96b4be208163bc54dcf55f7ed1bb30b495", 
-            "size": "1089395460", 
+            "sha256": "bc534a71b86a80f09fdff9ec6741e5aada8ddd63bb4967a14eda77330f644a6d", 
+            "size": "1089161895", 
             "type": "official", 
             "version": "v11.0"
         }

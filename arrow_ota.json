@@ -3277,7 +3277,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- TEST\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
+      "changelog": "- sepolicy: Label ro.product.marketname\r\n- perf: Reduce trim enable memory to 2GB\r\n- perf: Boost GPU on specific events\r\n- sepolicy: Allow vendor_init to set ssr prop\r\n- parts: Update CABC icon from WSTxda\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
       "maintainer": "Ganesh Varma", 
       "model": "POCO X3", 
       "oem": "POCO", 
@@ -3299,12 +3299,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-05", 
-                  "datetime": "20211005", 
-                  "filename": "Arrow-v11.0-surya-OFFICIAL-20211005-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20211005-VANILLA.zip", 
-                  "sha256": "23108675e669626d6d57803e61e422d5e094a8abcea5771d421ba022f0f32da4", 
-                  "size": "1089627284", 
+                  "date": "2021-10-08", 
+                  "datetime": "20211008", 
+                  "filename": "Arrow-v11.0-surya-OFFICIAL-20211008-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20211008-VANILLA.zip", 
+                  "sha256": "bc534a71b86a80f09fdff9ec6741e5aada8ddd63bb4967a14eda77330f644a6d", 
+                  "size": "1089161895", 
                   "type": "official", 
                   "version": "v11.0"
                 }
