@@ -241,16 +241,16 @@
     ], 
     "tulip": [
         {
-            "changelog": "Testing with 4.19 kernel", 
-            "date": "2021-09-13", 
-            "datetime": "20210913", 
-            "filename": "Arrow-v11.0-tulip-COMMUNITY-20210913-GAPPS.zip", 
-            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20210913-GAPPS.zip", 
+            "changelog": "Switch back to FBE based trees", 
+            "date": "2021-10-08", 
+            "datetime": "20211008", 
+            "filename": "Arrow-v11.0-tulip-COMMUNITY-20211008-GAPPS.zip", 
+            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211008-GAPPS.zip", 
             "maintainer": "IceBreaker2451", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "81818073afae20c7b914801232827f55f23808cede264ba61ec9d0cf023578ca", 
-            "size": "1202117070", 
+            "sha256": "99220207e41a373a8323dffe038d74e07bc3b9080bc55f1c500439cfa403ea9e", 
+            "size": "1168897119", 
             "type": "community", 
             "version": "v11.0"
         }
