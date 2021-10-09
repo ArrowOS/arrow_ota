@@ -337,7 +337,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- Try to add HBM + CABC controls\r\n- Test using MIUI brightness overlays capped to 615 nits\r\n- address sepolicy\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "- add simplified Chinese translation for thermal profiles\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -359,12 +359,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-04", 
-                  "datetime": "20211004", 
-                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20211004-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20211004-VANILLA.zip", 
-                  "sha256": "90670c6a1c2f038e645c918ec2e8d17ec0c089ea82cc029e1ebaf4c9660632c2", 
-                  "size": "1208333302", 
+                  "date": "2021-10-09", 
+                  "datetime": "20211009", 
+                  "filename": "Arrow-v11.0-apollo-OFFICIAL-20211009-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20211009-VANILLA.zip", 
+                  "sha256": "eab8ca50d5e261c8a2177a6f49750c7b676340510f80f3de69522890b7bcf402", 
+                  "size": "1207959617", 
                   "type": "official", 
                   "version": "v11.0"
                 }
