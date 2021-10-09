@@ -193,16 +193,16 @@
     ], 
     "tulip": [
         {
-            "changelog": "Trying to fix NightLight", 
-            "date": "2021-10-07", 
-            "datetime": "20211007", 
-            "filename": "Arrow-v11.0-tulip-COMMUNITY-20211007-VANILLA.zip", 
-            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211007-VANILLA.zip", 
+            "changelog": "Add proper rounded corners config.", 
+            "date": "2021-10-09", 
+            "datetime": "20211009", 
+            "filename": "Arrow-v11.0-tulip-COMMUNITY-20211009-VANILLA.zip", 
+            "filepath": "/arrow-11.0/tulip/Arrow-v11.0-tulip-COMMUNITY-20211009-VANILLA.zip", 
             "maintainer": "IceBreaker2451", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "927d48c53828ab65d5ee8daeddac28219c0f2fcd82b32ccbec9e63721bc77cfd", 
-            "size": "840991475", 
+            "sha256": "0df63774146c3104443be050dc550d7c3408c8fa39c4c7c7b0a215d9b33aeac5", 
+            "size": "840953045", 
             "type": "community", 
             "version": "v11.0"
         }
