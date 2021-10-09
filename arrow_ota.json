@@ -3333,7 +3333,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n\u2022 Fixed front camera video recording on MIUI camera", 
+      "changelog": "- Initial release", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -3363,6 +3363,26 @@
                   "size": "1131610793", 
                   "type": "official", 
                   "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-10-09", 
+                  "datetime": "20211009", 
+                  "filename": "Arrow-v12.0-sweet-UNOFFICIAL-20211009-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-UNOFFICIAL-20211009-VANILLA.zip", 
+                  "sha256": "901401fbbbb07347f683e295b94be267c1ff6ff5c892dece20887bef9d3f19a7", 
+                  "size": "1081275159", 
+                  "type": "unofficial", 
+                  "version": "v12.0"
                 }
               ]
             }
