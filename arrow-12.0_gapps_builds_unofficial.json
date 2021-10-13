@@ -1,4 +1,20 @@
 {
+    "miatoll": [
+        {
+            "changelog": null, 
+            "date": "2021-10-13", 
+            "datetime": "20211013", 
+            "filename": "Arrow-v12.0-miatoll-UNOFFICIAL-20211013-GAPPS.zip", 
+            "filepath": "/arrow-12.0/miatoll/Arrow-v12.0-miatoll-UNOFFICIAL-20211013-GAPPS.zip", 
+            "maintainer": "SonalSingh18", 
+            "model": "Miatoll", 
+            "oem": "Xiaomi", 
+            "sha256": "7c91c3d62516678fa5478e916d522c368a4c2176d529c20debbb07d2e440c698", 
+            "size": "1393809652", 
+            "type": "unofficial", 
+            "version": "v12.0"
+        }
+    ], 
     "sweet": [
         {
             "changelog": "- Improved overall performance and added interaction boosts", 
