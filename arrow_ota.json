@@ -2465,7 +2465,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Enable option to disable sim in network settings\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "- Initial beta build", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -2523,6 +2523,26 @@
                   "size": "1078469438", 
                   "type": "unofficial", 
                   "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-10-14", 
+                  "datetime": "20211014", 
+                  "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20211014-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-UNOFFICIAL-20211014-VANILLA.zip", 
+                  "sha256": "49935f4185dd5b74e1fbbd137570549720e26e269bb2c1857c7a08022b48d1f4", 
+                  "size": "1013275688", 
+                  "type": "unofficial", 
+                  "version": "v12.0"
                 }
               ]
             }
