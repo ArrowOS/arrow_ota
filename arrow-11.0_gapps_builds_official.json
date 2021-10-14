@@ -609,16 +609,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "- Enable AOSP Sim toggle\r\n- Minor refresh rate improvement\r\n- Fix SafetyNet issues for all users\r\n- Fix GoogleCamera mod video recording issue\r\n- Allow all 4 rotations\r\n- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
-            "date": "2021-10-08", 
-            "datetime": "20211008", 
-            "filename": "Arrow-v11.0-vayu-OFFICIAL-20211008-GAPPS.zip", 
-            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20211008-GAPPS.zip", 
+            "changelog": "- Misc changes and improvements\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region), but if you face issues with the latest you can use 12.0.4.0 or above. (More info: See XDA thread FAQ section)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=vayu", 
+            "date": "2021-10-14", 
+            "datetime": "20211014", 
+            "filename": "Arrow-v11.0-vayu-OFFICIAL-20211014-GAPPS.zip", 
+            "filepath": "/arrow-11.0/vayu/Arrow-v11.0-vayu-OFFICIAL-20211014-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "e81ce1c73e4775afcd4efeea40faa06a768686ee225db05876572627ff3223cb", 
-            "size": "1487823196", 
+            "sha256": "c49d922e2fbcbb377d3a727834d3458a1fc7427e5b391aaeb004e4c355620694", 
+            "size": "1488173299", 
             "type": "official", 
             "version": "v11.0"
         }
