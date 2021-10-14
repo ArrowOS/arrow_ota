@@ -1,4 +1,20 @@
 {
+    "X00T": [
+        {
+            "changelog": "Arrow 12.0 BETA EARLY RELEASE\r\n\r\nKnown Bugs\r\nWFD\r\nNetwork issues with dual sim on some providers", 
+            "date": "2021-10-14", 
+            "datetime": "20211014", 
+            "filename": "Arrow-v12.0-X00T-UNOFFICIAL-20211014-VANILLA.zip", 
+            "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-UNOFFICIAL-20211014-VANILLA.zip", 
+            "maintainer": "PranavKpr", 
+            "model": "Asus Zenfone Max Pro M1", 
+            "oem": "asus", 
+            "sha256": "29165047839dbbe60f3fddeb3ef2e5e916638ff3d186abf6a419223f1a34e6b5", 
+            "size": "713017323", 
+            "type": "unofficial", 
+            "version": "v12.0"
+        }
+    ], 
     "miatoll": [
         {
             "changelog": null, 
