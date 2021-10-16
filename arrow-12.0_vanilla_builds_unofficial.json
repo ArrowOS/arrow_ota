@@ -47,6 +47,22 @@
             "version": "v12.0"
         }
     ], 
+    "raphael": [
+        {
+            "changelog": null, 
+            "date": "2021-10-16", 
+            "datetime": "20211016", 
+            "filename": "Arrow-v12.0-raphael-UNOFFICIAL-20211016-VANILLA.zip", 
+            "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-UNOFFICIAL-20211016-VANILLA.zip", 
+            "maintainer": "TH779, kubersharma001", 
+            "model": "Redmi K20 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "2403abe2d1356289ff140582cfd3a816f960b2a46f2f8bf601d729488169bfac", 
+            "size": "1043159213", 
+            "type": "unofficial", 
+            "version": "v12.0"
+        }
+    ], 
     "surya": [
         {
             "changelog": "- Initial release\r\n\r\nNote: Clean flash mandatory.", 
