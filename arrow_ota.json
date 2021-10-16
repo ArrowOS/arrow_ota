@@ -1773,7 +1773,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Switch to AIDL Light HAL\r\n- XiaomiParts: Drop KCAL settings\r\n- XiaomiParts: Add dirac\r\n- Fixed nightlight reset after reboot\r\n- Fixed voice issues in some apps\r\n- Miscellaneous fixes and improvements", 
+      "changelog": null, 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1831,6 +1831,26 @@
                   "size": "975725723", 
                   "type": "unofficial", 
                   "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-10-16", 
+                  "datetime": "20211016", 
+                  "filename": "Arrow-v12.0-lavender-UNOFFICIAL-20211016-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-UNOFFICIAL-20211016-GAPPS.zip", 
+                  "sha256": "795a1f80287297831825f37499ae3606b3b474ae212c903c8185ec5e3ecc2013", 
+                  "size": "1172622231", 
+                  "type": "unofficial", 
+                  "version": "v12.0"
                 }
               ]
             }
