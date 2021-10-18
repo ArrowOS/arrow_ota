@@ -2597,6 +2597,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-10-18", 
+                  "datetime": "20211018", 
+                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211018-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211018-GAPPS.zip", 
+                  "sha256": "5135190d4d371344d3349ac434e149e86a68cc133da155de92140683e680ec5d", 
+                  "size": "1342739501", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-10-18", 
