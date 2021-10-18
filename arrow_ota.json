@@ -1805,7 +1805,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "Still Work-In-Progress", 
+      "changelog": "- Initial Build\r\n- Build type is user\r\n- SafetyNet passed without root\r\n- Selinux Enforcing\r\n- Fixed settings background unable to apply monet colors\r\n- Fixed low incall volume\r\n- Miscellaneous fixes and improvements", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1871,6 +1871,22 @@
       ], 
       "v12.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-10-18", 
+                  "datetime": "20211018", 
+                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20211018-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211018-VANILLA.zip", 
+                  "sha256": "d50f1fbc439f843546f7dcbd0ac038ed032d5f8e9bdb877f37c3b1f7be516c30", 
+                  "size": "848557670", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
