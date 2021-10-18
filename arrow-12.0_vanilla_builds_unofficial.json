@@ -79,6 +79,22 @@
             "version": "v12.0"
         }
     ], 
+    "picasso": [
+        {
+            "changelog": "- Initial official build", 
+            "date": "2021-10-18", 
+            "datetime": "20211018", 
+            "filename": "Arrow-v12.0-picasso-UNOFFICIAL-20211018-VANILLA.zip", 
+            "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-UNOFFICIAL-20211018-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Redmi K30 5G", 
+            "oem": "Redmi", 
+            "sha256": "1f00a121a0b902ac95004b36b21c4a7d2b661807ecc9052e1a28ab292252ee32", 
+            "size": "1223207827", 
+            "type": "unofficial", 
+            "version": "v12.0"
+        }
+    ], 
     "raphael": [
         {
             "changelog": null, 
