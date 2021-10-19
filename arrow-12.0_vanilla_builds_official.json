@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Initial Build\r\n- Build type is user\r\n- SafetyNet passed without root\r\n- Selinux Enforcing\r\n- Fixed settings background unable to apply monet colors\r\n- Fixed low incall volume\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-10-18", 
-            "datetime": "20211018", 
-            "filename": "Arrow-v12.0-lavender-OFFICIAL-20211018-VANILLA.zip", 
-            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211018-VANILLA.zip", 
+            "changelog": "- Fixed most of UI lags\r\n- Miscellaneous fixes and improvements", 
+            "date": "2021-10-19", 
+            "datetime": "20211019", 
+            "filename": "Arrow-v12.0-lavender-OFFICIAL-20211019-VANILLA.zip", 
+            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211019-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "d50f1fbc439f843546f7dcbd0ac038ed032d5f8e9bdb877f37c3b1f7be516c30", 
-            "size": "848557670", 
+            "sha256": "e03c7045813955914148bcec99324ca9d71a6ca08804cc57f8a8ef11da177ea6", 
+            "size": "848706506", 
             "type": "official", 
             "version": "v12.0"
         }
