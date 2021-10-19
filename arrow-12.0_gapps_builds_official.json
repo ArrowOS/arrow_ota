@@ -1,4 +1,20 @@
 {
+    "X00T": [
+        {
+            "changelog": "Arrow 12.0 BETA EARLY RELEASE\r\n\r\n* Changelog\r\n- Fixed network issues with dual sim\r\n- Fixed WFD", 
+            "date": "2021-10-19", 
+            "datetime": "20211019", 
+            "filename": "Arrow-v12.0-X00T-OFFICIAL-20211019-GAPPS.zip", 
+            "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-OFFICIAL-20211019-GAPPS.zip", 
+            "maintainer": "PranavKpr", 
+            "model": "Asus Zenfone Max Pro M1", 
+            "oem": "asus", 
+            "sha256": "dd992f7c10597463ff37377566e83cf67c8affd18535104700738cb604cac460", 
+            "size": "1024656126", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Initial Build\r\n- Build type is user\r\n- SafetyNet passed without root\r\n- Selinux Enforcing\r\n- Fixed settings background unable to apply monet colors\r\n- Fixed low incall volume\r\n- Miscellaneous fixes and improvements", 
