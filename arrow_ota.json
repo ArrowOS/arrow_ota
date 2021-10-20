@@ -1833,7 +1833,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed most of UI lags\r\n- Miscellaneous fixes and improvements", 
+      "changelog": "WIP", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -1943,12 +1943,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-17", 
-                  "datetime": "20211017", 
-                  "filename": "Arrow-v12.0-lavender-UNOFFICIAL-20211017-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-UNOFFICIAL-20211017-VANILLA.zip", 
-                  "sha256": "61963436123d87203b1ad98bff471ac1db4dde13170788a045e0c77da4dca49c", 
-                  "size": "848578153", 
+                  "date": "2021-10-20", 
+                  "datetime": "20211020", 
+                  "filename": "Arrow-v12.0-lavender-UNOFFICIAL-20211020-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-UNOFFICIAL-20211020-VANILLA.zip", 
+                  "sha256": "fc768daf3620599cbce35cd70372479835076604c4e45e73e58fffb396232cf7", 
+                  "size": "845813550", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
