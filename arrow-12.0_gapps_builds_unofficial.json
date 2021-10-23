@@ -177,16 +177,16 @@
     ], 
     "violet": [
         {
-            "changelog": null, 
-            "date": "2021-10-16", 
-            "datetime": "20211016", 
-            "filename": "Arrow-v12.0-violet-UNOFFICIAL-20211016-GAPPS.zip", 
-            "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20211016-GAPPS.zip", 
+            "changelog": "L1 and dual sim reset fix", 
+            "date": "2021-10-23", 
+            "datetime": "20211023", 
+            "filename": "Arrow-v12.0-violet-UNOFFICIAL-20211023-GAPPS.zip", 
+            "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20211023-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "1b1256e598d2f05752d226a1d753f05068df0354fabe97b456fa5ed6c1e738c3", 
-            "size": "1219475480", 
+            "sha256": "071a7031743b037eba498c9bc542908eae7191d9e9e7d8953372c429f27fe179", 
+            "size": "1219883935", 
             "type": "unofficial", 
             "version": "v12.0"
         }
