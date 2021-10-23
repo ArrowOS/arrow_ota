@@ -17,16 +17,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Initial public builds.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
-            "date": "2021-10-17", 
-            "datetime": "20211017", 
-            "filename": "Arrow-v12.0-alioth-UNOFFICIAL-20211017-GAPPS.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-UNOFFICIAL-20211017-GAPPS.zip", 
+            "changelog": "- sepolicy: Adapt to S\r\n- Build with selinux enforce\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
+            "date": "2021-10-23", 
+            "datetime": "20211023", 
+            "filename": "Arrow-v12.0-alioth-UNOFFICIAL-20211023-GAPPS.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-UNOFFICIAL-20211023-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "51ae9b328d83bfc19f69ccae844b361eaa102b7d7a9aba9b189a5f5544e79dec", 
-            "size": "1320138584", 
+            "sha256": "63562e70e16dc52793128c21f25444d3f2e17137e43e5a4c7670f367dbb16e8a", 
+            "size": "1319659747", 
             "type": "unofficial", 
             "version": "v12.0"
         }
