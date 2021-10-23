@@ -357,7 +357,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Initial public builds.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
+      "changelog": "- sepolicy: Adapt to S\r\n- Build with selinux enforce\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -411,12 +411,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-17", 
-                  "datetime": "20211017", 
-                  "filename": "Arrow-v12.0-alioth-UNOFFICIAL-20211017-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-UNOFFICIAL-20211017-VANILLA.zip", 
-                  "sha256": "5d6a7a5bd2bad7c90c13fe44aaa99cf239733345e821f90832f6c30cf2b1cc23", 
-                  "size": "1047794932", 
+                  "date": "2021-10-23", 
+                  "datetime": "20211023", 
+                  "filename": "Arrow-v12.0-alioth-UNOFFICIAL-20211023-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-UNOFFICIAL-20211023-VANILLA.zip", 
+                  "sha256": "be231749f3a8f29c379ae9789ff9989880ebf3c7e5870920265f7c8c94e4a167", 
+                  "size": "1047876785", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
