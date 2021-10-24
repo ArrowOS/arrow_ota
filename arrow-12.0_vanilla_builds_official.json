@@ -47,6 +47,22 @@
             "version": "v12.0"
         }
     ], 
+    "sweet": [
+        {
+            "changelog": "18/10/2021\r\n\u2022 Enabled 2GB of ZRAM\r\n\u2022 Adapted device specific settings style to Android 12\r\n\u2022 Fixed settings for secondary SIM\r\n\u2022 Fixed random RIL misbehaviour\r\n\u2022 Added FM radio\r\n\u2022 Other miscellaneous improvements", 
+            "date": "2021-10-24", 
+            "datetime": "20211024", 
+            "filename": "Arrow-v12.0-sweet-OFFICIAL-20211024-VANILLA.zip", 
+            "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-OFFICIAL-20211024-VANILLA.zip", 
+            "maintainer": "daniml3", 
+            "model": "Redmi Note 10 Pro", 
+            "oem": "Redmi", 
+            "sha256": "2be27bfc5d8ca665861d688b9b51a6e873a26bfc28b1a8446a2045ee93094a3b", 
+            "size": "1085200500", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "vayu": [
         {
             "changelog": "- Misc changes and improvements, please check device and platform repositories for actual changes.", 
