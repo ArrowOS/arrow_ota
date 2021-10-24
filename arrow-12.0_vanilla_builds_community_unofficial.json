@@ -1,7 +1,7 @@
 {
     "tulip": [
         {
-            "changelog": "-Trying to fix CTS.", 
+            "changelog": "- Add themed icons support.", 
             "date": "2021-10-24", 
             "datetime": "20211024", 
             "filename": "Arrow-v12.0-tulip-COMMUNITY-20211024-VANILLA.zip", 
@@ -9,8 +9,8 @@
             "maintainer": "IceBreaker2451", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "e3aae30019dae8c61f852da5159f7785bab8dfefc6c1ba76596857f105a34af3", 
-            "size": "805445664", 
+            "sha256": "4051ff430dcd5702891de3259774a1aeb52b9ab4cc41e50ed9b40fac7a63fa0b", 
+            "size": "805476678", 
             "type": "community", 
             "version": "v12.0"
         }
