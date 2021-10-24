@@ -79,6 +79,22 @@
             "version": "v11.0"
         }
     ], 
+    "cas": [
+        {
+            "changelog": "Lets go to official", 
+            "date": "2021-10-24", 
+            "datetime": "20211024", 
+            "filename": "Arrow-v11.0-cas-UNOFFICIAL-20211024-VANILLA.zip", 
+            "filepath": "/arrow-11.0/cas/Arrow-v11.0-cas-UNOFFICIAL-20211024-VANILLA.zip", 
+            "maintainer": "Xayah", 
+            "model": "M2007J1SC", 
+            "oem": "Xiaomi", 
+            "sha256": "d19b64f0d8531a0164dbf7bce88a1be99a7d49e05ca0ec0ca4508053f1b81a4f", 
+            "size": "1450493968", 
+            "type": "unofficial", 
+            "version": "v11.0"
+        }
+    ], 
     "cheeseburger": [
         {
             "changelog": null, 
