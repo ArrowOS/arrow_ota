@@ -178,16 +178,16 @@
     "vayu": [
         {
             "changelog": "- Misc changes and improvements, please check device and platform repositories for actual changes.", 
-            "date": "2021-10-23", 
-            "datetime": "20211023", 
-            "filename": "Arrow-v12.0-vayu-UNOFFICIAL-20211023-VANILLA.zip", 
-            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-UNOFFICIAL-20211023-VANILLA.zip", 
+            "date": "2021-10-24", 
+            "datetime": "20211024", 
+            "filename": "Arrow-v12.0-vayu-OFFICIAL-20211024-VANILLA.zip", 
+            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20211024-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "a61e83b1bd0ed48e831d0b282ad649e697658c98b7b198dd2dd4cd60668f326c", 
-            "size": "1133389286", 
-            "type": "unofficial", 
+            "sha256": "77fbb0dc5477faea7a3dc7a32748310fd3eef9f2fab4e5d6710585006e5ffbb2", 
+            "size": "1143560807", 
+            "type": "official", 
             "version": "v12.0"
         }
     ]
