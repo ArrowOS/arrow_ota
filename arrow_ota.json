@@ -3885,7 +3885,7 @@
   ], 
   "tulip": [
     {
-      "changelog": "-Initial Android 12 test build.", 
+      "changelog": "-Trying to fix CTS.", 
       "maintainer": "IceBreaker2451", 
       "model": "Redmi Note 6 Pro", 
       "oem": "Xiaomi", 
@@ -3939,12 +3939,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-23", 
-                  "datetime": "20211023", 
-                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20211023-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211023-VANILLA.zip", 
-                  "sha256": "3a2c7e7ad1a06cbc7b0f75065a6ec9cb1e8ccf8203ea63c9fa3c7d4754173aa7", 
-                  "size": "805463753", 
+                  "date": "2021-10-24", 
+                  "datetime": "20211024", 
+                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20211024-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211024-VANILLA.zip", 
+                  "sha256": "e3aae30019dae8c61f852da5159f7785bab8dfefc6c1ba76596857f105a34af3", 
+                  "size": "805445664", 
                   "type": "community", 
                   "version": "v12.0"
                 }
