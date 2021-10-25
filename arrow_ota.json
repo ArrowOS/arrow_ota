@@ -3941,7 +3941,7 @@
   ], 
   "tulip": [
     {
-      "changelog": "- Add monet support.", 
+      "changelog": "- Added monet support.", 
       "maintainer": "IceBreaker2451", 
       "model": "Redmi Note 6 Pro", 
       "oem": "Xiaomi", 
@@ -3995,12 +3995,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-24", 
-                  "datetime": "20211024", 
-                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20211024-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211024-VANILLA.zip", 
-                  "sha256": "30383a2e11686ee08b94ee8ae336343902070404def7c6815c05a6f74e91f8f1", 
-                  "size": "824719146", 
+                  "date": "2021-10-25", 
+                  "datetime": "20211025", 
+                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20211025-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211025-VANILLA.zip", 
+                  "sha256": "a542e1ea0f56bf89c320dee287a56a3153741636211257a5f559af40e59e1bb0", 
+                  "size": "824836407", 
                   "type": "community", 
                   "version": "v12.0"
                 }
