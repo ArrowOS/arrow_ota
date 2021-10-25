@@ -34,15 +34,15 @@
     "cas": [
         {
             "changelog": "Hi, ArrowOS 12.0 :)\r\n\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test building", 
-            "date": "2021-10-23", 
-            "datetime": "20211023", 
-            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211023-VANILLA.zip", 
-            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211023-VANILLA.zip", 
+            "date": "2021-10-25", 
+            "datetime": "20211025", 
+            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211025-VANILLA.zip", 
+            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211025-VANILLA.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "4773dd16c1a1beff699e8c4636ace66daba6204d898291aa754f3357052df741", 
-            "size": "1480844178", 
+            "sha256": "53ec74b598ab4a1bb765f53464565827c9164dfea0ed4c52c7ca757d4d3cf832", 
+            "size": "1481982497", 
             "type": "unofficial", 
             "version": "v12.0"
         }
