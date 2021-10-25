@@ -97,16 +97,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "- Initial beta build", 
-            "date": "2021-10-16", 
-            "datetime": "20211016", 
-            "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20211016-VANILLA.zip", 
-            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-UNOFFICIAL-20211016-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2021-10-25", 
+            "datetime": "20211025", 
+            "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20211025-VANILLA.zip", 
+            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-UNOFFICIAL-20211025-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "7827ace383d0b04f376c25b46bb9349cbd40c3ce7e15519f70a82ebd6d63cf67", 
-            "size": "1013293283", 
+            "sha256": "8f07e21db7dc441d85805cf4ffe5719ebda9e9d6406739af02514c6f85623bac", 
+            "size": "1013325739", 
             "type": "unofficial", 
             "version": "v12.0"
         }
