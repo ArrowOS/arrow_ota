@@ -17,16 +17,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Fixed most of UI lags\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-10-19", 
-            "datetime": "20211019", 
-            "filename": "Arrow-v12.0-lavender-OFFICIAL-20211019-GAPPS.zip", 
-            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211019-GAPPS.zip", 
+            "changelog": "- XiaomiParts: Fixed ambient display gestures not showed in settings\r\n- Fixed surfaceflinger pin\r\n- Fixed UI lag in some scenes\r\n- Add back NoCutOutOverlay\r\n- Switch audio HAL to v7\r\n- Miscellaneous fixes and improvements", 
+            "date": "2021-10-25", 
+            "datetime": "20211025", 
+            "filename": "Arrow-v12.0-lavender-OFFICIAL-20211025-GAPPS.zip", 
+            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211025-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "c4eb0409067630e576ff4548dddfd64890f4c084eb35de9af9f44fbc0645f36b", 
-            "size": "1173221192", 
+            "sha256": "6060e565fc73ad9140cd7e0b6d79566d3b54d03d82b4125eebd15b92478d78d1", 
+            "size": "1175031244", 
             "type": "official", 
             "version": "v12.0"
         }
