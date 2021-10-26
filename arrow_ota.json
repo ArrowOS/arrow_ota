@@ -625,7 +625,7 @@
   ], 
   "cas": [
     {
-      "changelog": "Hi, ArrowOS 12.0 :)\r\n\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test building", 
+      "changelog": "Hi, ArrowOS 12.0\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
       "maintainer": "Xayah", 
       "model": "M2007J1SC", 
       "oem": "Xiaomi", 
@@ -707,12 +707,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-25", 
-                  "datetime": "20211025", 
-                  "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211025-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211025-VANILLA.zip", 
-                  "sha256": "2931fabbc321a59910d0a279ab2d4235f118ba2efa6a81cb650605c741ec8bbc", 
-                  "size": "1482242680", 
+                  "date": "2021-10-26", 
+                  "datetime": "20211026", 
+                  "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211026-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211026-VANILLA.zip", 
+                  "sha256": "c972fd0d4335298c0b5350ea92d4e3848f400b82726342532c524d6b67983dd8", 
+                  "size": "1482511325", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
