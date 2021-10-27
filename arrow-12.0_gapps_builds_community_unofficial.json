@@ -1,7 +1,7 @@
 {
     "tulip": [
         {
-            "changelog": null, 
+            "changelog": "Add SELinux info in Settings", 
             "date": "2021-10-27", 
             "datetime": "20211027", 
             "filename": "Arrow-v12.0-tulip-COMMUNITY-20211027-GAPPS.zip", 
@@ -9,8 +9,8 @@
             "maintainer": "Nischay Sanjay (IceBreaker2451)", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "35113951b983e8479a12609d7ce43f5ed101a05240883cd838fad31fc348a532", 
-            "size": "1134829895", 
+            "sha256": "5133ad3bad3b896e07baabb1d31d85080c58ceb6e772faf05cf21dc5bf571507", 
+            "size": "1135042614", 
             "type": "community", 
             "version": "v12.0"
         }
