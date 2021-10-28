@@ -47,6 +47,22 @@
             "version": "v12.0"
         }
     ], 
+    "apollo": [
+        {
+            "changelog": "Initial build\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2021-10-28", 
+            "datetime": "20211028", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211028-VANILLA.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211028-VANILLA.zip", 
+            "maintainer": "Dobsgw", 
+            "model": "Xiaomi Mi 10T", 
+            "oem": "Xiaomi", 
+            "sha256": "0ba37db52163dfc434dae6b353d276dc5dd2734b2c978408410070035083bfde", 
+            "size": "1235896071", 
+            "type": "unofficial", 
+            "version": "v12.0"
+        }
+    ], 
     "cas": [
         {
             "changelog": "Hi, ArrowOS 12.0\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
