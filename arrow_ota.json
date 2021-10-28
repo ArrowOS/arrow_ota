@@ -529,6 +529,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-10-28", 
+                  "datetime": "20211028", 
+                  "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211028-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211028-GAPPS.zip", 
+                  "sha256": "68a62c35aae9dd736a3c6e2988d6d3a0c4104c08f39e38b1d0a7f42697f812f4", 
+                  "size": "1557344488", 
+                  "type": "unofficial", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-10-28", 
