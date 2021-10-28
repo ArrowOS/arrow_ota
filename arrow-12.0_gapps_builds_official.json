@@ -49,16 +49,16 @@
     ], 
     "sweet": [
         {
-            "changelog": "18/10/2021\r\n\u2022 Enabled 2GB of ZRAM\r\n\u2022 Adapted device specific settings style to Android 12\r\n\u2022 Fixed settings for secondary SIM\r\n\u2022 Fixed random RIL misbehaviour\r\n\u2022 Added FM radio\r\n\u2022 Other miscellaneous improvements", 
-            "date": "2021-10-24", 
-            "datetime": "20211024", 
-            "filename": "Arrow-v12.0-sweet-OFFICIAL-20211024-GAPPS.zip", 
-            "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-OFFICIAL-20211024-GAPPS.zip", 
+            "changelog": "28/10/2021\r\n\u2022 Fixed cutout color being inverted with the \"Force dark theme\" setting\r\n\u2022 Fixed minimum frequency being 1248MHz\r\n\u2022 Fixed WFD\r\n\u2022 Added Spanish translations to the device specific settings", 
+            "date": "2021-10-28", 
+            "datetime": "20211028", 
+            "filename": "Arrow-v12.0-sweet-OFFICIAL-20211028-GAPPS.zip", 
+            "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-OFFICIAL-20211028-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "9029157fb8b3c3d91e73819df35b55c82722c20069ccd187bc49a0a48d6c7e23", 
-            "size": "1406541976", 
+            "sha256": "cefed945552c4413d4ec435c1d2616c18fc69ad6db8fc27ee22fc6e6a900c8ec", 
+            "size": "1405866172", 
             "type": "official", 
             "version": "v12.0"
         }
