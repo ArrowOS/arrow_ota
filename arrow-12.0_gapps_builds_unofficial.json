@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "Initial build\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2021-10-28", 
-            "datetime": "20211028", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211028-GAPPS.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211028-GAPPS.zip", 
+            "changelog": "Changes\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2021-10-29", 
+            "datetime": "20211029", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211029-GAPPS.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211029-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "68a62c35aae9dd736a3c6e2988d6d3a0c4104c08f39e38b1d0a7f42697f812f4", 
-            "size": "1557344488", 
+            "sha256": "4acf3148923e00eef220704ac920d8dfeca85841c782ce794e03ec844b29fce5", 
+            "size": "1560186433", 
             "type": "unofficial", 
             "version": "v12.0"
         }
