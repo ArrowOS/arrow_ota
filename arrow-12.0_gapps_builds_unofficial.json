@@ -65,16 +65,16 @@
     ], 
     "cas": [
         {
-            "changelog": "Hi, ArrowOS 12.0\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
-            "date": "2021-10-27", 
-            "datetime": "20211027", 
-            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211027-GAPPS.zip", 
-            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211027-GAPPS.zip", 
+            "changelog": "Hi, ArrowOS 12.0\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
+            "date": "2021-10-29", 
+            "datetime": "20211029", 
+            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211029-GAPPS.zip", 
+            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211029-GAPPS.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "ca1ecf8cdf62515f1bfc9de8fb1246985c09764cb4308330516b83c70ea68d34", 
-            "size": "1802710748", 
+            "sha256": "25bbab0951ec413857e259e269ce3d85b87927894b89213d41db8f8a31520a1c", 
+            "size": "1808814002", 
             "type": "unofficial", 
             "version": "v12.0"
         }
