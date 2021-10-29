@@ -4005,7 +4005,7 @@
   ], 
   "tulip": [
     {
-      "changelog": "Add SELinux info in Settings", 
+      "changelog": null, 
       "maintainer": "Nischay Sanjay (IceBreaker2451)", 
       "model": "Redmi Note 6 Pro", 
       "oem": "Xiaomi", 
@@ -4059,12 +4059,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-27", 
-                  "datetime": "20211027", 
-                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20211027-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211027-VANILLA.zip", 
-                  "sha256": "4121ffc1d21236bf2761d92512162167e0178254405894c73efd9828d3651e75", 
-                  "size": "824739382", 
+                  "date": "2021-10-29", 
+                  "datetime": "20211029", 
+                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20211029-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211029-VANILLA.zip", 
+                  "sha256": "d0b1c57a16039f090ff8c805126ab06358330a6523fb276260b7ab4ef79f708b", 
+                  "size": "820846926", 
                   "type": "community", 
                   "version": "v12.0"
                 }
