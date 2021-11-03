@@ -95,6 +95,22 @@
             "version": "v12.0"
         }
     ], 
+    "guacamole": [
+        {
+            "changelog": null, 
+            "date": "2021-11-03", 
+            "datetime": "20211103", 
+            "filename": "Arrow-v12.0-guacamole-UNOFFICIAL-20211103-GAPPS.zip", 
+            "filepath": "/arrow-12.0/guacamole/Arrow-v12.0-guacamole-UNOFFICIAL-20211103-GAPPS.zip", 
+            "maintainer": "alk3p", 
+            "model": "GM1917", 
+            "oem": "OnePlus", 
+            "sha256": "8fc5bd04fbf49500bbfcd7f031c046e9561f07c159548fdff5679ebad85e26ef", 
+            "size": "1066162625", 
+            "type": "unofficial", 
+            "version": "v12.0"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "WIP", 
