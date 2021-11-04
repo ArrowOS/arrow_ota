@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- TEST\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-10-08", 
-            "datetime": "20211008", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20211008-VANILLA.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211008-VANILLA.zip", 
+            "changelog": "- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-11-04", 
+            "datetime": "20211104", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20211104-VANILLA.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211104-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "0afc369ef2b154f2200638de4846c3a64a985eb4f9f7b15572e5bf940b8edc1c", 
-            "size": "1100339766", 
+            "sha256": "25d57b7f9e654ece7df1bf431cf553d0c4bd86b02cac78092cc38883bc0e7374", 
+            "size": "1102806706", 
             "type": "official", 
             "version": "v11.0"
         }

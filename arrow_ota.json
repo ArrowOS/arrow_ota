@@ -389,7 +389,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Switch NXP NFC HAL (Now should read mifare cards and another tags)\r\n- Build IFAAManager\r\n- Partial revert \"alioth: audio: Update platform info\"\r\n- Optimize native executables for Cortex-A76 CPU\r\n- Reserved vendor partition size\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
+      "changelog": "- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -411,12 +411,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-09", 
-                  "datetime": "20211009", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20211009-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211009-VANILLA.zip", 
-                  "sha256": "1f68f49cf2f4300980946f18bb76bca118650bd0285b50f02cfb3ca0324394ae", 
-                  "size": "1100415471", 
+                  "date": "2021-11-04", 
+                  "datetime": "20211104", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20211104-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211104-VANILLA.zip", 
+                  "sha256": "25d57b7f9e654ece7df1bf431cf553d0c4bd86b02cac78092cc38883bc0e7374", 
+                  "size": "1102806706", 
                   "type": "official", 
                   "version": "v11.0"
                 }
