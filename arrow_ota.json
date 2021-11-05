@@ -1773,6 +1773,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-11-05", 
+                  "datetime": "20211105", 
+                  "filename": "Arrow-v12.0-guacamole-OFFICIAL-20211105-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/guacamole/Arrow-v12.0-guacamole-OFFICIAL-20211105-GAPPS.zip", 
+                  "sha256": "dae042a8d43c9381d0a52e2eafb5f921ca6a36dc6cee16da4e33a75642352c1d", 
+                  "size": "1066178961", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-11-05", 
