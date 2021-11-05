@@ -3857,8 +3857,8 @@
   ], 
   "surya": [
     {
-      "changelog": "- fingerprint: Uprev to 2.3 HAL\r\n- parts: Add support for LCD HBM and CABC\r\n- Update blobs from V12.5.3.0.RJGEUXM\r\n- Switch to AOSP WFD\r\n- Improve brightness config\r\n- Fixed fp input issue\r\n- Misc fixes and upstream changes.\r\n\r\nNote: Clean flash mandatory.", 
-      "maintainer": "Ganesh", 
+      "changelog": "- Misc fixes and upstream changes.\r\n\r\nNote: Clean flash mandatory.", 
+      "maintainer": "Ganesh Varma", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
       "v11.0": [
@@ -3927,12 +3927,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-04", 
-                  "datetime": "20211104", 
-                  "filename": "Arrow-v12.0-surya-UNOFFICIAL-20211104-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-UNOFFICIAL-20211104-VANILLA.zip", 
-                  "sha256": "72881d101cb817decdfc6a7ae316aca5dfd744bb70c37e22cc442bbd9dcbeed6", 
-                  "size": "1000368477", 
+                  "date": "2021-11-05", 
+                  "datetime": "20211105", 
+                  "filename": "Arrow-v12.0-surya-UNOFFICIAL-20211105-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-UNOFFICIAL-20211105-VANILLA.zip", 
+                  "sha256": "409151cc83d4feec81108e1dd4000f9f06e85c6ede800a8abc1672f35d592567", 
+                  "size": "1010467546", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
