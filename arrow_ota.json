@@ -2065,7 +2065,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "WIP", 
+      "changelog": "- Fixed IFAA\r\n- Fixed traffic indicator apps not work\r\n- Fixed screen flicker in bootanimation\r\n- Reduce boot time\r\n- Switch to AOSP WFD\r\n- Use combined signal icons in status bar\r\n- Switch to xiaomi common libperfmgr\r\n- Update libperfmgr to S\r\n- Fixed jittery UI during screen recorder\r\n- Miscellaneous fixes and improvements", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -2147,12 +2147,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-25", 
-                  "datetime": "20211025", 
-                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20211025-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211025-VANILLA.zip", 
-                  "sha256": "92232abba8679425356623c9d780592ace22b471d37b4cff04af7e5034862af7", 
-                  "size": "850858286", 
+                  "date": "2021-11-05", 
+                  "datetime": "20211105", 
+                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20211105-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211105-VANILLA.zip", 
+                  "sha256": "d5be89d87d78dbb21164d9130749ece3fb56652b69ac632585e2af3348e81ae0", 
+                  "size": "857252804", 
                   "type": "official", 
                   "version": "v12.0"
                 }
