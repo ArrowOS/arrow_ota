@@ -121,7 +121,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "Arrow 12.0 TEST BUILD", 
+      "changelog": "Arrow 12.0 EARLY RELEASE\r\n\r\n* Changelog\r\n- Added ZenParts\r\n\r\n- Screen might go blank for a minute while booting. Wait and let it boot.", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -203,12 +203,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-25", 
-                  "datetime": "20211025", 
-                  "filename": "Arrow-v12.0-X00T-OFFICIAL-20211025-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-OFFICIAL-20211025-VANILLA.zip", 
-                  "sha256": "a040c6d55e2a445e03b2c2044fa48ccef74051e1aca38b5ca60fe40582dee326", 
-                  "size": "728508468", 
+                  "date": "2021-11-06", 
+                  "datetime": "20211106", 
+                  "filename": "Arrow-v12.0-X00T-OFFICIAL-20211106-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-OFFICIAL-20211106-VANILLA.zip", 
+                  "sha256": "26109b9962b04e1a4929f38255dad0149abade76faff5723ad9e08539f93aebc", 
+                  "size": "745066575", 
                   "type": "official", 
                   "version": "v12.0"
                 }
