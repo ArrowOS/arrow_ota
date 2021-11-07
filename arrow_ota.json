@@ -2211,6 +2211,34 @@
       ]
     }
   ], 
+  "lisa": [
+    {
+      "changelog": "- initial release", 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Xiaomi 11 Lite NE", 
+      "oem": "Xiaomi", 
+      "v11.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-11-07", 
+                  "datetime": "20211107", 
+                  "filename": "Arrow-v11.0-lisa-OFFICIAL-20211107-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211107-VANILLA.zip", 
+                  "sha256": "d61c0914cc693065d207b83d775b4e93c29ae46bbad33c24a2e867839306e5f5", 
+                  "size": "1721939474", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "lmi": [
     {
       "changelog": "- Firmware and vendor require V12.2.1.0.RJKCNXM.\r\n\r\n- Device: https://github.com/ArrowOS-Devices/android_device_xiaomi_lmi/commits/arrow-11.0\r\n- Blobs: https://github.com/ArrowOS-Devices/android_vendor_xiaomi_lmi/commits/arrow-11.0", 
