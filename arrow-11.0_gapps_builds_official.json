@@ -319,6 +319,22 @@
             "version": "v11.0"
         }
     ], 
+    "lisa": [
+        {
+            "changelog": "<b>Installation instructions:</b>\r\n- Enter fastboot mode\r\n- Flash arrow recovery boot image\r\n  <i>fastboot flash boot boot.img</i>\r\n- Reboot to recovery\r\n- <b>Format data (Factory reset)</b>\r\n- Apply Update using either of the methods\r\n  -- ADB sideload\r\n  <i>adb sideload Arrow-*.zip</i>\r\n  -- SD card\r\n- Reboot\r\n\r\nChangelog:\r\n- Initial release\r\n\r\n<i style=\"color:red\">* Get the recovery boot image from archive.</i>", 
+            "date": "2021-11-08", 
+            "datetime": "20211108", 
+            "filename": "Arrow-v11.0-lisa-OFFICIAL-20211108-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211108-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Xiaomi 11 Lite NE", 
+            "oem": "Xiaomi", 
+            "sha256": "baaf48e148c85c2eb74800942d647aace7298c1ef3eb4f704485f322b61adbba", 
+            "size": "2025957604", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "lmi": [
         {
             "changelog": "- Firmware and vendor require V12.2.1.0.RJKCNXM.\r\n\r\n- Device: https://github.com/ArrowOS-Devices/android_device_xiaomi_lmi/commits/arrow-11.0\r\n- Blobs: https://github.com/ArrowOS-Devices/android_vendor_xiaomi_lmi/commits/arrow-11.0", 
