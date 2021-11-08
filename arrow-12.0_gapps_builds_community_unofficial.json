@@ -1,16 +1,16 @@
 {
     "tulip": [
         {
-            "changelog": null, 
-            "date": "2021-11-06", 
-            "datetime": "20211106", 
-            "filename": "Arrow-v12.0-tulip-COMMUNITY-20211106-GAPPS.zip", 
-            "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211106-GAPPS.zip", 
-            "maintainer": "Nischay Sanjay (IceBreaker2451)", 
+            "changelog": "- Testing with 4.4 kernel, clean flash is mandatory.", 
+            "date": "2021-11-08", 
+            "datetime": "20211108", 
+            "filename": "Arrow-v12.0-tulip-COMMUNITY-20211108-GAPPS.zip", 
+            "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211108-GAPPS.zip", 
+            "maintainer": "IceBreaker2451", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "09816e4d51c5fb4d6c2db6180d5cca66ca26d8dbf35136224a0c8d193104706e", 
-            "size": "1156020181", 
+            "sha256": "a3af4f8aebebdfd7a77e115ab3d8ca8d24739a022756e4a64f020ded87a2ca42", 
+            "size": "1104299889", 
             "type": "community", 
             "version": "v12.0"
         }
