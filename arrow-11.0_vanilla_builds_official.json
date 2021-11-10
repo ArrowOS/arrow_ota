@@ -497,16 +497,16 @@
     ], 
     "raphael": [
         {
-            "changelog": "- Fix Offline charging\r\n- Add support for QCOM FM Radio\r\n- Enable AOSP Sim toggle\r\n- Rebase kernel over to latest CAF tag\r\n- Remove unused scripts\r\n- Misc changes and improvements\r\n\r\n- See full device sources at: https://github.com/ArrowOS-Devices?q=raphael\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
-            "date": "2021-10-18", 
-            "datetime": "20211018", 
-            "filename": "Arrow-v11.0-raphael-OFFICIAL-20211018-VANILLA.zip", 
-            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20211018-VANILLA.zip", 
+            "changelog": "- Misc changes and improvements\r\n\r\n- See full device sources at: https://github.com/ArrowOS-Devices?q=raphael\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
+            "date": "2021-11-10", 
+            "datetime": "20211110", 
+            "filename": "Arrow-v11.0-raphael-OFFICIAL-20211110-VANILLA.zip", 
+            "filepath": "/arrow-11.0/raphael/Arrow-v11.0-raphael-OFFICIAL-20211110-VANILLA.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "2b06d0cf90c1ad22e55ea682e925182fd92ffc4cb0ade5f710a8f0a5a0f82467", 
-            "size": "1096083942", 
+            "sha256": "f9fc8e8658401a42d4e928c9ca5efd32fb729af4b69ec5d12d6241da319163b5", 
+            "size": "1095893839", 
             "type": "official", 
             "version": "v11.0"
         }
