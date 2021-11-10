@@ -1649,7 +1649,7 @@
   ], 
   "ginkgo": [
     {
-      "changelog": "- Added support for per-SIM toggle in SIM settings\r\n- Removed notification and battery LED settings on willow\r\n- Removed TM symbol in kernel name (required by some apps)\r\n- Merged LA.UM.9.11.r1-04700.02 CAF tag in kernel", 
+      "changelog": null, 
       "maintainer": "Adithya (ghostrider_reborn)", 
       "model": "Redmi Note 8", 
       "oem": "Xiaomi", 
@@ -1727,6 +1727,26 @@
                   "size": "1300568781", 
                   "type": "unofficial", 
                   "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-11-10", 
+                  "datetime": "20211110", 
+                  "filename": "Arrow-v12.0-ginkgo-UNOFFICIAL-20211110-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/ginkgo/Arrow-v12.0-ginkgo-UNOFFICIAL-20211110-GAPPS.zip", 
+                  "sha256": "7f01b11faaeaef6ecf6c25b90d36535f60b9dc89e72f0e4cdd77a89804f6fbb0", 
+                  "size": "1247214944", 
+                  "type": "unofficial", 
+                  "version": "v12.0"
                 }
               ]
             }
