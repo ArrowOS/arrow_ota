@@ -65,16 +65,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- add simplified Chinese translation for thermal profiles\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2021-10-09", 
-            "datetime": "20211009", 
-            "filename": "Arrow-v11.0-apollo-OFFICIAL-20211009-GAPPS.zip", 
-            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20211009-GAPPS.zip", 
+            "changelog": "- Upstream kernel thanks to Palaych\r\n- Source changes\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2021-11-11", 
+            "datetime": "20211111", 
+            "filename": "Arrow-v11.0-apollo-OFFICIAL-20211111-GAPPS.zip", 
+            "filepath": "/arrow-11.0/apollo/Arrow-v11.0-apollo-OFFICIAL-20211111-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "6e67290a68fa8fd746efd382c6000de81fc24eb933f392b8173100d2b75a3eae", 
-            "size": "1546418314", 
+            "sha256": "0094220c1a99278ecd5a2ce45de547e75cb1d8cff5b56826c4083703e477d7fc", 
+            "size": "1553054533", 
             "type": "official", 
             "version": "v11.0"
         }
