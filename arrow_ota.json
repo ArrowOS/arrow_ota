@@ -817,6 +817,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-11-11", 
+                  "datetime": "20211111", 
+                  "filename": "Arrow-v12.0-cas-OFFICIAL-20211111-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20211111-GAPPS.zip", 
+                  "sha256": "81897cc69c8d96246f73d325c7e52e48278b684a5f2fb6035f85036059ec39a1", 
+                  "size": "1819088988", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-11-11", 
