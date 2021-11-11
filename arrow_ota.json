@@ -421,7 +421,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+      "changelog": "- rro_overlays: Drop TetheringOverlay\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -475,12 +475,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-03", 
-                  "datetime": "20211103", 
-                  "filename": "Arrow-v12.0-alioth-OFFICIAL-20211103-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211103-VANILLA.zip", 
-                  "sha256": "b8d1821fa2cc1207015f6455f5c59e25381fd64caf19c9977cfa210059330085", 
-                  "size": "1060637410", 
+                  "date": "2021-11-11", 
+                  "datetime": "20211111", 
+                  "filename": "Arrow-v12.0-alioth-OFFICIAL-20211111-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211111-VANILLA.zip", 
+                  "sha256": "71247fc038a39728a3be9c30ab8161e8385eab2747bf750a0b9336ba5b5084fb", 
+                  "size": "1059235855", 
                   "type": "official", 
                   "version": "v12.0"
                 }
