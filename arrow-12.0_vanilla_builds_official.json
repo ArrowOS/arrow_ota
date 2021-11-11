@@ -31,6 +31,22 @@
             "version": "v12.0"
         }
     ], 
+    "cas": [
+        {
+            "changelog": "Hi, ArrowOS 12.0 :)\r\n\r\n1. Initial releases\r\n2. SeLinux permissive", 
+            "date": "2021-11-11", 
+            "datetime": "20211111", 
+            "filename": "Arrow-v12.0-cas-OFFICIAL-20211111-VANILLA.zip", 
+            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20211111-VANILLA.zip", 
+            "maintainer": "Xayah", 
+            "model": "M2007J1SC", 
+            "oem": "Xiaomi", 
+            "sha256": "cb8d91dd73895034b3f088debd187ecd130d13323209694db823d185c9c29218", 
+            "size": "1487379591", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "guacamole": [
         {
             "changelog": "- Bug fixes and stability improvements.", 
