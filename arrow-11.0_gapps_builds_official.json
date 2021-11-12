@@ -49,16 +49,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- rootdir: Import Xiaomi changes over USB scripts\r\n- rootdir: Cleanup init.*.rc files\r\n- sepolicy: Address dinials for vendor_qti_init_shell\r\n- Import com.fingerprints.extension HAL\r\n- Build libldacBT_* from sources\r\n- Update blobs to MIUI V12.5.6.0.RKHEUXM\r\n- props: Cleanup\r\n- Remove WiFi Aware and RTT support\r\n- Remove TARGET_USES_INTERACTION_BOOST\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-10-09", 
-            "datetime": "20211009", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20211009-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211009-GAPPS.zip", 
+            "changelog": "- alioth: rro_overlays: Drop TetheringOverlay\r\n- Switch NXP NFC HAL (Now should read mifare card and another tag)\r\n- Reserved vendor partition size\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+            "date": "2021-11-12", 
+            "datetime": "20211112", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20211112-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211112-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "07acaa33c3e32744dfeb2aa3c94f55c7e50692a085413f0838416d19206ca9aa", 
-            "size": "1392860548", 
+            "sha256": "01a5014dc3eebefae6e8bdb4375d638973a8e40620affa31eec74756d7fc6235", 
+            "size": "1401537252", 
             "type": "official", 
             "version": "v11.0"
         }
