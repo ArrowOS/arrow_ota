@@ -421,7 +421,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- rro_overlays: Drop TetheringOverlay\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
+      "changelog": "- alioth: rro_overlays: Drop TetheringOverlay\r\n- Switch NXP NFC HAL (Now should read mifare card and another tag)\r\n- Reserved vendor partition size\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -443,12 +443,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-10", 
-                  "datetime": "20211110", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20211110-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211110-VANILLA.zip", 
-                  "sha256": "4993e87e50baceda03c474e8d61a22409163581d9da2c8791b777e1fb7632a09", 
-                  "size": "1102885148", 
+                  "date": "2021-11-12", 
+                  "datetime": "20211112", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20211112-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211112-VANILLA.zip", 
+                  "sha256": "87c01aee96c80da872369f025202109bec6dd7d90d932990cbaaa18cd504a04a", 
+                  "size": "1102846568", 
                   "type": "official", 
                   "version": "v11.0"
                 }
