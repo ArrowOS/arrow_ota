@@ -3537,6 +3537,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-11-13", 
+                  "datetime": "20211113", 
+                  "filename": "Arrow-v12.0-raphael-OFFICIAL-20211113-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20211113-GAPPS.zip", 
+                  "sha256": "aab678dc7f7766be81727e23fb8b4330f1f550ac351f7ef5d4320e86941240ad", 
+                  "size": "1386606537", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-11-13", 
