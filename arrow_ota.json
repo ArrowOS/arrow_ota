@@ -3029,7 +3029,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": null, 
+      "changelog": "\u2022 Remove dsp. prefix from audio and video power profiles\r\n\u2022 Set frame rate multiple thresholds to 120\r\n\u2022 Get rid of VLA usage\r\n\u2022 Select ARCH_HAS_FAST_MULTIPLIER\r\n\u2022 Reserve caches for small, high-frequency memory allocations in binder\r\n\u2022 Enable exFAT FS \r\n\u2022 Implement rapid GC f2fs\r\n\u2022 Some ufs optimizations\r\n\u2022 Force applications to use TCP_NODELAY to improve network latency\r\n\u2022 Take lesser time to enter sleep\r\n\u2022 Reduce TCP performance spikes\r\n\u2022 aac: Hardcode max_bitrate to 384k\r\n\u2022 Merge Linux version 4.14.255 into the kernel \r\n\u2022 Many more misc changes from StormBreaker-X5", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -3111,12 +3111,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-18", 
-                  "datetime": "20211018", 
-                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211018-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211018-VANILLA.zip", 
-                  "sha256": "15b77745eb913f26e32328f327d6f807de7b51b34bdddac8dc6a711751d4e523", 
-                  "size": "1026991021", 
+                  "date": "2021-11-15", 
+                  "datetime": "20211115", 
+                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211115-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211115-VANILLA.zip", 
+                  "sha256": "210aa43809cf47995ddd3ca7991b926a9abda14b6fbf89ba997fae82f46284a0", 
+                  "size": "1023222266", 
                   "type": "official", 
                   "version": "v12.0"
                 }
