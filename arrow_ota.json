@@ -4344,6 +4344,26 @@
             }
           ]
         }
+      ], 
+      "v12.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-11-16", 
+                  "datetime": "20211116", 
+                  "filename": "Arrow-v12.0-taimen-UNOFFICIAL-20211116-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-UNOFFICIAL-20211116-GAPPS.zip", 
+                  "sha256": "2730dec965975d2257883bbd08bf10d293fc0f59d0dcec448efdf087639db1e1", 
+                  "size": "1071763323", 
+                  "type": "unofficial", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
