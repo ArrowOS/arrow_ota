@@ -17,16 +17,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- rro_overlays: Drop TetheringOverlay\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
-            "date": "2021-11-11", 
-            "datetime": "20211111", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211111-GAPPS.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211111-GAPPS.zip", 
+            "changelog": "- Build soundtrigger HAL from sources\r\n- overlay: Improve paddings/margins for status bar\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13400-SMxx50\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
+            "date": "2021-11-16", 
+            "datetime": "20211116", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211116-GAPPS.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211116-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "273533c88fb768756c39a956741bae86770931aad10059009b9f90ef21e41413", 
-            "size": "1340895333", 
+            "sha256": "980719bae45127196f00cbb991017c17f3676045a04382f865ea3a542a7b5edd", 
+            "size": "1340240045", 
             "type": "official", 
             "version": "v12.0"
         }
