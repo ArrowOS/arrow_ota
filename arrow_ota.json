@@ -1493,7 +1493,7 @@
   ], 
   "dumpling": [
     {
-      "changelog": null, 
+      "changelog": "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes.", 
       "maintainer": "Bauuuuu", 
       "model": "ONEPLUS A5010", 
       "oem": "OnePlus", 
@@ -1515,12 +1515,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-10", 
-                  "datetime": "20211110", 
-                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20211110-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20211110-VANILLA.zip", 
-                  "sha256": "25addb742f232d787aede8bae70b79313ef5cd61306f0674e9916a1658813bc2", 
-                  "size": "831029555", 
+                  "date": "2021-11-16", 
+                  "datetime": "20211116", 
+                  "filename": "Arrow-v11.0-dumpling-OFFICIAL-20211116-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20211116-VANILLA.zip", 
+                  "sha256": "b76428ca99f684b9f96ab552e77469ff04fd10811a25dfdbfa976e4f51b38d02", 
+                  "size": "830957486", 
                   "type": "official", 
                   "version": "v11.0"
                 }
