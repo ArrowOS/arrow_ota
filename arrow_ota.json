@@ -3791,6 +3791,34 @@
       ]
     }
   ], 
+  "sake": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "ZenFone 8", 
+      "oem": "asus", 
+      "v11.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2021-11-18", 
+                  "datetime": "20211118", 
+                  "filename": "Arrow-v11.0-sake-UNOFFICIAL-20211118-GAPPS.zip", 
+                  "filepath": "/arrow-11.0/sake/Arrow-v11.0-sake-UNOFFICIAL-20211118-GAPPS.zip", 
+                  "sha256": "af5ee958b285aadb13276e1f4b81434b61a81ffbc7b3876adba4477d5c8f11eb", 
+                  "size": "1351885910", 
+                  "type": "unofficial", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "sanders": [
     {
       "changelog": "Clean flash must (kindly backup your data before flashing)\r\nimproved  performance\r\nEnabled ZRAM by default\r\nTuned ZRAM for better performance\r\nCompiled with hwui for better performance\r\nSwitched to Mad Kernel 2.0", 
