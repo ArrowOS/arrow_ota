@@ -153,7 +153,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "Arrow 12.0 EARLY RELEASE\r\n\r\n* Changelog\r\n- Added ZenParts\r\n\r\n- Screen might go blank for a minute while booting. Wait and let it boot.", 
+      "changelog": "- Fixed WFD\r\n- Fixed secure content playback on apps like hotstar", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -175,12 +175,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-09", 
-                  "datetime": "20211009", 
-                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20211009-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20211009-VANILLA.zip", 
-                  "sha256": "c238516ad8f23e1adb537fec3b3bfb64c40eeef9b70861f0637b9e296fe235bd", 
-                  "size": "798942899", 
+                  "date": "2021-11-18", 
+                  "datetime": "20211118", 
+                  "filename": "Arrow-v11.0-X00T-OFFICIAL-20211118-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/X00T/Arrow-v11.0-X00T-OFFICIAL-20211118-VANILLA.zip", 
+                  "sha256": "84e075ca746b52d61cce3ccb478024e1e4fe659ae2bb16f264e0d768af09b1c9", 
+                  "size": "798493076", 
                   "type": "official", 
                   "version": "v11.0"
                 }
