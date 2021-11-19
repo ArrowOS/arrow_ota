@@ -3799,6 +3799,22 @@
       "oem": "asus", 
       "v11.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-11-19", 
+                  "datetime": "20211119", 
+                  "filename": "Arrow-v11.0-sake-OFFICIAL-20211119-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sake/Arrow-v11.0-sake-OFFICIAL-20211119-VANILLA.zip", 
+                  "sha256": "75a901e37722b0aebbf89ba626dd5dc19acf69df68690a7ebfe6a3827e377cbd", 
+                  "size": "1077254289", 
+                  "type": "official", 
+                  "version": "v11.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
