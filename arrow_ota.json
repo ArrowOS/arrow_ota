@@ -121,6 +121,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-11-20", 
+                  "datetime": "20211120", 
+                  "filename": "Arrow-v12.0-RMX1801-OFFICIAL-20211120-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/RMX1801/Arrow-v12.0-RMX1801-OFFICIAL-20211120-GAPPS.zip", 
+                  "sha256": "8dec67e46ffd235566e5f97a2a771a2cafc4da048728b97251ef99fe92b847ed", 
+                  "size": "1265208103", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-11-20", 
