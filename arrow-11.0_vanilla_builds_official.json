@@ -337,16 +337,16 @@
     ], 
     "lisa": [
         {
-            "changelog": "<b>Installation instructions:</b>\r\n- Enter fastboot mode\r\n- Flash arrow recovery boot image\r\n  <i>fastboot flash boot boot.img</i>\r\n- Reboot to recovery\r\n- <b>Format data (Factory reset)</b>\r\n- Apply Update using either of the methods\r\n  -- ADB sideload\r\n  <i>adb sideload Arrow-*.zip</i>\r\n  -- SD card\r\n- Reboot\r\n\r\nChangelog:\r\n- Initial release\r\n\r\n<i style=\"color:red\">* Get the recovery boot image from archive.</i>", 
-            "date": "2021-11-20", 
-            "datetime": "20211120", 
-            "filename": "Arrow-v11.0-lisa-OFFICIAL-20211120-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211120-VANILLA.zip", 
+            "changelog": "- Fix issues related to audio.\r\n- Misc changes.", 
+            "date": "2021-11-23", 
+            "datetime": "20211123", 
+            "filename": "Arrow-v11.0-lisa-OFFICIAL-20211123-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211123-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Xiaomi 11 Lite NE", 
             "oem": "Xiaomi", 
-            "sha256": "12fe862dc666677135a7dfe34a39f473c17d70ca9773b5f9a8b050b203ac2bb6", 
-            "size": "1744700121", 
+            "sha256": "9fb0355067110db0ddfd4c9bd692f7e2b130b7e4a5f5a7e7670407c0a883f4c5", 
+            "size": "1744724268", 
             "type": "official", 
             "version": "v11.0"
         }
