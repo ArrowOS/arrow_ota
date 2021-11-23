@@ -193,16 +193,16 @@
     ], 
     "picasso": [
         {
-            "changelog": "- November security patch\r\n- Fixed GCam", 
-            "date": "2021-11-18", 
-            "datetime": "20211118", 
-            "filename": "Arrow-v12.0-picasso-UNOFFICIAL-20211118-VANILLA.zip", 
-            "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-UNOFFICIAL-20211118-VANILLA.zip", 
+            "changelog": "- November security patch\r\n- Fixed IR", 
+            "date": "2021-11-23", 
+            "datetime": "20211123", 
+            "filename": "Arrow-v12.0-picasso-UNOFFICIAL-20211123-VANILLA.zip", 
+            "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-UNOFFICIAL-20211123-VANILLA.zip", 
             "maintainer": "baolong24", 
             "model": "Redmi K30 5G", 
             "oem": "Redmi", 
-            "sha256": "fc1156eb62bcf3e0bdb64ab434be6988b42b0d6367d8ee431a66728e549af407", 
-            "size": "1234903848", 
+            "sha256": "9b3a56b9390ddd43eca401016b85ff395bd4fc91106cb39ec4983c797b7088a3", 
+            "size": "1217131678", 
             "type": "unofficial", 
             "version": "v12.0"
         }
