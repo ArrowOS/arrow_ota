@@ -447,6 +447,34 @@
       ]
     }
   ], 
+  "Z01R": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Zenfone 5Z", 
+      "oem": "asus", 
+      "v12.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-11-24", 
+                  "datetime": "20211124", 
+                  "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211124-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211124-VANILLA.zip", 
+                  "sha256": "5f5f5e5ff3cb4977d7044ad20228ce10da83aff6e1b49469da3f22a10195505a", 
+                  "size": "769840996", 
+                  "type": "community", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "alioth": [
     {
       "changelog": "- Build soundtrigger HAL from sources\r\n- overlay: Improve paddings/margins for status bar\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13400-SMxx50\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 

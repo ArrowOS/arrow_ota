@@ -1,4 +1,20 @@
 {
+    "Z01R": [
+        {
+            "changelog": null, 
+            "date": "2021-11-24", 
+            "datetime": "20211124", 
+            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211124-VANILLA.zip", 
+            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211124-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Zenfone 5Z", 
+            "oem": "asus", 
+            "sha256": "5f5f5e5ff3cb4977d7044ad20228ce10da83aff6e1b49469da3f22a10195505a", 
+            "size": "769840996", 
+            "type": "community", 
+            "version": "v12.0"
+        }
+    ], 
     "cepheus": [
         {
             "changelog": null, 
