@@ -1601,6 +1601,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-11-25", 
+                  "datetime": "20211125", 
+                  "filename": "Arrow-v12.0-davinci-COMMUNITY-20211125-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-COMMUNITY-20211125-GAPPS.zip", 
+                  "sha256": "529b54f7ebb8517bb037b07899c378d65a3b7c307e06df011b1c008afa742e71", 
+                  "size": "1345851882", 
+                  "type": "community", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-11-25", 
