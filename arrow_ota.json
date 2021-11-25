@@ -2246,8 +2246,8 @@
   "kebab": [
     {
       "changelog": null, 
-      "maintainer": "java67", 
-      "model": "KB2000", 
+      "maintainer": "Dr-chen99", 
+      "model": "KB2003", 
       "oem": "OnePlus", 
       "v11.0": [
         {
@@ -2275,6 +2275,26 @@
                   "size": "1272247719", 
                   "type": "community", 
                   "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-11-25", 
+                  "datetime": "20211125", 
+                  "filename": "Arrow-v12.0-kebab-COMMUNITY-20211125-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-COMMUNITY-20211125-VANILLA.zip", 
+                  "sha256": "20069711f040d51b63bb8060ee1ac313908a88a1c9b58f3b246f2329ca1113d7", 
+                  "size": "1079910609", 
+                  "type": "community", 
+                  "version": "v12.0"
                 }
               ]
             }
