@@ -4663,6 +4663,34 @@
       ]
     }
   ], 
+  "tucana": [
+    {
+      "changelog": null, 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "model": "Mi Note 10", 
+      "oem": "Xiaomi", 
+      "v12.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-11-25", 
+                  "datetime": "20211125", 
+                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20211125-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20211125-VANILLA.zip", 
+                  "sha256": "7a700d6ed619b3e552a8d93c83d2babe60be1949838618c8357b2bf1ce0a5223", 
+                  "size": "1198996847", 
+                  "type": "community", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "tulip": [
     {
       "changelog": "- Testing with 4.4 kernel, clean flash is mandatory.", 
