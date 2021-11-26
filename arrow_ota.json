@@ -589,7 +589,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- attempt to show Rapid Charging for stock charger\r\n- some device tree changes for S\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "Use Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -671,12 +671,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-18", 
-                  "datetime": "20211118", 
-                  "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211118-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211118-VANILLA.zip", 
-                  "sha256": "e3a1e853d21d0c01e939e94adb798d7c4163aceb5cfb91d5365841f968263e53", 
-                  "size": "1246308542", 
+                  "date": "2021-11-26", 
+                  "datetime": "20211126", 
+                  "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211126-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211126-VANILLA.zip", 
+                  "sha256": "e7767ff2657f8b17978eaf66f43e18c0a1a187066d2dfd6a0b1ccf085ab8a73f", 
+                  "size": "1246120868", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
