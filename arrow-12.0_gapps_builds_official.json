@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Build soundtrigger HAL from sources\r\n- overlay: Improve paddings/margins for status bar\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13400-SMxx50\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
-            "date": "2021-11-16", 
-            "datetime": "20211116", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211116-GAPPS.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211116-GAPPS.zip", 
+            "changelog": "- parts: Adapt to S style\r\n- Import QTI vibrator AIDL and rebrand to alioth\r\n- rootdir: Change schedutil down/up rate\r\n- sepolicy: Re-work for Android S\r\n- props: Disable unspecialized app process pool\r\n- Misc fixes and upstream changes.\r\n\r\n[b]Kernel:[/b]\r\n- input: fpc_tee: Allow filtering of key events \r\n- Misc fixes and upstream changes.\r\n\r\n[b]- Installation instruction:[/b] https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n[b]- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.[/b]", 
+            "date": "2021-11-29", 
+            "datetime": "20211129", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211129-GAPPS.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211129-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "980719bae45127196f00cbb991017c17f3676045a04382f865ea3a542a7b5edd", 
-            "size": "1340240045", 
+            "sha256": "9b92689a235cf085eca770ff903cdf748d0eb802e017ed79eba5d71ac8c9e741", 
+            "size": "1340640394", 
             "type": "official", 
             "version": "v12.0"
         }
