@@ -274,15 +274,15 @@
     "surya": [
         {
             "changelog": "- Fixed libcameraservice\r\n- Switch GCamGOPrebuilt\r\n\r\nNote: Clean flash mandatory.", 
-            "date": "2021-11-28", 
-            "datetime": "20211128", 
-            "filename": "Arrow-v12.0-surya-UNOFFICIAL-20211128-GAPPS.zip", 
-            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-UNOFFICIAL-20211128-GAPPS.zip", 
+            "date": "2021-11-29", 
+            "datetime": "20211129", 
+            "filename": "Arrow-v12.0-surya-UNOFFICIAL-20211129-GAPPS.zip", 
+            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-UNOFFICIAL-20211129-GAPPS.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "dfe1be45e582b00df5a7583bbf0d159b494c40e9874975ad11b2e84b898072b4", 
-            "size": "1352363077", 
+            "sha256": "11405445787f30c76573efa6d6c70b99d819b0ce34b7a76c98b7331e634f4b8f", 
+            "size": "1351846856", 
             "type": "unofficial", 
             "version": "v12.0"
         }
