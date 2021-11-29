@@ -33,16 +33,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Build soundtrigger HAL from sources\r\n- overlay: Improve paddings/margins for status bar\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13400-SMxx50\r\n- Misc fixes and upstream changes.\r\n\r\n- Installation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.", 
-            "date": "2021-11-16", 
-            "datetime": "20211116", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211116-VANILLA.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211116-VANILLA.zip", 
+            "changelog": "- parts: Adapt to S style\r\n- Import QTI vibrator AIDL and rebrand to alioth\r\n- rootdir: Change schedutil down/up rate\r\n- sepolicy: Re-work for Android S\r\n- props: Disable unspecialized app process pool\r\n- Misc fixes and upstream changes.\r\n\r\n[b]Kernel:[/b]\r\n- input: fpc_tee: Allow filtering of key events \r\n- Misc fixes and upstream changes.\r\n\r\n[b]- Installation instruction:[/b] https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n[b]- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.[/b]", 
+            "date": "2021-11-29", 
+            "datetime": "20211129", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211129-VANILLA.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211129-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "6e85836a7cd61a69e2ecd6d26e2678c1da3aae7cabbbdf8956b35c147942da53", 
-            "size": "1058612010", 
+            "sha256": "8b52ad92f5f181896c7ffba5767c0b3476f311aef7f3a0ff7fd37773d7637d7b", 
+            "size": "1058148690", 
             "type": "official", 
             "version": "v12.0"
         }
