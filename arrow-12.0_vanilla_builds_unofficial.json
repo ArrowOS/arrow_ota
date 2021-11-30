@@ -65,7 +65,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "- attempt to fix ULL mode\r\n- attempt to fix FP delay\r\n*Audio is most likely broken in this build*\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "changelog": "- switch to audio hal to V7 (attempt to fix FP delay)\r\n\r\n*Audio is most likely broken in this build*\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
             "date": "2021-11-30", 
             "datetime": "20211130", 
             "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211130-VANILLA.zip", 
@@ -73,8 +73,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "cac81186965f0b510c04e10687104284dbbc0d82f8e00cf4cbc80a2af3930806", 
-            "size": "1246086013", 
+            "sha256": "9f97e55e8ea9518fd57bfbb42106027e83e687f28a641cd6e23c2635b5dc5163", 
+            "size": "1246276223", 
             "type": "unofficial", 
             "version": "v12.0"
         }
