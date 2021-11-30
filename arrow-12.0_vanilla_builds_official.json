@@ -177,16 +177,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- Fixed libcameraservice\r\n- Switch GCamGOPrebuilt\r\n\r\nNote: Clean flash mandatory.", 
-            "date": "2021-11-17", 
-            "datetime": "20211117", 
-            "filename": "Arrow-v12.0-surya-OFFICIAL-20211117-VANILLA.zip", 
-            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20211117-VANILLA.zip", 
-            "maintainer": "Ganesh Varma", 
+            "changelog": "- sepolicy: Re-work for Android S\r\n- Set selinux to enforce\r\n- init: Set ro.product.mod_device for dynamic SAR\r\n- init: Properly set ro.product.*.name/marketname\r\n- Enable settings provider model\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Update with A11 only with Clean flash!</b>", 
+            "date": "2021-11-30", 
+            "datetime": "20211130", 
+            "filename": "Arrow-v12.0-surya-OFFICIAL-20211130-VANILLA.zip", 
+            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20211130-VANILLA.zip", 
+            "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "d5fcda45db5a9d27b8e52ec48b9f12496ce43f83cd19ea535a951af3252ed843", 
-            "size": "1020674625", 
+            "sha256": "d606d1356765935dcfa23e581fe2c0b54ddad9d0119c4934da8da85bab324a3b", 
+            "size": "1020642768", 
             "type": "official", 
             "version": "v12.0"
         }
