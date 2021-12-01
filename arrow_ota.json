@@ -853,6 +853,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-12-01", 
+                  "datetime": "20211201", 
+                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20211201-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211201-GAPPS.zip", 
+                  "sha256": "61444b96dd6ce187f1ea559c5135fd8a0bbc4f808e4e0710c45832ed5f0366cf", 
+                  "size": "1160734300", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-12-01", 
