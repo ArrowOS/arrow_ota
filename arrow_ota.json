@@ -851,34 +851,6 @@
       "oem": "google", 
       "v12.0": [
         {
-          "OFFICIAL": [
-            {
-              "GAPPS": [
-                {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20211201-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211201-GAPPS.zip", 
-                  "sha256": "61444b96dd6ce187f1ea559c5135fd8a0bbc4f808e4e0710c45832ed5f0366cf", 
-                  "size": "1160734300", 
-                  "type": "official", 
-                  "version": "v12.0"
-                }
-              ], 
-              "VANILLA": [
-                {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20211201-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211201-VANILLA.zip", 
-                  "sha256": "d4a98e270e555df9843395c89f7709d1cd4e68e7c8bc6b6f1ff986e5ec4960e2", 
-                  "size": "880093871", 
-                  "type": "official", 
-                  "version": "v12.0"
-                }
-              ]
-            }
-          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
@@ -1411,34 +1383,6 @@
       "oem": "google", 
       "v12.0": [
         {
-          "OFFICIAL": [
-            {
-              "GAPPS": [
-                {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211201-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211201-GAPPS.zip", 
-                  "sha256": "53fe1bb2d55a96143f3a0c56c115fd953d79bca9c6344907f2b50520973ae627", 
-                  "size": "1161113543", 
-                  "type": "official", 
-                  "version": "v12.0"
-                }
-              ], 
-              "VANILLA": [
-                {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211201-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211201-VANILLA.zip", 
-                  "sha256": "4154af3a2ba56e3a58bdd07ede4b70afca8fbf6af7d3fba85ca2f87116ba4ccd", 
-                  "size": "880419218", 
-                  "type": "official", 
-                  "version": "v12.0"
-                }
-              ]
-            }
-          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [

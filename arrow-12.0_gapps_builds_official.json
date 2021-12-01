@@ -63,22 +63,6 @@
             "version": "v12.0"
         }
     ], 
-    "blueline": [
-        {
-            "changelog": null, 
-            "date": "2021-12-01", 
-            "datetime": "20211201", 
-            "filename": "Arrow-v12.0-blueline-OFFICIAL-20211201-GAPPS.zip", 
-            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211201-GAPPS.zip", 
-            "maintainer": "ReallySnow", 
-            "model": "Pixel 3", 
-            "oem": "google", 
-            "sha256": "61444b96dd6ce187f1ea559c5135fd8a0bbc4f808e4e0710c45832ed5f0366cf", 
-            "size": "1160734300", 
-            "type": "official", 
-            "version": "v12.0"
-        }
-    ], 
     "cas": [
         {
             "changelog": "Hi, ArrowOS 12.0 :)\r\n\r\n1. Initial releases\r\n2. SeLinux permissive", 
@@ -91,22 +75,6 @@
             "oem": "Xiaomi", 
             "sha256": "81897cc69c8d96246f73d325c7e52e48278b684a5f2fb6035f85036059ec39a1", 
             "size": "1819088988", 
-            "type": "official", 
-            "version": "v12.0"
-        }
-    ], 
-    "crosshatch": [
-        {
-            "changelog": null, 
-            "date": "2021-12-01", 
-            "datetime": "20211201", 
-            "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211201-GAPPS.zip", 
-            "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211201-GAPPS.zip", 
-            "maintainer": "ReallySnow", 
-            "model": "Pixel 3 XL", 
-            "oem": "google", 
-            "sha256": "53fe1bb2d55a96143f3a0c56c115fd953d79bca9c6344907f2b50520973ae627", 
-            "size": "1161113543", 
             "type": "official", 
             "version": "v12.0"
         }
