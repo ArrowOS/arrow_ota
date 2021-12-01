@@ -4727,34 +4727,6 @@
       ], 
       "v12.0": [
         {
-          "OFFICIAL": [
-            {
-              "GAPPS": [
-                {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-taimen-OFFICIAL-20211201-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20211201-GAPPS.zip", 
-                  "sha256": "13bf26db02023a7e2f06beac0a4d1cb756a465dd2668ac8118eeab0d0779b434", 
-                  "size": "1071058008", 
-                  "type": "official", 
-                  "version": "v12.0"
-                }
-              ], 
-              "VANILLA": [
-                {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-taimen-OFFICIAL-20211201-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20211201-VANILLA.zip", 
-                  "sha256": "146fe238241b598f4f96a103431e337378e685b3dabe6bef5938919f2050a2df", 
-                  "size": "786301362", 
-                  "type": "official", 
-                  "version": "v12.0"
-                }
-              ]
-            }
-          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
