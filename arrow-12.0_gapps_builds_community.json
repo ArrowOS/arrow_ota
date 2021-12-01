@@ -1,4 +1,20 @@
 {
+    "Z01R": [
+        {
+            "changelog": null, 
+            "date": "2021-12-01", 
+            "datetime": "20211201", 
+            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211201-GAPPS.zip", 
+            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211201-GAPPS.zip", 
+            "maintainer": "EdwardWu", 
+            "model": "Zenfone 5Z", 
+            "oem": "asus", 
+            "sha256": "1da459fe903cf1223121b239e6d170833a34336ae8888373aad18cc188d2c480", 
+            "size": "1054842178", 
+            "type": "community", 
+            "version": "v12.0"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "Initial build", 
