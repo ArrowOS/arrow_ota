@@ -851,6 +851,22 @@
       "oem": "google", 
       "v12.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-12-01", 
+                  "datetime": "20211201", 
+                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20211201-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211201-VANILLA.zip", 
+                  "sha256": "d4a98e270e555df9843395c89f7709d1cd4e68e7c8bc6b6f1ff986e5ec4960e2", 
+                  "size": "880093871", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
