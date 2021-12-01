@@ -31,6 +31,22 @@
             "version": "v12.0"
         }
     ], 
+    "X01BD": [
+        {
+            "changelog": null, 
+            "date": "2021-12-01", 
+            "datetime": "20211201", 
+            "filename": "Arrow-v12.0-X01BD-OFFICIAL-20211201-VANILLA.zip", 
+            "filepath": "/arrow-12.0/X01BD/Arrow-v12.0-X01BD-OFFICIAL-20211201-VANILLA.zip", 
+            "maintainer": "SonalSingh", 
+            "model": "Asus Zenfone Max Pro M2", 
+            "oem": "asus", 
+            "sha256": "40d2e2be7a41733c738751afc0b54faf58001addbeef68f68172bb48accc15e4", 
+            "size": "898470825", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "alioth": [
         {
             "changelog": "- parts: Adapt to S style\r\n- Import QTI vibrator AIDL and rebrand to alioth\r\n- rootdir: Change schedutil down/up rate\r\n- sepolicy: Re-work for Android S\r\n- props: Disable unspecialized app process pool\r\n- Misc fixes and upstream changes.\r\n\r\n[b]Kernel:[/b]\r\n- input: fpc_tee: Allow filtering of key events \r\n- Misc fixes and upstream changes.\r\n\r\n[b]- Installation instruction:[/b] https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n[b]- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.[/b]", 
