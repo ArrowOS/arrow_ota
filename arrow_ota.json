@@ -3353,7 +3353,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Enable option to disable sim in network settings\r\n\u2022 Misc changes\r\n\r\nNote :\r\n\u2022 Use A11 Phoenixin firmware for Widevine L1 certification, check XDA or telegram support groups for links", 
+      "changelog": "\u2022 Switch AOSP WFD\r\n\u2022 Update blobs from PHOENIX 21.11.17\r\n\u2022 Merge Linux version 4.14.256 into the kernel \r\n\u2022 Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -3435,12 +3435,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-15", 
-                  "datetime": "20211115", 
-                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211115-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211115-VANILLA.zip", 
-                  "sha256": "210aa43809cf47995ddd3ca7991b926a9abda14b6fbf89ba997fae82f46284a0", 
-                  "size": "1023222266", 
+                  "date": "2021-12-01", 
+                  "datetime": "20211201", 
+                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211201-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211201-VANILLA.zip", 
+                  "sha256": "906568a3cc37b2c3791b087e600a9ff7a71ed05247860b2c0496abb3d040154a", 
+                  "size": "1020772391", 
                   "type": "official", 
                   "version": "v12.0"
                 }
