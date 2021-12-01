@@ -18,15 +18,15 @@
     "X00T": [
         {
             "changelog": "Arrow 12.0 EARLY RELEASE\r\n\r\n* Changelog\r\n- Added ZenParts\r\n\r\n- Screen might go blank for a minute while booting. Wait and let it boot.", 
-            "date": "2021-11-06", 
-            "datetime": "20211106", 
-            "filename": "Arrow-v12.0-X00T-OFFICIAL-20211106-GAPPS.zip", 
-            "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-OFFICIAL-20211106-GAPPS.zip", 
+            "date": "2021-12-01", 
+            "datetime": "20211201", 
+            "filename": "Arrow-v12.0-X00T-OFFICIAL-20211201-GAPPS.zip", 
+            "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-OFFICIAL-20211201-GAPPS.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "d2e79d4f4309a6005d5e79b01fdf8a6eb386dc4b400b4ceb36d86c696ad6bedb", 
-            "size": "1068261650", 
+            "sha256": "30b29b774109897184ed7d2407d218e97b47376d93dff5f8338f58e4cb8edad7", 
+            "size": "1067052991", 
             "type": "official", 
             "version": "v12.0"
         }
