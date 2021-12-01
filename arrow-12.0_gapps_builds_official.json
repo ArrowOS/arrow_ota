@@ -143,6 +143,22 @@
             "version": "v12.0"
         }
     ], 
+    "mido": [
+        {
+            "changelog": null, 
+            "date": "2021-12-01", 
+            "datetime": "20211201", 
+            "filename": "Arrow-v12.0-mido-OFFICIAL-20211201-GAPPS.zip", 
+            "filepath": "/arrow-12.0/mido/Arrow-v12.0-mido-OFFICIAL-20211201-GAPPS.zip", 
+            "maintainer": "Ganesh Varma, Sonal Singh", 
+            "model": "Redmi Note 4", 
+            "oem": "Xiaomi", 
+            "sha256": "f642333559f00f03865aca5b1f238485c6fde8e0dfff17726394ac78d859e803", 
+            "size": "1090434240", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "phoenix": [
         {
             "changelog": "\u2022 Remove dsp. prefix from audio and video power profiles\r\n\u2022 Set frame rate multiple thresholds to 120\r\n\u2022 Get rid of VLA usage\r\n\u2022 Select ARCH_HAS_FAST_MULTIPLIER\r\n\u2022 Reserve caches for small, high-frequency memory allocations in binder\r\n\u2022 Enable exFAT FS \r\n\u2022 Implement rapid GC f2fs\r\n\u2022 Some ufs optimizations\r\n\u2022 Force applications to use TCP_NODELAY to improve network latency\r\n\u2022 Take lesser time to enter sleep\r\n\u2022 Reduce TCP performance spikes\r\n\u2022 aac: Hardcode max_bitrate to 384k\r\n\u2022 Merge Linux version 4.14.255 into the kernel \r\n\u2022 Many more misc changes from StormBreaker-X5", 
