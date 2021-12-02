@@ -49,16 +49,16 @@
     ], 
     "kebab": [
         {
-            "changelog": "Delete the built-in browser and replace the via browser", 
-            "date": "2021-12-01", 
-            "datetime": "20211201", 
-            "filename": "Arrow-v12.0-kebab-COMMUNITY-20211201-VANILLA.zip", 
-            "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-COMMUNITY-20211201-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2021-12-02", 
+            "datetime": "20211202", 
+            "filename": "Arrow-v12.0-kebab-COMMUNITY-20211202-VANILLA.zip", 
+            "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-COMMUNITY-20211202-VANILLA.zip", 
             "maintainer": "Dr-chen99", 
             "model": "KB2003", 
             "oem": "OnePlus", 
-            "sha256": "022826a8ee8cf881d5df79985c40ca513d85b15694c5387ed0b1b786d35706b3", 
-            "size": "1068589146", 
+            "sha256": "622120d3a9598287ee2c3ece80ceabd9c4f0c40d7229b0299d895b23bc3d823b", 
+            "size": "1068566460", 
             "type": "community", 
             "version": "v12.0"
         }
