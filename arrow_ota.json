@@ -4785,6 +4785,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-12-02", 
+                  "datetime": "20211202", 
+                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20211202-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20211202-GAPPS.zip", 
+                  "sha256": "4672b9a793254df0d2e8ab2a87aa88101c56608c98fd58e7f4e98b3f1b4d3183", 
+                  "size": "1519499838", 
+                  "type": "community", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-12-02", 
