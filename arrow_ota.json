@@ -4777,7 +4777,7 @@
   ], 
   "tucana": [
     {
-      "changelog": null, 
+      "changelog": "Test Build 1-12-2021\r\n- Drop Fast Charging script, now it's handled in the kernel\r\n- Upstream to Alikernel 4.14.255", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Mi Note 10", 
       "oem": "Xiaomi", 
@@ -4787,12 +4787,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2021-11-25", 
-                  "datetime": "20211125", 
-                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20211125-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20211125-VANILLA.zip", 
-                  "sha256": "7a700d6ed619b3e552a8d93c83d2babe60be1949838618c8357b2bf1ce0a5223", 
-                  "size": "1198996847", 
+                  "date": "2021-12-02", 
+                  "datetime": "20211202", 
+                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20211202-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20211202-VANILLA.zip", 
+                  "sha256": "0019a83023be03ab38571ccd11663292b215246978c190ef4eb5ea527669893f", 
+                  "size": "1194926746", 
                   "type": "community", 
                   "version": "v12.0"
                 }
