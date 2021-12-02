@@ -2481,7 +2481,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Fixed a broken dependency\r\n- Optimize UI smoothness\r\n- Dropped duplicated DRM manifest\r\n- Miscellaneous fixes and improvements", 
+      "changelog": "WIP", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -2579,12 +2579,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-11-19", 
-                  "datetime": "20211119", 
-                  "filename": "Arrow-v12.0-lavender-UNOFFICIAL-20211119-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-UNOFFICIAL-20211119-GAPPS.zip", 
-                  "sha256": "0d24c475997048b3e8e5c6d16aeb2d7ae77b7f9fa6f050efa641f5e0431594bc", 
-                  "size": "1179228365", 
+                  "date": "2021-12-02", 
+                  "datetime": "20211202", 
+                  "filename": "Arrow-v12.0-lavender-UNOFFICIAL-20211202-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-UNOFFICIAL-20211202-GAPPS.zip", 
+                  "sha256": "6b63b0c6641892417184fd2c130c9b741411132588d09b8d0b55676fe0b33019", 
+                  "size": "1188706823", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
