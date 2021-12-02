@@ -617,7 +617,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- switch to audio hal to V7\r\n- enable ULL audio\r\n\r\n*Audio is most likely broken in this build*\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "-revert to old audio hal\r\n- revert ULL audio\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -703,8 +703,8 @@
                   "datetime": "20211202", 
                   "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211202-VANILLA.zip", 
                   "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211202-VANILLA.zip", 
-                  "sha256": "fb6794d1c38b83ad09332d0380797011508834411f6fbdc4cf64b3f29f8a1d00", 
-                  "size": "1245567781", 
+                  "sha256": "0ad13154e7fddc35f394882f75939175a4d586aeb7e3b32fb7df319e3e31de3a", 
+                  "size": "1245306189", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
