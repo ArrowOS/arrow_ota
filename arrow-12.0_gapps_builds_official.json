@@ -49,16 +49,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- parts: Adapt to S style\r\n- Import QTI vibrator AIDL and rebrand to alioth\r\n- rootdir: Change schedutil down/up rate\r\n- sepolicy: Re-work for Android S\r\n- props: Disable unspecialized app process pool\r\n- Misc fixes and upstream changes.\r\n\r\n[b]Kernel:[/b]\r\n- input: fpc_tee: Allow filtering of key events \r\n- Misc fixes and upstream changes.\r\n\r\n[b]- Installation instruction:[/b] https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n[b]- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.[/b]", 
-            "date": "2021-11-29", 
-            "datetime": "20211129", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211129-GAPPS.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211129-GAPPS.zip", 
+            "changelog": "- props: Update the transcoding operating rate\r\n- props: Use FUSE passthrough by default\r\n- Add permission OpenGL ES DEQP\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda.developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n<b>- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.</b>", 
+            "date": "2021-12-05", 
+            "datetime": "20211205", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211205-GAPPS.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211205-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "9b92689a235cf085eca770ff903cdf748d0eb802e017ed79eba5d71ac8c9e741", 
-            "size": "1340640394", 
+            "sha256": "8d1868d9657606d987d08238817727ae2a114cdde630e32e39c6e458064e8df7", 
+            "size": "1339937378", 
             "type": "official", 
             "version": "v12.0"
         }
