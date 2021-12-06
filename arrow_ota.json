@@ -2057,7 +2057,7 @@
   ], 
   "guacamole": [
     {
-      "changelog": null, 
+      "changelog": "- Bug fixes and stability improvements.", 
       "maintainer": "alk3p", 
       "model": "GM1917", 
       "oem": "OnePlus", 
@@ -2139,12 +2139,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-30", 
-                  "datetime": "20211130", 
-                  "filename": "Arrow-v12.0-guacamole-OFFICIAL-20211130-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/guacamole/Arrow-v12.0-guacamole-OFFICIAL-20211130-VANILLA.zip", 
-                  "sha256": "3734a675690873db8609ec0f3a0646015d41830b665b3142dfdae723deaf3a0d", 
-                  "size": "777088444", 
+                  "date": "2021-12-06", 
+                  "datetime": "20211206", 
+                  "filename": "Arrow-v12.0-guacamole-OFFICIAL-20211206-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/guacamole/Arrow-v12.0-guacamole-OFFICIAL-20211206-VANILLA.zip", 
+                  "sha256": "f79c67b8bed5d0a0fd80e33da8a17014c78c464faf824f03f23ab4aac31d7442", 
+                  "size": "778203295", 
                   "type": "official", 
                   "version": "v12.0"
                 }
