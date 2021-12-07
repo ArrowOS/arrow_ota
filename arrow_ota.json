@@ -617,7 +617,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "Fix boot\r\nFix call record in google dialer (?)\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "- Kernel Update (thx Palaych)\r\n- Changes to tree\r\n- Add back parts\r\n\r\nUse Arrow Recovery for best experience. Find in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-official-11-arrowos-vanilla-gapps-aosp.4251089/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -699,12 +699,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-04", 
-                  "datetime": "20211204", 
-                  "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211204-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211204-VANILLA.zip", 
-                  "sha256": "75625ee737eb76ac127e1ab3405578991eb1adbbe9c0ccdc810b2c16dc7c4089", 
-                  "size": "1246823974", 
+                  "date": "2021-12-07", 
+                  "datetime": "20211207", 
+                  "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20211207-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20211207-VANILLA.zip", 
+                  "sha256": "fb34a5ed9b5c4480b78ddcce32e3db7874d8208474e6ce1f16e24d54ec3b1cc2", 
+                  "size": "1254392360", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
