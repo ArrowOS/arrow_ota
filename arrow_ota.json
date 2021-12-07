@@ -4767,6 +4767,22 @@
       ], 
       "v12.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-12-07", 
+                  "datetime": "20211207", 
+                  "filename": "Arrow-v12.0-taimen-OFFICIAL-20211207-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20211207-VANILLA.zip", 
+                  "sha256": "edebf62f412964e3dbb49ba001563ea1d0637340ecd07e2ef47d8955b5d9e750", 
+                  "size": "783293965", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
