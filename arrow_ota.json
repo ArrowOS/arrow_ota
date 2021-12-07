@@ -1617,7 +1617,7 @@
   ], 
   "davinci": [
     {
-      "changelog": "Initial build", 
+      "changelog": null, 
       "maintainer": "RemyL", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -1699,12 +1699,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-davinci-COMMUNITY-20211201-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-COMMUNITY-20211201-VANILLA.zip", 
-                  "sha256": "96df13ad2f428cba7c24d24cfd9938b8c7f6b08edc345ff80c23bd2a314832a8", 
-                  "size": "1020281790", 
+                  "date": "2021-12-07", 
+                  "datetime": "20211207", 
+                  "filename": "Arrow-v12.0-davinci-COMMUNITY-20211207-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-COMMUNITY-20211207-VANILLA.zip", 
+                  "sha256": "b339b9a47d50fcf53117eecca315232d202af0dd8da6b99dde4c4a84fda49a74", 
+                  "size": "1018351622", 
                   "type": "community", 
                   "version": "v12.0"
                 }
