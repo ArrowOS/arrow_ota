@@ -63,6 +63,22 @@
             "version": "v12.0"
         }
     ], 
+    "blueline": [
+        {
+            "changelog": null, 
+            "date": "2021-12-07", 
+            "datetime": "20211207", 
+            "filename": "Arrow-v12.0-blueline-OFFICIAL-20211207-GAPPS.zip", 
+            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211207-GAPPS.zip", 
+            "maintainer": "ReallySnow", 
+            "model": "Pixel 3", 
+            "oem": "google", 
+            "sha256": "571f6bcbc3743fa80d1a625d8d05b29d49127f5dd30595296b7e9c8795ae5883", 
+            "size": "1156560957", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "cas": [
         {
             "changelog": "Hi, ArrowOS 12.0\r\nFirmware: V12.5.6\r\nDate: 2021-12-05\r\nChangelog: \r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
