@@ -1383,6 +1383,22 @@
       "oem": "google", 
       "v12.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-12-07", 
+                  "datetime": "20211207", 
+                  "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211207-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211207-VANILLA.zip", 
+                  "sha256": "ffa94cba2c918918ae4c0592591a6aa34fa03a06806a2ac8b14aee1ff761e016", 
+                  "size": "877832243", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
