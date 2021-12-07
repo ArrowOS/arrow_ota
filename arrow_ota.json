@@ -1385,6 +1385,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-12-07", 
+                  "datetime": "20211207", 
+                  "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211207-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211207-GAPPS.zip", 
+                  "sha256": "7e0e4c55656c5f7eef5c659475a1ec47ef1f3877b7c867eea8093c333c20a91c", 
+                  "size": "1156843571", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-12-07", 
