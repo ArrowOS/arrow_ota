@@ -1,16 +1,16 @@
 {
     "Z01R": [
         {
-            "changelog": null, 
-            "date": "2021-11-25", 
-            "datetime": "20211125", 
-            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211125-VANILLA.zip", 
-            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211125-VANILLA.zip", 
+            "changelog": "Kernel: Upgrade to 4.9.291\r\nKernel: Merged CAF tag LA.UM.10.3.r1-00500-sdm845.0", 
+            "date": "2021-12-08", 
+            "datetime": "20211208", 
+            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211208-VANILLA.zip", 
+            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211208-VANILLA.zip", 
             "maintainer": "EdwardWu", 
             "model": "Zenfone 5Z", 
             "oem": "asus", 
-            "sha256": "74e33d424d094d1976078661fe7317938a7de3213866ef08eb5f89bd77306494", 
-            "size": "769969700", 
+            "sha256": "9451289e4bcee2792cbbba180f6e0a01d8962732c89ff478623b5c59f0276fad", 
+            "size": "766544338", 
             "type": "community", 
             "version": "v12.0"
         }
