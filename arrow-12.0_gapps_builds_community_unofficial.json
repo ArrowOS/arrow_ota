@@ -1,16 +1,16 @@
 {
     "Z01R": [
         {
-            "changelog": null, 
-            "date": "2021-11-25", 
-            "datetime": "20211125", 
-            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211125-GAPPS.zip", 
-            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211125-GAPPS.zip", 
+            "changelog": "Kernel: Upgrade to 4.9.291\r\nKernel: Merged CAF tag LA.UM.10.3.r1-00500-sdm845.0", 
+            "date": "2021-12-08", 
+            "datetime": "20211208", 
+            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211208-GAPPS.zip", 
+            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211208-GAPPS.zip", 
             "maintainer": "EdwardWu", 
             "model": "Zenfone 5Z", 
             "oem": "asus", 
-            "sha256": "f3eabe4925f4e28e6c75d1dd059dd62f7769a9a22d53d2faa0a330eac79c5b33", 
-            "size": "1055754389", 
+            "sha256": "0c6ca0afd0eb4c29b28d551dd51ce8c0cab7eb50f329b57beffff8613d59eb18", 
+            "size": "1051013951", 
             "type": "community", 
             "version": "v12.0"
         }
