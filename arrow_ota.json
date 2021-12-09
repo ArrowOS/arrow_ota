@@ -4873,7 +4873,7 @@
   ], 
   "tucana": [
     {
-      "changelog": "Test Build 8-12-2021\r\n- Fix FOD on AOD/screen off", 
+      "changelog": "- Initial release of Community ArrowOS for tucana\r\n- Update redfin fingerprint to November\r\n- Drop fast-charge script (now it is handled in the kernel)\r\n- Bring back audio amplifier\r\n- Address selinux denials", 
       "maintainer": "Erikdrozina", 
       "model": "Mi Note 10", 
       "oem": "Xiaomi", 
@@ -4895,12 +4895,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-08", 
-                  "datetime": "20211208", 
-                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20211208-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20211208-VANILLA.zip", 
-                  "sha256": "2881c2fc9d88cd43f8bed67249b87efbfabe2090c506235f60ec21f053e53e4b", 
-                  "size": "1196054129", 
+                  "date": "2021-12-09", 
+                  "datetime": "20211209", 
+                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20211209-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20211209-VANILLA.zip", 
+                  "sha256": "9b366f3af9bf44db69de3883eba6422852f4a2ded66de024a8cd91815d48597a", 
+                  "size": "1195924508", 
                   "type": "community", 
                   "version": "v12.0"
                 }
