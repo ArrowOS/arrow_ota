@@ -15,6 +15,22 @@
             "version": "v12.0"
         }
     ], 
+    "cepheus": [
+        {
+            "changelog": null, 
+            "date": "2021-12-09", 
+            "datetime": "20211209", 
+            "filename": "Arrow-v12.0-cepheus-COMMUNITY-20211209-VANILLA.zip", 
+            "filepath": "/arrow-12.0/cepheus/Arrow-v12.0-cepheus-COMMUNITY-20211209-VANILLA.zip", 
+            "maintainer": "lamjiidii1", 
+            "model": "Mi 9", 
+            "oem": "Xiaomi", 
+            "sha256": "5c78f3dd365ca55011edabb163d8e3c7fd53f2b04bd7e75ee8fb22b5a922f7b4", 
+            "size": "1031395856", 
+            "type": "community", 
+            "version": "v12.0"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "- Update davinci blobs from MIUI v12.1.4.0 RFJMIXM\r\n- Use aosp wfd display\r\n- Update audio hal\r\n- Use snap cam", 
