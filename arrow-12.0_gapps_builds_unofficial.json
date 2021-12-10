@@ -145,7 +145,7 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Initial Android 12 Build\r\n- Switch to build vendor(oss vendor)", 
+            "changelog": "- Fixed call issues", 
             "date": "2021-12-10", 
             "datetime": "20211210", 
             "filename": "Arrow-v12.0-gauguin-UNOFFICIAL-20211210-GAPPS.zip", 
@@ -153,8 +153,8 @@
             "maintainer": "baolong24", 
             "model": "M2007J17G", 
             "oem": "Xiaomi", 
-            "sha256": "4566e89119807bfac3b9128b8d017dce0c6ac08108f81c4af3831da123b125ac", 
-            "size": "1536245574", 
+            "sha256": "6eb7dae2f0ea054a6f78da9fa3fb2ecc7f69e3e993506a497d7c5f8b7494b834", 
+            "size": "1533631064", 
             "type": "unofficial", 
             "version": "v12.0"
         }
