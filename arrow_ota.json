@@ -3481,7 +3481,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Switch AOSP WFD\r\n\u2022 Update blobs from PHOENIX 21.11.17\r\n\u2022 Merge Linux version 4.14.256 into the kernel \r\n\u2022 Misc changes", 
+      "changelog": null, 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -3579,12 +3579,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-11-03", 
-                  "datetime": "20211103", 
-                  "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20211103-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-UNOFFICIAL-20211103-GAPPS.zip", 
-                  "sha256": "bda7516fc9e620ed1065be0c9101945af99503396c865a8e8ab979e76a73f68c", 
-                  "size": "1351644842", 
+                  "date": "2021-12-10", 
+                  "datetime": "20211210", 
+                  "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20211210-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-UNOFFICIAL-20211210-GAPPS.zip", 
+                  "sha256": "eb712d193663e74842524a71772dceb2b6ff5fd6e3d07e521c07b21470bb6a11", 
+                  "size": "1356984331", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
