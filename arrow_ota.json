@@ -1909,7 +1909,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- Fixed call issues", 
+      "changelog": "- Add support for aptX\r\n- Use GCam GO for GApps variant", 
       "maintainer": "baolong24", 
       "model": "M2007J17G", 
       "oem": "Xiaomi", 
@@ -1991,12 +1991,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-10", 
-                  "datetime": "20211210", 
-                  "filename": "Arrow-v12.0-gauguin-UNOFFICIAL-20211210-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/gauguin/Arrow-v12.0-gauguin-UNOFFICIAL-20211210-VANILLA.zip", 
-                  "sha256": "6ce5529f652a2ded6260248d5265bc9ebe08913cf204d55d7fdf7f80ca30a32e", 
-                  "size": "1204653000", 
+                  "date": "2021-12-11", 
+                  "datetime": "20211211", 
+                  "filename": "Arrow-v12.0-gauguin-UNOFFICIAL-20211211-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/gauguin/Arrow-v12.0-gauguin-UNOFFICIAL-20211211-VANILLA.zip", 
+                  "sha256": "a7c7097fb8e3e70400330277003601619953e4e41a289c5e03048775660feb97", 
+                  "size": "1203797981", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
