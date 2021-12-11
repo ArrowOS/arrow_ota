@@ -97,16 +97,16 @@
     ], 
     "cas": [
         {
-            "changelog": "Hi, ArrowOS 12.0\r\nFirmware: V12.5.6\r\nDate: 2021-12-08\r\nChangelog: \r\n1. Sync with the latest source\r\n\r\n2021-12-05\r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
-            "date": "2021-12-08", 
-            "datetime": "20211208", 
-            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211208-GAPPS.zip", 
-            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211208-GAPPS.zip", 
+            "changelog": "Hi, ArrowOS 12.0\r\nFirmware: V12.5.6\r\nDate: 2021-12-11\r\nChangelog: \r\n1. Sync with the latest source\r\n2. Support dc dimming\r\n\r\n2021-12-05\r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
+            "date": "2021-12-11", 
+            "datetime": "20211211", 
+            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211211-GAPPS.zip", 
+            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211211-GAPPS.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "69506ac37e1c6478925f4190fdc5da81236a5c278b62f59a64afd4dfa24aca7f", 
-            "size": "1826632385", 
+            "sha256": "cd3e83b495bed6c0db15eeab6b08374033d11e1561e9d1ae8d147489ca0dffc9", 
+            "size": "1826152872", 
             "type": "unofficial", 
             "version": "v12.0"
         }
