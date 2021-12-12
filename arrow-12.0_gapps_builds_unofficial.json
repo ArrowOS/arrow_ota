@@ -273,7 +273,7 @@
     ], 
     "phoenix": [
         {
-            "changelog": null, 
+            "changelog": "- rro overlays", 
             "date": "2021-12-12", 
             "datetime": "20211212", 
             "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20211212-GAPPS.zip", 
@@ -281,8 +281,8 @@
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "c0dd0f70035d0e312a1bf22d72d4692837b30b5ecf5668a75296543f41356b69", 
-            "size": "1356993723", 
+            "sha256": "e1bfde9dc540a4fc47965a7015a3849dc78cb41f257ab4710bc40aba2388a527", 
+            "size": "1356995614", 
             "type": "unofficial", 
             "version": "v12.0"
         }
