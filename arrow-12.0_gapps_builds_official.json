@@ -127,6 +127,22 @@
             "version": "v12.0"
         }
     ], 
+    "gauguin": [
+        {
+            "changelog": "- First official build\r\n- Switch to build vendor(oss vendor)\r\n\r\nNote: You must clean flash to this build", 
+            "date": "2021-12-12", 
+            "datetime": "20211212", 
+            "filename": "Arrow-v12.0-gauguin-OFFICIAL-20211212-GAPPS.zip", 
+            "filepath": "/arrow-12.0/gauguin/Arrow-v12.0-gauguin-OFFICIAL-20211212-GAPPS.zip", 
+            "maintainer": "baolong24", 
+            "model": "M2007J17G", 
+            "oem": "Xiaomi", 
+            "sha256": "6109a859fae1f0c45313b3a81456dc7be2496e6e4493d4884191765244ea9086", 
+            "size": "1557928692", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "ginkgo": [
         {
             "changelog": "- Upstreamed kernel to v4.14.256\r\n- Merged latest CAF tag in kernel\r\n- Fixed wifi and bluetooth mac address\r\n- Switched to pixel libperfmgr for boosting\r\n- Removed useless QTI PASR feature\r\n- Enabled FUSE passthrough mode\r\n- Align statusbar correctly on lockscreen\r\n- Disabled broken zygote USAP pool\r\n- Misc optimizations and fixes", 
