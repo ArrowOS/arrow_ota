@@ -82,15 +82,15 @@
     "cas": [
         {
             "changelog": "Hi, ArrowOS 12.0\r\nFirmware: V12.5.6\r\nDate: 2021-12-12\r\nChangelog:\r\n1. Sync with the latest source\r\n2. Merge tag LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0 into kernel source\r\n \r\n2021-12-11\r\n1. Sync with the latest source\r\n2. Support dc dimming\r\n\r\n2021-12-05\r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
-            "date": "2021-12-12", 
-            "datetime": "20211212", 
-            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211212-VANILLA.zip", 
-            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211212-VANILLA.zip", 
+            "date": "2021-12-13", 
+            "datetime": "20211213", 
+            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20211213-VANILLA.zip", 
+            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20211213-VANILLA.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "8989470f8d999c91a51755b17492af48c98df183f287c7b7838ce5cb2df35270", 
-            "size": "1496258639", 
+            "sha256": "911b5ba0a2956e2aa465ec44d13adddb051d56ed823b9c2e4161d2af4802caa9", 
+            "size": "1496190029", 
             "type": "unofficial", 
             "version": "v12.0"
         }
