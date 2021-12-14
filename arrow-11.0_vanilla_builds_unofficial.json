@@ -289,16 +289,16 @@
     ], 
     "lisa": [
         {
-            "changelog": "- initial release", 
-            "date": "2021-11-07", 
-            "datetime": "20211107", 
-            "filename": "Arrow-v11.0-lisa-OFFICIAL-20211107-VANILLA.zip", 
-            "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211107-VANILLA.zip", 
+            "changelog": "[b]25/11/2021[/b]\r\n- Fixed wifi calling.\r\n\r\n[b]23/11/2021:[/b]\r\n- Fix issues related to audio.", 
+            "date": "2021-12-14", 
+            "datetime": "20211214", 
+            "filename": "Arrow-v11.0-lisa-OFFICIAL-20211214-VANILLA.zip", 
+            "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211214-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Xiaomi 11 Lite NE", 
             "oem": "Xiaomi", 
-            "sha256": "d61c0914cc693065d207b83d775b4e93c29ae46bbad33c24a2e867839306e5f5", 
-            "size": "1721939474", 
+            "sha256": "ef0593a3dd07de6eb0b1e6ae45d90d0f03e02be95c3dda8a9a3215afcf475544", 
+            "size": "1746743396", 
             "type": "official", 
             "version": "v11.0"
         }
