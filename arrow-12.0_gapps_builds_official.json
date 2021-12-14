@@ -306,15 +306,15 @@
     "vayu": [
         {
             "changelog": "Please check <a href=\"https://github.com/ArrowOS-Devices/android_device_xiaomi_vayu/commits/arrow-12.0\">Device</a>,<a href=\"https://github.com/ArrowOS-Devices/android_vendor_xiaomi_vayu/commits/arrow-12.0\">Vendor</a>,<a href=\"https://github.com/ArrowOS-Devices/android_kernel_xiaomi_vayu/commits/arrow-12.0\">Kernel</a>\r\nsources and <a href=\"https://arrowos.net/changelog.php\">ROM changelogs</a> for actual changes.<br>You can join <a href=\"https://t.me/kubersharma001chat\">support chat</a> for more help.<br><br><b>You can donate to maintainer via:</b> <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a><b> | UPI:</b> 001KS001@kotak<br><br>Also, check out <a href=\"https://forum.xda-developers.com/t/arrowos-12-0-android-12-0-for-poco-x3-pro-vayu-bhima-official.4345061\">XDA thread</a> to discuss with other users.", 
-            "date": "2021-12-13", 
-            "datetime": "20211213", 
-            "filename": "Arrow-v12.0-vayu-OFFICIAL-20211213-GAPPS.zip", 
-            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20211213-GAPPS.zip", 
+            "date": "2021-12-14", 
+            "datetime": "20211214", 
+            "filename": "Arrow-v12.0-vayu-OFFICIAL-20211214-GAPPS.zip", 
+            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20211214-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "10d44a58240598fa114f532842606cafa9319cae8c2ec9629fd90bbaff32be23", 
-            "size": "1435850190", 
+            "sha256": "dc935f51a6b2ccfd2cdfc2f417a923ff61035e0ef03bc9fde63ffcfc3347e2bf", 
+            "size": "1435849786", 
             "type": "official", 
             "version": "v12.0"
         }
