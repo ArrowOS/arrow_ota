@@ -98,15 +98,15 @@
     "beryllium": [
         {
             "changelog": "- sdm845-common:\r\nUpdate blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- beryllium: Update blobs from V12.0.3.0.QEJMIXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!", 
-            "date": "2021-11-12", 
-            "datetime": "20211112", 
-            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20211112-VANILLA.zip", 
-            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20211112-VANILLA.zip", 
+            "date": "2021-12-16", 
+            "datetime": "20211216", 
+            "filename": "Arrow-v11.0-beryllium-OFFICIAL-20211216-VANILLA.zip", 
+            "filepath": "/arrow-11.0/beryllium/Arrow-v11.0-beryllium-OFFICIAL-20211216-VANILLA.zip", 
             "maintainer": "Ganesh Varma, kubersharma001, palaych", 
             "model": "POCOPHONE F1", 
             "oem": "POCO", 
-            "sha256": "e0cea6f40817d5a701196e01732528055c426be28dd5363dcf69adf709d4dcdb", 
-            "size": "956306096", 
+            "sha256": "8a2142124416559105f5814408a3a7630f0a186eba9c2486a89d73f55e8b71d2", 
+            "size": "958945075", 
             "type": "official", 
             "version": "v11.0"
         }
