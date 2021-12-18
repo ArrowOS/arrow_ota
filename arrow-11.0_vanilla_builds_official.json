@@ -402,15 +402,15 @@
     "monet": [
         {
             "changelog": "- Optimize dex flags\r\n- Enable Seamless Transfer\r\n- Address sepolicy denials\r\n- Update blobs to MIUI V12.5.1.0.RJIMIXM\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merged CAF tag LA.UM.9.12.r1-12200-SMxx50.QSSI12.0 for msm-4.19 and wlan\r\n- drivers: remove xiaomi early fingerprint wakeup optimization\r\n- usb: pd: Revert some CAF patches (fixed random panic usb)\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Request MIUI Android 11 firmware and vendor.", 
-            "date": "2021-11-16", 
-            "datetime": "20211116", 
-            "filename": "Arrow-v11.0-monet-OFFICIAL-20211116-VANILLA.zip", 
-            "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20211116-VANILLA.zip", 
+            "date": "2021-12-18", 
+            "datetime": "20211218", 
+            "filename": "Arrow-v11.0-monet-OFFICIAL-20211218-VANILLA.zip", 
+            "filepath": "/arrow-11.0/monet/Arrow-v11.0-monet-OFFICIAL-20211218-VANILLA.zip", 
             "maintainer": "Bauuuuu, palaych", 
             "model": "Mi 10 Lite 5G", 
             "oem": "Xiaomi", 
-            "sha256": "dae506ce31bd00fb21a4fdf087fee5ed3f0f71374e50e0483d8d0681e613713e", 
-            "size": "737343170", 
+            "sha256": "0e0ac35150e814f3251e34011932a4454867dba0fe7f00bc2e4a557b73f684f6", 
+            "size": "740786240", 
             "type": "official", 
             "version": "v11.0"
         }
