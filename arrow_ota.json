@@ -1969,9 +1969,9 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- First official build\r\n- Switch to build vendor(oss vendor)\r\n\r\nNote: You must clean flash to this build", 
-      "maintainer": "baolong24", 
-      "model": "M2007J17G", 
+      "changelog": "- Upstream blobs to global.\r\n- Upstream kernel.\r\n- Update light HAL.\r\n- Device tree improvements and performance enhancements.\r\n- Fixed traffic indicator visibility on status bar.\r\n- Misc changes and blob updates.\r\n\r\nNote:\r\n- Required to be on the latest android 11 f/w and vendor.", 
+      "maintainer": "Ganesh Varma", 
+      "model": "arrow_gauguin", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
@@ -1991,12 +1991,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-16", 
-                  "datetime": "20211116", 
-                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20211116-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20211116-VANILLA.zip", 
-                  "sha256": "92d85ed179da3a9e11b54ae2ba43a229e86bf649ee03bdffeeeccc4b6a789c19", 
-                  "size": "747244412", 
+                  "date": "2021-12-18", 
+                  "datetime": "20211218", 
+                  "filename": "Arrow-v11.0-gauguin-OFFICIAL-20211218-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/gauguin/Arrow-v11.0-gauguin-OFFICIAL-20211218-VANILLA.zip", 
+                  "sha256": "3d021d10e7e42a2359b935151a4f80c59e5b4057087708c0052205f1a57323a8", 
+                  "size": "749303068", 
                   "type": "official", 
                   "version": "v11.0"
                 }
