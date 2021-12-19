@@ -322,15 +322,15 @@
     "lisa": [
         {
             "changelog": "- Fix issues related to audio.\r\n- Misc changes.", 
-            "date": "2021-11-25", 
-            "datetime": "20211125", 
-            "filename": "Arrow-v11.0-lisa-OFFICIAL-20211125-GAPPS.zip", 
-            "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211125-GAPPS.zip", 
+            "date": "2021-12-19", 
+            "datetime": "20211219", 
+            "filename": "Arrow-v11.0-lisa-OFFICIAL-20211219-GAPPS.zip", 
+            "filepath": "/arrow-11.0/lisa/Arrow-v11.0-lisa-OFFICIAL-20211219-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Xiaomi 11 Lite NE", 
             "oem": "Xiaomi", 
-            "sha256": "fef64bef5e9cc86b213bcb47c7a7aeb73b4ea96cdc425214ad7f236bb79a77cc", 
-            "size": "2025988341", 
+            "sha256": "06d60374e1a53136cbfa9f58069f9f318302a3536fdd5bd063a9b6c8a755230c", 
+            "size": "2025740522", 
             "type": "official", 
             "version": "v11.0"
         }
