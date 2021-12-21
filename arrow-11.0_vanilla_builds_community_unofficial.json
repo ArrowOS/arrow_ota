@@ -242,15 +242,15 @@
     "z2_plus": [
         {
             "changelog": null, 
-            "date": "2021-09-09", 
-            "datetime": "20210909", 
-            "filename": "Arrow-v11.0-z2_plus-COMMUNITY-20210909-VANILLA.zip", 
-            "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-COMMUNITY-20210909-VANILLA.zip", 
+            "date": "2021-12-21", 
+            "datetime": "20211221", 
+            "filename": "Arrow-v11.0-z2_plus-COMMUNITY-20211221-VANILLA.zip", 
+            "filepath": "/arrow-11.0/z2_plus/Arrow-v11.0-z2_plus-COMMUNITY-20211221-VANILLA.zip", 
             "maintainer": "PranavTemkar", 
             "model": "Z2 Plus", 
             "oem": "ZUK", 
-            "sha256": "0486d68e7d8cf320cd80725692530fb72944e926802a25ca5d630f37573bb62f", 
-            "size": "750687742", 
+            "sha256": "16a431fcd23c7edd5465c3c540f16123a59d94c575120bfa303e495b663461ed", 
+            "size": "761780378", 
             "type": "community", 
             "version": "v11.0"
         }
