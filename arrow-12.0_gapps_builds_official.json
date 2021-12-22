@@ -49,16 +49,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- props: Update the transcoding operating rate\r\n- props: Use FUSE passthrough by default\r\n- Add permission OpenGL ES DEQP\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda.developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261\r\n\r\n<b>- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.</b>", 
-            "date": "2021-12-05", 
-            "datetime": "20211205", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211205-GAPPS.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211205-GAPPS.zip", 
+            "changelog": "- Build with AOSP Clang 14.0.0 (r437112)\r\n- sepolicy: Address denials for XiaomiParts (Fixed thermal profiles and etc.)\r\n- parts: Use current target SDK and set exported flag\r\n- parts: Increase BootCompletedReceiver priority\r\n- props: dont latch unsignal buffers\r\n- props: Disable debug.sf.enable_hwc_vds\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Merge branch linux-4.19.y of jaegeuk/f2fs-stable\r\n- Merge CAF tag LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.</b>", 
+            "date": "2021-12-22", 
+            "datetime": "20211222", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211222-GAPPS.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211222-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "8d1868d9657606d987d08238817727ae2a114cdde630e32e39c6e458064e8df7", 
-            "size": "1339937378", 
+            "sha256": "a103b7452c5a34a4b902fa86c54f75c4786c44b2709aba98a6ba6fa342f7a833", 
+            "size": "1320825445", 
             "type": "official", 
             "version": "v12.0"
         }
