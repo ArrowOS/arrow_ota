@@ -257,16 +257,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- sepolicy: Re-work for Android S\r\n- Set selinux to enforce\r\n- init: Set ro.product.mod_device for dynamic SAR\r\n- init: Properly set ro.product.*.name/marketname\r\n- Enable settings provider model\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Update with A11 only with Clean flash!</b>", 
-            "date": "2021-11-30", 
-            "datetime": "20211130", 
-            "filename": "Arrow-v12.0-surya-OFFICIAL-20211130-VANILLA.zip", 
-            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20211130-VANILLA.zip", 
+            "changelog": "- rootdir: Start mi_thermald on boot\r\n- rootdir: Drop vendor.thermal-engine\r\n- overlay: Limit screen recorder to 90fps\r\n- overlay: Define OEM fast charge sysfs node\r\n- Build with AOSP Clang 14.0.0 (r437112)\r\n- sepolicy: Allow XiaomiParts find sensorservice\r\n- sepolicy: Address denials\r\n- props: Disable debug.sf.enable_hwc_vds\r\n- Build missing NFC packages\r\n- Update blobs to MIUI V12.5.4.0.RJGMIXM\r\n- props: Turn on GPU protected contents\r\n- props: Enable back GL backpressure\r\n- props: Disable partial FB excl rect\r\n- props: dont latch unsignal buffers \r\n- rootdir: Remove IO read_ahead_kb tune \r\n- rro_overlays: Move to vendor\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11)</b>.", 
+            "date": "2021-12-25", 
+            "datetime": "20211225", 
+            "filename": "Arrow-v12.0-surya-OFFICIAL-20211225-VANILLA.zip", 
+            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20211225-VANILLA.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "d606d1356765935dcfa23e581fe2c0b54ddad9d0119c4934da8da85bab324a3b", 
-            "size": "1020642768", 
+            "sha256": "5758bf146a445849b47f0b8b6e05d94521b4d6c39e358bf5fbf5eaf764eaddeb", 
+            "size": "1011010270", 
             "type": "official", 
             "version": "v12.0"
         }
