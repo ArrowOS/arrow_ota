@@ -257,16 +257,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- sepolicy: Re-work for Android S\r\n- Set selinux to enforce\r\n- init: Set ro.product.mod_device for dynamic SAR\r\n- init: Properly set ro.product.*.name/marketname\r\n- Enable settings provider model\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Update with A11 only with Clean flash!</b>", 
-            "date": "2021-11-30", 
-            "datetime": "20211130", 
-            "filename": "Arrow-v12.0-surya-OFFICIAL-20211130-GAPPS.zip", 
-            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20211130-GAPPS.zip", 
+            "changelog": "- rootdir: Start mi_thermald on boot\r\n- rootdir: Drop vendor.thermal-engine\r\n- overlay: Limit screen recorder to 90fps\r\n- overlay: Define OEM fast charge sysfs node\r\n- Build with AOSP Clang 14.0.0 (r437112)\r\n- sepolicy: Allow XiaomiParts find sensorservice\r\n- sepolicy: Address denials\r\n- props: Disable debug.sf.enable_hwc_vds\r\n- Build missing NFC packages\r\n- Update blobs to MIUI V12.5.4.0.RJGMIXM\r\n- props: Turn on GPU protected contents\r\n- props: Enable back GL backpressure\r\n- props: Disable partial FB excl rect\r\n- props: dont latch unsignal buffers \r\n- rootdir: Remove IO read_ahead_kb tune \r\n- rro_overlays: Move to vendor\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11)</b>.", 
+            "date": "2021-12-25", 
+            "datetime": "20211225", 
+            "filename": "Arrow-v12.0-surya-OFFICIAL-20211225-GAPPS.zip", 
+            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20211225-GAPPS.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "aef4614f93dd6cdc835c1656e0fda4fbc20a756253bd8a30b4248280b51e8d6a", 
-            "size": "1351854724", 
+            "sha256": "eedd3e6de34934558004bfaa5e6fbd29c28313e22ce967839d9e5f4fd365d408", 
+            "size": "1340957364", 
             "type": "official", 
             "version": "v12.0"
         }
