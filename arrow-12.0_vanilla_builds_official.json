@@ -1,4 +1,20 @@
 {
+    "OP4A89": [
+        {
+            "changelog": "- Misc changes and improvements", 
+            "date": "2021-12-25", 
+            "datetime": "20211225", 
+            "filename": "Arrow-v12.0-OP4A89-OFFICIAL-20211225-VANILLA.zip", 
+            "filepath": "/arrow-12.0/OP4A89/Arrow-v12.0-OP4A89-OFFICIAL-20211225-VANILLA.zip", 
+            "maintainer": "art_chen", 
+            "model": "PCLM10", 
+            "oem": "OPPO", 
+            "sha256": "0751b9068e4a0bc8514f38381984eb0eba75dd1260c133efa5ad74f93e9bdaad", 
+            "size": "1297702524", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "RMX1801": [
         {
             "changelog": null, 
