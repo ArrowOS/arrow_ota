@@ -369,16 +369,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Initial Build", 
-            "date": "2021-12-01", 
-            "datetime": "20211201", 
-            "filename": "Arrow-v12.0-whyred-OFFICIAL-20211201-GAPPS.zip", 
-            "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20211201-GAPPS.zip", 
+            "changelog": "\u2022 Added lawnchair launcher as default\r\n\u2022 Fixup status bar padding issues on the lock screen\r\n\u2022 Fixup USB-C audio\r\n\u2022 Update CarrierSettings from sunfish SQ1A.211205.008\r\n\u2022 Switch overlays from build time to RRO\r\n\u2022 Copy DispSync offsets from cmi\r\n\u2022 Drop surface flinger vsync phase offsets\r\n\u2022 Switch to SF phase offsets from redfin\r\n\u2022 Sync durations props with raven\r\n\u2022 Sync idle/touch timer to raven\r\n\u2022 Drop unnecessary fqnames from manifests\r\n\u2022 Clean up and uprev fp HAL to 2.3\r\n\u2022 Upstream wireguard to 1.0.20211208 snapshot\r\n\u2022 Merge Linux version 4.14.258 into the kernel \r\n\u2022 Misc changes", 
+            "date": "2021-12-26", 
+            "datetime": "20211226", 
+            "filename": "Arrow-v12.0-whyred-OFFICIAL-20211226-GAPPS.zip", 
+            "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20211226-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "09044f1296d866cd8e231216372bbefc10ef22ebc6a5464ea5e9cb7f992f1697", 
-            "size": "1089356274", 
+            "sha256": "59254960ebc10037465ec6c0ef548a941ec7e8ff3c6eaf4d2a83ab945337fbde", 
+            "size": "1076072967", 
             "type": "official", 
             "version": "v12.0"
         }
