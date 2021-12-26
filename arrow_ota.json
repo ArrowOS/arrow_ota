@@ -2725,7 +2725,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Switch to user build\r\n- Miscellaneous fixes and improvements", 
+      "changelog": "- Added Notch Bar Killer overlay\r\n- Removed some useless fingerprint blobs\r\n- Optimize fingerprint HAL\r\n- Fixed fingerprint wake-up animation\r\n- Uprev framework compatibility matrix to 2.0\r\n- Dropped unused drm packages\r\n- Miscellaneous fixes and improvements", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -2807,12 +2807,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-11-30", 
-                  "datetime": "20211130", 
-                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20211130-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211130-VANILLA.zip", 
-                  "sha256": "f0e48818e7ba41aee0ee2e63e590c3e830cde1ecf5226a590b3c437e64a463ae", 
-                  "size": "856661600", 
+                  "date": "2021-12-26", 
+                  "datetime": "20211226", 
+                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20211226-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211226-VANILLA.zip", 
+                  "sha256": "a695838f7cb2213d3b3c64fa4b24e71ec7447cbe384ab173668f39532790692f", 
+                  "size": "853037990", 
                   "type": "official", 
                   "version": "v12.0"
                 }
