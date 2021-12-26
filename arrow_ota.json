@@ -1501,7 +1501,7 @@
   ], 
   "crosshatch": [
     {
-      "changelog": null, 
+      "changelog": "Add AOSP RCS packages\r\nRemove split permissions", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 3 XL", 
       "oem": "google", 
@@ -1523,12 +1523,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-07", 
-                  "datetime": "20211207", 
-                  "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211207-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211207-VANILLA.zip", 
-                  "sha256": "ffa94cba2c918918ae4c0592591a6aa34fa03a06806a2ac8b14aee1ff761e016", 
-                  "size": "877832243", 
+                  "date": "2021-12-26", 
+                  "datetime": "20211226", 
+                  "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211226-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211226-VANILLA.zip", 
+                  "sha256": "8706166537c7f84a4639fff94dfcbb8e4d4ac5555ab02effeda60b9da4c36934", 
+                  "size": "851939912", 
                   "type": "official", 
                   "version": "v12.0"
                 }
