@@ -257,16 +257,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "\u2022 Switch AOSP WFD\r\n\u2022 Update blobs from PHOENIX 21.11.17\r\n\u2022 Merge Linux version 4.14.256 into the kernel \r\n\u2022 Misc changes", 
-            "date": "2021-12-01", 
-            "datetime": "20211201", 
-            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211201-VANILLA.zip", 
-            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211201-VANILLA.zip", 
+            "changelog": "\u2022 Added lawnchair launcher as default\r\n\u2022 Fixup status bar padding issues on the lock screen\r\n\u2022 Fixup USB-C audio\r\n\u2022 Update CarrierSettings from sunfish SQ1A.211205.008\r\n\u2022 Switch overlays from build time to RRO\r\n\u2022 Copy DispSync offsets from cmi\r\n\u2022 Drop surface flinger vsync phase offsets\r\n\u2022 Switch to SF phase offsets from redfin\r\n\u2022 Sync durations props with raven\r\n\u2022 Sync idle/touch timer to raven\r\n\u2022 Drop unnecessary fqnames from manifests\r\n\u2022 Clean up and uprev fp HAL to 2.3\r\n\u2022 Upstream wireguard to 1.0.20211208 snapshot\r\n\u2022 Merge Linux version 4.14.258 into the kernel \r\n\u2022 Misc changes", 
+            "date": "2021-12-26", 
+            "datetime": "20211226", 
+            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211226-VANILLA.zip", 
+            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211226-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "906568a3cc37b2c3791b087e600a9ff7a71ed05247860b2c0496abb3d040154a", 
-            "size": "1020772391", 
+            "sha256": "0241063370f3a40f1511d4618b67fb954bddfb032e0c750b19ba3367d457dc20", 
+            "size": "1020832993", 
             "type": "official", 
             "version": "v12.0"
         }
