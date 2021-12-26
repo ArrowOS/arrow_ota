@@ -97,16 +97,16 @@
     ], 
     "blueline": [
         {
-            "changelog": null, 
-            "date": "2021-12-07", 
-            "datetime": "20211207", 
-            "filename": "Arrow-v12.0-blueline-OFFICIAL-20211207-VANILLA.zip", 
-            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211207-VANILLA.zip", 
+            "changelog": "Add AOSP RCS packages\r\nRemove split permissions", 
+            "date": "2021-12-26", 
+            "datetime": "20211226", 
+            "filename": "Arrow-v12.0-blueline-OFFICIAL-20211226-VANILLA.zip", 
+            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211226-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 3", 
             "oem": "google", 
-            "sha256": "ec97f5379e4e8957ae222f455e7b89652ab652075c520722f23fa4e36e35cc84", 
-            "size": "877532261", 
+            "sha256": "ad31a2d55d8b0b07c0e24fa72570cf7be26edcd7e5c618fe6d3c197809aa65cf", 
+            "size": "851663705", 
             "type": "official", 
             "version": "v12.0"
         }
