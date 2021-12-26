@@ -177,16 +177,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Upstreamed kernel to v4.14.256\r\n- Merged latest CAF tag in kernel\r\n- Fixed wifi and bluetooth mac address\r\n- Switched to pixel libperfmgr for boosting\r\n- Removed useless QTI PASR feature\r\n- Enabled FUSE passthrough mode\r\n- Align statusbar correctly on lockscreen\r\n- Disabled broken zygote USAP pool\r\n- Misc optimizations and fixes", 
-            "date": "2021-11-30", 
-            "datetime": "20211130", 
-            "filename": "Arrow-v12.0-ginkgo-OFFICIAL-20211130-VANILLA.zip", 
-            "filepath": "/arrow-12.0/ginkgo/Arrow-v12.0-ginkgo-OFFICIAL-20211130-VANILLA.zip", 
+            "changelog": "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel", 
+            "date": "2021-12-26", 
+            "datetime": "20211226", 
+            "filename": "Arrow-v12.0-ginkgo-OFFICIAL-20211226-VANILLA.zip", 
+            "filepath": "/arrow-12.0/ginkgo/Arrow-v12.0-ginkgo-OFFICIAL-20211226-VANILLA.zip", 
             "maintainer": "Adithya (ghostrider_reborn)", 
-            "model": "Redmi Note 8", 
+            "model": "Redmi Note 8/8T", 
             "oem": "Xiaomi", 
-            "sha256": "a6452c199fec2f08971daf4e227b26f13b7018d3651697078b9fe77c6835d0e6", 
-            "size": "914548250", 
+            "sha256": "be1938f0ea37d5e37115d051517f550f6e3eaaa4282e5bc5a0e7467a530c2754", 
+            "size": "911230062", 
             "type": "official", 
             "version": "v12.0"
         }
