@@ -193,16 +193,16 @@
     ], 
     "guacamole": [
         {
-            "changelog": "- Bug fixes and stability improvements.", 
-            "date": "2021-12-18", 
-            "datetime": "20211218", 
-            "filename": "Arrow-v12.0-guacamole-OFFICIAL-20211218-GAPPS.zip", 
-            "filepath": "/arrow-12.0/guacamole/Arrow-v12.0-guacamole-OFFICIAL-20211218-GAPPS.zip", 
+            "changelog": "- Bug fixes and stability improvements.\r\n- For more pls check <a href=\"https://forum.xda-developers.com/t/4355029\">XDA thread</a>", 
+            "date": "2021-12-26", 
+            "datetime": "20211226", 
+            "filename": "Arrow-v12.0-guacamole-OFFICIAL-20211226-GAPPS.zip", 
+            "filepath": "/arrow-12.0/guacamole/Arrow-v12.0-guacamole-OFFICIAL-20211226-GAPPS.zip", 
             "maintainer": "alk3p", 
             "model": "GM1917", 
             "oem": "OnePlus", 
-            "sha256": "8cdc900f4ba0ef4aea8d979821fe282b611c3231e143abf707a91f83117e7af5", 
-            "size": "1040199263", 
+            "sha256": "5867919c5f04be32a8891e612fcedeb6abffb421653e1e6d27ef2aa504a9f466", 
+            "size": "1040282626", 
             "type": "official", 
             "version": "v12.0"
         }
