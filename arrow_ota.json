@@ -5813,7 +5813,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "\u2022 Switched to AOSP WFD\r\n\u2022 Upstream kernel to 4.4.283\r\n\u2022 Drop perfd blobs\r\n\u2022 Fixed nightlight\r\n\u2022 Cleanup useless blobs\r\n\u2022 Misc changes", 
+      "changelog": "\u2022 Added lawnchair launcher as default\r\n\u2022 Fixup status bar padding issues on the lock screen\r\n\u2022 Fixup USB-C audio\r\n\u2022 Update CarrierSettings from sunfish SQ1A.211205.008\r\n\u2022 Switch overlays from build time to RRO\r\n\u2022 Copy DispSync offsets from cmi\r\n\u2022 Drop surface flinger vsync phase offsets\r\n\u2022 Switch to SF phase offsets from redfin\r\n\u2022 Sync durations props with raven\r\n\u2022 Sync idle/touch timer to raven\r\n\u2022 Drop unnecessary fqnames from manifests\r\n\u2022 Clean up and uprev fp HAL to 2.3\r\n\u2022 Upstream wireguard to 1.0.20211208 snapshot\r\n\u2022 Merge Linux version 4.14.258 into the kernel \r\n\u2022 Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -5927,12 +5927,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-01", 
-                  "datetime": "20211201", 
-                  "filename": "Arrow-v12.0-whyred-OFFICIAL-20211201-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20211201-VANILLA.zip", 
-                  "sha256": "06635f324dee0bec852844469dc971f783c2a183cdbf3e793a06d1a8b337b287", 
-                  "size": "766967472", 
+                  "date": "2021-12-26", 
+                  "datetime": "20211226", 
+                  "filename": "Arrow-v12.0-whyred-OFFICIAL-20211226-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20211226-VANILLA.zip", 
+                  "sha256": "73bb26db7421a18ff0b52568010fd0d6a65a2d96135361742f1dc24221cfa705", 
+                  "size": "754160701", 
                   "type": "official", 
                   "version": "v12.0"
                 }
