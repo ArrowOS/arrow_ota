@@ -1611,6 +1611,22 @@
       ], 
       "v12.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-12-27", 
+                  "datetime": "20211227", 
+                  "filename": "Arrow-v12.0-crownlte-OFFICIAL-20211227-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/crownlte/Arrow-v12.0-crownlte-OFFICIAL-20211227-VANILLA.zip", 
+                  "sha256": "c2761a58cc4ec0bff8fcf36b5dc45f7c38a5c70c888af0b87919bd329066b004", 
+                  "size": "598452824", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "VANILLA": [
