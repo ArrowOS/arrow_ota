@@ -1613,6 +1613,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2021-12-27", 
+                  "datetime": "20211227", 
+                  "filename": "Arrow-v12.0-crownlte-OFFICIAL-20211227-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/crownlte/Arrow-v12.0-crownlte-OFFICIAL-20211227-GAPPS.zip", 
+                  "sha256": "d85a79effc1f503993f6ab0aa762092229730eaaa409621e585709c7b546c1a8", 
+                  "size": "920118068", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2021-12-27", 
