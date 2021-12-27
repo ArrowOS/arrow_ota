@@ -62,5 +62,21 @@
             "type": "community", 
             "version": "v12.0"
         }
+    ], 
+    "tulip": [
+        {
+            "changelog": "- Initial Official Community Build.", 
+            "date": "2021-12-27", 
+            "datetime": "20211227", 
+            "filename": "Arrow-v12.0-tulip-COMMUNITY-20211227-VANILLA.zip", 
+            "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20211227-VANILLA.zip", 
+            "maintainer": "IceBreaker2451", 
+            "model": "Redmi Note 6 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "7afe2535874f2660c1e0eff3b202fad4814adeab8aee4fb6c20b6932d593e3a6", 
+            "size": "781278472", 
+            "type": "community", 
+            "version": "v12.0"
+        }
     ]
 }
