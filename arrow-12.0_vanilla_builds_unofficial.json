@@ -31,6 +31,22 @@
             "version": "v12.0"
         }
     ], 
+    "RMX2020": [
+        {
+            "changelog": null, 
+            "date": "2021-12-28", 
+            "datetime": "20211228", 
+            "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20211228-VANILLA.zip", 
+            "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20211228-VANILLA.zip", 
+            "maintainer": "sarthakroy2002", 
+            "model": "Realme G70 Series", 
+            "oem": "realme", 
+            "sha256": "b400a8062aa6c99ff3f99a633b124fe6ec8468fd1c1a432107492dd4e89e9efd", 
+            "size": "934085559", 
+            "type": "unofficial", 
+            "version": "v12.0"
+        }
+    ], 
     "X00T": [
         {
             "changelog": "Arrow 12.0 BETA EARLY RELEASE\r\n\r\n* Changelog\r\n- Fixed network issues with dual sim\r\n- Fixed WFD\r\n- Enforcing", 
