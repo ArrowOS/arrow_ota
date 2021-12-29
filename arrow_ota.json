@@ -249,7 +249,7 @@
   ], 
   "RMX2020": [
     {
-      "changelog": "1. Added Volte Patches\r\n2. Added Brightness Slider fixes", 
+      "changelog": "1. Fix OMX", 
       "maintainer": "sarthakroy2002", 
       "model": "Realme G70 Series", 
       "oem": "realme", 
@@ -259,12 +259,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2021-12-28", 
-                  "datetime": "20211228", 
-                  "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20211228-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20211228-VANILLA.zip", 
-                  "sha256": "3e502ab313e84ec7480ddfad1aa45f147cb914b470d29e005adaa3cdb0cf5e70", 
-                  "size": "934205112", 
+                  "date": "2021-12-29", 
+                  "datetime": "20211229", 
+                  "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20211229-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20211229-VANILLA.zip", 
+                  "sha256": "067c3ed400097535912019c7f5d9bd8e60c72a9375ae4bf26c4cc0d7c0625e4b", 
+                  "size": "934092948", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
