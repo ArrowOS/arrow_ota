@@ -2793,7 +2793,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Added Notch Bar Killer overlay\r\n- Removed some useless fingerprint blobs\r\n- Optimize fingerprint HAL\r\n- Fixed fingerprint wake-up animation\r\n- Uprev framework compatibility matrix to 2.0\r\n- Dropped unused drm packages\r\n- Miscellaneous fixes and improvements", 
+      "changelog": "WIP", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -2891,12 +2891,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-12-13", 
-                  "datetime": "20211213", 
-                  "filename": "Arrow-v12.0-lavender-UNOFFICIAL-20211213-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-UNOFFICIAL-20211213-GAPPS.zip", 
-                  "sha256": "da33621a7e0327053e1f4e072f978c94e6b13640d8828b52cf0e57d0d8779251", 
-                  "size": "1184627152", 
+                  "date": "2021-12-29", 
+                  "datetime": "20211229", 
+                  "filename": "Arrow-v12.0-lavender-UNOFFICIAL-20211229-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-UNOFFICIAL-20211229-GAPPS.zip", 
+                  "sha256": "381799bb37f189303290b66c3c6d84a08fa1c968fe21d8e9c417b92057cdd07a", 
+                  "size": "1182035730", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
