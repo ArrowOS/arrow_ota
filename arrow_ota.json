@@ -249,7 +249,7 @@
   ], 
   "RMX2020": [
     {
-      "changelog": "1. Fix ims crash", 
+      "changelog": null, 
       "maintainer": "sarthakroy2002", 
       "model": "Realme G70 Series", 
       "oem": "realme", 
@@ -263,8 +263,8 @@
                   "datetime": "20211229", 
                   "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20211229-VANILLA.zip", 
                   "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20211229-VANILLA.zip", 
-                  "sha256": "493270a45ee93760c1133c4ece3f23479875981c5620128e4f208b274bf3ce86", 
-                  "size": "934125189", 
+                  "sha256": "0f53b16ec003764b523e81da621852572c647f6278ed66ce5980b01bf7fa44bd", 
+                  "size": "934175374", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
