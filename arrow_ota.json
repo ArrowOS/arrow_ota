@@ -2081,7 +2081,7 @@
   ], 
   "gauguin": [
     {
-      "changelog": "- First official build\r\n- Switch to build vendor(oss vendor)\r\n\r\nNote: You must clean flash to this build", 
+      "changelog": "- Add display color compositions\r\n- Fixed DT2W\r\n- Optimize fingerprint unlock ripple animation", 
       "maintainer": "baolong24", 
       "model": "M2007J17G", 
       "oem": "Xiaomi", 
@@ -2191,12 +2191,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-11", 
-                  "datetime": "20211211", 
-                  "filename": "Arrow-v12.0-gauguin-UNOFFICIAL-20211211-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/gauguin/Arrow-v12.0-gauguin-UNOFFICIAL-20211211-VANILLA.zip", 
-                  "sha256": "a7c7097fb8e3e70400330277003601619953e4e41a289c5e03048775660feb97", 
-                  "size": "1203797981", 
+                  "date": "2021-12-29", 
+                  "datetime": "20211229", 
+                  "filename": "Arrow-v12.0-gauguin-UNOFFICIAL-20211229-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/gauguin/Arrow-v12.0-gauguin-UNOFFICIAL-20211229-VANILLA.zip", 
+                  "sha256": "9b245be16db4e364fa42c23c8f5286a7e91800d0f9410bad8ed0b9cf2e0ab6e3", 
+                  "size": "1193564113", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
