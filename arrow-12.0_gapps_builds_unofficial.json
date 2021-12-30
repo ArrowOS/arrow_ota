@@ -417,16 +417,16 @@
     ], 
     "violet": [
         {
-            "changelog": "test encryption commits (and rebased tree)", 
-            "date": "2021-10-29", 
-            "datetime": "20211029", 
-            "filename": "Arrow-v12.0-violet-UNOFFICIAL-20211029-GAPPS.zip", 
-            "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20211029-GAPPS.zip", 
-            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "changelog": "test build", 
+            "date": "2021-12-30", 
+            "datetime": "20211230", 
+            "filename": "Arrow-v12.0-violet-UNOFFICIAL-20211230-GAPPS.zip", 
+            "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20211230-GAPPS.zip", 
+            "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "79e486da658e06693ec9a685d41af35220a08d21e47ffa5ed59afda311ddcbf5", 
-            "size": "1232381787", 
+            "sha256": "dcd3e217903e893a34498febcb94090bd6a943e01fbe9d90133b35a9e809dbe3", 
+            "size": "1237458251", 
             "type": "unofficial", 
             "version": "v12.0"
         }
