@@ -249,7 +249,7 @@
   ], 
   "RMX2020": [
     {
-      "changelog": "1. Test Parts and Dirac\r\n2. Kernel upstreamed\r\n3. Address many denials\r\n4. Import recommended pm dex props", 
+      "changelog": "1. Test Parts and Dirac", 
       "maintainer": "sarthakroy2002", 
       "model": "Realme G70 Series", 
       "oem": "realme", 
@@ -303,8 +303,8 @@
                   "datetime": "20211230", 
                   "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20211230-VANILLA.zip", 
                   "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20211230-VANILLA.zip", 
-                  "sha256": "6b307bc5aa9a40cffeb0289cbefb0c83fed70be51007755c7da3676ecc5c621a", 
-                  "size": "941617384", 
+                  "sha256": "2df96f422b5af2a8483edc64ff4f1a87711513a84873410905db8f31fd519e31", 
+                  "size": "941590279", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
