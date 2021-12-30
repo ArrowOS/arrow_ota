@@ -249,12 +249,28 @@
   ], 
   "RMX2020": [
     {
-      "changelog": null, 
+      "changelog": "1. Initial OFFICIAL build.", 
       "maintainer": "sarthakroy2002", 
       "model": "Realme G70 Series", 
       "oem": "realme", 
       "v12.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2021-12-30", 
+                  "datetime": "20211230", 
+                  "filename": "Arrow-v12.0-RMX2020-OFFICIAL-20211230-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-OFFICIAL-20211230-VANILLA.zip", 
+                  "sha256": "c661110a85896be1d79d6292d1d1e3703c89990600dbb78a8c2785ebf036433d", 
+                  "size": "935842496", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
