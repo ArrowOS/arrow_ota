@@ -613,7 +613,7 @@
   ], 
   "Z01R": [
     {
-      "changelog": "Z01R: Update Redfin December Fingerprint\r\nZ01R: Overlay: Balance status bar left and right paddings \r\nKernel: Upgarde to 4.9.292", 
+      "changelog": "Kernel: Merged tag LA.UM.10.3.r1-00600-sdm845.0 in to wlan/qca-wifi-host-cmn\r\nKernel: Merged tag LA.UM.10.3.r1-00600-sdm845.0 in to kernel/msm-4.9\r\nKernel: Update to 4.9.295", 
       "maintainer": "EdwardWu", 
       "model": "ZenFone 5Z", 
       "oem": "asus", 
@@ -623,12 +623,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-12-11", 
-                  "datetime": "20211211", 
-                  "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211211-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211211-GAPPS.zip", 
-                  "sha256": "b46fbc3a14990b6291b54c289ffbec8a5d62962c0c829eeb0c75398af5afbdb7", 
-                  "size": "1051055802", 
+                  "date": "2021-12-31", 
+                  "datetime": "20211231", 
+                  "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211231-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211231-GAPPS.zip", 
+                  "sha256": "d7c9d9e34cc700aaec3545cbe1cc835b97b496565dcd4e7317247277a96a8b52", 
+                  "size": "1034218517", 
                   "type": "community", 
                   "version": "v12.0"
                 }
