@@ -5655,12 +5655,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-21", 
-                  "datetime": "20211221", 
-                  "filename": "Arrow-v12.0-vayu-OFFICIAL-20211221-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20211221-VANILLA.zip", 
-                  "sha256": "7e9d1e67d803053b725b8cd8003a37f79d91380807c76870ac14c7a8c1954b6f", 
-                  "size": "1128726585", 
+                  "date": "2022-01-01", 
+                  "datetime": "20220101", 
+                  "filename": "Arrow-v12.0-vayu-OFFICIAL-20220101-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20220101-VANILLA.zip", 
+                  "sha256": "76a06fa00ab217ed914cfadbaa3863fe92b2a72a4bc00ea9470afc45e6659c87", 
+                  "size": "1126409770", 
                   "type": "official", 
                   "version": "v12.0"
                 }
