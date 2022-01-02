@@ -1,16 +1,16 @@
 {
     "Z01R": [
         {
-            "changelog": "Z01R: Update Redfin December Fingerprint\r\nZ01R: Overlay: Balance status bar left and right paddings \r\nKernel: Upgarde to 4.9.292", 
-            "date": "2021-12-11", 
-            "datetime": "20211211", 
-            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20211211-VANILLA.zip", 
-            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20211211-VANILLA.zip", 
+            "changelog": "Kernel: Merged tag LA.UM.10.3.r1-00600-sdm845.0 in to wlan/qca-wifi-host-cmn\r\nKernel: Merged tag LA.UM.10.3.r1-00600-sdm845.0 in to kernel/msm-4.9\r\nKernel: Update to 4.9.295", 
+            "date": "2022-01-02", 
+            "datetime": "20220102", 
+            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20220102-VANILLA.zip", 
+            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20220102-VANILLA.zip", 
             "maintainer": "EdwardWu", 
             "model": "ZenFone 5Z", 
             "oem": "asus", 
-            "sha256": "756b70e6d0b8901929972729b04f6328373b1a7ac21fc9a18fb513c35750f2db", 
-            "size": "766568821", 
+            "sha256": "aa3784c6ac8f1dd4ebae96bbf4ef24f777758ee89df2fe8961aa31fbb9ad1e6a", 
+            "size": "747785885", 
             "type": "community", 
             "version": "v12.0"
         }
