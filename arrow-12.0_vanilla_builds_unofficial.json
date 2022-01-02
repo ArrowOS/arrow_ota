@@ -161,16 +161,16 @@
     ], 
     "gauguin": [
         {
-            "changelog": "- Add display color compositions\r\n- Fixed DT2W\r\n- Optimize fingerprint unlock ripple animation", 
-            "date": "2021-12-29", 
-            "datetime": "20211229", 
-            "filename": "Arrow-v12.0-gauguin-UNOFFICIAL-20211229-VANILLA.zip", 
-            "filepath": "/arrow-12.0/gauguin/Arrow-v12.0-gauguin-UNOFFICIAL-20211229-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2022-01-02", 
+            "datetime": "20220102", 
+            "filename": "Arrow-v12.0-gauguin-UNOFFICIAL-20220102-VANILLA.zip", 
+            "filepath": "/arrow-12.0/gauguin/Arrow-v12.0-gauguin-UNOFFICIAL-20220102-VANILLA.zip", 
             "maintainer": "baolong24", 
             "model": "M2007J17G", 
             "oem": "Xiaomi", 
-            "sha256": "9b245be16db4e364fa42c23c8f5286a7e91800d0f9410bad8ed0b9cf2e0ab6e3", 
-            "size": "1193564113", 
+            "sha256": "f75ebd02c54b32f670e3b3c197f0b41cfdc0b927ce66774b437bca8f480ee1f3", 
+            "size": "1189481323", 
             "type": "unofficial", 
             "version": "v12.0"
         }
