@@ -249,7 +249,7 @@
   ], 
   "RMX2020": [
     {
-      "changelog": "1. Test Parts and Dirac", 
+      "changelog": "1. Test CarrierConfig", 
       "maintainer": "sarthakroy2002", 
       "model": "Realme G70 Series", 
       "oem": "realme", 
@@ -299,12 +299,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-30", 
-                  "datetime": "20211230", 
-                  "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20211230-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20211230-VANILLA.zip", 
-                  "sha256": "2df96f422b5af2a8483edc64ff4f1a87711513a84873410905db8f31fd519e31", 
-                  "size": "941590279", 
+                  "date": "2022-01-03", 
+                  "datetime": "20220103", 
+                  "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20220103-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20220103-VANILLA.zip", 
+                  "sha256": "96da4f5877e8f731f0c9d25cd0e2babf43165c1b9b480162ff0da3355901a068", 
+                  "size": "931905969", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
