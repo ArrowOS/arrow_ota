@@ -129,16 +129,16 @@
     ], 
     "cas": [
         {
-            "changelog": "<b>Suggested Firmware:</b> V12.5.6\r\n\r\n<b>Changelog:</b>\r\n* Fix 5x lens problem\r\n\r\n25/11/2021\r\n* Fix ims problem\r\n\r\n21/11/2021\r\n* Switch to new kernel based on latest CAF tag\r\n* Adapt brightness values\r\n\r\n2/11/2021\r\n* Fix brightness level mapping\r\n* Handle more scenarios when getting fod dim alpha\r\n* Update brightness and vibrator configs\r\n\r\n30/10/2021\r\n* Sync with the latest source\r\n* Ship GCamGOPrebuilt instead of Camera2 or Snap\r\n* Bring back IFAAManager\r\n* Move to AOSP WFD\r\n\r\n26/10/2021:\r\n* Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n* Limit charging current to 6A (Fix overheating when charging)\r\n* Fix multiple SIM cards display\r\n\r\n17/10/2021:\r\n* Initial releases", 
-            "date": "2022-01-01", 
-            "datetime": "20220101", 
-            "filename": "Arrow-v12.0-cas-OFFICIAL-20220101-VANILLA.zip", 
-            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20220101-VANILLA.zip", 
+            "changelog": "Hi, ArrowOS 12.0\r\nFirmware: V12.5.6\r\nDate: 2021-12-05\r\nChangelog: \r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
+            "date": "2021-12-25", 
+            "datetime": "20211225", 
+            "filename": "Arrow-v12.0-cas-OFFICIAL-20211225-VANILLA.zip", 
+            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20211225-VANILLA.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "10bedb2ad7d6cc7819398781e34233fb5c97ee2f2c3f1bdbfca134913a4bc483", 
-            "size": "1486553607", 
+            "sha256": "d8eb78d8bb9e361360ca6d21a6c7b000ddf513252aae8ed7a77c3c571452fc71", 
+            "size": "1488094037", 
             "type": "official", 
             "version": "v12.0"
         }
