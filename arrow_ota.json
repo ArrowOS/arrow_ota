@@ -5789,7 +5789,7 @@
   ], 
   "violet": [
     {
-      "changelog": "test build", 
+      "changelog": "test build, proper sepolicy, tweaked vibration etc", 
       "maintainer": "Aftab Ashrafi", 
       "model": "Redmi Note 7 Pro", 
       "oem": "Xiaomi", 
@@ -5859,12 +5859,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-12-30", 
-                  "datetime": "20211230", 
-                  "filename": "Arrow-v12.0-violet-UNOFFICIAL-20211230-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20211230-GAPPS.zip", 
-                  "sha256": "dcd3e217903e893a34498febcb94090bd6a943e01fbe9d90133b35a9e809dbe3", 
-                  "size": "1237458251", 
+                  "date": "2022-01-03", 
+                  "datetime": "20220103", 
+                  "filename": "Arrow-v12.0-violet-UNOFFICIAL-20220103-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20220103-GAPPS.zip", 
+                  "sha256": "b30f17f61f3b695b5eb5c6687e3b1e588937f014152fd06fede251decbad8b06", 
+                  "size": "1250349966", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
