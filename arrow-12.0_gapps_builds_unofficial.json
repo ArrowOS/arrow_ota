@@ -433,16 +433,16 @@
     ], 
     "violet": [
         {
-            "changelog": "test build, proper sepolicy, tweaked vibration etc", 
-            "date": "2022-01-03", 
-            "datetime": "20220103", 
-            "filename": "Arrow-v12.0-violet-UNOFFICIAL-20220103-GAPPS.zip", 
-            "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20220103-GAPPS.zip", 
+            "changelog": "QTI BT", 
+            "date": "2022-01-04", 
+            "datetime": "20220104", 
+            "filename": "Arrow-v12.0-violet-UNOFFICIAL-20220104-GAPPS.zip", 
+            "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-UNOFFICIAL-20220104-GAPPS.zip", 
             "maintainer": "Aftab Ashrafi", 
             "model": "Redmi Note 7 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "b30f17f61f3b695b5eb5c6687e3b1e588937f014152fd06fede251decbad8b06", 
-            "size": "1250349966", 
+            "sha256": "d43676a6a48f7e3840e6aca08d636f98afbcd4cfbba2012693abdf64438adebf", 
+            "size": "1245743441", 
             "type": "unofficial", 
             "version": "v12.0"
         }
