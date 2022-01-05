@@ -4965,7 +4965,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- rootdir: Start mi_thermald on boot\r\n- rootdir: Drop vendor.thermal-engine\r\n- overlay: Limit screen recorder to 90fps\r\n- overlay: Define OEM fast charge sysfs node\r\n- Build with AOSP Clang 14.0.0 (r437112)\r\n- sepolicy: Allow XiaomiParts find sensorservice\r\n- sepolicy: Address denials\r\n- props: Disable debug.sf.enable_hwc_vds\r\n- Build missing NFC packages\r\n- Update blobs to MIUI V12.5.4.0.RJGMIXM\r\n- props: Turn on GPU protected contents\r\n- props: Enable back GL backpressure\r\n- props: Disable partial FB excl rect\r\n- props: dont latch unsignal buffers \r\n- rootdir: Remove IO read_ahead_kb tune \r\n- rro_overlays: Move to vendor\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11)</b>.", 
+      "changelog": "- Fixed libcameraservice\r\n- Switch GCamGOPrebuilt\r\n\r\nNote: Clean flash mandatory.", 
       "maintainer": "Ganesh Varma, palaych", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -5063,12 +5063,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-11", 
-                  "datetime": "20211211", 
-                  "filename": "Arrow-v12.0-surya-UNOFFICIAL-20211211-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-UNOFFICIAL-20211211-VANILLA.zip", 
-                  "sha256": "e7ba540f418d24a3c4aad619d66bf859416ae0fb05d78ba0b0385ace6e87c762", 
-                  "size": "1018246510", 
+                  "date": "2022-01-05", 
+                  "datetime": "20220105", 
+                  "filename": "Arrow-v12.0-surya-UNOFFICIAL-20220105-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-UNOFFICIAL-20220105-VANILLA.zip", 
+                  "sha256": "c2e890b73735fdf6dd8835fcdbad2898c5717017d5dadcb7d7fbbb159cff7560", 
+                  "size": "1000820266", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
