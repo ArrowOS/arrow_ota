@@ -33,7 +33,7 @@
     ], 
     "RMX2020": [
         {
-            "changelog": "1. Test SMS over VOLTE\r\n2. F2FS support\r\n\r\n\r\nNOTE: For Realme UI 1.0 FW only.", 
+            "changelog": "1. Check new Cutout overlays\r\n2. Check Hotspot on Indian Carriers\r\n\r\n\r\nNOTE: For Realme UI 1.0 FW only.", 
             "date": "2022-01-07", 
             "datetime": "20220107", 
             "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20220107-VANILLA.zip", 
@@ -41,8 +41,8 @@
             "maintainer": "sarthakroy2002", 
             "model": "Realme G70 Series", 
             "oem": "realme", 
-            "sha256": "fc84083c795cd5b181418da3a82167020396ac1e31001445b84b3064f3cb4e36", 
-            "size": "932404667", 
+            "sha256": "c3253c2b4fb503db1beac2233a33365018808dd30bc18efb72e70da0fd260b55", 
+            "size": "932414775", 
             "type": "unofficial", 
             "version": "v12.0"
         }
