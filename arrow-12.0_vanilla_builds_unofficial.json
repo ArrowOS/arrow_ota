@@ -33,16 +33,16 @@
     ], 
     "RMX2020": [
         {
-            "changelog": "1. Test SMS over VOLTE\r\n\r\n\r\nNOTE: For Realme UI 1.0 FW only.", 
-            "date": "2022-01-06", 
-            "datetime": "20220106", 
-            "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20220106-VANILLA.zip", 
-            "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20220106-VANILLA.zip", 
+            "changelog": "1. Test SMS over VOLTE\r\n2. F2FS support\r\n\r\n\r\nNOTE: For Realme UI 1.0 FW only.", 
+            "date": "2022-01-07", 
+            "datetime": "20220107", 
+            "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20220107-VANILLA.zip", 
+            "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20220107-VANILLA.zip", 
             "maintainer": "sarthakroy2002", 
             "model": "Realme G70 Series", 
             "oem": "realme", 
-            "sha256": "c8604fe48d0dae44825a36e15ed3bbfd80fedda9e0206b0d0dd1f4a7433fe42d", 
-            "size": "932222933", 
+            "sha256": "fc84083c795cd5b181418da3a82167020396ac1e31001445b84b3064f3cb4e36", 
+            "size": "932404667", 
             "type": "unofficial", 
             "version": "v12.0"
         }
