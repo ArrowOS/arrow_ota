@@ -33,16 +33,16 @@
     ], 
     "RMX2020": [
         {
-            "changelog": "1. Test Parts and Dirac\r\n2. Kernel upstreamed\r\n3. Address many denials\r\n4. Import recommended pm dex props", 
-            "date": "2021-12-30", 
-            "datetime": "20211230", 
-            "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20211230-GAPPS.zip", 
-            "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20211230-GAPPS.zip", 
+            "changelog": "1. Check new Cutout overlays\r\n2. Check Hotspot on Indian Carriers\r\n\r\n\r\nNOTE: For Realme UI 1.0 FW only.", 
+            "date": "2022-01-07", 
+            "datetime": "20220107", 
+            "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20220107-GAPPS.zip", 
+            "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20220107-GAPPS.zip", 
             "maintainer": "sarthakroy2002", 
             "model": "Realme G70 Series", 
             "oem": "realme", 
-            "sha256": "3e2cc78165283f78c90ebaa397fc97576028141b1b7229adf5036e1bc4d3b340", 
-            "size": "1271969363", 
+            "sha256": "839d78fe7d69d5ad7885fb2604f96a821fb8e7514ccdc0c9399d3e8911196c4e", 
+            "size": "1262870378", 
             "type": "unofficial", 
             "version": "v12.0"
         }
