@@ -249,7 +249,7 @@
   ], 
   "RMX2020": [
     {
-      "changelog": "1. Check new Cutout overlays\r\n2. Check Hotspot on Indian Carriers\r\n\r\n\r\nNOTE: For Realme UI 1.0 FW only.", 
+      "changelog": "1.Tune status bar content padding\r\n\r\n\r\nNOTE: For Realme UI 1.0 FW only.", 
       "maintainer": "sarthakroy2002", 
       "model": "Realme G70 Series", 
       "oem": "realme", 
@@ -299,12 +299,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-07", 
-                  "datetime": "20220107", 
-                  "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20220107-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20220107-VANILLA.zip", 
-                  "sha256": "c3253c2b4fb503db1beac2233a33365018808dd30bc18efb72e70da0fd260b55", 
-                  "size": "932414775", 
+                  "date": "2022-01-08", 
+                  "datetime": "20220108", 
+                  "filename": "Arrow-v12.0-RMX2020-UNOFFICIAL-20220108-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/RMX2020/Arrow-v12.0-RMX2020-UNOFFICIAL-20220108-VANILLA.zip", 
+                  "sha256": "c9696dda9648e5387133b1fc005b70c32701cb15865268f42752298fcf0d3730", 
+                  "size": "932413757", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
