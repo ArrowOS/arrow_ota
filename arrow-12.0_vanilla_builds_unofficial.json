@@ -289,16 +289,16 @@
     ], 
     "picasso": [
         {
-            "changelog": "- November security patch\r\n- Fixed IR", 
-            "date": "2021-11-23", 
-            "datetime": "20211123", 
-            "filename": "Arrow-v12.0-picasso-UNOFFICIAL-20211123-VANILLA.zip", 
-            "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-UNOFFICIAL-20211123-VANILLA.zip", 
+            "changelog": "- Fixed Bluetooth can not turn on after turning off\r\n- SELinux enforce\r\n- Fixed GCam\r\n- Fixed aptX\r\n- Fixed FP did not work on some devices\r\n- Added display color compositions", 
+            "date": "2022-01-09", 
+            "datetime": "20220109", 
+            "filename": "Arrow-v12.0-picasso-UNOFFICIAL-20220109-VANILLA.zip", 
+            "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-UNOFFICIAL-20220109-VANILLA.zip", 
             "maintainer": "baolong24", 
             "model": "Redmi K30 5G", 
             "oem": "Redmi", 
-            "sha256": "9b3a56b9390ddd43eca401016b85ff395bd4fc91106cb39ec4983c797b7088a3", 
-            "size": "1217131678", 
+            "sha256": "32d9aadb2dc206f989ea6c62e553ae7483ca833e004aba3de4aca34d715c7b11", 
+            "size": "1196242005", 
             "type": "unofficial", 
             "version": "v12.0"
         }
