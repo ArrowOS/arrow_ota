@@ -781,7 +781,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "***Experimental build***\r\n***May not boot***\r\n***Could cause loss of data***\r\n\r\n- small tweaks, recommend to skip build\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "***Experimental build***\r\n***May not boot***\r\n***Could cause loss of data***\r\n\r\n- small tweaks\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -891,12 +891,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-06", 
-                  "datetime": "20220106", 
-                  "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220106-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220106-VANILLA.zip", 
-                  "sha256": "c02de1ee3e515a33601c4c6746b865f55ff8ff8a1e68ed7b3aa93b91c5ddd157", 
-                  "size": "1173250484", 
+                  "date": "2022-01-10", 
+                  "datetime": "20220110", 
+                  "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220110-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220110-VANILLA.zip", 
+                  "sha256": "d600667b239bc8ccbdca99ada5d2b4e14959a33b029d724457dffbd618476305", 
+                  "size": "1174362336", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
