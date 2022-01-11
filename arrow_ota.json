@@ -3289,7 +3289,7 @@
   ], 
   "miatoll": [
     {
-      "changelog": null, 
+      "changelog": "\u2022 Upstreamed kernel to 4.14.261\r\n\u2022 Switch to AOSP clang 14.0.1\r\n\u2022 Adapt sepolicy to Android 12\r\n\u2022 Remove enable_advanced_sf_offset prop\r\n\u2022 Disable unspecialized app process pool\r\n\u2022 Attach vendor_property_type to properties\r\n\u2022 Specify vendor_fp_prop as vendor public prop\r\n\u2022 Allow ioctl to zram_swap for performance\r\n\u2022 Add aux camera packagelist prop to system props\r\n\u2022 Update the transcoding operating rate\r\n\u2022 Set SSR restart_level in init.qcom.rc\r\n\u2022 Label more wakeup nodes\r\n\u2022 Label idle_state sysfs nodes\r\n\u2022 Made transition animation a bit faster\r\n\u2022 Limit screen recorder frame rate to 60fps\r\n\u2022 Adjusting screen timeouts\r\n\u2022 Dont inherit updatable_apex.mk\r\n\u2022 Disable partial FB excl rect\r\n\u2022 Disable global mode and CDMA choices\r\n\u2022 Show 4G icon for all carriers\r\n\u2022 Only make recovery permissive on non production builds\r\n\u2022 Remove TxPower2g and 5g from wifi config file\r\n\u2022 Disable all wifi related logging\r\n\u2022 Fix OTA auto-flashing with encrypted f2fs\r\n\u2022 Set media vol steps to 25\r\n\u2022 Kill IMS logspam with fire\r\n\u2022 Update config_safe_media_volume_index\r\n\u2022 Slightly increase the minimum brightness level\r\n\u2022 Use FUSE passthrough by default\r\n\u2022 Update vendor security patch level\r\n\u2022 Switched back to OpenGL as default GPU renderer\r\n\u2022 Import and build GPS stack from LA.UM.9.1.r1-11500-SMxxx0.0\r\n\u2022 Increase gps batch size to max\r\n\u2022 Lower gps debug level\r\n\u2022 Localise NTP to improve GPS TTFF", 
       "maintainer": "SonalSingh18", 
       "model": "Miatoll", 
       "oem": "Xiaomi", 
@@ -3399,12 +3399,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-06", 
-                  "datetime": "20220106", 
-                  "filename": "Arrow-v12.0-miatoll-UNOFFICIAL-20220106-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/miatoll/Arrow-v12.0-miatoll-UNOFFICIAL-20220106-VANILLA.zip", 
-                  "sha256": "a1c0aa907fb4840e904176d153c327706dab8638774ec71e3b50ac4b5faa1f9e", 
-                  "size": "1081847894", 
+                  "date": "2022-01-11", 
+                  "datetime": "20220111", 
+                  "filename": "Arrow-v12.0-miatoll-UNOFFICIAL-20220111-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/miatoll/Arrow-v12.0-miatoll-UNOFFICIAL-20220111-VANILLA.zip", 
+                  "sha256": "c79f479b671d84114120154b288f82723b79e1a14588a61ef2c2360e37e25d5a", 
+                  "size": "1081581356", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
