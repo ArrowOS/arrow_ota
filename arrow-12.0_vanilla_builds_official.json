@@ -81,16 +81,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Build with AOSP Clang 14.0.0 (r437112)\r\n- sepolicy: Address denials for XiaomiParts (Fixed thermal profiles and etc.)\r\n- parts: Use current target SDK and set exported flag\r\n- parts: Increase BootCompletedReceiver priority\r\n- props: dont latch unsignal buffers\r\n- props: Disable debug.sf.enable_hwc_vds\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Merge branch linux-4.19.y of jaegeuk/f2fs-stable\r\n- Merge CAF tag LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Request fw part MIUI 12.5.4.0 and newer Global / India / EU.</b>", 
-            "date": "2021-12-21", 
-            "datetime": "20211221", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20211221-VANILLA.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20211221-VANILLA.zip", 
+            "changelog": "- Update blobs to MIUI V12.5.5.0.RKHMIXM\r\n- rootdir: Allow all filesystems for USB-OTG\r\n- props: Increase audio HAL buffer size to 240\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global / India / EU.</b>", 
+            "date": "2022-01-12", 
+            "datetime": "20220112", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220112-VANILLA.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220112-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "28ac090057c9e9d8648da7be2a743dcaa1e2e54db066a7749e10fa9fa96fb904", 
-            "size": "1040230564", 
+            "sha256": "247185c8ecae2a794dd245f378bd872d4301a2846ef0d0533f188507d0451a24", 
+            "size": "1038850365", 
             "type": "official", 
             "version": "v12.0"
         }
