@@ -1,7 +1,7 @@
 {
     "Z01R": [
         {
-            "changelog": "Kernel: disable xt_qtaguid for fix Upload speed indicator.", 
+            "changelog": "Kernel: Merge branch android-4.9-q of https://android.googlesource.com/kernel/common", 
             "date": "2022-01-13", 
             "datetime": "20220113", 
             "filename": "Arrow-v12.0-Z01R-COMMUNITY-20220113-VANILLA.zip", 
@@ -9,8 +9,8 @@
             "maintainer": "EdwardWu", 
             "model": "ZenFone 5Z", 
             "oem": "asus", 
-            "sha256": "92367f00221e809ab5c43370652a63e287f9d503caf75619aeadbc69ecbdfe7a", 
-            "size": "747783371", 
+            "sha256": "9059e78cfed9418057d1b5c838c90a6eb7591c28f48d4aa03ed303f8e0d1b577", 
+            "size": "747807121", 
             "type": "community", 
             "version": "v12.0"
         }
