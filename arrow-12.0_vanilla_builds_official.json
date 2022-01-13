@@ -241,16 +241,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Added Notch Bar Killer overlay\r\n- Removed some useless fingerprint blobs\r\n- Optimize fingerprint HAL\r\n- Fixed fingerprint wake-up animation\r\n- Uprev framework compatibility matrix to 2.0\r\n- Dropped unused drm packages\r\n- Miscellaneous fixes and improvements", 
-            "date": "2021-12-26", 
-            "datetime": "20211226", 
-            "filename": "Arrow-v12.0-lavender-OFFICIAL-20211226-VANILLA.zip", 
-            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20211226-VANILLA.zip", 
+            "changelog": "- Switch to Pixel Thermal\r\n- Adapt Dynamic Thermal Profile to Pixel thermal-engine\r\n- Switch back to QTI bluetooth stack\r\n- Switch to new ANT stack\r\n- Optimize shutdown time\r\n- Optimize UI performance\r\n- Update sepolicy for S requirement\r\n- kernel: Upstream to 4.4.296\r\n- kernel: Dropped duplicated kernel-side pocketmode\r\n- kernel: Add back avb and SafetyNet Patches(SafetyNet still passed without them)\r\n- Other fixes and improvements", 
+            "date": "2022-01-13", 
+            "datetime": "20220113", 
+            "filename": "Arrow-v12.0-lavender-OFFICIAL-20220113-VANILLA.zip", 
+            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220113-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "a695838f7cb2213d3b3c64fa4b24e71ec7447cbe384ab173668f39532790692f", 
-            "size": "853037990", 
+            "sha256": "2bebb6b9a4ddf5b7f4d69d7493c169cca998e0e2cdac1a442c0d481f1dcee0b5", 
+            "size": "846219745", 
             "type": "official", 
             "version": "v12.0"
         }
