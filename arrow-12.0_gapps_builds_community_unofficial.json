@@ -1,7 +1,7 @@
 {
     "Z01R": [
         {
-            "changelog": "SELinux: Test enforcing build", 
+            "changelog": "Kernel: disable xt_qtaguid for fix Upload speed indicator.", 
             "date": "2022-01-13", 
             "datetime": "20220113", 
             "filename": "Arrow-v12.0-Z01R-COMMUNITY-20220113-GAPPS.zip", 
@@ -9,8 +9,8 @@
             "maintainer": "EdwardWu", 
             "model": "ZenFone 5Z", 
             "oem": "asus", 
-            "sha256": "9a612f2fa65933f6419964d6ba59d52ea6f8e14c300cd2c6a0fa553b52037051", 
-            "size": "1035314030", 
+            "sha256": "71dedf3fe75912f51d89024bf45d025898acbb385d5758bc5a1bc4acd1c626ae", 
+            "size": "1032728993", 
             "type": "community", 
             "version": "v12.0"
         }
