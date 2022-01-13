@@ -1,16 +1,16 @@
 {
     "Z01R": [
         {
-            "changelog": "Kernel: Rename kernel to IceWiz.", 
-            "date": "2022-01-06", 
-            "datetime": "20220106", 
-            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20220106-VANILLA.zip", 
-            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20220106-VANILLA.zip", 
+            "changelog": "Kernel: disable xt_qtaguid for fix Upload speed indicator.", 
+            "date": "2022-01-13", 
+            "datetime": "20220113", 
+            "filename": "Arrow-v12.0-Z01R-COMMUNITY-20220113-VANILLA.zip", 
+            "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20220113-VANILLA.zip", 
             "maintainer": "EdwardWu", 
             "model": "ZenFone 5Z", 
             "oem": "asus", 
-            "sha256": "751bc5d2366e62fef5860369d3f9ef4a0b6e6270b5bc9193efbef88d39a63427", 
-            "size": "747873222", 
+            "sha256": "92367f00221e809ab5c43370652a63e287f9d503caf75619aeadbc69ecbdfe7a", 
+            "size": "747783371", 
             "type": "community", 
             "version": "v12.0"
         }
