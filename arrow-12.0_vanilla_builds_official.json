@@ -241,16 +241,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Switch to Pixel Thermal\r\n- Adapt Dynamic Thermal Profile to Pixel thermal-engine\r\n- Switch back to QTI bluetooth stack\r\n- Switch to new ANT stack\r\n- Optimize shutdown time\r\n- Optimize UI performance\r\n- Update sepolicy for S requirement\r\n- kernel: Upstream to 4.4.296\r\n- kernel: Dropped duplicated kernel-side pocketmode\r\n- kernel: Add back avb and SafetyNet Patches(SafetyNet still passed without them)\r\n- Other fixes and improvements", 
-            "date": "2022-01-13", 
-            "datetime": "20220113", 
-            "filename": "Arrow-v12.0-lavender-OFFICIAL-20220113-VANILLA.zip", 
-            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220113-VANILLA.zip", 
+            "changelog": "- Switch to Pixel Thermal\r\n- Adapt Dynamic Thermal Profile to Pixel thermal-engine\r\n- Switch back to QTI bluetooth stack\r\n- Switch to new ANT stack\r\n- Optimize shutdown time\r\n- Optimize UI performance\r\n- Update sepolicy for S requirement\r\n- Fixed upload speed for traffic indicator\r\n- kernel: Upstream to 4.4.296\r\n- kernel: Dropped duplicated kernel-side pocketmode\r\n- kernel: Add back avb and SafetyNet Patches(SafetyNet still passed without them)\r\n- Other fixes and improvements", 
+            "date": "2022-01-14", 
+            "datetime": "20220114", 
+            "filename": "Arrow-v12.0-lavender-OFFICIAL-20220114-VANILLA.zip", 
+            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220114-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "2bebb6b9a4ddf5b7f4d69d7493c169cca998e0e2cdac1a442c0d481f1dcee0b5", 
-            "size": "846219745", 
+            "sha256": "6c80ecb86a2a19d844eaecd6b218d03c1f2498e455ae36a9bce8f26915dec1c6", 
+            "size": "846274091", 
             "type": "official", 
             "version": "v12.0"
         }
