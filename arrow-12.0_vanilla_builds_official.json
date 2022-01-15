@@ -401,16 +401,16 @@
     ], 
     "taimen": [
         {
-            "changelog": null, 
-            "date": "2021-12-26", 
-            "datetime": "20211226", 
-            "filename": "Arrow-v12.0-taimen-OFFICIAL-20211226-VANILLA.zip", 
-            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20211226-VANILLA.zip", 
+            "changelog": "Update 4.4.297 Kernel\r\nRevert \"Force triple frame buffers\"\r\nship cgroups.json and task_profiles.json in vendor", 
+            "date": "2022-01-14", 
+            "datetime": "20220114", 
+            "filename": "Arrow-v12.0-taimen-OFFICIAL-20220114-VANILLA.zip", 
+            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20220114-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "5e264f0b0f0c9803b1cfa5f523e2dfb1f679b3c4c9656de05ecaaf5853243b15", 
-            "size": "783490812", 
+            "sha256": "b9e4e7a3a819bba98f67114dc6df474c57df66a9475d30679c579210d7b63d80", 
+            "size": "782253603", 
             "type": "official", 
             "version": "v12.0"
         }
