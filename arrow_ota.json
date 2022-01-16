@@ -4173,7 +4173,7 @@
   ], 
   "r5x": [
     {
-      "changelog": "Initial A12 build", 
+      "changelog": "Initial A12 build\r\nEnforcing", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Realme 5 Series", 
       "oem": "Realme", 
@@ -4215,12 +4215,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2022-01-10", 
-                  "datetime": "20220110", 
-                  "filename": "Arrow-v12.0-r5x-COMMUNITY-20220110-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/r5x/Arrow-v12.0-r5x-COMMUNITY-20220110-VANILLA.zip", 
-                  "sha256": "1851fda0a15d03760567ac988bf19cfda17155da6d7dedb336aebf42a29014d8", 
-                  "size": "977292948", 
+                  "date": "2022-01-15", 
+                  "datetime": "20220115", 
+                  "filename": "Arrow-v12.0-r5x-COMMUNITY-20220115-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/r5x/Arrow-v12.0-r5x-COMMUNITY-20220115-VANILLA.zip", 
+                  "sha256": "2aab65cfd9d9a306bfecab29b83281165ca8b30bcdb9ec1977bd6bc6ef8ea7f9", 
+                  "size": "977586731", 
                   "type": "community", 
                   "version": "v12.0"
                 }
