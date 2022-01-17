@@ -1913,7 +1913,7 @@
   ], 
   "davinci": [
     {
-      "changelog": null, 
+      "changelog": "Include lawnchair", 
       "maintainer": "RemyL", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
@@ -2002,6 +2002,22 @@
                   "sha256": "cb8ed6b32ab1f724b6db2a09c5c6c52aced1293365e49107e5c497fb8abda0a3", 
                   "size": "984688483", 
                   "type": "community", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-01-17", 
+                  "datetime": "20220117", 
+                  "filename": "Arrow-v12.0-davinci-UNOFFICIAL-20220117-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-UNOFFICIAL-20220117-VANILLA.zip", 
+                  "sha256": "6efb346f557e66039e107ed14292dcc6022592e8dbe9be164203c273944724ce", 
+                  "size": "996025473", 
+                  "type": "unofficial", 
                   "version": "v12.0"
                 }
               ]
