@@ -3821,7 +3821,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Added lawnchair launcher as default\r\n\u2022 Fixup status bar padding issues on the lock screen\r\n\u2022 Fixup USB-C audio\r\n\u2022 Update CarrierSettings from sunfish SQ1A.211205.008\r\n\u2022 Switch overlays from build time to RRO\r\n\u2022 Copy DispSync offsets from cmi\r\n\u2022 Drop surface flinger vsync phase offsets\r\n\u2022 Switch to SF phase offsets from redfin\r\n\u2022 Sync durations props with raven\r\n\u2022 Sync idle/touch timer to raven\r\n\u2022 Drop unnecessary fqnames from manifests\r\n\u2022 Clean up and uprev fp HAL to 2.3\r\n\u2022 Upstream wireguard to 1.0.20211208 snapshot\r\n\u2022 Merge Linux version 4.14.258 into the kernel \r\n\u2022 Misc changes", 
+      "changelog": "\u2022 Smarter decisions on whether to use a 2 or 5Ghz AP\r\n\u2022 Shim libgui\"s surface constructor\r\n\u2022 Drop updatable_apex\r\n\u2022 Optimise dex flags for a faster boot\r\n\u2022 Merge Linux version 4.14.262 into the kernel \r\n\u2022 Some cleanup and misc changes", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -3931,12 +3931,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-10-28", 
-                  "datetime": "20211028", 
-                  "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20211028-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-UNOFFICIAL-20211028-VANILLA.zip", 
-                  "sha256": "4af08823b773e0f26c001350e112f0ac7a3d00ad84e9b4786b7160861b5a71a6", 
-                  "size": "1014296650", 
+                  "date": "2022-01-17", 
+                  "datetime": "20220117", 
+                  "filename": "Arrow-v12.0-phoenix-UNOFFICIAL-20220117-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-UNOFFICIAL-20220117-VANILLA.zip", 
+                  "sha256": "fcc5e2ae98182647922c720dc99c4589bf6f32c0abef953dcdfc84a79888dcf1", 
+                  "size": "1020656461", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
