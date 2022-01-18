@@ -5933,6 +5933,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-01-18", 
+                  "datetime": "20220118", 
+                  "filename": "Arrow-v12.0-violet-OFFICIAL-20220118-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-OFFICIAL-20220118-GAPPS.zip", 
+                  "sha256": "a1c208cb44e5e8cc89980fd273d6dd235c69755c8e7530a5e7c7c7677382c3db", 
+                  "size": "1251221848", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-01-18", 
