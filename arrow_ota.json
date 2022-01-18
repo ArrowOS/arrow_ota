@@ -3821,7 +3821,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Smarter decisions on whether to use a 2 or 5Ghz AP\r\n\u2022 Shim libgui\"s surface constructor\r\n\u2022 Drop updatable_apex\r\n\u2022 Optimise dex flags for a faster boot\r\n\u2022 Merge Linux version 4.14.262 into the kernel \r\n\u2022 Some cleanup and misc changes", 
+      "changelog": "\u2022 Smarter decisions on whether to use a 2 or 5Ghz AP\r\n\u2022 Drop updatable_apex\r\n\u2022 Optimise dex flags for a faster boot\r\n\u2022 Merge Linux version 4.14.262 into the kernel \r\n\u2022 Some cleanup and misc changes", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -3903,12 +3903,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-26", 
-                  "datetime": "20211226", 
-                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211226-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211226-VANILLA.zip", 
-                  "sha256": "0241063370f3a40f1511d4618b67fb954bddfb032e0c750b19ba3367d457dc20", 
-                  "size": "1020832993", 
+                  "date": "2022-01-18", 
+                  "datetime": "20220118", 
+                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220118-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220118-VANILLA.zip", 
+                  "sha256": "0f4737d419c1ecda44a91143b9fbf5319fe7283f8b19b2d6475f0a96027bf891", 
+                  "size": "1022146607", 
                   "type": "official", 
                   "version": "v12.0"
                 }
