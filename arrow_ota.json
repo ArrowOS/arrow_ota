@@ -5865,7 +5865,7 @@
   ], 
   "violet": [
     {
-      "changelog": "Lawnchair", 
+      "changelog": "with wrapped key encryption, if encrypted on a build older than Jan 2022, you will need clean flash\r\n\r\n- Widevine L1 fixed\r\n- Tethering/OTG fixed\r\n- Encryption fixed (with aosp recovery)\r\n- Switched to Enforcing\r\n- Switched to Qti Bt\r\n- Fixed several bugs", 
       "maintainer": "Aftab Ashrafi", 
       "model": "Redmi Note 7 Pro", 
       "oem": "Xiaomi", 
@@ -5931,6 +5931,22 @@
       ], 
       "v12.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-01-18", 
+                  "datetime": "20220118", 
+                  "filename": "Arrow-v12.0-violet-OFFICIAL-20220118-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-OFFICIAL-20220118-VANILLA.zip", 
+                  "sha256": "9797b97d0cc61107d721a21966ba1e9d96fae316a75258c306fc67145a04fdbf", 
+                  "size": "927638849", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
