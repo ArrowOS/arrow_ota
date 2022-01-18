@@ -145,16 +145,16 @@
     ], 
     "crosshatch": [
         {
-            "changelog": "Add AOSP RCS packages\r\nRemove split permissions", 
-            "date": "2021-12-26", 
-            "datetime": "20211226", 
-            "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20211226-GAPPS.zip", 
-            "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20211226-GAPPS.zip", 
+            "changelog": "- Sync audio effects with the stock ROM\r\n- Fix Android System Intelligence Issue\r\n- Default to full gesture navigation\r\n- Include Lawnchair\r\n- Update fingerprint/build description from SP1A.210812.016.A2", 
+            "date": "2022-01-18", 
+            "datetime": "20220118", 
+            "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20220118-GAPPS.zip", 
+            "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20220118-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 3 XL", 
             "oem": "google", 
-            "sha256": "fe9963ce482d291987a91cf34ade1e2c28503721b15ff2c1989c10743585346f", 
-            "size": "1130550711", 
+            "sha256": "28d59508f402c5b7a35fd125980e904af64e41393087307ccd4305e4af154e25", 
+            "size": "1132656650", 
             "type": "official", 
             "version": "v12.0"
         }
