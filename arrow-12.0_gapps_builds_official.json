@@ -305,16 +305,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "\u2022 Added lawnchair launcher as default\r\n\u2022 Fixup status bar padding issues on the lock screen\r\n\u2022 Fixup USB-C audio\r\n\u2022 Update CarrierSettings from sunfish SQ1A.211205.008\r\n\u2022 Switch overlays from build time to RRO\r\n\u2022 Copy DispSync offsets from cmi\r\n\u2022 Drop surface flinger vsync phase offsets\r\n\u2022 Switch to SF phase offsets from redfin\r\n\u2022 Sync durations props with raven\r\n\u2022 Sync idle/touch timer to raven\r\n\u2022 Drop unnecessary fqnames from manifests\r\n\u2022 Clean up and uprev fp HAL to 2.3\r\n\u2022 Upstream wireguard to 1.0.20211208 snapshot\r\n\u2022 Merge Linux version 4.14.258 into the kernel \r\n\u2022 Misc changes", 
-            "date": "2021-12-26", 
-            "datetime": "20211226", 
-            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20211226-GAPPS.zip", 
-            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20211226-GAPPS.zip", 
+            "changelog": "\u2022 Smarter decisions on whether to use a 2 or 5Ghz AP\r\n\u2022 Drop updatable_apex\r\n\u2022 Optimise dex flags for a faster boot\r\n\u2022 Merge Linux version 4.14.262 into the kernel \r\n\u2022 Some cleanup and misc changes", 
+            "date": "2022-01-18", 
+            "datetime": "20220118", 
+            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220118-GAPPS.zip", 
+            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220118-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "7a02233b9e20066b0a0c14e5ebd2c953d53ea5d5eec676873bd4fe12a1efe271", 
-            "size": "1346143577", 
+            "sha256": "e48e34152a12cf79a4ea5ac51ede556b01e8a4e2b5acf59088f4c893a85d7353", 
+            "size": "1347634501", 
             "type": "official", 
             "version": "v12.0"
         }
