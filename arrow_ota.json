@@ -3957,6 +3957,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-01-19", 
+                  "datetime": "20220119", 
+                  "filename": "Arrow-v12.0-picasso-OFFICIAL-20220119-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-OFFICIAL-20220119-GAPPS.zip", 
+                  "sha256": "a0ce0bfd3b22bd1a9a6798a316b724d1eb77ea2b526b31eae45334e2e35ba8fb", 
+                  "size": "1551885749", 
+                  "type": "official", 
+                  "version": "v12.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-01-18", 
