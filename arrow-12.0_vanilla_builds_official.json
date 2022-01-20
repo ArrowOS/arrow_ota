@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Update blobs to MIUI V12.5.5.0.RKHMIXM\r\n- rootdir: Allow all filesystems for USB-OTG\r\n- props: Increase audio HAL buffer size to 240\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global / India / EU.</b>", 
-            "date": "2022-01-12", 
-            "datetime": "20220112", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220112-VANILLA.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220112-VANILLA.zip", 
+            "changelog": "- Build with AOSP Clang 14.0.1\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global / India / EU.</b>", 
+            "date": "2022-01-20", 
+            "datetime": "20220120", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220120-VANILLA.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220120-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "247185c8ecae2a794dd245f378bd872d4301a2846ef0d0533f188507d0451a24", 
-            "size": "1038850365", 
+            "sha256": "f52e5231c36c50e745b854df8af202e3acef9ff2073c78a620c8864004a8f21e", 
+            "size": "1038813183", 
             "type": "official", 
             "version": "v12.0"
         }
