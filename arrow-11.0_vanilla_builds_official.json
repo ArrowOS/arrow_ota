@@ -722,15 +722,15 @@
     "whyred": [
         {
             "changelog": "\u2022 Switched to AOSP WFD\r\n\u2022 Upstream kernel to 4.4.283\r\n\u2022 Drop perfd blobs\r\n\u2022 Fixed nightlight\r\n\u2022 Cleanup useless blobs\r\n\u2022 Misc changes", 
-            "date": "2021-12-16", 
-            "datetime": "20211216", 
-            "filename": "Arrow-v11.0-whyred-OFFICIAL-20211216-VANILLA.zip", 
-            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20211216-VANILLA.zip", 
+            "date": "2022-01-21", 
+            "datetime": "20220121", 
+            "filename": "Arrow-v11.0-whyred-OFFICIAL-20220121-VANILLA.zip", 
+            "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20220121-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "8ab000ada70d7231ee19f02fde4fa18761ffdcc9b3f0eadfdd3272aab462e56f", 
-            "size": "828002900", 
+            "sha256": "a0fb72c2f82cd6dd8cfb5b644690b15e23cdba4f0216bd118fa710b6d8aa26b7", 
+            "size": "828266646", 
             "type": "official", 
             "version": "v11.0"
         }
