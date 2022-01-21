@@ -97,7 +97,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "Use Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "changelog": "- Added Notch Bar Killer overlay for gamers under Developer options -> Display cutout\r\n\r\n- Fix new heads up notifications showing their icon behind the camera cutout in status bar\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
             "date": "2022-01-21", 
             "datetime": "20220121", 
             "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220121-GAPPS.zip", 
@@ -105,8 +105,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "ff352fa8a77d2010283c25c8e9fa1056c44f9988b7b0b4c842a3309a806582cc", 
-            "size": "1517233344", 
+            "sha256": "9ec2532da423ff3ee066cd65149c1e8d554690fcde34bedfe72f76ab32015a3c", 
+            "size": "1517264028", 
             "type": "unofficial", 
             "version": "v12.0"
         }
