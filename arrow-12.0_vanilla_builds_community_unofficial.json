@@ -1,4 +1,20 @@
 {
+    "X01AD": [
+        {
+            "changelog": "- Initial A12 Test build", 
+            "date": "2022-01-21", 
+            "datetime": "20220121", 
+            "filename": "Arrow-v12.0-X01AD-COMMUNITY-20220121-VANILLA.zip", 
+            "filepath": "/arrow-12.0/X01AD/Arrow-v12.0-X01AD-COMMUNITY-20220121-VANILLA.zip", 
+            "maintainer": "Arka", 
+            "model": "Asus Zenfone Max M2", 
+            "oem": "asus", 
+            "sha256": "6ef9da8e203029203d12e7a2d92fad521d397e97b3e0ffaeecb15f14e9424738", 
+            "size": "801525977", 
+            "type": "community", 
+            "version": "v12.0"
+        }
+    ], 
     "Z01R": [
         {
             "changelog": "Kernel: Merge branch android-4.9-q of https://android.googlesource.com/kernel/common", 
