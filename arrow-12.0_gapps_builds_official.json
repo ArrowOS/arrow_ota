@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Many update. Much wow\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-01-13", 
-            "datetime": "20220113", 
-            "filename": "Arrow-v12.0-apollo-OFFICIAL-20220113-GAPPS.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220113-GAPPS.zip", 
+            "changelog": "- Move to QTI Powe Hal (Pubg 1m fps guarantee)\r\n- Audio cleanups\r\n- Parts cleanups and improvements\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-01-20", 
+            "datetime": "20220120", 
+            "filename": "Arrow-v12.0-apollo-OFFICIAL-20220120-GAPPS.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220120-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "a477862b48e99d893e1dadc5232887459b4482530c1e071eb6d086cd177cd8e4", 
-            "size": "1514450048", 
+            "sha256": "fd4243bf11cb2992da4a50afdfea48cc0d604ac543a775247e47ec69cb06fe6a", 
+            "size": "1519034916", 
             "type": "official", 
             "version": "v12.0"
         }
