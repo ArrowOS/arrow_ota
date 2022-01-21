@@ -50,15 +50,15 @@
     "alioth": [
         {
             "changelog": "- alioth: rro_overlays: Drop TetheringOverlay\r\n- Switch NXP NFC HAL (Now should read mifare card and another tag)\r\n- Reserved vendor partition size\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
-            "date": "2021-12-15", 
-            "datetime": "20211215", 
-            "filename": "Arrow-v11.0-alioth-OFFICIAL-20211215-GAPPS.zip", 
-            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211215-GAPPS.zip", 
+            "date": "2022-01-21", 
+            "datetime": "20220121", 
+            "filename": "Arrow-v11.0-alioth-OFFICIAL-20220121-GAPPS.zip", 
+            "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20220121-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "ca3fafdaa1f6a888e98d257110b6daeea5bc064ebc2bb107eb8397f311eebffd", 
-            "size": "1401632615", 
+            "sha256": "e25144b6acb90c42fc5726b3300579f49d3413d1ada903ec461aa94edcd8524d", 
+            "size": "1401725273", 
             "type": "official", 
             "version": "v11.0"
         }
