@@ -729,7 +729,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Build with AOSP Clang 14.0.1\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global / India / EU.</b>", 
+      "changelog": "- alioth: rro_overlays: Drop TetheringOverlay\r\n- Switch NXP NFC HAL (Now should read mifare card and another tag)\r\n- Reserved vendor partition size\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -751,12 +751,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-15", 
-                  "datetime": "20211215", 
-                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20211215-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20211215-VANILLA.zip", 
-                  "sha256": "db9885f10e5cd6919dc66f5623c2b5183b6c155b1c6a14be0a6bbd504abdc1c3", 
-                  "size": "1104381763", 
+                  "date": "2022-01-21", 
+                  "datetime": "20220121", 
+                  "filename": "Arrow-v11.0-alioth-OFFICIAL-20220121-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/alioth/Arrow-v11.0-alioth-OFFICIAL-20220121-VANILLA.zip", 
+                  "sha256": "d667fd78e8ff54937b5b925c64d726a90ee4d5e730b06894825b1aa10589d292", 
+                  "size": "1105558887", 
                   "type": "official", 
                   "version": "v11.0"
                 }
