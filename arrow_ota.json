@@ -5933,8 +5933,8 @@
   ], 
   "vince": [
     {
-      "changelog": null, 
-      "maintainer": "srinandek", 
+      "changelog": "\u2022 Update Redfin FP to Oct\r\n\u2022 Address Denials\r\n\u2022 Switch to Kernel space Battery Saver\r\n\u2022 Drop Pixel Power Hal (libperfmgr)\r\n\u2022 FM Radio Works with Default Kernel\r\n\u2022 Update Blobs from LA.UM.9.6.3.r1-04400-89xx.0", 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Redmi 5 Plus", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -5955,12 +5955,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-21", 
-                  "datetime": "20220121", 
-                  "filename": "Arrow-v11.0-vince-COMMUNITY-20220121-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20220121-VANILLA.zip", 
-                  "sha256": "445a901a5dd79a2daf47f343d6c52eacc6cd885a8e64d7c2176fc6a832e42bfe", 
-                  "size": "782523122", 
+                  "date": "2022-01-22", 
+                  "datetime": "20220122", 
+                  "filename": "Arrow-v11.0-vince-COMMUNITY-20220122-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/vince/Arrow-v11.0-vince-COMMUNITY-20220122-VANILLA.zip", 
+                  "sha256": "f979b4a7d412ec040b012ed0d022094f82a9cc6cee0197ced561e75294254b92", 
+                  "size": "782462364", 
                   "type": "community", 
                   "version": "v11.0"
                 }
