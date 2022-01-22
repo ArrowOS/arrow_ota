@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "Use Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-01-20", 
-            "datetime": "20220120", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220120-VANILLA.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220120-VANILLA.zip", 
+            "changelog": "- update audio + sensors from CN beta 13 A12\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-01-22", 
+            "datetime": "20220122", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220122-VANILLA.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220122-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "e809447cc450c652274a59ebc0e9da4037762b13bfdb04f088cad7c4a32c7107", 
-            "size": "1185567789", 
+            "sha256": "f614cf9f6a600ab2e230b406fd87c357986638fc488b0c2dbe88b9d9da1d5f84", 
+            "size": "1185958677", 
             "type": "unofficial", 
             "version": "v12.0"
         }
