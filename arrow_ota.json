@@ -5285,7 +5285,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "12/11/2021\r\n\u2022 Improved power management\r\n\u2022 Switched back to schedutil governor\r\n\u2022 Cleaned unneeded vendor libraries\r\n\r\n28/10/2021\r\n\u2022 Fixed cutout color being inverted with the \"Force dark theme\" setting\r\n\u2022 Fixed minimum frequency being 1248MHz\r\n\u2022 Fixed WFD\r\n\u2022 Added Spanish translations to the device specific settings", 
+      "changelog": "For installation information, refer to https://telegra.ph/Installation-of-ArrowOS-sweetsweetin---included-vendor-05-10\r\n\r\n11/09/2021\r\n\u2022 Fixed front camera video recording on MIUI camera", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -5307,12 +5307,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-19", 
-                  "datetime": "20220119", 
-                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20220119-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20220119-VANILLA.zip", 
-                  "sha256": "6bc744dee6605c74eedbfa05a060e9ebd3b984d625d4524200c244558d99687c", 
-                  "size": "1268845485", 
+                  "date": "2022-01-22", 
+                  "datetime": "20220122", 
+                  "filename": "Arrow-v11.0-sweet-OFFICIAL-20220122-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/sweet/Arrow-v11.0-sweet-OFFICIAL-20220122-VANILLA.zip", 
+                  "sha256": "5e17e5eb64549fa903f76c790af496f246f38169f53db8d9d657ce8af4cbc157", 
+                  "size": "1134329814", 
                   "type": "official", 
                   "version": "v11.0"
                 }
