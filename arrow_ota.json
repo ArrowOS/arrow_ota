@@ -1097,7 +1097,7 @@
   ], 
   "blueline": [
     {
-      "changelog": "Add AOSP RCS packages\r\nRemove split permissions", 
+      "changelog": "- Sync audio effects with the stock ROM\r\n- Fix Android System Intelligence Issue\r\n- Default to full gesture navigation\r\n- Include Lawnchair\r\n- Update fingerprint/build description from SP1A.210812.016.A2", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 3", 
       "oem": "google", 
@@ -1119,12 +1119,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-26", 
-                  "datetime": "20211226", 
-                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20211226-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20211226-VANILLA.zip", 
-                  "sha256": "ad31a2d55d8b0b07c0e24fa72570cf7be26edcd7e5c618fe6d3c197809aa65cf", 
-                  "size": "851663705", 
+                  "date": "2022-01-23", 
+                  "datetime": "20220123", 
+                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20220123-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220123-VANILLA.zip", 
+                  "sha256": "e9bf8f1fdbed2b77ef5498443fbb858b5ee49da4cb0410ebfa23a7bb6422ab6d", 
+                  "size": "853952960", 
                   "type": "official", 
                   "version": "v12.0"
                 }
