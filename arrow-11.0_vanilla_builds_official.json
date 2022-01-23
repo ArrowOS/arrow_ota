@@ -210,15 +210,15 @@
     "dumpling": [
         {
             "changelog": "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes.", 
-            "date": "2021-12-18", 
-            "datetime": "20211218", 
-            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20211218-VANILLA.zip", 
-            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20211218-VANILLA.zip", 
+            "date": "2022-01-23", 
+            "datetime": "20220123", 
+            "filename": "Arrow-v11.0-dumpling-OFFICIAL-20220123-VANILLA.zip", 
+            "filepath": "/arrow-11.0/dumpling/Arrow-v11.0-dumpling-OFFICIAL-20220123-VANILLA.zip", 
             "maintainer": "Bauuuuu", 
             "model": "ONEPLUS A5010", 
             "oem": "OnePlus", 
-            "sha256": "d845e3d6a08b19c1daadfb107c7258cfab1eddb37a22192193a5259d840ec5a8", 
-            "size": "833764924", 
+            "sha256": "064f2766ba56fdb25c79e4752ba5b635615c3bd0e2bebf1db66c4939aed5b741", 
+            "size": "833222645", 
             "type": "official", 
             "version": "v11.0"
         }
