@@ -501,7 +501,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "- Initial A12 build", 
+      "changelog": "- Initial A12 Test build", 
       "maintainer": "Arka", 
       "model": "Asus Zenfone Max M2", 
       "oem": "asus", 
@@ -555,12 +555,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-23", 
-                  "datetime": "20220123", 
-                  "filename": "Arrow-v12.0-X01AD-COMMUNITY-20220123-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/X01AD/Arrow-v12.0-X01AD-COMMUNITY-20220123-VANILLA.zip", 
-                  "sha256": "3e7cf95cf703984ca6c7573212da7903a49f6d1eac6e04606ac131f839e33670", 
-                  "size": "801092384", 
+                  "date": "2022-01-24", 
+                  "datetime": "20220124", 
+                  "filename": "Arrow-v12.0-X01AD-COMMUNITY-20220124-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/X01AD/Arrow-v12.0-X01AD-COMMUNITY-20220124-VANILLA.zip", 
+                  "sha256": "4127c7eb98fee65a719da8fe37048d9e277119ac8cc7fa55f51a14ffbb960a15", 
+                  "size": "801099828", 
                   "type": "community", 
                   "version": "v12.0"
                 }
