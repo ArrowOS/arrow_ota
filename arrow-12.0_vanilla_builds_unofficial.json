@@ -177,16 +177,16 @@
     ], 
     "davinci": [
         {
-            "changelog": null, 
-            "date": "2022-01-20", 
-            "datetime": "20220120", 
-            "filename": "Arrow-v12.0-davinci-UNOFFICIAL-20220120-VANILLA.zip", 
-            "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-UNOFFICIAL-20220120-VANILLA.zip", 
+            "changelog": "- Update davinci blobs from MIUI v12.1.4.0 RFJMIXM\r\n- Use aosp wfd display\r\n- Update audio hal\r\n- Use snap cam", 
+            "date": "2022-01-25", 
+            "datetime": "20220125", 
+            "filename": "Arrow-v12.0-davinci-UNOFFICIAL-20220125-VANILLA.zip", 
+            "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-UNOFFICIAL-20220125-VANILLA.zip", 
             "maintainer": "RemyL", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "92e961bbc0bead6a4f868d3fdcfdeb7b693204be461dcdae3aaedba6b4cc03eb", 
-            "size": "996277602", 
+            "sha256": "5da0a3e011fe7589938c33d8b951c0bb3b4c55e1fdc8bf896ca558bf334183b1", 
+            "size": "996155756", 
             "type": "unofficial", 
             "version": "v12.0"
         }
