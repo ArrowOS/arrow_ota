@@ -162,15 +162,15 @@
     "crosshatch": [
         {
             "changelog": "- Sync audio effects with the stock ROM\r\n- Fix Android System Intelligence Issue\r\n- Default to full gesture navigation\r\n- Include Lawnchair\r\n- Update fingerprint/build description from SP1A.210812.016.A2", 
-            "date": "2022-01-18", 
-            "datetime": "20220118", 
-            "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20220118-GAPPS.zip", 
-            "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20220118-GAPPS.zip", 
+            "date": "2022-01-25", 
+            "datetime": "20220125", 
+            "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20220125-GAPPS.zip", 
+            "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20220125-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 3 XL", 
             "oem": "google", 
-            "sha256": "28d59508f402c5b7a35fd125980e904af64e41393087307ccd4305e4af154e25", 
-            "size": "1132656650", 
+            "sha256": "41f5cb41529e3030ed42c616f45c315eb097a50a8b655095dc922c37879c4f9a", 
+            "size": "1132643626", 
             "type": "official", 
             "version": "v12.0"
         }
