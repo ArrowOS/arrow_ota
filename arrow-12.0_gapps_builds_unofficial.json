@@ -146,15 +146,15 @@
     "cas": [
         {
             "changelog": "Tips: Please download official build in achieves above!\r\nOfficial:\r\nFirmware: V12.5.6\r\nDate: 2022-1-17\r\n\r\nExperiments:\r\nFirmware: V13.0.0.1.2.DEV\r\nDate: 2022-1-24\r\n\r\nChangelog:\r\n1. Sync with the latest source\r\n2. Switch to Lawnchair\r\n\r\n2021-12-12\r\n1. Sync with the latest source\r\n2. Merge tag LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0 into kernel source\r\n \r\n2021-12-11\r\n1. Sync with the latest source\r\n2. Support dc dimming\r\n\r\n2021-12-05\r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
-            "date": "2022-01-24", 
-            "datetime": "20220124", 
-            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20220124-GAPPS.zip", 
-            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20220124-GAPPS.zip", 
+            "date": "2022-01-25", 
+            "datetime": "20220125", 
+            "filename": "Arrow-v12.0-cas-UNOFFICIAL-20220125-GAPPS.zip", 
+            "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-UNOFFICIAL-20220125-GAPPS.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "9f1eea5044ba068d9f052b74941df0364ea08e76a8ee8f18e4a0a635eb106d0c", 
-            "size": "1730673153", 
+            "sha256": "bfbae967e239d6b274639b84f528568c10f6daa187784000eac75c7f5b302b7a", 
+            "size": "1730433599", 
             "type": "unofficial", 
             "version": "v12.0"
         }
