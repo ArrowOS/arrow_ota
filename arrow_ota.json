@@ -5181,7 +5181,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- shim libgui surface constructor (fix vilte)\r\n- Dont inherit updatable_apex.mk\r\n- Drop unuse qti-telephony-common.jar\r\n- Move some props to system\r\n- Set BOARD_SHIPPING_API_LEVEL to 29\r\n- Build with AOSP Clang 14.0.1\r\n- parts: Import Russian and Ukraine translations\r\n- parts: Import Spain translations\r\n- overlay: Adjust status bar height\r\n- props: Enable GL backpressure\r\n- Disable kpti\r\n- props: Disable partial FB excl rect\r\n- Merge branch android-4.14-stable of android/kernel/common\r\n- Merge tag LA.UM.9.1.r1-11500-SMxxx0.0 of CAF\r\n- Fix the lag due to restricted thermals after battery percentage under 10%\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
+      "changelog": null, 
       "maintainer": "Ganesh Varma, palaych", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -5251,12 +5251,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-23", 
-                  "datetime": "20220123", 
-                  "filename": "Arrow-v12.0-surya-OFFICIAL-20220123-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220123-VANILLA.zip", 
-                  "sha256": "5f3d0eff7f5dcd3a4a11f17e94b5882bcaa01ad85bddef7cb15c21b4a4e355f7", 
-                  "size": "1009066387", 
+                  "date": "2022-01-25", 
+                  "datetime": "20220125", 
+                  "filename": "Arrow-v12.0-surya-OFFICIAL-20220125-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220125-VANILLA.zip", 
+                  "sha256": "6bd979792698f29fc9449d5cac60eed0e64f27719404ffc8a6006c0c83822ccd", 
+                  "size": "1008941416", 
                   "type": "official", 
                   "version": "v12.0"
                 }
