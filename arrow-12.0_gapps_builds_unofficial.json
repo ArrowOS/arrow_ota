@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- update audio + sensors from CN beta 13 A12\r\n\r\n- fix fingerprint unlock delay (thank you Xiaomi)\r\n\r\n- fix fp unlock animation \r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-01-23", 
-            "datetime": "20220123", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220123-GAPPS.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220123-GAPPS.zip", 
+            "changelog": "- kill A12 unlock animation (inconsistent and was made for amoled anyway)\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-01-25", 
+            "datetime": "20220125", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220125-GAPPS.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220125-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "b538b14fc500053f03bb58a98e013ec18ed1d3d3d1445b255566000e9f39635c", 
-            "size": "1517531394", 
+            "sha256": "5cfd7947a4de3f416f37519b495c605879dbfdcb1fce9a1c13fbbc3f235fc86e", 
+            "size": "1517159230", 
             "type": "unofficial", 
             "version": "v12.0"
         }
