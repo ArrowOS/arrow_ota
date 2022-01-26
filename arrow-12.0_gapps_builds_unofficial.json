@@ -273,16 +273,16 @@
     ], 
     "kebab": [
         {
-            "changelog": "- Fixed game frame drops\r\n- Fixed the video call", 
-            "date": "2022-01-20", 
-            "datetime": "20220120", 
-            "filename": "Arrow-v12.0-kebab-UNOFFICIAL-20220120-GAPPS.zip", 
-            "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-UNOFFICIAL-20220120-GAPPS.zip", 
+            "changelog": "Temporarily handed over to hiper25 for maintenance", 
+            "date": "2022-01-26", 
+            "datetime": "20220126", 
+            "filename": "Arrow-v12.0-kebab-UNOFFICIAL-20220126-GAPPS.zip", 
+            "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-UNOFFICIAL-20220126-GAPPS.zip", 
             "maintainer": "hiper25", 
             "model": "KB2003", 
             "oem": "OnePlus", 
-            "sha256": "752e4be0425c1c92a7578e204e8991abe2dd4bf6b2cc8c7399585dc5c8349030", 
-            "size": "1349057439", 
+            "sha256": "bf472b69416c8d368546873d59c8bd59726bdd9180ccf36b03f0a6b9ab300996", 
+            "size": "1336411647", 
             "type": "unofficial", 
             "version": "v12.0"
         }
