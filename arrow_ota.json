@@ -2837,7 +2837,7 @@
   ], 
   "kebab": [
     {
-      "changelog": "- Initial stable official build", 
+      "changelog": "Temporarily handed over to hiper25 for maintenance", 
       "maintainer": "hiper25", 
       "model": "KB2003", 
       "oem": "OnePlus", 
@@ -2947,12 +2947,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-20", 
-                  "datetime": "20220120", 
-                  "filename": "Arrow-v12.0-kebab-UNOFFICIAL-20220120-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-UNOFFICIAL-20220120-VANILLA.zip", 
-                  "sha256": "2f09ec6153a8813c3b1738e5a6e971241ee5edfdbe639da655f7c693d4619c63", 
-                  "size": "1055107529", 
+                  "date": "2022-01-26", 
+                  "datetime": "20220126", 
+                  "filename": "Arrow-v12.0-kebab-UNOFFICIAL-20220126-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-UNOFFICIAL-20220126-VANILLA.zip", 
+                  "sha256": "f19c86c79f4f430774a7e74be288174ce638f4e75bd7a45c577bc1e4ad200a20", 
+                  "size": "1054457607", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
