@@ -2837,7 +2837,7 @@
   ], 
   "kebab": [
     {
-      "changelog": "- Fixed game frame drops\r\n- Fixed the video call", 
+      "changelog": "- Initial stable official build", 
       "maintainer": "hiper25", 
       "model": "KB2003", 
       "oem": "OnePlus", 
@@ -2898,6 +2898,22 @@
                   "sha256": "582688e49c39e5109907efb83b6b6b393fde99b3615c7d17b91cd80e4cab7f2b", 
                   "size": "1061010305", 
                   "type": "community", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ], 
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-01-26", 
+                  "datetime": "20220126", 
+                  "filename": "Arrow-v12.0-kebab-OFFICIAL-20220126-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-OFFICIAL-20220126-VANILLA.zip", 
+                  "sha256": "747928a1f7ae4f30ec49f2dfa204d073877e92739ec7ec99db8fd4b5df26ccab", 
+                  "size": "1055838112", 
+                  "type": "official", 
                   "version": "v12.0"
                 }
               ]

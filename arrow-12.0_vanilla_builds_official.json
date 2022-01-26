@@ -271,6 +271,22 @@
             "version": "v12.0"
         }
     ], 
+    "kebab": [
+        {
+            "changelog": "- Initial stable official build", 
+            "date": "2022-01-26", 
+            "datetime": "20220126", 
+            "filename": "Arrow-v12.0-kebab-OFFICIAL-20220126-VANILLA.zip", 
+            "filepath": "/arrow-12.0/kebab/Arrow-v12.0-kebab-OFFICIAL-20220126-VANILLA.zip", 
+            "maintainer": "hiper25", 
+            "model": "KB2003", 
+            "oem": "OnePlus", 
+            "sha256": "747928a1f7ae4f30ec49f2dfa204d073877e92739ec7ec99db8fd4b5df26ccab", 
+            "size": "1055838112", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Fixed device auto shutdown in a \"not too high\" temperature when gaming\r\n- Drop deprecated RenderScript implementation\r\n- Localise NTP to improve GPS TTFF\r\n- Disable WLAN Firmware loggings\r\n- Clean up unused manifests\r\n- kernel: Re-add Safetynet Patch for non-rooted users\r\n- Other fixes and improvements", 
