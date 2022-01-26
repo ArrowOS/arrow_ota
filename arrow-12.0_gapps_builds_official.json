@@ -209,16 +209,16 @@
     ], 
     "davinci": [
         {
-            "changelog": "- Misc changes and improvements", 
-            "date": "2022-01-22", 
-            "datetime": "20220122", 
-            "filename": "Arrow-v12.0-davinci-OFFICIAL-20220122-GAPPS.zip", 
-            "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-OFFICIAL-20220122-GAPPS.zip", 
+            "changelog": null, 
+            "date": "2022-01-26", 
+            "datetime": "20220126", 
+            "filename": "Arrow-v12.0-davinci-OFFICIAL-20220126-GAPPS.zip", 
+            "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-OFFICIAL-20220126-GAPPS.zip", 
             "maintainer": "RemyL", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "f30ed384ad0cedfdb1b4bce9d597843875aa11a8bbf6f793c10f270e6447c334", 
-            "size": "1321607251", 
+            "sha256": "58f8f379bbfebbbf9646f680ca7bd0b4571a0314b9b8b269ac96ddee42d163ba", 
+            "size": "1321626035", 
             "type": "official", 
             "version": "v12.0"
         }
