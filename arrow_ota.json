@@ -5541,8 +5541,8 @@
   ], 
   "tucana": [
     {
-      "changelog": "- Initial release of Community ArrowOS for tucana\r\n- Update redfin fingerprint to November\r\n- Drop fast-charge script (now it is handled in the kernel)\r\n- Bring back audio amplifier\r\n- Address selinux denials", 
-      "maintainer": "Erikdrozina", 
+      "changelog": "Test Build 26-01-2022", 
+      "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Mi Note 10", 
       "oem": "Xiaomi", 
       "v12.0": [
@@ -5563,12 +5563,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2021-12-09", 
-                  "datetime": "20211209", 
-                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20211209-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20211209-VANILLA.zip", 
-                  "sha256": "9b366f3af9bf44db69de3883eba6422852f4a2ded66de024a8cd91815d48597a", 
-                  "size": "1195924508", 
+                  "date": "2022-01-26", 
+                  "datetime": "20220126", 
+                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20220126-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20220126-VANILLA.zip", 
+                  "sha256": "a8ab97586a2c4889f95221da69eeb597c22576bd6b91fe526586e98b0ff09a8b", 
+                  "size": "1203872484", 
                   "type": "community", 
                   "version": "v12.0"
                 }
