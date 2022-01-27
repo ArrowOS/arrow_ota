@@ -753,7 +753,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- alioth: rro_overlays: Drop TetheringOverlay\r\n- Switch NXP NFC HAL (Now should read mifare card and another tag)\r\n- Reserved vendor partition size\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable android kernel common\r\n- Merge CAF tag LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n- Misc fixes and upstream changes.\r\n\r\nRecommend use with fw part MIUI V12.5.4.0 and newer (global/India/etc).\r\n\r\nInstallation instruction: https://forum.xda-developers.com/t/rom-11-0-0-alioth-aliothin-arrowos-11-0-official-weekly.4279481/post-85045261", 
+      "changelog": "- Set iorap prefetch prop to mendel flags\r\n- overlay: Exempt CNE app from location indicators\r\n- overlay: Set config_defaultRefreshRateInZone\r\n\r\nKernel:\r\n- Merge tag LA.UM.9.12.r1-13700.03-SMxx50.QSSI12.0 of CAF\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global.</b>", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -807,12 +807,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-20", 
-                  "datetime": "20220120", 
-                  "filename": "Arrow-v12.0-alioth-OFFICIAL-20220120-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220120-VANILLA.zip", 
-                  "sha256": "f52e5231c36c50e745b854df8af202e3acef9ff2073c78a620c8864004a8f21e", 
-                  "size": "1038813183", 
+                  "date": "2022-01-27", 
+                  "datetime": "20220127", 
+                  "filename": "Arrow-v12.0-alioth-OFFICIAL-20220127-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220127-VANILLA.zip", 
+                  "sha256": "2768a134a950c21f94db997e1d0f9195481f72fe2651127b2ab445271e0a82e2", 
+                  "size": "1038815780", 
                   "type": "official", 
                   "version": "v12.0"
                 }
