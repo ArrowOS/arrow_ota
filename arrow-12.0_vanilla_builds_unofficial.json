@@ -113,7 +113,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "Use Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "changelog": "- Firmware included in ROM\r\n\r\n- Arrow Recovery included in ROM\r\n\r\n- Blobs updated to MIUI  Global V12.5.8.0\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
             "date": "2022-01-27", 
             "datetime": "20220127", 
             "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220127-VANILLA.zip", 
@@ -121,8 +121,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "c434eccf187b719fa33238ab74098a2a3a0e98d3f559e100c75d0db639ed6804", 
-            "size": "1186807717", 
+            "sha256": "96b362b89ea992f9fa40cbc7dcf378c170e344e04c306d8691f3a2310416a950", 
+            "size": "1357401440", 
             "type": "unofficial", 
             "version": "v12.0"
         }
