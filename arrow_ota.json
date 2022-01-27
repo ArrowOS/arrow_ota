@@ -3033,7 +3033,7 @@
   ], 
   "lavender": [
     {
-      "changelog": null, 
+      "changelog": "- Limit the dex2oat resouce when thermal stress\r\n- Update DPM Stack from DDV\r\n- Enable DPM features\r\n- Enable dex2oat64 usage\r\n- Disable Async MTE on System Server\r\n- Disable RX wakelock feature in both rom side and kernel side\r\n- kernel: Avoid some overhead\r\n- kernel: Optimize to reduce some CPU power consumption with WiFi\r\n- Other fixes and improvements", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -3115,12 +3115,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-20", 
-                  "datetime": "20220120", 
-                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20220120-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220120-VANILLA.zip", 
-                  "sha256": "7108754f1a651ec576728a32ce1f4e8ef3528ac511013f6c76ba7a23db6514f3", 
-                  "size": "845855650", 
+                  "date": "2022-01-27", 
+                  "datetime": "20220127", 
+                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20220127-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220127-VANILLA.zip", 
+                  "sha256": "fe62f0a98b975ff7791e489e1500604351d7f85e693a2eaceeecbb5f5e0f8f8c", 
+                  "size": "846242532", 
                   "type": "official", 
                   "version": "v12.0"
                 }
