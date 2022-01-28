@@ -18,15 +18,15 @@
     "X01AD": [
         {
             "changelog": "- Fix DPI and lag issue\r\n- Update kernel\r\n- Misc changes", 
-            "date": "2022-01-26", 
-            "datetime": "20220126", 
-            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20220126-VANILLA.zip", 
-            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20220126-VANILLA.zip", 
+            "date": "2022-01-28", 
+            "datetime": "20220128", 
+            "filename": "Arrow-v11.0-X01AD-COMMUNITY-20220128-VANILLA.zip", 
+            "filepath": "/arrow-11.0/X01AD/Arrow-v11.0-X01AD-COMMUNITY-20220128-VANILLA.zip", 
             "maintainer": "Arka", 
             "model": "Asus Zenfone Max M2", 
             "oem": "asus", 
-            "sha256": "e7493843f80c722dfd37fe79fbd26089f7a48f8c85b1c459de7337ffeeab6e24", 
-            "size": "865075251", 
+            "sha256": "db33f93cc6f39e649df7944b2120e4caa0ed8c03633324c78b89d1fe6b82e335", 
+            "size": "865068934", 
             "type": "community", 
             "version": "v11.0"
         }
