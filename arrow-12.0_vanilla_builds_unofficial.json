@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Firmware included in ROM\r\n\r\n- Arrow Recovery included in ROM\r\n\r\n- Blobs updated to MIUI  Global V12.5.8.0\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-01-27", 
-            "datetime": "20220127", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220127-VANILLA.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220127-VANILLA.zip", 
+            "changelog": "- Removed motor hal service which was log spamming\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-01-28", 
+            "datetime": "20220128", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220128-VANILLA.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220128-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "96b362b89ea992f9fa40cbc7dcf378c170e344e04c306d8691f3a2310416a950", 
-            "size": "1357401440", 
+            "sha256": "97b0a4abb6c74eb0011e669f6cf66c4dc6f6181ddb353463af72a157c8047ce9", 
+            "size": "1357142136", 
             "type": "unofficial", 
             "version": "v12.0"
         }
