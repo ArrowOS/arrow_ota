@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Move to QTI Powe Hal (Pubg 1m fps guarantee)\r\n- Audio cleanups\r\n- Parts cleanups and improvements\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-01-20", 
-            "datetime": "20220120", 
-            "filename": "Arrow-v12.0-apollo-OFFICIAL-20220120-VANILLA.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220120-VANILLA.zip", 
+            "changelog": "- fix fingerprint delay with audio hal from MIUI CN beta 13 (thanks Xiaomi)\r\n\r\n- fix status bar heads up icon positioning\r\n\r\n- updated blobs & firmware to MIUI Global V12.5.8.0\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-01-27", 
+            "datetime": "20220127", 
+            "filename": "Arrow-v12.0-apollo-OFFICIAL-20220127-VANILLA.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220127-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "0842614081486cba4201eef0b16ff84a49cd3d4bbe78399e277776571c51df93", 
-            "size": "1187054968", 
+            "sha256": "d9ac35cf08b9dcc69e4eb2acc6b49a5487ecfe4a0259057d95c3def4941c884a", 
+            "size": "1358619015", 
             "type": "official", 
             "version": "v12.0"
         }
