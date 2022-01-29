@@ -353,16 +353,16 @@
     ], 
     "miatoll": [
         {
-            "changelog": "Device Changelogs:\r\n\r\n\u2022 Upstreamed kernel to 4.14.246\r\n\u2022 Merged latest tag LA.UM.9.1.r1-11100-SMxxx0.0 treewide\r\n\u2022 Merged tag LA.UM.9.1.r1-11100-SMxxx0.0 in qcacld-3.0, fw-api, qca-wifi-host-cmn, techpack/audio\r\n\u2022 Reverted Adreno/Vulkan blobs to v502\r\n\u2022 Fixed device freeze issue while charging\r\n\u2022 Defined OEM fast charge sysfs node \r\n\u2022 Added offline charging LED indicator \r\n\u2022 Disabled multi color notification LED (miatoll has white led only)\r\n\u2022 Removed widevine L1 hacks", 
-            "date": "2021-12-16", 
-            "datetime": "20211216", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20211216-GAPPS.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20211216-GAPPS.zip", 
+            "changelog": "\u2022 Upstreamed kernel to 4.14.262\r\n\u2022 Fixed app opening lags (enabled iorap)\r\n\u2022 Switched to prebuilt GPS stack", 
+            "date": "2022-01-29", 
+            "datetime": "20220129", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20220129-GAPPS.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20220129-GAPPS.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "e9c12b6811482b69d1a717c5e7cc8e8868b228752f51792f8cde677812de31a4", 
-            "size": "1712767326", 
+            "sha256": "8ee11ed5cb248c409a896cfe9ad1d27866bcf078bf7f24c1b0a0f35e40a2a50f", 
+            "size": "1634160473", 
             "type": "official", 
             "version": "v11.0"
         }
