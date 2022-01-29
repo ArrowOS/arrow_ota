@@ -466,15 +466,15 @@
     "taimen": [
         {
             "changelog": "Update 4.4.297 Kernel\r\nRevert \"Force triple frame buffers\"\r\nship cgroups.json and task_profiles.json in vendor", 
-            "date": "2022-01-21", 
-            "datetime": "20220121", 
-            "filename": "Arrow-v12.0-taimen-OFFICIAL-20220121-GAPPS.zip", 
-            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20220121-GAPPS.zip", 
+            "date": "2022-01-29", 
+            "datetime": "20220129", 
+            "filename": "Arrow-v12.0-taimen-OFFICIAL-20220129-GAPPS.zip", 
+            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20220129-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "1ac252478312e0c0a06634925208a4544142be824d45c0af6329f800289b1588", 
-            "size": "1070156505", 
+            "sha256": "45e8f3bd52d4c6113516a90f0f217298dcb74018c63bd1ed9785b9db4142f631", 
+            "size": "1070142397", 
             "type": "official", 
             "version": "v12.0"
         }
