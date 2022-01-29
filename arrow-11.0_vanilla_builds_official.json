@@ -370,15 +370,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Upstreamed kernel to 4.14.262\r\n\u2022 Fixed app opening lags (enabled iorap)\r\n\u2022 Switched to prebuilt GPS stack", 
-            "date": "2022-01-27", 
-            "datetime": "20220127", 
-            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20220127-VANILLA.zip", 
-            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20220127-VANILLA.zip", 
+            "date": "2022-01-29", 
+            "datetime": "20220129", 
+            "filename": "Arrow-v11.0-miatoll-OFFICIAL-20220129-VANILLA.zip", 
+            "filepath": "/arrow-11.0/miatoll/Arrow-v11.0-miatoll-OFFICIAL-20220129-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "4b6bfd0a91df2afade8d6991f64e25e6f8905922632570d7c0021576de8845d9", 
-            "size": "1322497297", 
+            "sha256": "a138d4d711ef2072048ab93f6df47294cb8d0fe00d1063b15bc7369d5c62d503", 
+            "size": "1322470562", 
             "type": "official", 
             "version": "v11.0"
         }
