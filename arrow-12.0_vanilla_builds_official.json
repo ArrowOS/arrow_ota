@@ -130,15 +130,15 @@
     "blueline": [
         {
             "changelog": "- Sync audio effects with the stock ROM\r\n- Fix Android System Intelligence Issue\r\n- Default to full gesture navigation\r\n- Include Lawnchair\r\n- Update fingerprint/build description from SP1A.210812.016.A2", 
-            "date": "2022-01-23", 
-            "datetime": "20220123", 
-            "filename": "Arrow-v12.0-blueline-OFFICIAL-20220123-VANILLA.zip", 
-            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220123-VANILLA.zip", 
+            "date": "2022-01-30", 
+            "datetime": "20220130", 
+            "filename": "Arrow-v12.0-blueline-OFFICIAL-20220130-VANILLA.zip", 
+            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220130-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 3", 
             "oem": "google", 
-            "sha256": "e9bf8f1fdbed2b77ef5498443fbb858b5ee49da4cb0410ebfa23a7bb6422ab6d", 
-            "size": "853952960", 
+            "sha256": "ce330a9dad7d5477e11a8e4c7f057c6d6c8574e58c06c0b065642dc3f6982dc2", 
+            "size": "854212585", 
             "type": "official", 
             "version": "v12.0"
         }
