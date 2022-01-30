@@ -385,7 +385,7 @@
   ], 
   "X00T": [
     {
-      "changelog": "- Fixed WFD\r\n- Fixed secure content playback on apps like hotstar", 
+      "changelog": "- Fixed USB tethering mode detection with windows\r\n- Updated HALs and rebased kernel on LA.UM.10.2.1.r1-02700-sdm660.0\r\n\r\n- Screen might go blank for a minute on the first boot. Wait and let it boot.", 
       "maintainer": "PranavKpr", 
       "model": "Asus Zenfone Max Pro M1", 
       "oem": "asus", 
@@ -483,12 +483,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-12-13", 
-                  "datetime": "20211213", 
-                  "filename": "Arrow-v12.0-X00T-UNOFFICIAL-20211213-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-UNOFFICIAL-20211213-GAPPS.zip", 
-                  "sha256": "b0dbab14eb91a84c8e30335c1c5307a694fa3bec38772312db6416e59ed0a708", 
-                  "size": "1062813964", 
+                  "date": "2022-01-30", 
+                  "datetime": "20220130", 
+                  "filename": "Arrow-v12.0-X00T-UNOFFICIAL-20220130-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-UNOFFICIAL-20220130-GAPPS.zip", 
+                  "sha256": "fc759ff49174325f13249bdd9bb6c623b4f87913048d6d25e09e3becfe046438", 
+                  "size": "1056520219", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
