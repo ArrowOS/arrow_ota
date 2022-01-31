@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Removed motor hal service which was log spamming\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-01-28", 
-            "datetime": "20220128", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220128-GAPPS.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220128-GAPPS.zip", 
+            "changelog": "- rebased tree and cleanups\r\n\r\n- disable APEX compression to fix OTA (only relevant on Official builds)\r\n\r\n- small changes\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-01-31", 
+            "datetime": "20220131", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220131-GAPPS.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220131-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "659017e5674796728bf166753f16a072728cbaac4ec7730869463f644c317f66", 
-            "size": "1688814328", 
+            "sha256": "f574952fd6f6c8d82423c06af35d7bd4d5d70a75eacd03e3cb52a7837b37e55d", 
+            "size": "1687784626", 
             "type": "unofficial", 
             "version": "v12.0"
         }
