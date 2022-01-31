@@ -4411,12 +4411,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-22", 
-                  "datetime": "20220122", 
-                  "filename": "Arrow-v12.0-r5x-COMMUNITY-20220122-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/r5x/Arrow-v12.0-r5x-COMMUNITY-20220122-VANILLA.zip", 
-                  "sha256": "37c2f16931926e2fed6819304ac36cc442cac98bbc40d4ff933ded6312f204aa", 
-                  "size": "977390008", 
+                  "date": "2022-01-30", 
+                  "datetime": "20220130", 
+                  "filename": "Arrow-v12.0-r5x-COMMUNITY-20220130-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/r5x/Arrow-v12.0-r5x-COMMUNITY-20220130-VANILLA.zip", 
+                  "sha256": "aef1983720c03b213cd845508135325ba07c41d87d52202997f8195dcfd9cd97", 
+                  "size": "977355788", 
                   "type": "community", 
                   "version": "v12.0"
                 }
