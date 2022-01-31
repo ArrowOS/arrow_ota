@@ -418,15 +418,15 @@
     "vayu": [
         {
             "changelog": "Please check <a href=\"https://github.com/ArrowOS-Devices/android_device_xiaomi_vayu/commits/arrow-12.0\">Device</a>,<a href=\"https://github.com/ArrowOS-Devices/android_vendor_xiaomi_vayu/commits/arrow-12.0\">Vendor</a>,<a href=\"https://github.com/ArrowOS-Devices/android_kernel_xiaomi_vayu/commits/arrow-12.0\">Kernel</a>\r\nsources and <a href=\"https://arrowos.net/changelog.php\">ROM changelogs</a> for actual changes.<br>You can join <a href=\"https://t.me/kubersharma001chat\">support chat</a> for more help.<br><br><b>You can donate to maintainer via:</b> <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a><b> | UPI:</b> 001KS001@kotak<br><br>Also, check out <a href=\"https://forum.xda-developers.com/t/arrowos-12-0-android-12-0-for-poco-x3-pro-vayu-bhima-official.4345061\">XDA thread</a> to discuss with other users.", 
-            "date": "2022-01-29", 
-            "datetime": "20220129", 
-            "filename": "Arrow-v12.0-vayu-OFFICIAL-20220129-VANILLA.zip", 
-            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20220129-VANILLA.zip", 
+            "date": "2022-01-31", 
+            "datetime": "20220131", 
+            "filename": "Arrow-v12.0-vayu-OFFICIAL-20220131-VANILLA.zip", 
+            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20220131-VANILLA.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "9fe4d9abdbf292ea06301e6dae2a819f385a8600a140738d5f09ff5b641a6fa1", 
-            "size": "1131486064", 
+            "sha256": "d87e032aa4fdc508aadcdaacf02f16c3e2f6ea9761b524c2d6510ee25d71a9ff", 
+            "size": "1131533798", 
             "type": "official", 
             "version": "v12.0"
         }
