@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- rebased tree and cleanups\r\n\r\n- disable APEX compression to fix OTA (only relevant on Official builds)\r\n\r\n- small changes\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-01-31", 
-            "datetime": "20220131", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220131-VANILLA.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220131-VANILLA.zip", 
+            "changelog": "- rebased tree and cleanups\r\n\r\n- disable APEX compression to fix OTA (only relevant on Official builds)\r\n\r\n- attempt to fix ViLTE with alioth A12 blobs\r\n\r\n- monet settings\r\n\r\n- battery light settings\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-02-01", 
+            "datetime": "20220201", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220201-VANILLA.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220201-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "99e480963de4e18c2349ee30598557700577b30f38bf6210fd149390e0487929", 
-            "size": "1355923987", 
+            "sha256": "3afa135fbb84b663a85ee59626e039651fff8fe9bbb65f6237d769aee1761bce", 
+            "size": "1355987343", 
             "type": "unofficial", 
             "version": "v12.0"
         }
