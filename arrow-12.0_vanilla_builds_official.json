@@ -354,15 +354,15 @@
     "phoenix": [
         {
             "changelog": "\u2022 Smarter decisions on whether to use a 2 or 5Ghz AP\r\n\u2022 Drop updatable_apex\r\n\u2022 Optimise dex flags for a faster boot\r\n\u2022 Merge Linux version 4.14.262 into the kernel \r\n\u2022 Some cleanup and misc changes", 
-            "date": "2022-01-23", 
-            "datetime": "20220123", 
-            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220123-VANILLA.zip", 
-            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220123-VANILLA.zip", 
+            "date": "2022-01-31", 
+            "datetime": "20220131", 
+            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220131-VANILLA.zip", 
+            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220131-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "ba039b277b85e47b7a7ecc41caf41732a7ad3af0d2b7bb18404167900ac11757", 
-            "size": "1022104772", 
+            "sha256": "a69adfbbb35931b86104443021f1015b443268da247c2f6f60a5ff0b7cec7ccc", 
+            "size": "1022202235", 
             "type": "official", 
             "version": "v12.0"
         }
