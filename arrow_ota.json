@@ -3201,10 +3201,10 @@
   ], 
   "lmi": [
     {
-      "changelog": "- Firmware and vendor require V12.2.1.0.RJKCNXM.\r\n\r\n- Device: https://github.com/ArrowOS-Devices/android_device_xiaomi_lmi/commits/arrow-11.0\r\n- Blobs: https://github.com/ArrowOS-Devices/android_vendor_xiaomi_lmi/commits/arrow-11.0", 
-      "maintainer": "TH779, lamp216", 
-      "model": "POCO F2 Pro", 
-      "oem": "POCO", 
+      "changelog": null, 
+      "maintainer": "TH779", 
+      "model": "Redmi K30 Pro", 
+      "oem": "Redmi", 
       "v10.0": [
         {
           "OFFICIAL": [
@@ -3343,12 +3343,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-23", 
-                  "datetime": "20220123", 
-                  "filename": "Arrow-v12.0-lmi-OFFICIAL-20220123-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/lmi/Arrow-v12.0-lmi-OFFICIAL-20220123-VANILLA.zip", 
-                  "sha256": "8b5511f23daae47a49295ae1560465116f51c88cad731339d04fce6e2f54822c", 
-                  "size": "1194958971", 
+                  "date": "2022-02-01", 
+                  "datetime": "20220201", 
+                  "filename": "Arrow-v12.0-lmi-OFFICIAL-20220201-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/lmi/Arrow-v12.0-lmi-OFFICIAL-20220201-VANILLA.zip", 
+                  "sha256": "ac9dc3745374ef0a9ae1ecf5971401def7d0e741ef6f327bc4cb3adb25536657", 
+                  "size": "1195378690", 
                   "type": "official", 
                   "version": "v12.0"
                 }
