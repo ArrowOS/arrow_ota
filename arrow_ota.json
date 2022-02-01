@@ -5541,7 +5541,7 @@
   ], 
   "tucana": [
     {
-      "changelog": "Test Build 26-01-2022", 
+      "changelog": null, 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "Mi Note 10", 
       "oem": "Xiaomi", 
@@ -5563,12 +5563,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-26", 
-                  "datetime": "20220126", 
-                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20220126-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20220126-VANILLA.zip", 
-                  "sha256": "a8ab97586a2c4889f95221da69eeb597c22576bd6b91fe526586e98b0ff09a8b", 
-                  "size": "1203872484", 
+                  "date": "2022-02-01", 
+                  "datetime": "20220201", 
+                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20220201-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20220201-VANILLA.zip", 
+                  "sha256": "59b5707e088b6b3fd5a0a8afe64e3c9140a0432402b696be9d89b97c7755e9bf", 
+                  "size": "1204551391", 
                   "type": "community", 
                   "version": "v12.0"
                 }
