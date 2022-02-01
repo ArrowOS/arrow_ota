@@ -6045,7 +6045,7 @@
   ], 
   "violet": [
     {
-      "changelog": "- Updated blobs to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Removed Violet parts and added Mi sound Enhancer to Settings>sounds and fps meter can be accessed through QS tiles\r\n- Removed Smart Charging\r\n- Enabled 24bit Playback as default\r\n- Fixes weird touch/scroll issues on fp touch event\r\n- Added Color modes \r\n- Enabled iorap\r\n- Rebased and updated kernel to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Upstreamed media HAL to LA.UM.9.1.r1-10200-SMxxx0.0\r\n- Added LSE Atomic Optimization\r\n- Added Dev frequency boost\r\n- Backported LZ4 from mainline", 
+      "changelog": "with wrapped key encryption, if encrypted on a build older than Jan 2022, you will need clean flash\r\n\r\n- Widevine L1 fixed\r\n- Tethering/OTG fixed\r\n- Encryption fixed (with aosp recovery)\r\n- Switched to Enforcing\r\n- Switched to Qti Bt\r\n- Fixed several bugs", 
       "maintainer": "Aftab Ashrafi", 
       "model": "Redmi Note 7 Pro", 
       "oem": "Xiaomi", 
@@ -6127,12 +6127,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-24", 
-                  "datetime": "20220124", 
-                  "filename": "Arrow-v12.0-violet-OFFICIAL-20220124-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-OFFICIAL-20220124-VANILLA.zip", 
-                  "sha256": "83cab1c6d2c5fb4156b02e5c7a0d18e536dfab957882a1be8b71746f5691e20a", 
-                  "size": "927657395", 
+                  "date": "2022-02-01", 
+                  "datetime": "20220201", 
+                  "filename": "Arrow-v12.0-violet-OFFICIAL-20220201-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/violet/Arrow-v12.0-violet-OFFICIAL-20220201-VANILLA.zip", 
+                  "sha256": "c15d6f616674860bece6e757f0c4d37d48127b955175501ea15b521d1f8bfc47", 
+                  "size": "928132133", 
                   "type": "official", 
                   "version": "v12.0"
                 }
