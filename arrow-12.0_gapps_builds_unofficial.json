@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- rebased tree and cleanups\r\n\r\n- disable APEX compression to fix OTA (only relevant on Official builds)\r\n\r\n- attempt to fix ViLTE with alioth A12 blobs\r\n\r\n- monet settings\r\n\r\n- battery light settings\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-02-01", 
-            "datetime": "20220201", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220201-GAPPS.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220201-GAPPS.zip", 
+            "changelog": "- maintenance build\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-02-02", 
+            "datetime": "20220202", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220202-GAPPS.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220202-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "bef59ea963b4bd0cd064ee165adf177e415528946c13c6e678281323c0b886b4", 
-            "size": "1688825685", 
+            "sha256": "bdaaf37e5b1cf7c6925e302a34e146ae72c27a8b7266320f816fbfd6dc914245", 
+            "size": "1690602578", 
             "type": "unofficial", 
             "version": "v12.0"
         }
