@@ -6202,7 +6202,7 @@
   "wayne": [
     {
       "changelog": null, 
-      "maintainer": "TH779, ReallySnow", 
+      "maintainer": "ReallySnow", 
       "model": "MI 6X", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -6271,12 +6271,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-25", 
-                  "datetime": "20220125", 
-                  "filename": "Arrow-v12.0-wayne-OFFICIAL-20220125-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/wayne/Arrow-v12.0-wayne-OFFICIAL-20220125-VANILLA.zip", 
-                  "sha256": "1c2cd31ec3677b3334e000f76b4cbf1116ed5e026335e28c9b1bf5f62b658f51", 
-                  "size": "749370953", 
+                  "date": "2022-02-02", 
+                  "datetime": "20220202", 
+                  "filename": "Arrow-v12.0-wayne-OFFICIAL-20220202-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/wayne/Arrow-v12.0-wayne-OFFICIAL-20220202-VANILLA.zip", 
+                  "sha256": "e70e7bf288a11e967b9cab82eeab6d67878bd7c1803897c9cc12f8f7944e4ecd", 
+                  "size": "750684520", 
                   "type": "official", 
                   "version": "v12.0"
                 }
