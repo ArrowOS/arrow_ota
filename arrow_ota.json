@@ -3961,7 +3961,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Smarter decisions on whether to use a 2 or 5Ghz AP\r\n\u2022 Drop updatable_apex\r\n\u2022 Optimise dex flags for a faster boot\r\n\u2022 Merge Linux version 4.14.262 into the kernel \r\n\u2022 Some cleanup and misc changes", 
+      "changelog": "\u2022 Fixed carrier video calling or ViLTE\r\n\u2022 drop CarrierSettings and import CarrierConfig from LA.UM.9.1.r1-11500-SMxxx0.0\r\n\u2022 Use raw values for CarrierConfig\r\n\u2022 Clean up some blobs\r\n\u2022 Disable HD capable notification \r\n\u2022 Disable global mode and CDMA choices\r\n\u2022 Merge Linux version 4.14.264 into the kernel \r\n\u2022 Some cleanup and misc changes", 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -4043,12 +4043,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-31", 
-                  "datetime": "20220131", 
-                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220131-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220131-VANILLA.zip", 
-                  "sha256": "a69adfbbb35931b86104443021f1015b443268da247c2f6f60a5ff0b7cec7ccc", 
-                  "size": "1022202235", 
+                  "date": "2022-02-03", 
+                  "datetime": "20220203", 
+                  "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220203-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220203-VANILLA.zip", 
+                  "sha256": "9b8e684183f3b94a1e9335a3bdf5448ce592db425f845ec1302054e436e3d791", 
+                  "size": "1016993878", 
                   "type": "official", 
                   "version": "v12.0"
                 }
