@@ -3033,7 +3033,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Limit the dex2oat resouce when thermal stress\r\n- Update DPM Stack from DDV\r\n- Enable DPM features\r\n- Enable dex2oat64 usage\r\n- Disable Async MTE on System Server\r\n- Disable RX wakelock feature in both rom side and kernel side\r\n- kernel: Avoid some overhead\r\n- kernel: Optimize to reduce some CPU power consumption with WiFi\r\n- Other fixes and improvements", 
+      "changelog": "- Import default dex2oat sets from redbull and adapt to sdm660\r\n- Limit the dex2oat resouce when thermal stress\r\n- Enable dex2oat64 usage\r\n- Update DPM Stack from DDV\r\n- Enable DPM features\r\n- Disable Async MTE on System Server\r\n- Disable RX wakelock feature in both rom side and kernel side\r\n- XiaomiParts: Add translations for several languages\r\n- kernel: Upstream to v4.4.302 (EOL of 4.4 baseline)\r\n- kernel: Avoid some overhead\r\n- kernel: Optimize to reduce some CPU power consumption with WiFi\r\n- Other fixes and improvements", 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -3115,12 +3115,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-27", 
-                  "datetime": "20220127", 
-                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20220127-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220127-VANILLA.zip", 
-                  "sha256": "fe62f0a98b975ff7791e489e1500604351d7f85e693a2eaceeecbb5f5e0f8f8c", 
-                  "size": "846242532", 
+                  "date": "2022-02-04", 
+                  "datetime": "20220204", 
+                  "filename": "Arrow-v12.0-lavender-OFFICIAL-20220204-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220204-VANILLA.zip", 
+                  "sha256": "e30f5b0ce50b44792303b79d9803b9456044262c1937bb454bb9af3f189ff49d", 
+                  "size": "847238136", 
                   "type": "official", 
                   "version": "v12.0"
                 }
