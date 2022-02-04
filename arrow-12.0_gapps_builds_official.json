@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Set iorap prefetch prop to mendel flags\r\n- overlay: Exempt CNE app from location indicators\r\n- overlay: Set config_defaultRefreshRateInZone\r\n\r\nKernel:\r\n- Merge tag LA.UM.9.12.r1-13700.03-SMxx50.QSSI12.0 of CAF\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global.</b>", 
-            "date": "2022-01-27", 
-            "datetime": "20220127", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220127-GAPPS.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220127-GAPPS.zip", 
+            "changelog": "- partial rebase and cleanup tree \r\n- audio: Drop unuse effects\r\n- audio: Partial sync audio configuration with stock\r\n- Convert overlays into Runtime Resource Overlays\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global.</b>", 
+            "date": "2022-02-04", 
+            "datetime": "20220204", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220204-GAPPS.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220204-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "93a22855f88fdd7b5067513c71e25034cf6256572671c4ae1fcd798baf13717f", 
-            "size": "1319371598", 
+            "sha256": "ee7772d369dd3303883c98b23be4bbee0cca5b75ac59517cd61fb213a7cc2dc4", 
+            "size": "1314769531", 
             "type": "official", 
             "version": "v12.0"
         }
