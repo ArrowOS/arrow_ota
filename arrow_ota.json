@@ -853,7 +853,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- maintenance build\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "- fix OTA updates by disabling compressed APEX\r\n- rebase and clean up device tree\r\n- fix ViLTE (thanks Kuber)\r\n- address fingerprint powerhal denial\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -935,12 +935,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-27", 
-                  "datetime": "20220127", 
-                  "filename": "Arrow-v12.0-apollo-OFFICIAL-20220127-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220127-VANILLA.zip", 
-                  "sha256": "d9ac35cf08b9dcc69e4eb2acc6b49a5487ecfe4a0259057d95c3def4941c884a", 
-                  "size": "1358619015", 
+                  "date": "2022-02-04", 
+                  "datetime": "20220204", 
+                  "filename": "Arrow-v12.0-apollo-OFFICIAL-20220204-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220204-VANILLA.zip", 
+                  "sha256": "318dee9a5c88c6a462c09d5c073a17db79dec170aab1f8aada64e21bc75e77c5", 
+                  "size": "1361772848", 
                   "type": "official", 
                   "version": "v12.0"
                 }
