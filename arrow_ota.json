@@ -5541,8 +5541,8 @@
   ], 
   "tucana": [
     {
-      "changelog": "Test Build 04-02-2022", 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "changelog": "January security patch\r\nRebase and clean trees and drop unneeded stuff\r\nAdd Mi Sound Enhancer and Hi-Fi to XiaomiParts and show Ambient Display correctly\r\nSwitch arch variant to armv8-2a-dotprod\r\nUpdate some hals, caf vendor blobs from LA.UM.9.1.r1-10900-SMxxx0.0 and caf system blobs from LA.QSSI.12.0.r1-05600-qssi.0\r\nUpdate gps from LA.UM.9.1.r1-10200-SMxxx0.0\r\nFix neverallows and address more denials\r\nFix brightness changing too frequently and increase minimum values\r\nFix VoLTE no call sound till the other part answers\r\nDisable blur on app launch\r\nBump zram to 3gb\r\nDont pin camera and launcher in memory\r\nDisable light sensor for pocket lock\r\nUpdate unpinned blobs from 12.5.5.0.RFDMIXM and import missing blobs from LA.UM.9.1.r1-10900-SMxxx0.0\r\nKill some logspam\r\nKernel version upstreamed to 4.14.262\r\nKernel caf tag upstreamed to LA.UM.9.1.r1-11500-SMxxx0.0\r\nMore, more and more...\r\n\r\nClean install is mandatory!\r\nRecommended firmware: 12.5.5", 
+      "maintainer": "Erikdrozina", 
       "model": "Mi Note 10", 
       "oem": "Xiaomi", 
       "v12.0": [
@@ -5551,12 +5551,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-02-01", 
-                  "datetime": "20220201", 
-                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20220201-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20220201-GAPPS.zip", 
-                  "sha256": "9b31abda930815df12c0ba5e41680052135051e21d98768d1379d3a631937f25", 
-                  "size": "1528011940", 
+                  "date": "2022-02-05", 
+                  "datetime": "20220205", 
+                  "filename": "Arrow-v12.0-tucana-COMMUNITY-20220205-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20220205-GAPPS.zip", 
+                  "sha256": "8369b79bfa6e3b0d1832b781159ab91bca2f581f4a3027b6f677cfb1c1dd686c", 
+                  "size": "1533223399", 
                   "type": "community", 
                   "version": "v12.0"
                 }
