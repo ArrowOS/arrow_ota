@@ -433,16 +433,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- shim libgui surface constructor (fix vilte)\r\n- Dont inherit updatable_apex.mk\r\n- Drop unuse qti-telephony-common.jar\r\n- Move some props to system\r\n- Set BOARD_SHIPPING_API_LEVEL to 29\r\n- Build with AOSP Clang 14.0.1\r\n- parts: Import Russian and Ukraine translations\r\n- parts: Import Spain translations\r\n- overlay: Adjust status bar height\r\n- props: Enable GL backpressure\r\n- Disable kpti\r\n- props: Disable partial FB excl rect\r\n- Merge branch android-4.14-stable of android/kernel/common\r\n- Merge tag LA.UM.9.1.r1-11500-SMxxx0.0 of CAF\r\n- Fix the lag due to restricted thermals after battery percentage under 10%\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
-            "date": "2022-01-23", 
-            "datetime": "20220123", 
-            "filename": "Arrow-v12.0-surya-OFFICIAL-20220123-GAPPS.zip", 
-            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220123-GAPPS.zip", 
+            "changelog": "- Sync durations props with raven\r\n- Move surface_flinger props to default\r\n- Optimise dex flags\r\n- Set iorap prefetch prop to mendel flags\r\n- overlay: Restore light debounce threshold\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
+            "date": "2022-02-05", 
+            "datetime": "20220205", 
+            "filename": "Arrow-v12.0-surya-OFFICIAL-20220205-GAPPS.zip", 
+            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220205-GAPPS.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "c9db44ffb1216beb938350358880d6665bb45c60952e25e19de54736515bfc94", 
-            "size": "1338911883", 
+            "sha256": "986a18cfe118c6dd0ab56f01fbc5502636dae9ba801e38c6522f36b0674d774b", 
+            "size": "1339768614", 
             "type": "official", 
             "version": "v12.0"
         }
