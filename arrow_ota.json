@@ -713,9 +713,9 @@
   ], 
   "Z01R": [
     {
-      "changelog": "Kernel: Merge branch android-4.9-q of https://android.googlesource.com/kernel/common", 
+      "changelog": "Kernel: Update to 4.9.299 Icewiz\r\nDevice: Device Tree re-write based on Lineage OS, thanks ReallySnow for help\r\nDevice: SELinux is enofrcing now. Please  remember backup and format userdata.", 
       "maintainer": "EdwardWu", 
-      "model": "ZenFone 5Z", 
+      "model": "Zenfone 5Z", 
       "oem": "asus", 
       "v12.0": [
         {
@@ -735,12 +735,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-01-13", 
-                  "datetime": "20220113", 
-                  "filename": "Arrow-v12.0-Z01R-COMMUNITY-20220113-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20220113-VANILLA.zip", 
-                  "sha256": "9059e78cfed9418057d1b5c838c90a6eb7591c28f48d4aa03ed303f8e0d1b577", 
-                  "size": "747807121", 
+                  "date": "2022-02-08", 
+                  "datetime": "20220208", 
+                  "filename": "Arrow-v12.0-Z01R-COMMUNITY-20220208-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/Z01R/Arrow-v12.0-Z01R-COMMUNITY-20220208-VANILLA.zip", 
+                  "sha256": "1d6b9980b720e8ab059354a66c5762fda5de0223cc98e08efbe3f2f8f47c78f1", 
+                  "size": "736234436", 
                   "type": "community", 
                   "version": "v12.0"
                 }
