@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- maintenance build\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-02-02", 
-            "datetime": "20220202", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220202-GAPPS.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220202-GAPPS.zip", 
+            "changelog": "- apply some ultrasound sensor fixes\r\n\r\n- add missing SDM blobs\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-02-08", 
+            "datetime": "20220208", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220208-GAPPS.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220208-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "bdaaf37e5b1cf7c6925e302a34e146ae72c27a8b7266320f816fbfd6dc914245", 
-            "size": "1690602578", 
+            "sha256": "0f5f6e46bcced461893b712753a853fca8a21387c8a4ce66ccd65b0d181c0d83", 
+            "size": "1690663614", 
             "type": "unofficial", 
             "version": "v12.0"
         }
