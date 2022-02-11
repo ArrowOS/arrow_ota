@@ -289,16 +289,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Import default dex2oat sets from redbull and adapt to sdm660\r\n- Limit the dex2oat resouce when thermal stress\r\n- Enable dex2oat64 usage\r\n- Update DPM Stack from DDV\r\n- Enable DPM features\r\n- Disable Async MTE on System Server\r\n- Disable RX wakelock feature in both rom side and kernel side\r\n- XiaomiParts: Add translations for several languages\r\n- kernel: Upstream to v4.4.302 (EOL of 4.4 baseline)\r\n- kernel: Avoid some overhead\r\n- kernel: Optimize to reduce some CPU power consumption with WiFi\r\n- Other fixes and improvements", 
-            "date": "2022-02-04", 
-            "datetime": "20220204", 
-            "filename": "Arrow-v12.0-lavender-OFFICIAL-20220204-GAPPS.zip", 
-            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220204-GAPPS.zip", 
+            "changelog": "- Correct physical power bottom location for some animations\r\n- Switch back to use cubic as default TCP congestion ( as per recommended in android)\r\n- Other fixes and improvements", 
+            "date": "2022-02-11", 
+            "datetime": "20220211", 
+            "filename": "Arrow-v12.0-lavender-OFFICIAL-20220211-GAPPS.zip", 
+            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220211-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "b33c3c35393bdb3d9380f2d46bcf0e086bc228f2a5f7fa16cc0d45d26c7b0a11", 
-            "size": "1181370349", 
+            "sha256": "af9a20ddeb5801c3c19e415f501d9bb368c1801112b8a4846998bdd4ebadb0d9", 
+            "size": "1181486013", 
             "type": "official", 
             "version": "v12.0"
         }
