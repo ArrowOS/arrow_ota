@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- partial rebase and cleanup tree \r\n- audio: Drop unuse effects\r\n- audio: Partial sync audio configuration with stock\r\n- Convert overlays into Runtime Resource Overlays\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global.</b>", 
-            "date": "2022-02-04", 
-            "datetime": "20220204", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220204-VANILLA.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220204-VANILLA.zip", 
+            "changelog": "- props: Disable the pre-rendering feature \r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global.</b>", 
+            "date": "2022-02-11", 
+            "datetime": "20220211", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220211-VANILLA.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220211-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "8ff0614068c39310b7a899eb6d6d4ba78d080812b5b2226d925ab960425e17c4", 
-            "size": "1033680433", 
+            "sha256": "a654ee35bd19e0512fd513ae96386b657b6d46d68c7838dd2920e45164cf507b", 
+            "size": "1033855687", 
             "type": "official", 
             "version": "v12.0"
         }
