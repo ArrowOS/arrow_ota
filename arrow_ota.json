@@ -5209,7 +5209,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- props: Tweak SF duration\r\n- props: dont latch unsignal buffers\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
+      "changelog": null, 
       "maintainer": "Ganesh Varma, palaych", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -5283,8 +5283,8 @@
                   "datetime": "20220211", 
                   "filename": "Arrow-v12.0-surya-OFFICIAL-20220211-VANILLA.zip", 
                   "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220211-VANILLA.zip", 
-                  "sha256": "b6b0531cc49de7c6af392a4832810182d0a11858c6532f74bc0dcd8d66c468de", 
-                  "size": "999852570", 
+                  "sha256": "6961a4dfbde32812998db455a667926fc072a132f3a29b9faa446f3c3d86c15a", 
+                  "size": "999745719", 
                   "type": "official", 
                   "version": "v12.0"
                 }
