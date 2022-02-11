@@ -5209,7 +5209,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- Sync durations props with raven\r\n- Move surface_flinger props to default\r\n- Optimise dex flags\r\n- Set iorap prefetch prop to mendel flags\r\n- overlay: Restore light debounce threshold\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
+      "changelog": "- props: Tweak SF duration\r\n- props: dont latch unsignal buffers\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
       "maintainer": "Ganesh Varma, palaych", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -5279,12 +5279,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-02-05", 
-                  "datetime": "20220205", 
-                  "filename": "Arrow-v12.0-surya-OFFICIAL-20220205-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220205-VANILLA.zip", 
-                  "sha256": "c358d8d06ce28dae684f1b900ff8c7b0d29f3f0024f0b93a151614db9a4c78fa", 
-                  "size": "1010216573", 
+                  "date": "2022-02-11", 
+                  "datetime": "20220211", 
+                  "filename": "Arrow-v12.0-surya-OFFICIAL-20220211-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220211-VANILLA.zip", 
+                  "sha256": "b6b0531cc49de7c6af392a4832810182d0a11858c6532f74bc0dcd8d66c468de", 
+                  "size": "999852570", 
                   "type": "official", 
                   "version": "v12.0"
                 }
