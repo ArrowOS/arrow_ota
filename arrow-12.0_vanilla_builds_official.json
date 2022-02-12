@@ -465,16 +465,16 @@
     ], 
     "taimen": [
         {
-            "changelog": "Update 4.4.302 Kernel", 
-            "date": "2022-02-05", 
-            "datetime": "20220205", 
-            "filename": "Arrow-v12.0-taimen-OFFICIAL-20220205-VANILLA.zip", 
-            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20220205-VANILLA.zip", 
+            "changelog": null, 
+            "date": "2022-02-12", 
+            "datetime": "20220212", 
+            "filename": "Arrow-v12.0-taimen-OFFICIAL-20220212-VANILLA.zip", 
+            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20220212-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "d76f61a132a6fff7687366e240da2c457ce145858694ae60b463bb9699b664f2", 
-            "size": "786966386", 
+            "sha256": "e2d924128660b3d568e788b954f0df296e957bd63c261c84875b8f6b003e6e74", 
+            "size": "777984091", 
             "type": "official", 
             "version": "v12.0"
         }
