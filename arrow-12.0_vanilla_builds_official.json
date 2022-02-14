@@ -129,16 +129,16 @@
     ], 
     "blueline": [
         {
-            "changelog": null, 
-            "date": "2022-02-06", 
-            "datetime": "20220206", 
-            "filename": "Arrow-v12.0-blueline-OFFICIAL-20220206-VANILLA.zip", 
-            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220206-VANILLA.zip", 
+            "changelog": "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1", 
+            "date": "2022-02-14", 
+            "datetime": "20220214", 
+            "filename": "Arrow-v12.0-blueline-OFFICIAL-20220214-VANILLA.zip", 
+            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220214-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 3", 
             "oem": "google", 
-            "sha256": "14088a87387b4bda44885584827d3c75637e6d8c097ee98519e6612cdd8af034", 
-            "size": "854661892", 
+            "sha256": "fae730fbe86a7da682fa496f8db6239e4178118f72197cc9336b133375f51e25", 
+            "size": "845608053", 
             "type": "official", 
             "version": "v12.0"
         }
