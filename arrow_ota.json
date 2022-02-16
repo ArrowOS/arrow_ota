@@ -1235,12 +1235,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-02-08", 
-                  "datetime": "20220208", 
-                  "filename": "Arrow-v12.0-cas-OFFICIAL-20220208-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20220208-GAPPS.zip", 
-                  "sha256": "88fad38a65e926cb928c70981647258d7e4fb75b317cdba57aafb40e6ee4f097", 
-                  "size": "1723578557", 
+                  "date": "2022-02-16", 
+                  "datetime": "20220216", 
+                  "filename": "Arrow-v12.0-cas-OFFICIAL-20220216-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20220216-GAPPS.zip", 
+                  "sha256": "46988025e0b6f9b83335f43982937fc43f7ef157b23d219706966319c78f6999", 
+                  "size": "1723623238", 
                   "type": "official", 
                   "version": "v12.0"
                 }
