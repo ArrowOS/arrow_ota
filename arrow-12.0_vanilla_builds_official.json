@@ -353,16 +353,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": "\u2022 Fixed carrier video calling or ViLTE\r\n\u2022 drop CarrierSettings and import CarrierConfig from LA.UM.9.1.r1-11500-SMxxx0.0\r\n\u2022 Use raw values for CarrierConfig\r\n\u2022 Clean up some blobs\r\n\u2022 Disable HD capable notification \r\n\u2022 Disable global mode and CDMA choices\r\n\u2022 Merge Linux version 4.14.264 into the kernel \r\n\u2022 Some cleanup and misc changes", 
-            "date": "2022-02-07", 
-            "datetime": "20220207", 
-            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220207-VANILLA.zip", 
-            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220207-VANILLA.zip", 
+            "changelog": "\u2022 Switch to libperfmgr\r\n\u2022 Use sunfish cpusets\r\n\u2022 Allow PowerHAL to change sched for ADPF\r\n\u2022 Allow PowerHAL to set sched\r\n\u2022 Add some missing BT props\r\n\u2022 Do not sign Wifi RROs with a platform certificate\r\n\u2022 Merge v4.14.266 into the kernel\r\n\u2022 Some cleanup and misc changes", 
+            "date": "2022-02-16", 
+            "datetime": "20220216", 
+            "filename": "Arrow-v12.0-phoenix-OFFICIAL-20220216-VANILLA.zip", 
+            "filepath": "/arrow-12.0/phoenix/Arrow-v12.0-phoenix-OFFICIAL-20220216-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "2538d9c94ad1c0be4c9e4c931a9efd3a6e2683ba0586b7a278e100b19b7ff815", 
-            "size": "1017324986", 
+            "sha256": "ebb6308aa9e042bd43b00d774cc956eb66979b54ef65ed9662804ec3f21f35ac", 
+            "size": "1005589363", 
             "type": "official", 
             "version": "v12.0"
         }
