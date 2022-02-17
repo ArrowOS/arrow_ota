@@ -369,16 +369,16 @@
     ], 
     "picasso": [
         {
-            "changelog": "- Initial stable official build", 
-            "date": "2022-02-09", 
-            "datetime": "20220209", 
-            "filename": "Arrow-v12.0-picasso-OFFICIAL-20220209-GAPPS.zip", 
-            "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-OFFICIAL-20220209-GAPPS.zip", 
+            "changelog": "- Block FPC fingerprint key event", 
+            "date": "2022-02-17", 
+            "datetime": "20220217", 
+            "filename": "Arrow-v12.0-picasso-OFFICIAL-20220217-GAPPS.zip", 
+            "filepath": "/arrow-12.0/picasso/Arrow-v12.0-picasso-OFFICIAL-20220217-GAPPS.zip", 
             "maintainer": "Lynnrin", 
             "model": "Redmi K30 5G", 
             "oem": "Redmi", 
-            "sha256": "6cb6ac752f106cbd6f73b2447be07a540e51875982094926364f6ea21daf9033", 
-            "size": "1552811556", 
+            "sha256": "b96a6c61da00c09513a99c841cbb695d37448e85bd0c3e8f7a34f838a8355168", 
+            "size": "1552880223", 
             "type": "official", 
             "version": "v12.0"
         }
