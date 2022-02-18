@@ -63,6 +63,22 @@
             "version": "v12.0"
         }
     ], 
+    "r5x": [
+        {
+            "changelog": "Enforcing\r\nFeb Patch", 
+            "date": "2022-02-18", 
+            "datetime": "20220218", 
+            "filename": "Arrow-v12.0-r5x-COMMUNITY-20220218-GAPPS.zip", 
+            "filepath": "/arrow-12.0/r5x/Arrow-v12.0-r5x-COMMUNITY-20220218-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Realme 5 Series", 
+            "oem": "Realme", 
+            "sha256": "698e6f930c740027e9b9ef091c86a711b01d3074b20a1168ca2c0a26d0df8855", 
+            "size": "1301475748", 
+            "type": "community", 
+            "version": "v12.0"
+        }
+    ], 
     "tucana": [
         {
             "changelog": "Test Build 8-12-2021\r\n- Fix FOD on AOD/screen off", 
