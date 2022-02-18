@@ -853,7 +853,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- Test revert to pixel powerhal\r\n- Test Ramiis SunflowerAngel kernel\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -935,12 +935,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-02-11", 
-                  "datetime": "20220211", 
-                  "filename": "Arrow-v12.0-apollo-OFFICIAL-20220211-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220211-VANILLA.zip", 
-                  "sha256": "4a5e8358147dd357ced51eb271ec54fe7d47b4d2220247d0b4c6e05c80fed4d0", 
-                  "size": "1350162390", 
+                  "date": "2022-02-18", 
+                  "datetime": "20220218", 
+                  "filename": "Arrow-v12.0-apollo-OFFICIAL-20220218-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220218-VANILLA.zip", 
+                  "sha256": "6368bb8fc1bd608f470b1224c4d2dbe2c654b2c69f7b5f70a29bc5cd8fa51c7f", 
+                  "size": "1351326990", 
                   "type": "official", 
                   "version": "v12.0"
                 }
