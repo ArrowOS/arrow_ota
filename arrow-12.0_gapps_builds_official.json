@@ -433,16 +433,16 @@
     ], 
     "surya": [
         {
-            "changelog": "- props: Tweak SF duration\r\n- props: dont latch unsignal buffers\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
-            "date": "2022-02-11", 
-            "datetime": "20220211", 
-            "filename": "Arrow-v12.0-surya-OFFICIAL-20220211-GAPPS.zip", 
-            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220211-GAPPS.zip", 
+            "changelog": "- Drop old FP sensor location overlays\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
+            "date": "2022-02-18", 
+            "datetime": "20220218", 
+            "filename": "Arrow-v12.0-surya-OFFICIAL-20220218-GAPPS.zip", 
+            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220218-GAPPS.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "5d392c60027505d4115d61e2708a483c1aab24ae8e73b5fc3084cf67c728c814", 
-            "size": "1329540420", 
+            "sha256": "95474a153ecc2e823b17564fbed593ca571e77797b33ac5344e45074f7c76133", 
+            "size": "1329502300", 
             "type": "official", 
             "version": "v12.0"
         }
