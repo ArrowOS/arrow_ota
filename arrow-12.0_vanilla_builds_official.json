@@ -529,16 +529,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "\u2022 Added lawnchair launcher as default\r\n\u2022 Update clearkey plugin to drm HAL v1.4\r\n\u2022 Set SOC manufacturer and chipset properties\r\n\u2022 Remove odex/oat files from pinner list\r\n\u2022 Update SurfaceFlinger pin \r\n\u2022 Fixup netflix issues\r\n\u2022 Misc changes", 
-            "date": "2022-02-13", 
-            "datetime": "20220213", 
-            "filename": "Arrow-v12.0-whyred-OFFICIAL-20220213-VANILLA.zip", 
-            "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20220213-VANILLA.zip", 
+            "changelog": "\u2022 Clean up some blobs\r\n\u2022 Add local FileUtils\r\n\u2022 Refactor the whole code and adapt parts to S style\r\n\u2022 Add bass booster preset for MiSound\r\n\u2022 Do not sign Wifi RROs with platform cert\r\n\u2022 Some misc changes and clean up", 
+            "date": "2022-02-19", 
+            "datetime": "20220219", 
+            "filename": "Arrow-v12.0-whyred-OFFICIAL-20220219-VANILLA.zip", 
+            "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20220219-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "f7457ff3cecf2a893b3f3ad6d05e6cd2ec2cb4c575dd989168f3a1679d5e14ce", 
-            "size": "757584676", 
+            "sha256": "84efef24922f089389683d54d808032599c0237e511293a74f22c8dc06bd0d5b", 
+            "size": "759300654", 
             "type": "official", 
             "version": "v12.0"
         }
