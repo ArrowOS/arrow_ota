@@ -82,15 +82,15 @@
     "tucana": [
         {
             "changelog": "January security patch\r\nRebase and clean trees and drop unneeded stuff\r\nAdd Mi Sound Enhancer and Hi-Fi to XiaomiParts and show Ambient Display correctly\r\nSwitch arch variant to armv8-2a-dotprod\r\nUpdate some hals, caf vendor blobs from LA.UM.9.1.r1-10900-SMxxx0.0 and caf system blobs from LA.QSSI.12.0.r1-05600-qssi.0\r\nUpdate gps from LA.UM.9.1.r1-10200-SMxxx0.0\r\nFix neverallows and address more denials\r\nFix brightness changing too frequently and increase minimum values\r\nFix VoLTE no call sound till the other part answers\r\nDisable blur on app launch\r\nBump zram to 3gb\r\nDont pin camera and launcher in memory\r\nDisable light sensor for pocket lock\r\nUpdate unpinned blobs from 12.5.5.0.RFDMIXM and import missing blobs from LA.UM.9.1.r1-10900-SMxxx0.0\r\nKill some logspam\r\nKernel version upstreamed to 4.14.262\r\nKernel caf tag upstreamed to LA.UM.9.1.r1-11500-SMxxx0.0\r\nMore, more and more...\r\n\r\nClean install is mandatory!\r\nRecommended firmware: 12.5.5", 
-            "date": "2022-02-15", 
-            "datetime": "20220215", 
-            "filename": "Arrow-v12.0-tucana-COMMUNITY-20220215-GAPPS.zip", 
-            "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20220215-GAPPS.zip", 
+            "date": "2022-02-23", 
+            "datetime": "20220223", 
+            "filename": "Arrow-v12.0-tucana-COMMUNITY-20220223-GAPPS.zip", 
+            "filepath": "/arrow-12.0/tucana/Arrow-v12.0-tucana-COMMUNITY-20220223-GAPPS.zip", 
             "maintainer": "Erikdrozina", 
             "model": "Mi Note 10", 
             "oem": "Xiaomi", 
-            "sha256": "778c9da77ea0f5cd97092286b4c97da4df2f381bc7a9fd12396b181cb4f9ac9b", 
-            "size": "1522678459", 
+            "sha256": "e88eb18fc21758286e5ca3cbb02a9538182671c68c05b209b8f5b89c05794627", 
+            "size": "1521505475", 
             "type": "community", 
             "version": "v12.0"
         }
