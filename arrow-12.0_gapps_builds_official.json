@@ -242,15 +242,15 @@
     "ginkgo": [
         {
             "changelog": "- Updated MIUI blobs from V12.5.1.0.RCOMIXM\r\n- Fixed USB OTG detection\r\n- Misc optimizations in kernel", 
-            "date": "2022-02-17", 
-            "datetime": "20220217", 
-            "filename": "Arrow-v12.0-ginkgo-OFFICIAL-20220217-GAPPS.zip", 
-            "filepath": "/arrow-12.0/ginkgo/Arrow-v12.0-ginkgo-OFFICIAL-20220217-GAPPS.zip", 
+            "date": "2022-02-25", 
+            "datetime": "20220225", 
+            "filename": "Arrow-v12.0-ginkgo-OFFICIAL-20220225-GAPPS.zip", 
+            "filepath": "/arrow-12.0/ginkgo/Arrow-v12.0-ginkgo-OFFICIAL-20220225-GAPPS.zip", 
             "maintainer": "Adithya (ghostrider_reborn)", 
             "model": "Redmi Note 8/8T", 
             "oem": "Xiaomi", 
-            "sha256": "793ba7e0194b6d5666e35ee5db4c3a2ad2398981b9fd9148a9aecbca239ad14a", 
-            "size": "1235599982", 
+            "sha256": "55f73a2d88ad08b8068de62daed0437ef99828ade28a7a6f0dea7803bbe35c26", 
+            "size": "1235869255", 
             "type": "official", 
             "version": "v12.0"
         }
