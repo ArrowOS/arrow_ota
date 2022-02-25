@@ -401,17 +401,17 @@
     ], 
     "sweet": [
         {
-            "changelog": "- Improved overall performance and added interaction boosts", 
-            "date": "2021-10-11", 
-            "datetime": "20211011", 
-            "filename": "Arrow-v12.0-sweet-UNOFFICIAL-20211011-VANILLA.zip", 
-            "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-UNOFFICIAL-20211011-VANILLA.zip", 
+            "changelog": "Warning: this is an experimental build, do not install unless you know what are you doing!\r\n25/02/2022\r\n- Updated blobs from MIUI 13\r\n- Fixed OTA (?)", 
+            "date": "2022-02-25", 
+            "datetime": "20220225", 
+            "filename": "Arrow-v12.0-sweet-OFFICIAL-20220225-VANILLA.zip", 
+            "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-OFFICIAL-20220225-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "13cd3e87692cd56354a507fb4ee4e779b9d8ab52b2a45c4f7540581f32a35083", 
-            "size": "1082472933", 
-            "type": "unofficial", 
+            "sha256": "23d405a95da2c3749694f76153b937db875e120da83b63f1fe19389050b05800", 
+            "size": "1064867577", 
+            "type": "official", 
             "version": "v12.0"
         }
     ], 
