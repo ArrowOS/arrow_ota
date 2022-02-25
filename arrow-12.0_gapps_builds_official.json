@@ -289,16 +289,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Now GcamGo is the default camera app for vanilla build as well\r\n- Other fixes and improvements", 
-            "date": "2022-02-18", 
-            "datetime": "20220218", 
-            "filename": "Arrow-v12.0-lavender-OFFICIAL-20220218-GAPPS.zip", 
-            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220218-GAPPS.zip", 
+            "changelog": "- Source upstream", 
+            "date": "2022-02-25", 
+            "datetime": "20220225", 
+            "filename": "Arrow-v12.0-lavender-OFFICIAL-20220225-GAPPS.zip", 
+            "filepath": "/arrow-12.0/lavender/Arrow-v12.0-lavender-OFFICIAL-20220225-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "c593ab8b9385e46964832020a8d2a891464d55d35e5bca8d567bb391711386e0", 
-            "size": "1181479658", 
+            "sha256": "d7a26e3bba3a6fb51301b1feb27665c733a421b5b1113a1d1c556e3e64a6e21f", 
+            "size": "1181186156", 
             "type": "official", 
             "version": "v12.0"
         }
