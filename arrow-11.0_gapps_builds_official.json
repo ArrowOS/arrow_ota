@@ -562,15 +562,15 @@
     "surya": [
         {
             "changelog": "- sepolicy: Label ro.product.marketname\r\n- perf: Reduce trim enable memory to 2GB\r\n- perf: Boost GPU on specific events\r\n- sepolicy: Allow vendor_init to set ssr prop\r\n- parts: Update CABC icon from WSTxda\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
-            "date": "2022-01-21", 
-            "datetime": "20220121", 
-            "filename": "Arrow-v11.0-surya-OFFICIAL-20220121-GAPPS.zip", 
-            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20220121-GAPPS.zip", 
+            "date": "2022-02-26", 
+            "datetime": "20220226", 
+            "filename": "Arrow-v11.0-surya-OFFICIAL-20220226-GAPPS.zip", 
+            "filepath": "/arrow-11.0/surya/Arrow-v11.0-surya-OFFICIAL-20220226-GAPPS.zip", 
             "maintainer": "Ganesh Varma", 
             "model": "POCO X3", 
             "oem": "POCO", 
-            "sha256": "bfcdc4398ca0985646b1fe964f1ef823ba1eaaf11ac888b3a8b135d20b8841ad", 
-            "size": "1403852293", 
+            "sha256": "c4b6f58ea31ca0291918882c962b1c9d57ff1b4bd0ebde8da8b3e2a2e64e6747", 
+            "size": "1403868370", 
             "type": "official", 
             "version": "v11.0"
         }
