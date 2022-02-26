@@ -385,16 +385,16 @@
     ], 
     "raphael": [
         {
-            "changelog": null, 
-            "date": "2022-02-19", 
-            "datetime": "20220219", 
-            "filename": "Arrow-v12.0-raphael-OFFICIAL-20220219-VANILLA.zip", 
-            "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220219-VANILLA.zip", 
+            "changelog": "WARNING for 26th Feb 2022 and newer builds\r\nPlease make a proper backup before updating to the next version as now we have moved to a newer encryption method (FBEv2)\r\nI will also release updated ArrowOS recovery so that you can seamlessly update to newer OTAs directly from the Updater app unlike before with the new update.\r\n\r\nTLDR: Clean Flash/Format Data needed before flashing to this update!\r\nOnce you have formatted for 26th Feb and newer builds, you can safely use OTA updates", 
+            "date": "2022-02-26", 
+            "datetime": "20220226", 
+            "filename": "Arrow-v12.0-raphael-OFFICIAL-20220226-VANILLA.zip", 
+            "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220226-VANILLA.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "e83d7a339b3c3919e0629dcc7da46bbd2f92b2595d898f8fa86b16072dd5caa6", 
-            "size": "1038357672", 
+            "sha256": "8a04000de305cb32ea216eb34ae69aaca2ebda874319cd45111e88a76ca3d2c5", 
+            "size": "1038700193", 
             "type": "official", 
             "version": "v12.0"
         }
