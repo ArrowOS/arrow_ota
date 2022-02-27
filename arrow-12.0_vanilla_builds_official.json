@@ -450,15 +450,15 @@
     "sweet": [
         {
             "changelog": "12/11/2021\r\n\u2022 Improved power management\r\n\u2022 Switched back to schedutil governor\r\n\u2022 Cleaned unneeded vendor libraries\r\n\r\n28/10/2021\r\n\u2022 Fixed cutout color being inverted with the \"Force dark theme\" setting\r\n\u2022 Fixed minimum frequency being 1248MHz\r\n\u2022 Fixed WFD\r\n\u2022 Added Spanish translations to the device specific settings", 
-            "date": "2022-02-13", 
-            "datetime": "20220213", 
-            "filename": "Arrow-v12.0-sweet-OFFICIAL-20220213-VANILLA.zip", 
-            "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-OFFICIAL-20220213-VANILLA.zip", 
+            "date": "2022-02-27", 
+            "datetime": "20220227", 
+            "filename": "Arrow-v12.0-sweet-OFFICIAL-20220227-VANILLA.zip", 
+            "filepath": "/arrow-12.0/sweet/Arrow-v12.0-sweet-OFFICIAL-20220227-VANILLA.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "d73e037cfc55670a4d13c24ccd581f56c75d376768c55eeeac07b9c0b054668a", 
-            "size": "1075382747", 
+            "sha256": "5e1dfa6c1461436c058ddc0aeae6ab19fb013619ac90a5ff1dfba6cbf794a68f", 
+            "size": "1075422549", 
             "type": "official", 
             "version": "v12.0"
         }
