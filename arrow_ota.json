@@ -6451,6 +6451,34 @@
       ]
     }
   ], 
+  "x3": [
+    {
+      "changelog": null, 
+      "maintainer": "Adithya (ghostrider_reborn)", 
+      "model": "X3", 
+      "oem": "realme", 
+      "v12.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-03-02", 
+                  "datetime": "20220302", 
+                  "filename": "Arrow-v12.0-x3-UNOFFICIAL-20220302-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/x3/Arrow-v12.0-x3-UNOFFICIAL-20220302-GAPPS.zip", 
+                  "sha256": "fb5c87f95be68d2eb142ef28b4c667ff25857fa58f8a4d03ae7a09c19800ff0d", 
+                  "size": "985921290", 
+                  "type": "unofficial", 
+                  "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "z2_plus": [
     {
       "changelog": null, 
