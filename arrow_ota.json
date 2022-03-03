@@ -4429,7 +4429,7 @@
   ], 
   "raphael": [
     {
-      "changelog": "WARNING for 26th Feb 2022 and newer builds\r\nPlease make a proper backup before updating to the next version as now we have moved to a newer encryption method (FBEv2)\r\nI will also release updated ArrowOS recovery so that you can seamlessly update to newer OTAs directly from the Updater app unlike before with the new update.\r\n\r\nTLDR: Clean Flash/Format Data needed before flashing to this update!\r\nOnce you have formatted for 26th Feb and newer builds, you can safely use OTA updates", 
+      "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n3rd March, 2022\r\nmerged the Linux kernel to latest upstream, switch to Pixel power libperfmgr HAL and will improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
       "maintainer": "TH779, kubersharma001", 
       "model": "Redmi K20 Pro", 
       "oem": "Xiaomi", 
@@ -4571,12 +4571,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-02-26", 
-                  "datetime": "20220226", 
-                  "filename": "Arrow-v12.0-raphael-OFFICIAL-20220226-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220226-VANILLA.zip", 
-                  "sha256": "8a04000de305cb32ea216eb34ae69aaca2ebda874319cd45111e88a76ca3d2c5", 
-                  "size": "1038700193", 
+                  "date": "2022-03-03", 
+                  "datetime": "20220303", 
+                  "filename": "Arrow-v12.0-raphael-OFFICIAL-20220303-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220303-VANILLA.zip", 
+                  "sha256": "7e51439c2765fc9ed122d5a4ab6f2b1b0da79bb791386316bb5172a8a9769937", 
+                  "size": "1049985242", 
                   "type": "official", 
                   "version": "v12.0"
                 }
