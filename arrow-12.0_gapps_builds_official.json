@@ -481,16 +481,16 @@
     ], 
     "vayu": [
         {
-            "changelog": "Please check <a href=\"https://github.com/ArrowOS-Devices/android_device_xiaomi_vayu/commits/arrow-12.0\">Device</a>,<a href=\"https://github.com/ArrowOS-Devices/android_vendor_xiaomi_vayu/commits/arrow-12.0\">Vendor</a>,<a href=\"https://github.com/ArrowOS-Devices/android_kernel_xiaomi_vayu/commits/arrow-12.0\">Kernel</a>\r\nsources and <a href=\"https://arrowos.net/changelog.php\">ROM changelogs</a> for actual changes.<br>You can join <a href=\"https://t.me/kubersharma001chat\">support chat</a> for more help.<br><br><b>You can donate to maintainer via:</b> <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a><b> | UPI:</b> 001KS001@kotak<br><br>Also, check out <a href=\"https://forum.xda-developers.com/t/arrowos-12-0-android-12-0-for-poco-x3-pro-vayu-bhima-official.4345061\">XDA thread</a> to discuss with other users.", 
-            "date": "2022-02-24", 
-            "datetime": "20220224", 
-            "filename": "Arrow-v12.0-vayu-OFFICIAL-20220224-GAPPS.zip", 
-            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20220224-GAPPS.zip", 
+            "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-vayu-poco-x3-pro\">arrow_vayu index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/kubersharma001\"> on PayPal</a>", 
+            "date": "2022-03-03", 
+            "datetime": "20220303", 
+            "filename": "Arrow-v12.0-vayu-OFFICIAL-20220303-GAPPS.zip", 
+            "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-OFFICIAL-20220303-GAPPS.zip", 
             "maintainer": "kubersharma001", 
             "model": "Poco X3 Pro", 
             "oem": "POCO", 
-            "sha256": "818fc43b62d8e5e2b0d2da30fce98b81ddc0ca6b6745c0b8b84dbc3e4704eae5", 
-            "size": "1417368773", 
+            "sha256": "9a0c57cfa072003eadc7629543498466036f3514a8ec47545d8eb33ddb45d363", 
+            "size": "1418073540", 
             "type": "official", 
             "version": "v12.0"
         }
