@@ -385,16 +385,16 @@
     ], 
     "raphael": [
         {
-            "changelog": "WARNING for 26th Feb 2022 and newer builds\r\nPlease make a proper backup before updating to the next version as now we have moved to a newer encryption method (FBEv2)\r\nI will also release updated ArrowOS recovery so that you can seamlessly update to newer OTAs directly from the Updater app unlike before with the new update.\r\n\r\nTLDR: Clean Flash/Format Data needed before flashing to this update!\r\nOnce you have formatted for 26th Feb and newer builds, you can safely use OTA updates", 
-            "date": "2022-02-26", 
-            "datetime": "20220226", 
-            "filename": "Arrow-v12.0-raphael-OFFICIAL-20220226-GAPPS.zip", 
-            "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220226-GAPPS.zip", 
+            "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n3rd March, 2022\r\nmerged the Linux kernel to latest upstream, switch to Pixel power libperfmgr HAL and will improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
+            "date": "2022-03-03", 
+            "datetime": "20220303", 
+            "filename": "Arrow-v12.0-raphael-OFFICIAL-20220303-GAPPS.zip", 
+            "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220303-GAPPS.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "2230d82533be6b018b55f9aa2798d0406c9604cfd92d63078a3b9b2241ed93cf", 
-            "size": "1362072269", 
+            "sha256": "81c307fce94313dd7fab0306288c08aa59d44d4f3530e40bf3014cfe7bda4efb", 
+            "size": "1373203382", 
             "type": "official", 
             "version": "v12.0"
         }
