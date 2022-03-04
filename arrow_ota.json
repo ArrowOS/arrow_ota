@@ -5237,9 +5237,9 @@
   ], 
   "surya": [
     {
-      "changelog": "- sepolicy: Label ro.product.marketname\r\n- perf: Reduce trim enable memory to 2GB\r\n- perf: Boost GPU on specific events\r\n- sepolicy: Allow vendor_init to set ssr prop\r\n- parts: Update CABC icon from WSTxda\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Required to be on android 11 f/w.\r\n- A clean flash is mandatory while switching from pre OSS builds. Please backup your data beforehand!", 
-      "maintainer": "Ganesh Varma", 
-      "model": "POCO X3", 
+      "changelog": "- Drop old FP sensor location overlays\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
+      "maintainer": "Ganesh Varma, palaych", 
+      "model": "POCO X3 NFC", 
       "oem": "POCO", 
       "v11.0": [
         {
@@ -5307,12 +5307,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-02-25", 
-                  "datetime": "20220225", 
-                  "filename": "Arrow-v12.0-surya-OFFICIAL-20220225-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220225-VANILLA.zip", 
-                  "sha256": "dd74814ce524cb063f3d9c20fb25e78cd9f1b328feaa19ef7476862f77ddf529", 
-                  "size": "999917023", 
+                  "date": "2022-03-04", 
+                  "datetime": "20220304", 
+                  "filename": "Arrow-v12.0-surya-OFFICIAL-20220304-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220304-VANILLA.zip", 
+                  "sha256": "72baa6ddaa977f84ec7670d12b7d286a7f8458a6c9e060107c77169c5ccc5399", 
+                  "size": "999907281", 
                   "type": "official", 
                   "version": "v12.0"
                 }
