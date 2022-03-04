@@ -5845,7 +5845,7 @@
   ], 
   "vayu": [
     {
-      "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-vayu-poco-x3-pro\">arrow_vayu index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/kubersharma001\"> on PayPal</a>", 
+      "changelog": "Please check <a href=\"https://github.com/ArrowOS-Devices/android_device_xiaomi_vayu/commits/arrow-12.0\">Device</a>,<a href=\"https://github.com/ArrowOS-Devices/android_vendor_xiaomi_vayu/commits/arrow-12.0\">Vendor</a>,<a href=\"https://github.com/ArrowOS-Devices/android_kernel_xiaomi_vayu/commits/arrow-12.0\">Kernel</a>\r\nsources and <a href=\"https://arrowos.net/changelog.php\">ROM changelogs</a> for actual changes.<br>You can join <a href=\"https://t.me/kubersharma001chat\">support chat</a> for more help.<br><br><b>You can donate to maintainer via:</b> <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a><b> | UPI:</b> 001KS001@kotak<br><br>Also, check out <a href=\"https://forum.xda-developers.com/t/arrowos-12-0-android-12-0-for-poco-x3-pro-vayu-bhima-official.4345061\">XDA thread</a> to discuss with other users.", 
       "maintainer": "kubersharma001", 
       "model": "Poco X3 Pro", 
       "oem": "POCO", 
@@ -5971,12 +5971,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2021-11-26", 
-                  "datetime": "20211126", 
-                  "filename": "Arrow-v12.0-vayu-UNOFFICIAL-20211126-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-UNOFFICIAL-20211126-GAPPS.zip", 
-                  "sha256": "1483e72d924867484d685edda9ba65b77014d5f517b87875cb65e92e73c48879", 
-                  "size": "1439676296", 
+                  "date": "2022-03-04", 
+                  "datetime": "20220304", 
+                  "filename": "Arrow-v12.0-vayu-UNOFFICIAL-20220304-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/vayu/Arrow-v12.0-vayu-UNOFFICIAL-20220304-GAPPS.zip", 
+                  "sha256": "fbb2936ddc9dcbc4dc8ea6040a56fff030c8f4a8e57e39ba2fd7a7ccb8e9aa9d", 
+                  "size": "1409684632", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
