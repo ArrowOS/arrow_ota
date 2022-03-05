@@ -2013,8 +2013,8 @@
   ], 
   "davinci": [
     {
-      "changelog": "10/07/2021\r\n- Fixed the fingerprint dialog\r\n- Disabled the SIM is HD capable notification\r\n- Enabled ambient display settings\r\n\r\n20/06/2021\r\n- Rebased the device sources\r\n- Switched to the Qualcomm Power HAL\r\n- Switched to a different screen off fod implementation\r\n\r\n22/05/2021\r\n- Improved power consumption\r\n- Switched to VantomKernel\r\n\r\n11/05/2021\r\n- Updated blobs from MIUI 21.4.28\r\n\r\nNotes:\r\n- Recommended firmware is MIUI 20.10.20 or higher (China Beta)\r\n- Minimum firmware is MIUI V12.0.5.0\r\n- Recommended recovery is the OFFICIAL TWRP", 
-      "maintainer": "daniml3", 
+      "changelog": null, 
+      "maintainer": "RemyL", 
       "model": "Mi 9T", 
       "oem": "Xiaomi", 
       "v11.0": [
@@ -2123,12 +2123,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-02-26", 
-                  "datetime": "20220226", 
-                  "filename": "Arrow-v12.0-davinci-OFFICIAL-20220226-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-OFFICIAL-20220226-VANILLA.zip", 
-                  "sha256": "cf6ec427d3186c7d27f2214fadb20bdd4a731e619eb00c06ef40f776802908d6", 
-                  "size": "988972103", 
+                  "date": "2022-03-05", 
+                  "datetime": "20220305", 
+                  "filename": "Arrow-v12.0-davinci-OFFICIAL-20220305-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/davinci/Arrow-v12.0-davinci-OFFICIAL-20220305-VANILLA.zip", 
+                  "sha256": "a4b90034b5f70db47a457cd23de4d3269321799b727faf5fbb825a27ff5a4204", 
+                  "size": "978765177", 
                   "type": "official", 
                   "version": "v12.0"
                 }
