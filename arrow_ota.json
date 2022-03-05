@@ -4599,12 +4599,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-03-03", 
-                  "datetime": "20220303", 
-                  "filename": "Arrow-v12.0-raphael-OFFICIAL-20220303-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220303-VANILLA.zip", 
-                  "sha256": "7e51439c2765fc9ed122d5a4ab6f2b1b0da79bb791386316bb5172a8a9769937", 
-                  "size": "1049985242", 
+                  "date": "2022-03-05", 
+                  "datetime": "20220305", 
+                  "filename": "Arrow-v12.0-raphael-OFFICIAL-20220305-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/raphael/Arrow-v12.0-raphael-OFFICIAL-20220305-VANILLA.zip", 
+                  "sha256": "418464c92c00a03a85f0968676fac939ee1015cddf2ded091206cfc73745a6bf", 
+                  "size": "1049970916", 
                   "type": "official", 
                   "version": "v12.0"
                 }
