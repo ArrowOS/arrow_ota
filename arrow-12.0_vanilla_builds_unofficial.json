@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Back to Arrow kernel\r\n- Disabled updatable apex entirely (OTA fix?)\r\n- Small tweaks and changes\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-02-23", 
-            "datetime": "20220223", 
-            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220223-VANILLA.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220223-VANILLA.zip", 
+            "changelog": "Pick a lot of changes from gerrit for testing\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-03-05", 
+            "datetime": "20220305", 
+            "filename": "Arrow-v12.0-apollo-UNOFFICIAL-20220305-VANILLA.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-UNOFFICIAL-20220305-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "774ffe8c7d1f78342248445bf8e705f391e2cec4ce3f5408b28bf231280737ea", 
-            "size": "1338711627", 
+            "sha256": "9f7ac9c3c4cb0425f6c0fd697e68d713edefe2894ad525f444dc1b54a44501b4", 
+            "size": "1338832520", 
             "type": "unofficial", 
             "version": "v12.0"
         }
