@@ -6333,7 +6333,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "\u2022 Switched to AOSP WFD\r\n\u2022 Upstream kernel to 4.4.283\r\n\u2022 Drop perfd blobs\r\n\u2022 Fixed nightlight\r\n\u2022 Cleanup useless blobs\r\n\u2022 Misc changes", 
+      "changelog": "\u2022 Clean up some blobs\r\n\u2022 Add local FileUtils\r\n\u2022 Refactor the whole code and adapt parts to S style\r\n\u2022 Add bass booster preset for MiSound\r\n\u2022 Do not sign Wifi RROs with platform cert\r\n\u2022 Some misc changes and clean up", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -6447,12 +6447,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-02-26", 
-                  "datetime": "20220226", 
-                  "filename": "Arrow-v12.0-whyred-OFFICIAL-20220226-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20220226-VANILLA.zip", 
-                  "sha256": "e4c02536ff4f6ae510498d957c0246158d1ffb5a43c80419c3babb696e21faa7", 
-                  "size": "759445885", 
+                  "date": "2022-03-05", 
+                  "datetime": "20220305", 
+                  "filename": "Arrow-v12.0-whyred-OFFICIAL-20220305-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/whyred/Arrow-v12.0-whyred-OFFICIAL-20220305-VANILLA.zip", 
+                  "sha256": "f842b6d9eae7ee9ac982df7e7b868db066bb78d9de54b87bdc478f1e3a0503fa", 
+                  "size": "759477406", 
                   "type": "official", 
                   "version": "v12.0"
                 }
