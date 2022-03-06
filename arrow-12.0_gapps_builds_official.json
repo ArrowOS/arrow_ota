@@ -127,6 +127,22 @@
             "version": "v12.0"
         }
     ], 
+    "avicii": [
+        {
+            "changelog": "Initial Build.", 
+            "date": "2022-03-06", 
+            "datetime": "20220306", 
+            "filename": "Arrow-v12.0-avicii-OFFICIAL-20220306-GAPPS.zip", 
+            "filepath": "/arrow-12.0/avicii/Arrow-v12.0-avicii-OFFICIAL-20220306-GAPPS.zip", 
+            "maintainer": "Keertesh", 
+            "model": "AC2001", 
+            "oem": "OnePlus", 
+            "sha256": "96f53b7a33414a06d7482889aad2d6f652e7a22be9eaedc52da0a8fcf58cddd5", 
+            "size": "1417178680", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "blueline": [
         {
             "changelog": "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1", 
