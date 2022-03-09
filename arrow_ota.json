@@ -1009,7 +1009,7 @@
   ], 
   "avicii": [
     {
-      "changelog": "Initial Build.", 
+      "changelog": null, 
       "maintainer": "Keertesh", 
       "model": "AC2001", 
       "oem": "OnePlus", 
@@ -1047,12 +1047,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-03-04", 
-                  "datetime": "20220304", 
-                  "filename": "Arrow-v12.0-avicii-UNOFFICIAL-20220304-GAPPS.zip", 
-                  "filepath": "/arrow-12.0/avicii/Arrow-v12.0-avicii-UNOFFICIAL-20220304-GAPPS.zip", 
-                  "sha256": "cc8688d516f9ced31d4b0ec6c2a133d8989d31fd1e1b94f0d8d70820729f61b5", 
-                  "size": "1415855454", 
+                  "date": "2022-03-09", 
+                  "datetime": "20220309", 
+                  "filename": "Arrow-v12.0-avicii-UNOFFICIAL-20220309-GAPPS.zip", 
+                  "filepath": "/arrow-12.0/avicii/Arrow-v12.0-avicii-UNOFFICIAL-20220309-GAPPS.zip", 
+                  "sha256": "f8775f6c3ba7a13e20f3712b202f436c06d125624852708f4ad8e03b4a05e1f8", 
+                  "size": "1415827655", 
                   "type": "unofficial", 
                   "version": "v12.0"
                 }
