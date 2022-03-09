@@ -178,15 +178,15 @@
     "crosshatch": [
         {
             "changelog": "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1", 
-            "date": "2022-03-02", 
-            "datetime": "20220302", 
-            "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20220302-VANILLA.zip", 
-            "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20220302-VANILLA.zip", 
+            "date": "2022-03-09", 
+            "datetime": "20220309", 
+            "filename": "Arrow-v12.0-crosshatch-OFFICIAL-20220309-VANILLA.zip", 
+            "filepath": "/arrow-12.0/crosshatch/Arrow-v12.0-crosshatch-OFFICIAL-20220309-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 3 XL", 
             "oem": "google", 
-            "sha256": "af0ad85dbe2e2493c16841d9b51cc02fa66a9c1d4829527c5fd7e17cb0248798", 
-            "size": "846040237", 
+            "sha256": "2cf9f30a309f0b6de908e9c82a553fca73ac1c2532bd04a42c8d096c1d35072e", 
+            "size": "846055052", 
             "type": "official", 
             "version": "v12.0"
         }
