@@ -114,15 +114,15 @@
     "apollo": [
         {
             "changelog": "***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-03-05", 
-            "datetime": "20220305", 
-            "filename": "Arrow-v12.0-apollo-OFFICIAL-20220305-GAPPS.zip", 
-            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220305-GAPPS.zip", 
+            "date": "2022-03-11", 
+            "datetime": "20220311", 
+            "filename": "Arrow-v12.0-apollo-OFFICIAL-20220311-GAPPS.zip", 
+            "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220311-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "f6c073438234b3ab8f9f189af10cf139125f80596128a910d7e9844b5fd77ae0", 
-            "size": "1671909482", 
+            "sha256": "df835369b60e999e14740464cba20da7d1a4e08b16d02cf7b59a34e36c4e5762", 
+            "size": "1671930012", 
             "type": "official", 
             "version": "v12.0"
         }
