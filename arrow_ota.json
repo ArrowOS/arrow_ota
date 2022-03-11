@@ -5691,12 +5691,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-03-03", 
-                  "datetime": "20220303", 
-                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20220303-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20220303-VANILLA.zip", 
-                  "sha256": "0538e3c150d55d77b612c89d460388f8d966b196b28ca8ce65b9316c52cfc6da", 
-                  "size": "792661006", 
+                  "date": "2022-03-11", 
+                  "datetime": "20220311", 
+                  "filename": "Arrow-v12.0-tulip-COMMUNITY-20220311-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/tulip/Arrow-v12.0-tulip-COMMUNITY-20220311-VANILLA.zip", 
+                  "sha256": "34d6097d3efecd12f645395d95bbf317e6b888c045805cfc020edcc5ef513373", 
+                  "size": "792628312", 
                   "type": "community", 
                   "version": "v12.0"
                 }
