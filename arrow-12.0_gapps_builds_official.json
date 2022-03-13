@@ -146,15 +146,15 @@
     "blueline": [
         {
             "changelog": "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1", 
-            "date": "2022-03-07", 
-            "datetime": "20220307", 
-            "filename": "Arrow-v12.0-blueline-OFFICIAL-20220307-GAPPS.zip", 
-            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220307-GAPPS.zip", 
+            "date": "2022-03-13", 
+            "datetime": "20220313", 
+            "filename": "Arrow-v12.0-blueline-OFFICIAL-20220313-GAPPS.zip", 
+            "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220313-GAPPS.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 3", 
             "oem": "google", 
-            "sha256": "0e8454c9c6d5e5a977e76126cdf06488f67fb74fe8a71135f1e5d9ce5e397dcd", 
-            "size": "1123629291", 
+            "sha256": "e849c5dfea812dd3c51335b3bda5873cb7625573de053dad9cc81c5692d28da3", 
+            "size": "1123601038", 
             "type": "official", 
             "version": "v12.0"
         }
