@@ -66,15 +66,15 @@
     "X00T": [
         {
             "changelog": "- Fixed USB tethering mode detection with windows\r\n- Updated HALs and rebased kernel on LA.UM.10.2.1.r1-02700-sdm660.0\r\n\r\n- Screen might go blank for a minute on the first boot. Wait and let it boot.", 
-            "date": "2022-03-07", 
-            "datetime": "20220307", 
-            "filename": "Arrow-v12.0-X00T-OFFICIAL-20220307-VANILLA.zip", 
-            "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-OFFICIAL-20220307-VANILLA.zip", 
+            "date": "2022-03-14", 
+            "datetime": "20220314", 
+            "filename": "Arrow-v12.0-X00T-OFFICIAL-20220314-VANILLA.zip", 
+            "filepath": "/arrow-12.0/X00T/Arrow-v12.0-X00T-OFFICIAL-20220314-VANILLA.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "f8656dea2018d61fa3c1d8a43795fdf98215fbd3944f0748a6115586fb6f1dbe", 
-            "size": "739350310", 
+            "sha256": "0372be92d203f3cd338860ecaf25c01866a7f9740c31ae95db35224bda29f2cc", 
+            "size": "739418301", 
             "type": "official", 
             "version": "v12.0"
         }
