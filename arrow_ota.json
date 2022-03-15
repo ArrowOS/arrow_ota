@@ -853,7 +853,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- zram adjustments\r\n\r\n- display white balance enabled\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -935,12 +935,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-03-11", 
-                  "datetime": "20220311", 
-                  "filename": "Arrow-v12.0-apollo-OFFICIAL-20220311-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220311-VANILLA.zip", 
-                  "sha256": "985f28f00e678110b55d50377058ae06f570732fa1ebe2d6223822ff86937593", 
-                  "size": "1340019725", 
+                  "date": "2022-03-15", 
+                  "datetime": "20220315", 
+                  "filename": "Arrow-v12.0-apollo-OFFICIAL-20220315-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/apollo/Arrow-v12.0-apollo-OFFICIAL-20220315-VANILLA.zip", 
+                  "sha256": "af97ebe2635fb937e73f2e123afd0e3ff5d6315c10841a89c01f64f053b267e0", 
+                  "size": "1340253055", 
                   "type": "official", 
                   "version": "v12.0"
                 }
