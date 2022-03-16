@@ -1303,12 +1303,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-03-09", 
-                  "datetime": "20220309", 
-                  "filename": "Arrow-v12.0-cas-OFFICIAL-20220309-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20220309-VANILLA.zip", 
-                  "sha256": "935bf19fbea0e0fe456205c67119d2b093e56fcaa200e06cd7d69fbdedb4f5bb", 
-                  "size": "1393731090", 
+                  "date": "2022-03-16", 
+                  "datetime": "20220316", 
+                  "filename": "Arrow-v12.0-cas-OFFICIAL-20220316-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/cas/Arrow-v12.0-cas-OFFICIAL-20220316-VANILLA.zip", 
+                  "sha256": "61b45de287bb42c080cc2858efc1a1cac893b2b39dd9bb14efbfac56e48a1cdb", 
+                  "size": "1393725061", 
                   "type": "official", 
                   "version": "v12.0"
                 }
