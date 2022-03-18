@@ -98,15 +98,15 @@
     "alioth": [
         {
             "changelog": "- Fixed MTP\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI 12.5.5.0 (A11) Global.</b>", 
-            "date": "2022-03-11", 
-            "datetime": "20220311", 
-            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220311-VANILLA.zip", 
-            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220311-VANILLA.zip", 
+            "date": "2022-03-18", 
+            "datetime": "20220318", 
+            "filename": "Arrow-v12.0-alioth-OFFICIAL-20220318-VANILLA.zip", 
+            "filepath": "/arrow-12.0/alioth/Arrow-v12.0-alioth-OFFICIAL-20220318-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "0967ed9978219e763296c3041498031b695e9b52e4007da631ebdd03408026d7", 
-            "size": "1033903965", 
+            "sha256": "8fd5cdb0883abe1c4362e51ffcae48de9b50075da197d3fff538d4c500b93ed0", 
+            "size": "1033901148", 
             "type": "official", 
             "version": "v12.0"
         }
