@@ -450,15 +450,15 @@
     "surya": [
         {
             "changelog": "- Drop old FP sensor location overlays\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is must from arrow-11.0 (Android 11).</b>", 
-            "date": "2022-03-11", 
-            "datetime": "20220311", 
-            "filename": "Arrow-v12.0-surya-OFFICIAL-20220311-GAPPS.zip", 
-            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220311-GAPPS.zip", 
+            "date": "2022-03-18", 
+            "datetime": "20220318", 
+            "filename": "Arrow-v12.0-surya-OFFICIAL-20220318-GAPPS.zip", 
+            "filepath": "/arrow-12.0/surya/Arrow-v12.0-surya-OFFICIAL-20220318-GAPPS.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "6bd81320ee6bff5d0cbe22269dfbf4e79c64dc0e5e325e818a4edc126519347c", 
-            "size": "1329587562", 
+            "sha256": "3b2ec0ee4e4b9024543c2702e9048e5c79dd5631aea460ed73673edd7ceedd19", 
+            "size": "1329582704", 
             "type": "official", 
             "version": "v12.0"
         }
