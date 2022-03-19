@@ -481,16 +481,16 @@
     ], 
     "taimen": [
         {
-            "changelog": null, 
-            "date": "2022-03-13", 
-            "datetime": "20220313", 
-            "filename": "Arrow-v12.0-taimen-OFFICIAL-20220313-VANILLA.zip", 
-            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20220313-VANILLA.zip", 
+            "changelog": "- Fixup data usage\r\n- Add feature flag for FEATURE_IPSEC_TUNNELS", 
+            "date": "2022-03-19", 
+            "datetime": "20220319", 
+            "filename": "Arrow-v12.0-taimen-OFFICIAL-20220319-VANILLA.zip", 
+            "filepath": "/arrow-12.0/taimen/Arrow-v12.0-taimen-OFFICIAL-20220319-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "6c0cde5031414c5ad5ecff50024e7f98f4d5d969faca7b38f185da44dd3d2539", 
-            "size": "778015948", 
+            "sha256": "2dbca8ff6cc990e5c3cfd8e8c874b2ea3b0864833a5fb530fff17a95a1c6dcca", 
+            "size": "778022338", 
             "type": "official", 
             "version": "v12.0"
         }
