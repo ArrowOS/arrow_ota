@@ -1187,12 +1187,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-03-13", 
-                  "datetime": "20220313", 
-                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20220313-VANILLA.zip", 
-                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220313-VANILLA.zip", 
-                  "sha256": "3b48366dd166932c896064cff3f02c230ebb75485eb599d1286f76f441525bbf", 
-                  "size": "845663898", 
+                  "date": "2022-03-20", 
+                  "datetime": "20220320", 
+                  "filename": "Arrow-v12.0-blueline-OFFICIAL-20220320-VANILLA.zip", 
+                  "filepath": "/arrow-12.0/blueline/Arrow-v12.0-blueline-OFFICIAL-20220320-VANILLA.zip", 
+                  "sha256": "ce54506597f51de10408321f3b52b864a23e2eab5aa1794ed190a745651ea776", 
+                  "size": "845663554", 
                   "type": "official", 
                   "version": "v12.0"
                 }
