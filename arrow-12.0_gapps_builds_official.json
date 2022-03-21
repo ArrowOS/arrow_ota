@@ -319,6 +319,22 @@
             "version": "v12.0"
         }
     ], 
+    "lisa": [
+        {
+            "changelog": "- Initial Android 12 release.", 
+            "date": "2022-03-21", 
+            "datetime": "20220321", 
+            "filename": "Arrow-v12.0-lisa-OFFICIAL-20220321-GAPPS.zip", 
+            "filepath": "/arrow-12.0/lisa/Arrow-v12.0-lisa-OFFICIAL-20220321-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "11 Lite 5G NE", 
+            "oem": "Xiaomi", 
+            "sha256": "bc00a2ffff3434657a9a3688af5bf608b0d83cee65e8d8b2fff083e62b843c74", 
+            "size": "1541159813", 
+            "type": "official", 
+            "version": "v12.0"
+        }
+    ], 
     "lmi": [
         {
             "changelog": null, 
