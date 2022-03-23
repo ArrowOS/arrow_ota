@@ -3217,7 +3217,7 @@
   ], 
   "lisa": [
     {
-      "changelog": "- Initial Android 12 release.", 
+      "changelog": "- Initial Android 12.1 release.", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "11 Lite 5G NE", 
       "oem": "Xiaomi", 
@@ -3279,6 +3279,26 @@
                   "size": "1250597798", 
                   "type": "official", 
                   "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.1": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-03-23", 
+                  "datetime": "20220323", 
+                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20220323-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220323-VANILLA.zip", 
+                  "sha256": "a9699686ab0e7b6af1cb3d0c98a382f45506b1836646e1d833571f26f727103e", 
+                  "size": "1253554524", 
+                  "type": "official", 
+                  "version": "v12.1"
                 }
               ]
             }
