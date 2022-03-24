@@ -1,4 +1,20 @@
 {
+    "G": [
+        {
+            "changelog": null, 
+            "date": "2022-03-24", 
+            "datetime": "20220324", 
+            "filename": "Arrow-v12.1-G-OFFICIAL-20220324-VANILLA.zip", 
+            "filepath": "/arrow-12.1/G/Arrow-v12.1-G-OFFICIAL-20220324-VANILLA.zip", 
+            "maintainer": "kardebayan", 
+            "model": "10or G", 
+            "oem": "10or", 
+            "sha256": "4b4bc9702b6a6b0dae010740f41471143fb29f0c2067f63f6511e807e2e70def", 
+            "size": "688235188", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lisa": [
         {
             "changelog": "- Initial Android 12.1 release.", 
