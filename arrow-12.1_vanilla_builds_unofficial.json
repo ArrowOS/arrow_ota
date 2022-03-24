@@ -46,5 +46,21 @@
             "type": "unofficial", 
             "version": "v12.1"
         }
+    ], 
+    "surya": [
+        {
+            "changelog": null, 
+            "date": "2022-03-24", 
+            "datetime": "20220324", 
+            "filename": "Arrow-v12.1-surya-UNOFFICIAL-20220324-VANILLA.zip", 
+            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-UNOFFICIAL-20220324-VANILLA.zip", 
+            "maintainer": "Ganesh Varma, palaych", 
+            "model": "POCO X3 NFC", 
+            "oem": "POCO", 
+            "sha256": "b522dafdfe1a5cb2874926d90134ecbbfe8c87d30fb702a4028b467317c29b69", 
+            "size": "1009293472", 
+            "type": "unofficial", 
+            "version": "v12.1"
+        }
     ]
 }
