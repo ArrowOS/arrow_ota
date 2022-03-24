@@ -1381,6 +1381,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-03-24", 
+                  "datetime": "20220324", 
+                  "filename": "Arrow-v12.1-cas-UNOFFICIAL-20220324-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-UNOFFICIAL-20220324-GAPPS.zip", 
+                  "sha256": "87665bece4acda3ceeb5884545bf3193aa3e48887acf7141ac7da29465d78efe", 
+                  "size": "1769799532", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-03-24", 
