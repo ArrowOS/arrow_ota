@@ -1253,7 +1253,7 @@
   ], 
   "cas": [
     {
-      "changelog": "Firmware: V12.5.6\r\nDate: 2022-2-11\r\nChangelog:\r\n1. Sync with the latest source\r\n2. Switch to selinux enforce and user build\r\n\r\n2022-1-18\r\n1. Sync with the latest source\r\n2. Switch to Lawnchair\r\n\r\n2021-12-12\r\n1. Sync with the latest source\r\n2. Merge tag LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0 into kernel source\r\n \r\n2021-12-11\r\n1. Sync with the latest source\r\n2. Support dc dimming\r\n\r\n2021-12-05\r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
+      "changelog": "Tips: Please download official build!\r\nOfficial:\r\nFirmware: V12.5.6\r\n\r\nTHIS IS ONLY FOR THE TEST.\r\nExperiments:\r\nFirmware: V13.0.1.0.SJJCNXM", 
       "maintainer": "Xayah", 
       "model": "M2007J1SC", 
       "oem": "Xiaomi", 
@@ -1371,6 +1371,26 @@
                   "size": "1437398613", 
                   "type": "unofficial", 
                   "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-03-24", 
+                  "datetime": "20220324", 
+                  "filename": "Arrow-v12.1-cas-UNOFFICIAL-20220324-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-UNOFFICIAL-20220324-VANILLA.zip", 
+                  "sha256": "9215838613ac77c3b649a6981126af2028aef4976a8f036d990d264440fb0c02", 
+                  "size": "1439522618", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
                 }
               ]
             }
