@@ -5561,6 +5561,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-03-24", 
+                  "datetime": "20220324", 
+                  "filename": "Arrow-v12.1-surya-UNOFFICIAL-20220324-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-UNOFFICIAL-20220324-GAPPS.zip", 
+                  "sha256": "c57cec9c1c49cd2bdee6d7cae73b56fc3aa782640f27a3252ffdebd187230f55", 
+                  "size": "1339320764", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-03-24", 
