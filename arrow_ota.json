@@ -3241,7 +3241,7 @@
   ], 
   "lavender": [
     {
-      "changelog": "- Source upstream", 
+      "changelog": null, 
       "maintainer": "Ratoriku, Hazama25", 
       "model": "Redmi Note 7", 
       "oem": "Xiaomi", 
@@ -3359,6 +3359,26 @@
                   "size": "853004762", 
                   "type": "unofficial", 
                   "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-03-25", 
+                  "datetime": "20220325", 
+                  "filename": "Arrow-v12.1-lavender-UNOFFICIAL-20220325-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-UNOFFICIAL-20220325-VANILLA.zip", 
+                  "sha256": "a3b4ef069f55973177ab3b2f30376b22d9e9b9d8c48ad18c0f9e6edf5754c961", 
+                  "size": "860987753", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
                 }
               ]
             }
