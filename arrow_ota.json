@@ -2344,6 +2344,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-03-25", 
+                  "datetime": "20220325", 
+                  "filename": "Arrow-v12.1-davinci-UNOFFICIAL-20220325-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/davinci/Arrow-v12.1-davinci-UNOFFICIAL-20220325-VANILLA.zip", 
+                  "sha256": "514cc9810e89cb638c5efa4c08742eefc7551f059ea6076435d6501a8460fce3", 
+                  "size": "987420889", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
