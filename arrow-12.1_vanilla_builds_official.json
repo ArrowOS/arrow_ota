@@ -15,6 +15,22 @@
             "version": "v12.1"
         }
     ], 
+    "RMX2020": [
+        {
+            "changelog": "NOTE: For Realme UI 1.0 FW only.", 
+            "date": "2022-03-26", 
+            "datetime": "20220326", 
+            "filename": "Arrow-v12.1-RMX2020-OFFICIAL-20220326-VANILLA.zip", 
+            "filepath": "/arrow-12.1/RMX2020/Arrow-v12.1-RMX2020-OFFICIAL-20220326-VANILLA.zip", 
+            "maintainer": "sarthakroy2002", 
+            "model": "realme Monet", 
+            "oem": "realme", 
+            "sha256": "13c7280eb80e96e881d4832cda7b9115c4ba431db74219ac167824f2244b9cfe", 
+            "size": "943718291", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lisa": [
         {
             "changelog": "- Initial Android 12.1 release.", 
