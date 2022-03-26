@@ -142,5 +142,21 @@
             "type": "unofficial", 
             "version": "v12.1"
         }
+    ], 
+    "vayu": [
+        {
+            "changelog": null, 
+            "date": "2022-03-26", 
+            "datetime": "20220326", 
+            "filename": "Arrow-v12.1-vayu-UNOFFICIAL-20220326-GAPPS.zip", 
+            "filepath": "/arrow-12.1/vayu/Arrow-v12.1-vayu-UNOFFICIAL-20220326-GAPPS.zip", 
+            "maintainer": "kubersharma001", 
+            "model": "Poco X3 Pro", 
+            "oem": "POCO", 
+            "sha256": "5a708fb99bec7dcb8ce17cd6af3d3970e1db076e308a83188a13b81980e929f4", 
+            "size": "1452867537", 
+            "type": "unofficial", 
+            "version": "v12.1"
+        }
     ]
 }
