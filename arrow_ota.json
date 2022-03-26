@@ -6419,6 +6419,22 @@
       ], 
       "v12.1": [
         {
+          "OFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-03-26", 
+                  "datetime": "20220326", 
+                  "filename": "Arrow-v12.1-vayu-OFFICIAL-20220326-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/vayu/Arrow-v12.1-vayu-OFFICIAL-20220326-GAPPS.zip", 
+                  "sha256": "f0222067ef3b688d67b330fdee67da83b2bc1f1eac6822fd686fc69f13e17a49", 
+                  "size": "1453301349", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
