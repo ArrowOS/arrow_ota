@@ -31,6 +31,22 @@
             "version": "v12.1"
         }
     ], 
+    "X00T": [
+        {
+            "changelog": "- Updated HALs and rebased kernel on LA.UM.10.2.1.r1-03400-sdm660.0", 
+            "date": "2022-03-27", 
+            "datetime": "20220327", 
+            "filename": "Arrow-v12.1-X00T-UNOFFICIAL-20220327-GAPPS.zip", 
+            "filepath": "/arrow-12.1/X00T/Arrow-v12.1-X00T-UNOFFICIAL-20220327-GAPPS.zip", 
+            "maintainer": "PranavKpr", 
+            "model": "Asus Zenfone Max Pro M1", 
+            "oem": "asus", 
+            "sha256": "42d8127a253f9363d063cb0025aaf6e61f7748943e036166e056289593a02eda", 
+            "size": "1075467361", 
+            "type": "unofficial", 
+            "version": "v12.1"
+        }
+    ], 
     "apollo": [
         {
             "changelog": "- First build!\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
