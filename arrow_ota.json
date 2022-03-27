@@ -4417,7 +4417,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "\u2022 Switch to libperfmgr\r\n\u2022 Use sunfish cpusets\r\n\u2022 Allow PowerHAL to change sched for ADPF\r\n\u2022 Allow PowerHAL to set sched\r\n\u2022 Add some missing BT props\r\n\u2022 Do not sign Wifi RROs with a platform certificate\r\n\u2022 Merge v4.14.266 into the kernel\r\n\u2022 Some cleanup and misc changes", 
+      "changelog": null, 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -4535,6 +4535,26 @@
                   "size": "1020656461", 
                   "type": "unofficial", 
                   "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-03-27", 
+                  "datetime": "20220327", 
+                  "filename": "Arrow-v12.1-phoenix-UNOFFICIAL-20220327-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-UNOFFICIAL-20220327-GAPPS.zip", 
+                  "sha256": "767d42d85286be13d2fe2f3e0707486ecce72127e1e566eb621ed3d43f90954b", 
+                  "size": "1352814116", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
                 }
               ]
             }
