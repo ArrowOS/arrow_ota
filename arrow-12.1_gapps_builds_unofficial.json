@@ -65,16 +65,16 @@
     ], 
     "cas": [
         {
-            "changelog": "Tips: Please download official build!\r\nOfficial:\r\nFirmware: V12.5.6\r\n\r\nTHIS IS ONLY FOR THE TEST.\r\nExperiments:\r\nFirmware: V13.0.1.0.SJJCNXM", 
-            "date": "2022-03-25", 
-            "datetime": "20220325", 
-            "filename": "Arrow-v12.1-cas-UNOFFICIAL-20220325-GAPPS.zip", 
-            "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-UNOFFICIAL-20220325-GAPPS.zip", 
+            "changelog": "Tips: Please download official build!\r\nOfficial:\r\nFirmware: V13.0.1.0.SJJCNXM\r\n\r\nTHIS IS ONLY FOR THE TEST.\r\nExperiments:\r\nFirmware: V13.0.1.0.SJJCNXM", 
+            "date": "2022-03-27", 
+            "datetime": "20220327", 
+            "filename": "Arrow-v12.1-cas-UNOFFICIAL-20220327-GAPPS.zip", 
+            "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-UNOFFICIAL-20220327-GAPPS.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "7fad02e96e87a823f158576b48c3c7e07862d6767a41e9ffd199a90abdd92fd0", 
-            "size": "1769714837", 
+            "sha256": "01f818345ba81836bf6858c7c550d139bee11ed938a096361d537ba78f901b56", 
+            "size": "1781644874", 
             "type": "unofficial", 
             "version": "v12.1"
         }
