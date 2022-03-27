@@ -7032,6 +7032,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-03-27", 
+                  "datetime": "20220327", 
+                  "filename": "Arrow-v12.1-x3-UNOFFICIAL-20220327-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/x3/Arrow-v12.1-x3-UNOFFICIAL-20220327-GAPPS.zip", 
+                  "sha256": "854336fbd99abc1d48badf953b81d80f8c5b9451c94ab65ef8913ab1899cf9d4", 
+                  "size": "1003081573", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
