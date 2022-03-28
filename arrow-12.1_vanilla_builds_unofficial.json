@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- First build!\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-03-24", 
-            "datetime": "20220324", 
-            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220324-VANILLA.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220324-VANILLA.zip", 
+            "changelog": "- absorb changes from Lineage-19.1 device tree\r\n\r\n- attempt to fix fp sensor indicator position\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-03-27", 
+            "datetime": "20220327", 
+            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220327-VANILLA.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220327-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "720bd1d2e73b4668c45e10c49ebd0b19e8be01d6ff3e1c988015568d39be4293", 
-            "size": "1349215392", 
+            "sha256": "2ca93f52658d61d9065543d4fd89a12eb05f6980f7b53c122c71f9f652b0e080", 
+            "size": "1349059493", 
             "type": "unofficial", 
             "version": "v12.1"
         }
