@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- absorb changes from Lineage-19.1 device tree\r\n\r\n- attempt to fix fp sensor indicator position\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-03-28", 
-            "datetime": "20220328", 
-            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220328-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220328-GAPPS.zip", 
+            "changelog": "- ship with Gcam Go instead of Snap\r\n\r\n- changes from \r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-03-29", 
+            "datetime": "20220329", 
+            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220329-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220329-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "ca1739fb84b1006b63a6a64381719dc1cc3c48f367f7091b18b0e34cbfa76629", 
-            "size": "1693188710", 
+            "sha256": "90c5e391915f524508492e18ac2f57424b8f0cefd482d3135af9447aaa11ba6c", 
+            "size": "1715286326", 
             "type": "unofficial", 
             "version": "v12.1"
         }
