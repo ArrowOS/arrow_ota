@@ -2745,6 +2745,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-03-29", 
+                  "datetime": "20220329", 
+                  "filename": "Arrow-v12.1-gauguin-UNOFFICIAL-20220329-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/gauguin/Arrow-v12.1-gauguin-UNOFFICIAL-20220329-GAPPS.zip", 
+                  "sha256": "1b5c86630b2c9e724f6f8210bf2b43553bd4147d9d7f39de4189f57e8173f38b", 
+                  "size": "1558971734", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-03-29", 
