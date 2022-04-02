@@ -6121,7 +6121,7 @@
   ], 
   "tucana": [
     {
-      "changelog": "January security patch\r\nRebase and clean trees and drop unneeded stuff\r\nAdd Mi Sound Enhancer and Hi-Fi to XiaomiParts and show Ambient Display correctly\r\nSwitch arch variant to armv8-2a-dotprod\r\nUpdate some hals, caf vendor blobs from LA.UM.9.1.r1-10900-SMxxx0.0 and caf system blobs from LA.QSSI.12.0.r1-05600-qssi.0\r\nUpdate gps from LA.UM.9.1.r1-10200-SMxxx0.0\r\nFix neverallows and address more denials\r\nFix brightness changing too frequently and increase minimum values\r\nFix VoLTE no call sound till the other part answers\r\nDisable blur on app launch\r\nBump zram to 3gb\r\nDont pin camera and launcher in memory\r\nDisable light sensor for pocket lock\r\nUpdate unpinned blobs from 12.5.5.0.RFDMIXM and import missing blobs from LA.UM.9.1.r1-10900-SMxxx0.0\r\nKill some logspam\r\nKernel version upstreamed to 4.14.262\r\nKernel caf tag upstreamed to LA.UM.9.1.r1-11500-SMxxx0.0\r\nMore, more and more...\r\n\r\nClean install is mandatory!\r\nRecommended firmware: 12.5.5", 
+      "changelog": "Test Build 02-04-2022", 
       "maintainer": "Erikdrozina", 
       "model": "Mi Note 10", 
       "oem": "Xiaomi", 
@@ -6151,6 +6151,26 @@
                   "size": "1198240285", 
                   "type": "community", 
                   "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.1": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-02", 
+                  "datetime": "20220402", 
+                  "filename": "Arrow-v12.1-tucana-COMMUNITY-20220402-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/tucana/Arrow-v12.1-tucana-COMMUNITY-20220402-VANILLA.zip", 
+                  "sha256": "d8cf05dcfd3ac1ed6c482e513b35899bc04fda9fa1f78f5d838b8e2c685e60fd", 
+                  "size": "1209501751", 
+                  "type": "community", 
+                  "version": "v12.1"
                 }
               ]
             }
