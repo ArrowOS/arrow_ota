@@ -15,6 +15,22 @@
             "version": "v12.1"
         }
     ], 
+    "RMX1801": [
+        {
+            "changelog": null, 
+            "date": "2022-04-03", 
+            "datetime": "20220403", 
+            "filename": "Arrow-v12.1-RMX1801-OFFICIAL-20220403-VANILLA.zip", 
+            "filepath": "/arrow-12.1/RMX1801/Arrow-v12.1-RMX1801-OFFICIAL-20220403-VANILLA.zip", 
+            "maintainer": "Baibhab", 
+            "model": "Realme 2 Pro", 
+            "oem": "oppo", 
+            "sha256": "88ff3e117d6c9fdde8bac9f4a4688f928c3b8f4557dc1c6a3dae52647d358d7e", 
+            "size": "997469111", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "RMX2020": [
         {
             "changelog": "NOTE: For Realme UI 1.0 FW only.", 
