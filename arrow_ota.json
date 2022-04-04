@@ -2312,6 +2312,18 @@
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
+              ], 
+              "VANILLA": [
+                {
+                  "date": "2022-04-04", 
+                  "datetime": "20220404", 
+                  "filename": "Arrow-v12.1-daisy-UNOFFICIAL-20220404-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/daisy/Arrow-v12.1-daisy-UNOFFICIAL-20220404-VANILLA.zip", 
+                  "sha256": "3d709a63a71c0e9d0eda55771719632977fb3538eeb75b70887495091a60f2bb", 
+                  "size": "677251305", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
               ]
             }
           ]
