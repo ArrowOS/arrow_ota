@@ -49,16 +49,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- ship with Gcam Go instead of Snap\r\n\r\n- changes from \r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-03-29", 
-            "datetime": "20220329", 
-            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220329-VANILLA.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220329-VANILLA.zip", 
+            "changelog": "Revert to USB Hal 1.2 to avoid issues with MTP options\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-04-04", 
+            "datetime": "20220404", 
+            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220404-VANILLA.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220404-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "1b7349b249c3b49e02864d33732b2f117268302128ab74c371fabc76b6b969b4", 
-            "size": "1371220224", 
+            "sha256": "52ff0f2dcf994b5697a9028a402bf4b57a1a3b56e9d0bdadf935484605b6311f", 
+            "size": "1370341353", 
             "type": "unofficial", 
             "version": "v12.1"
         }
