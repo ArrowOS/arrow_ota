@@ -174,5 +174,21 @@
             "type": "unofficial", 
             "version": "v12.1"
         }
+    ], 
+    "whyred": [
+        {
+            "changelog": null, 
+            "date": "2022-04-07", 
+            "datetime": "20220407", 
+            "filename": "Arrow-v12.1-whyred-UNOFFICIAL-20220407-VANILLA.zip", 
+            "filepath": "/arrow-12.1/whyred/Arrow-v12.1-whyred-UNOFFICIAL-20220407-VANILLA.zip", 
+            "maintainer": "Sreekanth", 
+            "model": "Redmi Note 5", 
+            "oem": "Xiaomi", 
+            "sha256": "d9ad70dbb53af5898d9e3c6512ab9d3ba6c56875fba776574794766b2380e113", 
+            "size": "768369021", 
+            "type": "unofficial", 
+            "version": "v12.1"
+        }
     ]
 }
