@@ -3987,10 +3987,26 @@
     {
       "changelog": null, 
       "maintainer": "surblazer", 
-      "model": "arrow_merlinx", 
+      "model": "Redmi Note 9", 
       "oem": "Redmi", 
       "v12.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-08", 
+                  "datetime": "20220408", 
+                  "filename": "Arrow-v12.1-merlinx-OFFICIAL-20220408-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/merlinx/Arrow-v12.1-merlinx-OFFICIAL-20220408-VANILLA.zip", 
+                  "sha256": "981ce15296be5e4fd2d1c87fab8feaf700ba4e07aabc3da59dd62b7084eddf2a", 
+                  "size": "871736147", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
