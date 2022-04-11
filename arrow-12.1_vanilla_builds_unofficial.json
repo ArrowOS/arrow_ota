@@ -65,16 +65,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "Revert to USB Hal 1.2 to avoid issues with MTP options\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-04-06", 
-            "datetime": "20220406", 
-            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220406-VANILLA.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220406-VANILLA.zip", 
+            "changelog": "***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-04-11", 
+            "datetime": "20220411", 
+            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220411-VANILLA.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220411-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "7e3edb47f0fb8dbd06184eba95bfed1656ee2e511b9773a24ca7ea24df80f7fa", 
-            "size": "1370037961", 
+            "sha256": "2f81fe091795f752c1f617cc22c786aeaac467ded665c5b1c7029183da0c1e64", 
+            "size": "1370691151", 
             "type": "unofficial", 
             "version": "v12.1"
         }
