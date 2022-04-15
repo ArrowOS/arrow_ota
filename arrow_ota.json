@@ -6452,6 +6452,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-15", 
+                  "datetime": "20220415", 
+                  "filename": "Arrow-v12.1-tulip-COMMUNITY-20220415-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-COMMUNITY-20220415-VANILLA.zip", 
+                  "sha256": "4bd99e546899d7e966d4807429e14fc835bd09f02df54ddea822aef5ee76c54c", 
+                  "size": "797206608", 
+                  "type": "community", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
