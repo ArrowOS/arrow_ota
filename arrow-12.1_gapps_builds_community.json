@@ -14,5 +14,21 @@
             "type": "community", 
             "version": "v12.1"
         }
+    ], 
+    "tulip": [
+        {
+            "changelog": "- Testing with QTI haptics.", 
+            "date": "2022-04-15", 
+            "datetime": "20220415", 
+            "filename": "Arrow-v12.1-tulip-COMMUNITY-20220415-GAPPS.zip", 
+            "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-COMMUNITY-20220415-GAPPS.zip", 
+            "maintainer": "IceBreaker2451", 
+            "model": "Redmi Note 6 Pro", 
+            "oem": "Xiaomi", 
+            "sha256": "82d67c40cc137f63bb3ed8d91688b4bfc839ea179fc4233557a118882cf7b8bf", 
+            "size": "1128034178", 
+            "type": "community", 
+            "version": "v12.1"
+        }
     ]
 }
