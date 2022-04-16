@@ -47,6 +47,22 @@
             "version": "v12.1"
         }
     ], 
+    "apollo": [
+        {
+            "changelog": "***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-04-16", 
+            "datetime": "20220416", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220416-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220416-GAPPS.zip", 
+            "maintainer": "Dobsgw", 
+            "model": "Xiaomi Mi 10T", 
+            "oem": "Xiaomi", 
+            "sha256": "a1dce8ae90555e8d9d2b79f3bd62fad994071913b4a74c95f6c5d04322039fe4", 
+            "size": "1693960893", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Flatten APEXs for performance\r\n- Added OpenGL ES and update Vulkan dEQP feature flags\r\n- Switched default camera app to GCamGo-V2\r\n- Now we use 4G icon instead of LTE in status bar\r\n- Improved thermal profile app listing\r\n- Enabled vibration effect in more environments\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Other fixes and improvements", 
