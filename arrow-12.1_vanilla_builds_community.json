@@ -31,6 +31,22 @@
             "version": "v12.1"
         }
     ], 
+    "r5x": [
+        {
+            "changelog": "Initial A12 build\r\nEnforcing", 
+            "date": "2022-04-16", 
+            "datetime": "20220416", 
+            "filename": "Arrow-v12.1-r5x-COMMUNITY-20220416-VANILLA.zip", 
+            "filepath": "/arrow-12.1/r5x/Arrow-v12.1-r5x-COMMUNITY-20220416-VANILLA.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Realme 5 Series", 
+            "oem": "Realme", 
+            "sha256": "fdf65ac6e3c2c7c12ae2d6401e7082399c69939ece7f23229e97dd57ec904962", 
+            "size": "982580773", 
+            "type": "community", 
+            "version": "v12.1"
+        }
+    ], 
     "tulip": [
         {
             "changelog": "- Testing with QTI haptics.", 
