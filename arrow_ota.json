@@ -1513,7 +1513,7 @@
   ], 
   "blueline": [
     {
-      "changelog": "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1", 
+      "changelog": null, 
       "maintainer": "ReallySnow", 
       "model": "Pixel 3", 
       "oem": "google", 
@@ -1559,6 +1559,26 @@
                   "size": "1161122131", 
                   "type": "unofficial", 
                   "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.1": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-16", 
+                  "datetime": "20220416", 
+                  "filename": "Arrow-v12.1-blueline-OFFICIAL-20220416-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/blueline/Arrow-v12.1-blueline-OFFICIAL-20220416-VANILLA.zip", 
+                  "sha256": "d0dcb13cb83da6e955c3f0e741154bcb38b89af643a698ed51aef027e3646780", 
+                  "size": "854592952", 
+                  "type": "official", 
+                  "version": "v12.1"
                 }
               ]
             }

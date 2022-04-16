@@ -79,6 +79,22 @@
             "version": "v12.1"
         }
     ], 
+    "blueline": [
+        {
+            "changelog": null, 
+            "date": "2022-04-16", 
+            "datetime": "20220416", 
+            "filename": "Arrow-v12.1-blueline-OFFICIAL-20220416-VANILLA.zip", 
+            "filepath": "/arrow-12.1/blueline/Arrow-v12.1-blueline-OFFICIAL-20220416-VANILLA.zip", 
+            "maintainer": "ReallySnow", 
+            "model": "Pixel 3", 
+            "oem": "google", 
+            "sha256": "d0dcb13cb83da6e955c3f0e741154bcb38b89af643a698ed51aef027e3646780", 
+            "size": "854592952", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Flatten APEXs for performance\r\n- Added OpenGL ES and update Vulkan dEQP feature flags\r\n- Switched default camera app to GCamGo-V2\r\n- Now we use 4G icon instead of LTE in status bar\r\n- Improved thermal profile app listing\r\n- Enabled vibration effect in more environments\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Other fixes and improvements", 
