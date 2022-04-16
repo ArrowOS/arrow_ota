@@ -47,6 +47,22 @@
             "version": "v12.1"
         }
     ], 
+    "alioth": [
+        {
+            "changelog": "- overlays: Improve physical location of side fps\r\n- parts: Thermal settings app list improvement\r\n- Update blobs and tree to V13.0.2.0.SKHMIXM\r\n- Force set vendor.display.{idle_time,idle_time_inactive} to 0\r\n- Enable debug.sf.enable_hwc_vds\r\n- Misc fixes and upstream changes.\r\n\r\nKernel changelog:\r\n- input: misc: aw8697_haptic: Upgrade from zeus-s-oss\r\n- ARM64: dts: alioth: Use new awinic haptics configuration\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-04-16", 
+            "datetime": "20220416", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220416-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220416-VANILLA.zip", 
+            "maintainer": "palaych", 
+            "model": "Poco F3", 
+            "oem": "POCO", 
+            "sha256": "caac207106acdbe93dceb158717c80a7089a5bc6d7941be6fa4dcde88f42b5ba", 
+            "size": "1035279293", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lisa": [
         {
             "changelog": "- Initial Android 12.1 release.", 
