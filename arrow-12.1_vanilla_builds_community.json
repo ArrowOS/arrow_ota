@@ -15,6 +15,22 @@
             "version": "v12.1"
         }
     ], 
+    "cepheus": [
+        {
+            "changelog": null, 
+            "date": "2022-04-16", 
+            "datetime": "20220416", 
+            "filename": "Arrow-v12.1-cepheus-COMMUNITY-20220416-VANILLA.zip", 
+            "filepath": "/arrow-12.1/cepheus/Arrow-v12.1-cepheus-COMMUNITY-20220416-VANILLA.zip", 
+            "maintainer": "lamjiidii1", 
+            "model": "Mi 9", 
+            "oem": "Xiaomi", 
+            "sha256": "eae0a1c25761c4586eb1de2a9243d47913ffce11adc2266f8cec27d360df13c6", 
+            "size": "1032555906", 
+            "type": "community", 
+            "version": "v12.1"
+        }
+    ], 
     "tulip": [
         {
             "changelog": "- Testing with QTI haptics.", 
