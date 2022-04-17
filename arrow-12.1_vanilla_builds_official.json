@@ -95,6 +95,22 @@
             "version": "v12.1"
         }
     ], 
+    "daisy": [
+        {
+            "changelog": null, 
+            "date": "2022-04-17", 
+            "datetime": "20220417", 
+            "filename": "Arrow-v12.1-daisy-OFFICIAL-20220417-VANILLA.zip", 
+            "filepath": "/arrow-12.1/daisy/Arrow-v12.1-daisy-OFFICIAL-20220417-VANILLA.zip", 
+            "maintainer": "acras", 
+            "model": "Mi A2 Lite", 
+            "oem": "Xiaomi", 
+            "sha256": "fd93dcce1ad00be97079bd7399429ead22f0654bb1fe66d16aa2dc6f06709ff0", 
+            "size": "672510280", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "davinci": [
         {
             "changelog": "* Add back check for baseband version\r\n* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update some hals and gps\r\n* Update to latest Arian kernel\r\n* Remove powerhint modifications and go back to stock", 
