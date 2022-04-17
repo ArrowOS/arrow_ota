@@ -1393,6 +1393,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-04-17", 
+                  "datetime": "20220417", 
+                  "filename": "Arrow-v12.1-avicii-OFFICIAL-20220417-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/avicii/Arrow-v12.1-avicii-OFFICIAL-20220417-GAPPS.zip", 
+                  "sha256": "27f9ab3d4aec9239399871cc843c85fe8fbdd21c7b9a1341c75390cc2131439c", 
+                  "size": "1428741155", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-04-17", 
