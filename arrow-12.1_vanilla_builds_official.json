@@ -79,6 +79,22 @@
             "version": "v12.1"
         }
     ], 
+    "avicii": [
+        {
+            "changelog": "Merged android-12.1.0_r4\r\nAdded TouchGestures.\r\nAdapted TouchGestures to Android 12 style\r\nUsed new rebased kernel\r\nThermal-engine from OOS", 
+            "date": "2022-04-17", 
+            "datetime": "20220417", 
+            "filename": "Arrow-v12.1-avicii-OFFICIAL-20220417-VANILLA.zip", 
+            "filepath": "/arrow-12.1/avicii/Arrow-v12.1-avicii-OFFICIAL-20220417-VANILLA.zip", 
+            "maintainer": "Keertesh", 
+            "model": "AC2001", 
+            "oem": "OnePlus", 
+            "sha256": "cd1fd080576d6fae8c264119cb650a26c88cf34ce7bd3a579b05b4800408f633", 
+            "size": "1129642713", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "blueline": [
         {
             "changelog": null, 
