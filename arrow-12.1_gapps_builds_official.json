@@ -79,6 +79,22 @@
             "version": "v12.1"
         }
     ], 
+    "davinci": [
+        {
+            "changelog": "* Add back check for baseband version\r\n* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update some hals and gps\r\n* Update to latest Arian kernel\r\n* Remove powerhint modifications and go back to stock", 
+            "date": "2022-04-17", 
+            "datetime": "20220417", 
+            "filename": "Arrow-v12.1-davinci-OFFICIAL-20220417-GAPPS.zip", 
+            "filepath": "/arrow-12.1/davinci/Arrow-v12.1-davinci-OFFICIAL-20220417-GAPPS.zip", 
+            "maintainer": "RemyL", 
+            "model": "Mi 9T", 
+            "oem": "Xiaomi", 
+            "sha256": "16fa533ea053076c80e9fbcd136b39425f81fcc98da10fb5fcd64e29da9f0797", 
+            "size": "1325667301", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Flatten APEXs for performance\r\n- Added OpenGL ES and update Vulkan dEQP feature flags\r\n- Switched default camera app to GCamGo-V2\r\n- Now we use 4G icon instead of LTE in status bar\r\n- Improved thermal profile app listing\r\n- Enabled vibration effect in more environments\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Other fixes and improvements", 
