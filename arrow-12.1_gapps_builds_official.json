@@ -239,6 +239,22 @@
             "version": "v12.1"
         }
     ], 
+    "thyme": [
+        {
+            "changelog": null, 
+            "date": "2022-04-20", 
+            "datetime": "20220420", 
+            "filename": "Arrow-v12.1-thyme-OFFICIAL-20220420-GAPPS.zip", 
+            "filepath": "/arrow-12.1/thyme/Arrow-v12.1-thyme-OFFICIAL-20220420-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "M2102J2SC", 
+            "oem": "Xiaomi", 
+            "sha256": "78ec62af6c4e5da740536dc8bdc8c44b77537e79394052cd2004c62205652a31", 
+            "size": "1983578372", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "vayu": [
         {
             "changelog": null, 
