@@ -178,16 +178,16 @@
     "surya": [
         {
             "changelog": null, 
-            "date": "2022-04-05", 
-            "datetime": "20220405", 
-            "filename": "Arrow-v12.1-surya-UNOFFICIAL-20220405-VANILLA.zip", 
-            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-UNOFFICIAL-20220405-VANILLA.zip", 
+            "date": "2022-04-21", 
+            "datetime": "20220421", 
+            "filename": "Arrow-v12.1-surya-OFFICIAL-20220421-VANILLA.zip", 
+            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220421-VANILLA.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "038e2f25a17bade6a158d5e1df96d2f811dc5550d40d4ac72efdc131623c85da", 
-            "size": "1009292203", 
-            "type": "unofficial", 
+            "sha256": "03582379de7bb912e8da3288fff9dbf791b8c17b98d73985eee3d89019ab5ea9", 
+            "size": "1004744331", 
+            "type": "official", 
             "version": "v12.1"
         }
     ], 
