@@ -49,16 +49,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- overlays: Improve physical location of side fps\r\n- parts: Thermal settings app list improvement\r\n- Update blobs and tree to V13.0.2.0.SKHMIXM\r\n- Force set vendor.display.{idle_time,idle_time_inactive} to 0\r\n- Enable debug.sf.enable_hwc_vds\r\n- Misc fixes and upstream changes.\r\n\r\nKernel changelog:\r\n- input: misc: aw8697_haptic: Upgrade from zeus-s-oss\r\n- ARM64: dts: alioth: Use new awinic haptics configuration\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-04-19", 
-            "datetime": "20220419", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220419-VANILLA.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220419-VANILLA.zip", 
+            "changelog": "- Uprev QTI USB HAL to 1.3\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Merge CAF tag LA.UM.9.12.r1-14100-SMxx50.0\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-04-21", 
+            "datetime": "20220421", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220421-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220421-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "9271483da57408b925d58d8a1765e5106ed525eb2c6583b8eb7f82f91f4caec5", 
-            "size": "1029301569", 
+            "sha256": "9eacd4addb0b83eba1f63c7ff47412232c6048d0377277da67c9fc77db944978", 
+            "size": "1029343765", 
             "type": "official", 
             "version": "v12.1"
         }
