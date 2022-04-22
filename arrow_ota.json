@@ -253,6 +253,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-04-22", 
+                  "datetime": "20220422", 
+                  "filename": "Arrow-v12.1-OP4A89-UNOFFICIAL-20220422-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/OP4A89/Arrow-v12.1-OP4A89-UNOFFICIAL-20220422-GAPPS.zip", 
+                  "sha256": "0ce55546043f9d4d72e5257b6d047d241908567e17a74ba0f7bd3fbc796a94e0", 
+                  "size": "1630756563", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-04-22", 
