@@ -6581,7 +6581,7 @@
   ], 
   "taimen": [
     {
-      "changelog": "- Flatten APEXs for performance\r\n- Re-enable Now Playing", 
+      "changelog": "- Define physical buttons/fingerprint location\r\n- Optimize vibration intensity", 
       "maintainer": "ReallySnow", 
       "model": "Pixel 2 XL", 
       "oem": "google", 
@@ -6711,12 +6711,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-04-19", 
-                  "datetime": "20220419", 
-                  "filename": "Arrow-v12.1-taimen-OFFICIAL-20220419-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/taimen/Arrow-v12.1-taimen-OFFICIAL-20220419-VANILLA.zip", 
-                  "sha256": "867e6f41b0a7d2d5a80b113d9944866385bc3a921abe8fea4e779a6c4ea23fac", 
-                  "size": "777219840", 
+                  "date": "2022-04-22", 
+                  "datetime": "20220422", 
+                  "filename": "Arrow-v12.1-taimen-OFFICIAL-20220422-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/taimen/Arrow-v12.1-taimen-OFFICIAL-20220422-VANILLA.zip", 
+                  "sha256": "cbe6df80fce6ba9277e9709df90dcc03398c581c9ec4b6957ff32f481aaa3ebc", 
+                  "size": "777227647", 
                   "type": "official", 
                   "version": "v12.1"
                 }
