@@ -3505,6 +3505,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-04-22", 
+                  "datetime": "20220422", 
+                  "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220422-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220422-GAPPS.zip", 
+                  "sha256": "028c81705bbd2af385fd468754d72fad906574050172f6f4d8c81ef600927dd5", 
+                  "size": "1027516600", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-04-22", 
