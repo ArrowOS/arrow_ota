@@ -3409,7 +3409,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "- Initial Build\r\n- If you face any bugs please report\r\n- Encrypted\r\n- 4.19 Kernel\r\n- Dont Change Kernel\r\n- OSS camera build\r\n- Join https://t.me/yaa2g for support/guide/reporting or use ArrowOS bug tracker", 
+      "changelog": "- Initial Build\r\n- If you face any bugs please report\r\n- Encrypted\r\n- 4.19 Kernel\r\n- Dont Change Kernel\r\n- OSS camera build\r\n- Join https://t.me/yaa2g for support/guide/reporting or use ArrowOS bug tracker\r\n_ Build Boots", 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "Xiaomi", 
@@ -3555,8 +3555,8 @@
                   "datetime": "20220422", 
                   "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220422-VANILLA.zip", 
                   "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220422-VANILLA.zip", 
-                  "sha256": "0efe10a31d14fc3d0bfb0adfa6624f681fa9a238969a4cb7fc8bb45820e7a096", 
-                  "size": "752809141", 
+                  "sha256": "0f94b1751cba5258d9c642b4f7dd466d677977ee2b585f6c76b07e0694ccba22", 
+                  "size": "762584998", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
