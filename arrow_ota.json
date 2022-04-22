@@ -248,6 +248,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-22", 
+                  "datetime": "20220422", 
+                  "filename": "Arrow-v12.1-OP4A89-UNOFFICIAL-20220422-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/OP4A89/Arrow-v12.1-OP4A89-UNOFFICIAL-20220422-VANILLA.zip", 
+                  "sha256": "06231dbccaca0863e3ce756ebb543f127c685a3f8b6bb94f17aa3fabbad107d2", 
+                  "size": "1293151198", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
