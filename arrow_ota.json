@@ -2587,12 +2587,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-04-19", 
-                  "datetime": "20220419", 
-                  "filename": "Arrow-v12.1-daisy-OFFICIAL-20220419-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/daisy/Arrow-v12.1-daisy-OFFICIAL-20220419-VANILLA.zip", 
-                  "sha256": "36d066f59a13e95ecc453afd3006aab559d3ff5373d9b7071bfdd911fe166ddb", 
-                  "size": "672510255", 
+                  "date": "2022-04-23", 
+                  "datetime": "20220423", 
+                  "filename": "Arrow-v12.1-daisy-OFFICIAL-20220423-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/daisy/Arrow-v12.1-daisy-OFFICIAL-20220423-VANILLA.zip", 
+                  "sha256": "2c958db0988a072df35090feffc00eae8e93298881f64fb08bdfcadfe2eecc03", 
+                  "size": "672544273", 
                   "type": "official", 
                   "version": "v12.1"
                 }
