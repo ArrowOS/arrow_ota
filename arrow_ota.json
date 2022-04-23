@@ -5676,6 +5676,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-23", 
+                  "datetime": "20220423", 
+                  "filename": "Arrow-v12.1-raphael-OFFICIAL-20220423-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220423-VANILLA.zip", 
+                  "sha256": "5d7cfba63b4392ac7274ac5e5e7a64f9b58ab7804f3d29ed9fc82d569cb1a2cb", 
+                  "size": "1048173805", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
