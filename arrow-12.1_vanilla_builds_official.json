@@ -334,5 +334,21 @@
             "type": "official", 
             "version": "v12.1"
         }
+    ], 
+    "x3": [
+        {
+            "changelog": null, 
+            "date": "2022-04-23", 
+            "datetime": "20220423", 
+            "filename": "Arrow-v12.1-x3-OFFICIAL-20220423-VANILLA.zip", 
+            "filepath": "/arrow-12.1/x3/Arrow-v12.1-x3-OFFICIAL-20220423-VANILLA.zip", 
+            "maintainer": "Adithya (ghostrider_reborn)", 
+            "model": "X3", 
+            "oem": "realme", 
+            "sha256": "2238f44a4c38485fb08e6eeca9cef0c866ad27a6b341192c67776e158a22d1c3", 
+            "size": "677144721", 
+            "type": "official", 
+            "version": "v12.1"
+        }
     ]
 }
