@@ -699,6 +699,22 @@
       ], 
       "v12.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-24", 
+                  "datetime": "20220424", 
+                  "filename": "Arrow-v12.1-X00T-OFFICIAL-20220424-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/X00T/Arrow-v12.1-X00T-OFFICIAL-20220424-VANILLA.zip", 
+                  "sha256": "177d1dbfd353f2cba9e2f29e2264591e6f3a6e1385aaf8d4875eecd776106ec4", 
+                  "size": "737760774", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
