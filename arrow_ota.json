@@ -1831,12 +1831,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-04-20", 
-                  "datetime": "20220420", 
-                  "filename": "Arrow-v12.1-cas-OFFICIAL-20220420-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-OFFICIAL-20220420-VANILLA.zip", 
-                  "sha256": "45a3c19e8423bf051c31bf1c0ad787a573dc6c007bfe2b9fafd57cfc6ce55fff", 
-                  "size": "1434565119", 
+                  "date": "2022-04-24", 
+                  "datetime": "20220424", 
+                  "filename": "Arrow-v12.1-cas-OFFICIAL-20220424-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-OFFICIAL-20220424-VANILLA.zip", 
+                  "sha256": "fb2e24db1268d4f6f9963b5f8ed49ae601404ddbda04daea2f6badaa0a2e2c65", 
+                  "size": "1434916899", 
                   "type": "official", 
                   "version": "v12.1"
                 }

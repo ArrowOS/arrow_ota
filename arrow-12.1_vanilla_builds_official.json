@@ -130,15 +130,15 @@
     "cas": [
         {
             "changelog": "Firmware: V13.0.1.0.SJJCNXM\r\nDate: 2022-2-11\r\nChangelog:\r\n1. Update to ArrowOS 12.1.\r\n2. Update blobs to V13.0.1.0.SJJCNXM.\r\n3. Switch back to userdebug.\r\n\r\n2022-2-11\r\n1. Sync with the latest source\r\n2. Switch to selinux enforce and user build\r\n\r\n2022-1-18\r\n1. Sync with the latest source\r\n2. Switch to Lawnchair\r\n\r\n2021-12-12\r\n1. Sync with the latest source\r\n2. Merge tag LA.UM.9.12.r1-13500.01-SMxx50.QSSI12.0 into kernel source\r\n \r\n2021-12-11\r\n1. Sync with the latest source\r\n2. Support dc dimming\r\n\r\n2021-12-05\r\n1. Sync with the latest source\r\n2. Fix 5x lens problem\r\n\r\n2021-11-25\r\n1. Sync with the latest source\r\n2. Fix ims problem\r\n\r\n2021-11-21\r\n1. Sync with the latest source\r\n2. Switch to new kernel based on LA.UM.9.12.r1-13300-SMxx50.QSSI12.0\r\n3. Adapt brightness values\r\n\r\n2021-11-2\r\n1. Sync with the latest source\r\n2. Fix brightness level mapping\r\n3. Handle more scenarios when getting fod dim alpha\r\n4. Update brightness and vibrator configs\r\n\r\n2021-11-1\r\n1. Sync with the latest source\r\n\r\n2021-10-30\r\n1. Sync with the latest source\r\n2. Ship GCamGOPrebuilt instead of Camera2/Snap\r\n3. Bring back IFAAManager\r\n4. Move to AOSP WFD\r\n\r\n2021-10-27\r\n1. Sync with the latest source\r\n\r\n2021-10-26\r\n1. Disable FBE(Maybe you should clean flash to make twrp decrypt data)\r\n2. Limit charging current to 6A (Fix overheating when charging)\r\n3. Fix multiple SIM cards display\r\n4. ...\r\n\r\n2021-10-17:\r\n1. Initial releases\r\n2. SeLinux permissive\r\n3. Test version", 
-            "date": "2022-04-20", 
-            "datetime": "20220420", 
-            "filename": "Arrow-v12.1-cas-OFFICIAL-20220420-VANILLA.zip", 
-            "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-OFFICIAL-20220420-VANILLA.zip", 
+            "date": "2022-04-24", 
+            "datetime": "20220424", 
+            "filename": "Arrow-v12.1-cas-OFFICIAL-20220424-VANILLA.zip", 
+            "filepath": "/arrow-12.1/cas/Arrow-v12.1-cas-OFFICIAL-20220424-VANILLA.zip", 
             "maintainer": "Xayah", 
             "model": "M2007J1SC", 
             "oem": "Xiaomi", 
-            "sha256": "45a3c19e8423bf051c31bf1c0ad787a573dc6c007bfe2b9fafd57cfc6ce55fff", 
-            "size": "1434565119", 
+            "sha256": "fb2e24db1268d4f6f9963b5f8ed49ae601404ddbda04daea2f6badaa0a2e2c65", 
+            "size": "1434916899", 
             "type": "official", 
             "version": "v12.1"
         }
