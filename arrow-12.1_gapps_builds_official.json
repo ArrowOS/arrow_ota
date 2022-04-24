@@ -31,6 +31,22 @@
             "version": "v12.1"
         }
     ], 
+    "X00T": [
+        {
+            "changelog": "- Updated HALs and rebased kernel on LA.UM.10.2.1.r1-03400-sdm660.0", 
+            "date": "2022-04-24", 
+            "datetime": "20220424", 
+            "filename": "Arrow-v12.1-X00T-OFFICIAL-20220424-GAPPS.zip", 
+            "filepath": "/arrow-12.1/X00T/Arrow-v12.1-X00T-OFFICIAL-20220424-GAPPS.zip", 
+            "maintainer": "PranavKpr", 
+            "model": "Asus Zenfone Max Pro M1", 
+            "oem": "asus", 
+            "sha256": "96cd81b95ecf3e5bcb86a9143441726c63c434184c878898dbdee3cad69f109d", 
+            "size": "1070169735", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "alioth": [
         {
             "changelog": "- Uprev QTI USB HAL to 1.3\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Merge CAF tag LA.UM.9.12.r1-14100-SMxx50.0\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
