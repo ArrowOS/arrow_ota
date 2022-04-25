@@ -816,6 +816,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-25", 
+                  "datetime": "20220425", 
+                  "filename": "Arrow-v12.1-X01AD-COMMUNITY-20220425-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20220425-VANILLA.zip", 
+                  "sha256": "475ba7c0f827e2417d1db0d01a78d73554b8287e02c418742fb111c8bb34e43d", 
+                  "size": "800636961", 
+                  "type": "community", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
