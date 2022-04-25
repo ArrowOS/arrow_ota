@@ -1,4 +1,20 @@
 {
+    "X01AD": [
+        {
+            "changelog": "- Initial A12 build", 
+            "date": "2022-04-25", 
+            "datetime": "20220425", 
+            "filename": "Arrow-v12.1-X01AD-COMMUNITY-20220425-GAPPS.zip", 
+            "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20220425-GAPPS.zip", 
+            "maintainer": "Arka", 
+            "model": "Asus Zenfone Max M2", 
+            "oem": "asus", 
+            "sha256": "8033fdb94ec5627d1625872dfbf0174312a5404bc1a02a00024405efe1028427", 
+            "size": "1137495772", 
+            "type": "community", 
+            "version": "v12.1"
+        }
+    ], 
     "Z01R": [
         {
             "changelog": "Kernel: Update to 4.9.307 Icewiz\r\nDevice: Device Tree re-write based on Lineage OS, thanks ReallySnow for help\r\nDevice: SELinux is enofrcing now. Please  remember backup and format userdata.", 

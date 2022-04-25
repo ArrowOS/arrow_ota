@@ -821,6 +821,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-04-25", 
+                  "datetime": "20220425", 
+                  "filename": "Arrow-v12.1-X01AD-COMMUNITY-20220425-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20220425-GAPPS.zip", 
+                  "sha256": "8033fdb94ec5627d1625872dfbf0174312a5404bc1a02a00024405efe1028427", 
+                  "size": "1137495772", 
+                  "type": "community", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-04-25", 
