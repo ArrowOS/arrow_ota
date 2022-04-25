@@ -3464,6 +3464,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-25", 
+                  "datetime": "20220425", 
+                  "filename": "Arrow-v12.1-guacamole-OFFICIAL-20220425-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/guacamole/Arrow-v12.1-guacamole-OFFICIAL-20220425-VANILLA.zip", 
+                  "sha256": "3b3e17932c83386ba3a7209630c601ba3faa0f3848b0b14f41b79faa2958cf73", 
+                  "size": "761066103", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 

@@ -175,6 +175,22 @@
             "version": "v12.1"
         }
     ], 
+    "guacamole": [
+        {
+            "changelog": "- Bug fixes and stability improvements.\r\n- For more pls check <a href=\"https://forum.xda-developers.com/t/4355029\">XDA thread</a>", 
+            "date": "2022-04-25", 
+            "datetime": "20220425", 
+            "filename": "Arrow-v12.1-guacamole-OFFICIAL-20220425-VANILLA.zip", 
+            "filepath": "/arrow-12.1/guacamole/Arrow-v12.1-guacamole-OFFICIAL-20220425-VANILLA.zip", 
+            "maintainer": "alk3p", 
+            "model": "GM1917", 
+            "oem": "OnePlus", 
+            "sha256": "3b3e17932c83386ba3a7209630c601ba3faa0f3848b0b14f41b79faa2958cf73", 
+            "size": "761066103", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Flatten APEXs for performance\r\n- Added OpenGL ES and update Vulkan dEQP feature flags\r\n- Switched default camera app to GCamGo-V2\r\n- Now we use 4G icon instead of LTE in status bar\r\n- Improved thermal profile app listing\r\n- Enabled vibration effect in more environments\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Other fixes and improvements", 
