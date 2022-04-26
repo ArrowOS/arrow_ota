@@ -3824,6 +3824,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-26", 
+                  "datetime": "20220426", 
+                  "filename": "Arrow-v12.1-kebab-UNOFFICIAL-20220426-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-UNOFFICIAL-20220426-VANILLA.zip", 
+                  "sha256": "45554e16b7a77882fb606f2520e2586df32936a6b5285d5689167a5a2d1cad05", 
+                  "size": "1051059070", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
