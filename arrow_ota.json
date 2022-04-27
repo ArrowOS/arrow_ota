@@ -109,6 +109,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-04-27", 
+                  "datetime": "20220427", 
+                  "filename": "Arrow-v12.1-G-OFFICIAL-20220427-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/G/Arrow-v12.1-G-OFFICIAL-20220427-GAPPS.zip", 
+                  "sha256": "7e3ad207ec6dbb0f23739e0bedefc3bdda2d87178c81ccc61b63bfacc7e030b3", 
+                  "size": "1017768447", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-04-26", 
