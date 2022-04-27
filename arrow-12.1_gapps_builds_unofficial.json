@@ -193,16 +193,16 @@
     ], 
     "kebab": [
         {
-            "changelog": "Temporarily handed over to hiper25 for maintenance", 
-            "date": "2022-04-26", 
-            "datetime": "20220426", 
-            "filename": "Arrow-v12.1-kebab-UNOFFICIAL-20220426-GAPPS.zip", 
-            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-UNOFFICIAL-20220426-GAPPS.zip", 
+            "changelog": "- initial Compile with Arrow-12.1", 
+            "date": "2022-04-27", 
+            "datetime": "20220427", 
+            "filename": "Arrow-v12.1-kebab-UNOFFICIAL-20220427-GAPPS.zip", 
+            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-UNOFFICIAL-20220427-GAPPS.zip", 
             "maintainer": "hiper25", 
             "model": "KB2003", 
             "oem": "OnePlus", 
-            "sha256": "584867611f692f280f365d43dd7f497b053dc83ba5463a5bac1c7f8ce0ff65d4", 
-            "size": "1339271042", 
+            "sha256": "b9c2b080bececa7d22648e401ec8edc4d3b110c738cfd6f40d2ecdd526cf8ea8", 
+            "size": "1326139814", 
             "type": "unofficial", 
             "version": "v12.1"
         }
