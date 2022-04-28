@@ -1016,6 +1016,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-04-28", 
+                  "datetime": "20220428", 
+                  "filename": "Arrow-v12.1-X01BD-UNOFFICIAL-20220428-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/X01BD/Arrow-v12.1-X01BD-UNOFFICIAL-20220428-VANILLA.zip", 
+                  "sha256": "edff3c6cb591930ed5d7c45abf46905a4729540e98eb4b9fbfdbaf1a252152fb", 
+                  "size": "813700086", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 

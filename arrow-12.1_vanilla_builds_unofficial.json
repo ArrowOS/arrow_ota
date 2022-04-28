@@ -63,6 +63,22 @@
             "version": "v12.1"
         }
     ], 
+    "X01BD": [
+        {
+            "changelog": null, 
+            "date": "2022-04-28", 
+            "datetime": "20220428", 
+            "filename": "Arrow-v12.1-X01BD-UNOFFICIAL-20220428-VANILLA.zip", 
+            "filepath": "/arrow-12.1/X01BD/Arrow-v12.1-X01BD-UNOFFICIAL-20220428-VANILLA.zip", 
+            "maintainer": "SonalSingh", 
+            "model": "Asus Zenfone Max Pro M2", 
+            "oem": "asus", 
+            "sha256": "edff3c6cb591930ed5d7c45abf46905a4729540e98eb4b9fbfdbaf1a252152fb", 
+            "size": "813700086", 
+            "type": "unofficial", 
+            "version": "v12.1"
+        }
+    ], 
     "alioth": [
         {
             "changelog": "- overlays: Improve physical location of side fps\r\n- parts: Thermal settings app list improvement\r\n- Update blobs and tree to V13.0.2.0.RKHMIXM\r\n- Fix Video Calling (???)\r\n- input: misc: aw8697_haptic: Upgrade from zeus-s-oss \r\n- ARM64: dts: alioth: Use new awinic haptics configuration\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
