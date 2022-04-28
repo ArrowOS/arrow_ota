@@ -1093,7 +1093,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Uprev QTI USB HAL to 1.3\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Merge CAF tag LA.UM.9.12.r1-14100-SMxx50.0\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
+      "changelog": "- Build with AOSP Clang 14.0.5\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -1207,12 +1207,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-04-21", 
-                  "datetime": "20220421", 
-                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220421-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220421-VANILLA.zip", 
-                  "sha256": "9eacd4addb0b83eba1f63c7ff47412232c6048d0377277da67c9fc77db944978", 
-                  "size": "1029343765", 
+                  "date": "2022-04-28", 
+                  "datetime": "20220428", 
+                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220428-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220428-VANILLA.zip", 
+                  "sha256": "efd56f4289e7b3a1ec7b68b8bcaab2416f67eb9b05e3ebf4519bcc063749df9b", 
+                  "size": "1033193575", 
                   "type": "official", 
                   "version": "v12.1"
                 }
