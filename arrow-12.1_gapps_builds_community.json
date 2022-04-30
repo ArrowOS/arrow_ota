@@ -50,15 +50,15 @@
     "r5x": [
         {
             "changelog": "Initial A12 build\r\nEnforcing", 
-            "date": "2022-04-23", 
-            "datetime": "20220423", 
-            "filename": "Arrow-v12.1-r5x-COMMUNITY-20220423-GAPPS.zip", 
-            "filepath": "/arrow-12.1/r5x/Arrow-v12.1-r5x-COMMUNITY-20220423-GAPPS.zip", 
+            "date": "2022-04-30", 
+            "datetime": "20220430", 
+            "filename": "Arrow-v12.1-r5x-COMMUNITY-20220430-GAPPS.zip", 
+            "filepath": "/arrow-12.1/r5x/Arrow-v12.1-r5x-COMMUNITY-20220430-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "Realme 5 Series", 
             "oem": "Realme", 
-            "sha256": "0b772ffebddd4c8da60455ecf9445ab9fdd4b39249fcf857179b91a295f122e8", 
-            "size": "1311449052", 
+            "sha256": "4b0efbbf08af579a7fa31e6c395cb499d8447063e7240faadfe024e0744e5601", 
+            "size": "1311324195", 
             "type": "community", 
             "version": "v12.1"
         }
