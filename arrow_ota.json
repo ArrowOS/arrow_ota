@@ -1301,7 +1301,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "Android 12 Bloobs test\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "Android 12 Bloobs test\r\n\r\nA12 firmware included\r\n\r\nAttempt to fix SPL downgrade error in arrow recovery\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -1475,8 +1475,8 @@
                   "datetime": "20220502", 
                   "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220502-VANILLA.zip", 
                   "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220502-VANILLA.zip", 
-                  "sha256": "e1f22268cbe14ea82b4a075bbcf1285d54aec9cc47552ccda4c66a30bfa82312", 
-                  "size": "1377768619", 
+                  "sha256": "f4dc5c053f8ee14ab089ee569c8da33cb66aa838861a46e5638651305ca5f8c6", 
+                  "size": "1381005522", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
