@@ -223,6 +223,22 @@
             "version": "v12.1"
         }
     ], 
+    "kebab": [
+        {
+            "changelog": "- Initial stable official build", 
+            "date": "2022-05-02", 
+            "datetime": "20220502", 
+            "filename": "Arrow-v12.1-kebab-OFFICIAL-20220502-GAPPS.zip", 
+            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220502-GAPPS.zip", 
+            "maintainer": "hiper25", 
+            "model": "KB2003", 
+            "oem": "OnePlus", 
+            "sha256": "89f94bd7b4a9fa929f65c9b2583307d1c5463c6fc2cef1816f23a8da3c9ad858", 
+            "size": "1346306202", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "lavender": [
         {
             "changelog": "- Flatten APEXs for performance\r\n- Added OpenGL ES and update Vulkan dEQP feature flags\r\n- Switched default camera app to GCamGo-V2\r\n- Now we use 4G icon instead of LTE in status bar\r\n- Improved thermal profile app listing\r\n- Enabled vibration effect in more environments\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Other fixes and improvements", 

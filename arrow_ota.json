@@ -3937,6 +3937,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-05-02", 
+                  "datetime": "20220502", 
+                  "filename": "Arrow-v12.1-kebab-OFFICIAL-20220502-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220502-GAPPS.zip", 
+                  "sha256": "89f94bd7b4a9fa929f65c9b2583307d1c5463c6fc2cef1816f23a8da3c9ad858", 
+                  "size": "1346306202", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-05-02", 
