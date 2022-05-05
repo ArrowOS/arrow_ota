@@ -81,16 +81,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "Android 12 Bloobs test\r\n\r\nA12 firmware included\r\n\r\nAttempt to fix SPL downgrade error in arrow recovery\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-05-04", 
-            "datetime": "20220504", 
-            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220504-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220504-GAPPS.zip", 
+            "changelog": "Fix fp location indicator location thanks to Agmad (rly thanks to Dyneteve)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-05-05", 
+            "datetime": "20220505", 
+            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220505-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220505-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "c5a19ad076ac2b2305e7c84c3dfe3a8258c7a1b84e041094b44c1ba41842fef7", 
-            "size": "1725212394", 
+            "sha256": "fd1945a26380d932fc078c1d192e52711cd0bc5f4834a064f9340d628655f2a1", 
+            "size": "1725172878", 
             "type": "unofficial", 
             "version": "v12.1"
         }
