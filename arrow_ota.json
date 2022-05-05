@@ -1301,7 +1301,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "Android 12 Bloobs test\r\n\r\nA12 firmware included\r\n\r\nAttempt to fix SPL downgrade error in arrow recovery\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "Fix fp location indicator location thanks to Agmad (rly thanks to Dyneteve)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -1471,12 +1471,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-05-04", 
-                  "datetime": "20220504", 
-                  "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220504-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220504-VANILLA.zip", 
-                  "sha256": "744bd1e065f29d83c2a6c8d3b413357e39b8513a3ae1f62ac3171713095614d7", 
-                  "size": "1380296486", 
+                  "date": "2022-05-05", 
+                  "datetime": "20220505", 
+                  "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220505-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220505-VANILLA.zip", 
+                  "sha256": "4a957115d146c236b8147855c82c2cc38d5c6d6d035dedf26e84f74e0ede5506", 
+                  "size": "1381085342", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
