@@ -6741,7 +6741,7 @@
   ], 
   "sweet": [
     {
-      "changelog": null, 
+      "changelog": "28/02/2022\r\n\u2022 Updated blobs from MIUI 13 v13.0.2.0 Global\r\n\u2022 Fixed Ok Google\r\n\u2022 Updated GPS to LA.UM.9.1.r1-11500-SMxxx0.0\r\n\u2022 Fixed OTA updates\r\n\r\n12/11/2021\r\n\u2022 Improved power management\r\n\u2022 Switched back to schedutil governor\r\n\u2022 Cleaned unneeded vendor libraries\r\n\r\n28/10/2021\r\n\u2022 Fixed cutout color being inverted with the \"Force dark theme\" setting\r\n\u2022 Fixed minimum frequency being 1248MHz\r\n\u2022 Fixed WFD\r\n\u2022 Added Spanish translations to the device specific settings", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -6855,12 +6855,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-05-01", 
-                  "datetime": "20220501", 
-                  "filename": "Arrow-v12.1-sweet-OFFICIAL-20220501-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-OFFICIAL-20220501-VANILLA.zip", 
-                  "sha256": "4c684cb3c27c00c53207ca0790d31d29435bf90a2d38af29e4009caece772b6a", 
-                  "size": "1065847104", 
+                  "date": "2022-05-05", 
+                  "datetime": "20220505", 
+                  "filename": "Arrow-v12.1-sweet-OFFICIAL-20220505-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-OFFICIAL-20220505-VANILLA.zip", 
+                  "sha256": "a2a7c89274a233bfa8f251f4c60e5ae5121997e94ba21e890c06cfa164901a15", 
+                  "size": "1065862113", 
                   "type": "official", 
                   "version": "v12.1"
                 }
