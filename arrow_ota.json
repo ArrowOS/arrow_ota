@@ -7085,6 +7085,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-05-06", 
+                  "datetime": "20220506", 
+                  "filename": "Arrow-v12.1-thyme-UNOFFICIAL-20220506-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/thyme/Arrow-v12.1-thyme-UNOFFICIAL-20220506-GAPPS.zip", 
+                  "sha256": "89b845f217de50ef38c2a3eb0d399f7058d9bbd59c3dca622d089c09a06bbb10", 
+                  "size": "1982422847", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-05-06", 
