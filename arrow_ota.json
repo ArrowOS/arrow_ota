@@ -3429,6 +3429,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-05-06", 
+                  "datetime": "20220506", 
+                  "filename": "Arrow-v12.1-ginkgo-OFFICIAL-20220506-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/ginkgo/Arrow-v12.1-ginkgo-OFFICIAL-20220506-GAPPS.zip", 
+                  "sha256": "4af4a8eb07b7ff507185d71217a5976875c5f5b2b374ff9a6b78fe5dc20c568b", 
+                  "size": "1261672838", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-05-06", 
