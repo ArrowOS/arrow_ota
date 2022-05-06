@@ -7049,8 +7049,8 @@
   ], 
   "thyme": [
     {
-      "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "changelog": "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_thyme/commits/arrow-12.1\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes.", 
+      "maintainer": "Lynnrin", 
       "model": "M2102J2SC", 
       "oem": "Xiaomi", 
       "v12.1": [
@@ -7078,6 +7078,22 @@
                   "sha256": "db6b051bdd3d731917c2a49620ac6912528e0476d27eb85f1bf8d2de986e100f", 
                   "size": "1684546844", 
                   "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-05-06", 
+                  "datetime": "20220506", 
+                  "filename": "Arrow-v12.1-thyme-UNOFFICIAL-20220506-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/thyme/Arrow-v12.1-thyme-UNOFFICIAL-20220506-VANILLA.zip", 
+                  "sha256": "62eb4290907d6972ab499f53ea20de5dd503f32046f2a4702be2c2294f99f7c7", 
+                  "size": "1683337691", 
+                  "type": "unofficial", 
                   "version": "v12.1"
                 }
               ]
