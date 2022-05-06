@@ -207,6 +207,22 @@
             "version": "v12.1"
         }
     ], 
+    "ginkgo": [
+        {
+            "changelog": " - Initial 12.1 release", 
+            "date": "2022-05-05", 
+            "datetime": "20220505", 
+            "filename": "Arrow-v12.1-ginkgo-OFFICIAL-20220505-VANILLA.zip", 
+            "filepath": "/arrow-12.1/ginkgo/Arrow-v12.1-ginkgo-OFFICIAL-20220505-VANILLA.zip", 
+            "maintainer": "Adithya (ghostrider_reborn)", 
+            "model": "Redmi Note 8/8T", 
+            "oem": "Xiaomi", 
+            "sha256": "129935f62822232f32ae00feb5ce37fd40451c2aab6b71cb8b50cf1135ca1223", 
+            "size": "910342937", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "guacamole": [
         {
             "changelog": "- Bug fixes and stability improvements.\r\n- For more pls check <a href=\"https://forum.xda-developers.com/t/4355029\">XDA thread</a>", 
