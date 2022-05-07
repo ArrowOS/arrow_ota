@@ -322,15 +322,15 @@
     "raphael": [
         {
             "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n3rd March, 2022\r\nmerged the Linux kernel to latest upstream, switch to Pixel power libperfmgr HAL and will improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
-            "date": "2022-05-01", 
-            "datetime": "20220501", 
-            "filename": "Arrow-v12.1-raphael-OFFICIAL-20220501-GAPPS.zip", 
-            "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220501-GAPPS.zip", 
+            "date": "2022-05-07", 
+            "datetime": "20220507", 
+            "filename": "Arrow-v12.1-raphael-OFFICIAL-20220507-GAPPS.zip", 
+            "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220507-GAPPS.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "333a7603abbb38e01a49a9cc8d64b1a97334498ab717fcf9aaf08ee33ff3ec79", 
-            "size": "1385787028", 
+            "sha256": "d845bb347ee7a0c02627445d9e7841c65dfc683b7b3c956b382e2ca0c0c38da5", 
+            "size": "1385526267", 
             "type": "official", 
             "version": "v12.1"
         }
