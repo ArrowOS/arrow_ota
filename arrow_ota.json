@@ -1153,7 +1153,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Build with AOSP Clang 14.0.5\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
+      "changelog": "- Build kernel with AOSP Clang 14.0.1\r\n- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Merge CAF tag LA.UM.9.12.r1-13800-SMxx50.0 to dts\r\n- Import xiaomi modifications from psyche-r-oss\r\n- arm64: Cleanup\r\n- dts: gpu: unlock freq 670Mhz\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -1267,12 +1267,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-04-28", 
-                  "datetime": "20220428", 
-                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220428-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220428-VANILLA.zip", 
-                  "sha256": "efd56f4289e7b3a1ec7b68b8bcaab2416f67eb9b05e3ebf4519bcc063749df9b", 
-                  "size": "1033193575", 
+                  "date": "2022-05-08", 
+                  "datetime": "20220508", 
+                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220508-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220508-VANILLA.zip", 
+                  "sha256": "0894aa35fdefb80e8916b4f78f3d7d53b05615353f1806b1f2c2b47cd430e8f8", 
+                  "size": "1033814026", 
                   "type": "official", 
                   "version": "v12.1"
                 }
