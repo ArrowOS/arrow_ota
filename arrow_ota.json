@@ -1802,6 +1802,22 @@
                 }
               ]
             }
+          ], 
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-05-08", 
+                  "datetime": "20220508", 
+                  "filename": "Arrow-v12.1-blueline-UNOFFICIAL-20220508-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/blueline/Arrow-v12.1-blueline-UNOFFICIAL-20220508-GAPPS.zip", 
+                  "sha256": "8830f897a06f37659088355eec2036c5b58b10eb60b826dea4e4e3ba48debb21", 
+                  "size": "1121657987", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ]
+            }
           ]
         }
       ]
