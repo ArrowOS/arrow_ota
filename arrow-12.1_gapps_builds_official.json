@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Build with AOSP Clang 14.0.5\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-04-28", 
-            "datetime": "20220428", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220428-GAPPS.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220428-GAPPS.zip", 
+            "changelog": "- Build kernel with AOSP Clang 14.0.1\r\n- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge android-4.19-stable branch of android/kernel/common\r\n- Merge CAF tag LA.UM.9.12.r1-13800-SMxx50.0 to dts\r\n- Import xiaomi modifications from psyche-r-oss\r\n- arm64: Cleanup\r\n- dts: gpu: unlock freq 670Mhz\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-05-08", 
+            "datetime": "20220508", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220508-GAPPS.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220508-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "096ef6be7662e1f272e0bce2d80b082a9563c017f1eb1bbda7dfa68dba0c8b3c", 
-            "size": "1322306220", 
+            "sha256": "35ae0c6565ca7c277053f7e58b84a1d2a6749c7b554e8b6c3f47b5af558dfc39", 
+            "size": "1322938735", 
             "type": "official", 
             "version": "v12.1"
         }
