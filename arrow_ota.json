@@ -5417,6 +5417,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-05-10", 
+                  "datetime": "20220510", 
+                  "filename": "Arrow-v12.1-phoenix-OFFICIAL-20220510-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-OFFICIAL-20220510-GAPPS.zip", 
+                  "sha256": "734b7f84803904df510b40c41f014727addccdd648f3e840721d26e408964ec4", 
+                  "size": "1349364863", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-05-10", 
