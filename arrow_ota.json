@@ -1313,7 +1313,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "base: Add com.android.bluetooth to indicator exemptions\r\nbase: Add com.android.phone to indicator exemptions\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "rebase apollo tree\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -1483,12 +1483,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-05-09", 
-                  "datetime": "20220509", 
-                  "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220509-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220509-VANILLA.zip", 
-                  "sha256": "7bbc8533751da99471e80e1efe7e1e8aae8cc80b9d6ef371f957bcf3e50ca2ea", 
-                  "size": "1441297139", 
+                  "date": "2022-05-11", 
+                  "datetime": "20220511", 
+                  "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220511-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220511-VANILLA.zip", 
+                  "sha256": "2924167714d7751e0a2a28afcb4fecf2f239ce0e8f9003aa2b098368ec231327", 
+                  "size": "1441088432", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
