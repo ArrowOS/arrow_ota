@@ -8279,7 +8279,7 @@
     {
       "changelog": null, 
       "maintainer": "Adithya (ghostrider_reborn)", 
-      "model": "X3", 
+      "model": "Realme X3/SuperZoom", 
       "oem": "realme", 
       "v12.0": [
         {
@@ -8335,12 +8335,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-05-02", 
-                  "datetime": "20220502", 
-                  "filename": "Arrow-v12.1-x3-UNOFFICIAL-20220502-GAPPS.zip", 
-                  "filepath": "/arrow-12.1/x3/Arrow-v12.1-x3-UNOFFICIAL-20220502-GAPPS.zip", 
-                  "sha256": "748959375f9a4087dc044492028ca4df2940ed71fed6abe52af863bc89983c68", 
-                  "size": "998607639", 
+                  "date": "2022-05-12", 
+                  "datetime": "20220512", 
+                  "filename": "Arrow-v12.1-x3-UNOFFICIAL-20220512-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/x3/Arrow-v12.1-x3-UNOFFICIAL-20220512-GAPPS.zip", 
+                  "sha256": "6093740ff0ced64a5a31b89d749d2581b24617eba1abbe5812a0d7e9d4ca7acd", 
+                  "size": "999842554", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
