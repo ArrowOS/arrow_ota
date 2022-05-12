@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "Resolved bootloop\r\n\r\nSwitch to Sunflower Kernel\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-05-07", 
-            "datetime": "20220507", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220507-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220507-GAPPS.zip", 
+            "changelog": "***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-05-12", 
+            "datetime": "20220512", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220512-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220512-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "98ccc311b643790a40cc85e688450e365f4f33e71c210069a0c466da14c8ec8c", 
-            "size": "1710249574", 
+            "sha256": "ba1cc92a46d450c8eac90a51b93c4bce25f87bf357fa4105b50636cca82d5c8a", 
+            "size": "1711562146", 
             "type": "official", 
             "version": "v12.1"
         }
