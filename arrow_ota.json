@@ -6644,6 +6644,26 @@
             }
           ]
         }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-05-13", 
+                  "datetime": "20220513", 
+                  "filename": "Arrow-v12.1-starlte-UNOFFICIAL-20220513-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/starlte/Arrow-v12.1-starlte-UNOFFICIAL-20220513-GAPPS.zip", 
+                  "sha256": "9085bf712af60da210e57e45d3ce7fc1affd82ea7aa7fca7856774a175bf7a84", 
+                  "size": "1022461172", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
