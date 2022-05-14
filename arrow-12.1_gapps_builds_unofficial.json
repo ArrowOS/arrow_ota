@@ -97,7 +97,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "- test with qcom audio effects\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "changelog": "- test with qcom audio effects\r\n- fix cam\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
             "date": "2022-05-14", 
             "datetime": "20220514", 
             "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220514-GAPPS.zip", 
@@ -105,8 +105,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "4ec5edce43d9d70c7678d3a4da3169a0d3548ad47b6ed77d8bb107298042336f", 
-            "size": "1752418445", 
+            "sha256": "b760fb7e492f4c2224dbf9b888287b1a2d4937f7d313924ed848bd6556344547", 
+            "size": "1764946712", 
             "type": "unofficial", 
             "version": "v12.1"
         }
