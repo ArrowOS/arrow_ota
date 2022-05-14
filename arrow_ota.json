@@ -1529,7 +1529,7 @@
   ], 
   "avicii": [
     {
-      "changelog": "\u2022 Fixed keyguard indicator margin\r\n \u2022 Updated powerprofile\r\n \u2022 Adapted overlays for new status bar height APIs\r\n \u2022 Used thermal engine from OOS\r\n \u2022 Updated USB HAL to V1.3 implementation\r\n \u2022 Build media Codec2 modules\r\n \u2022 Removed 5g modes switcher\r\n \u2022 Updated CarrierConfig from OOS12 OB2\r\n \u2022 Added Vulkan dEQP feature flags\r\n \u2022 Disabled Dolby by default\r\n \u2022 Import QTI Codec2 HAL\r\n \u2022 Improved haptic and vibe patterns\r\n \u2022 SE Policy fixes\r\n \u2022 Disabled useless logs\r\n \u2022 Updated wifi configs\r\n \u2022 Updated rootdir scripts from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0", 
+      "changelog": null, 
       "maintainer": "Keertesh", 
       "model": "AC2001", 
       "oem": "OnePlus", 
@@ -1615,12 +1615,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-04-29", 
-                  "datetime": "20220429", 
-                  "filename": "Arrow-v12.1-avicii-UNOFFICIAL-20220429-GAPPS.zip", 
-                  "filepath": "/arrow-12.1/avicii/Arrow-v12.1-avicii-UNOFFICIAL-20220429-GAPPS.zip", 
-                  "sha256": "db291289d6810338847db9635b259e5a1ecad5251dc24644385a7c975e71d11a", 
-                  "size": "1438425488", 
+                  "date": "2022-05-14", 
+                  "datetime": "20220514", 
+                  "filename": "Arrow-v12.1-avicii-UNOFFICIAL-20220514-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/avicii/Arrow-v12.1-avicii-UNOFFICIAL-20220514-GAPPS.zip", 
+                  "sha256": "4e983fe94d2443cfc3ce0054d0c405ac5bb0afaebb5e9ab04d579549f84a2e65", 
+                  "size": "1439406340", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
