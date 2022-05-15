@@ -207,6 +207,22 @@
             "version": "v12.1"
         }
     ], 
+    "gauguin": [
+        {
+            "changelog": "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_gauguin/commits/arrow-12.1\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes.", 
+            "date": "2022-05-15", 
+            "datetime": "20220515", 
+            "filename": "Arrow-v12.1-gauguin-OFFICIAL-20220515-GAPPS.zip", 
+            "filepath": "/arrow-12.1/gauguin/Arrow-v12.1-gauguin-OFFICIAL-20220515-GAPPS.zip", 
+            "maintainer": "Lynnrin", 
+            "model": "M2007J17G", 
+            "oem": "Xiaomi", 
+            "sha256": "1eedfe7ae43d99b1d5c62373d90fb42f54feb976dd729648a145b0078ebc4d30", 
+            "size": "1555113727", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "ginkgo": [
         {
             "changelog": "- Initial Android 12L release\r\n- Updated MIUI blobs from V12.5.2.0.RCOMIXM\r\n- Upgraded telephony stack from QSSI 12\r\n- Upgraded adreno drivers from sm8450\r\n- Merged latest CAF tag in kernel\r\n- Misc optimizations and fixes", 
