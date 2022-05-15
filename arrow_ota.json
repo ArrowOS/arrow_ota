@@ -3287,6 +3287,22 @@
       ], 
       "v12.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-05-15", 
+                  "datetime": "20220515", 
+                  "filename": "Arrow-v12.1-gauguin-OFFICIAL-20220515-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/gauguin/Arrow-v12.1-gauguin-OFFICIAL-20220515-VANILLA.zip", 
+                  "sha256": "3759abbed30757ae2738f53d9c11f1c6da87c9e702300dc0bf35d1d8aaa2618a", 
+                  "size": "1194566807", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
