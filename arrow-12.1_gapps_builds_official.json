@@ -367,6 +367,22 @@
             "version": "v12.1"
         }
     ], 
+    "starlte": [
+        {
+            "changelog": null, 
+            "date": "2022-05-16", 
+            "datetime": "20220516", 
+            "filename": "Arrow-v12.1-starlte-OFFICIAL-20220516-GAPPS.zip", 
+            "filepath": "/arrow-12.1/starlte/Arrow-v12.1-starlte-OFFICIAL-20220516-GAPPS.zip", 
+            "maintainer": "Baddar90", 
+            "model": "SM-G960F", 
+            "oem": "samsung", 
+            "sha256": "f310c769391e5855c233c1cd94afc93794da2bdcb540147a541ce68e20120f5a", 
+            "size": "1024031464", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "surya": [
         {
             "changelog": "- Update blobs to V12.5.5.0.RJGMIXM\r\n- Update IMS blobs from sweet A12\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>", 

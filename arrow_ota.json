@@ -6677,6 +6677,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-05-16", 
+                  "datetime": "20220516", 
+                  "filename": "Arrow-v12.1-starlte-OFFICIAL-20220516-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/starlte/Arrow-v12.1-starlte-OFFICIAL-20220516-GAPPS.zip", 
+                  "sha256": "f310c769391e5855c233c1cd94afc93794da2bdcb540147a541ce68e20120f5a", 
+                  "size": "1024031464", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-05-16", 
