@@ -66,15 +66,15 @@
     "X00T": [
         {
             "changelog": "- Updated HALs and rebased kernel on LA.UM.10.2.1.r1-03400-sdm660.0", 
-            "date": "2022-05-09", 
-            "datetime": "20220509", 
-            "filename": "Arrow-v12.1-X00T-OFFICIAL-20220509-VANILLA.zip", 
-            "filepath": "/arrow-12.1/X00T/Arrow-v12.1-X00T-OFFICIAL-20220509-VANILLA.zip", 
+            "date": "2022-05-16", 
+            "datetime": "20220516", 
+            "filename": "Arrow-v12.1-X00T-OFFICIAL-20220516-VANILLA.zip", 
+            "filepath": "/arrow-12.1/X00T/Arrow-v12.1-X00T-OFFICIAL-20220516-VANILLA.zip", 
             "maintainer": "PranavKpr", 
             "model": "Asus Zenfone Max Pro M1", 
             "oem": "asus", 
-            "sha256": "8a5a7eb7eb7f841239ba3a89548ddd82f86674b42c7410c98ae2f8255d040730", 
-            "size": "738561045", 
+            "sha256": "cb93063d62b4b05c067f9dcb629c9e6ada9bf001abb9ea102c794ae55dcfe664", 
+            "size": "738647513", 
             "type": "official", 
             "version": "v12.1"
         }
