@@ -3925,7 +3925,7 @@
   ], 
   "kebab": [
     {
-      "changelog": "- Disable some logs\r\n- Update WFD from lemonadep\r\n- Fix up Power-off Alarm\r\n- Update Graphics blobs", 
+      "changelog": "Temporarily handed over to hiper25 for maintenance", 
       "maintainer": "hiper25", 
       "model": "KB2003", 
       "oem": "OnePlus", 
@@ -4095,12 +4095,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-05-11", 
-                  "datetime": "20220511", 
-                  "filename": "Arrow-v12.1-kebab-UNOFFICIAL-20220511-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-UNOFFICIAL-20220511-VANILLA.zip", 
-                  "sha256": "551163b851d849715f2722bcf093f13541c0657e6f622ba4654c486aa24e767f", 
-                  "size": "1050016144", 
+                  "date": "2022-05-17", 
+                  "datetime": "20220517", 
+                  "filename": "Arrow-v12.1-kebab-UNOFFICIAL-20220517-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-UNOFFICIAL-20220517-VANILLA.zip", 
+                  "sha256": "0b039828d53d78b7b3b4d609d2474ae51d06a24af7b008387e91660f378c9612", 
+                  "size": "1050144763", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
