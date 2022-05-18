@@ -18,15 +18,15 @@
     "OP4A89": [
         {
             "changelog": "- Misc changes and improvements", 
-            "date": "2022-05-11", 
-            "datetime": "20220511", 
-            "filename": "Arrow-v12.1-OP4A89-OFFICIAL-20220511-VANILLA.zip", 
-            "filepath": "/arrow-12.1/OP4A89/Arrow-v12.1-OP4A89-OFFICIAL-20220511-VANILLA.zip", 
+            "date": "2022-05-18", 
+            "datetime": "20220518", 
+            "filename": "Arrow-v12.1-OP4A89-OFFICIAL-20220518-VANILLA.zip", 
+            "filepath": "/arrow-12.1/OP4A89/Arrow-v12.1-OP4A89-OFFICIAL-20220518-VANILLA.zip", 
             "maintainer": "art_chen", 
             "model": "PCLM10", 
             "oem": "OPPO", 
-            "sha256": "d7a322d4dc562b1f68f80caff0e19ec265c90b436a111e08a9a6510ba60adae6", 
-            "size": "1295501023", 
+            "sha256": "f34a1fdd544472680c5f32ad1a263785a6b7e832b48b67d88a4e775e7270058f", 
+            "size": "1295621056", 
             "type": "official", 
             "version": "v12.1"
         }
