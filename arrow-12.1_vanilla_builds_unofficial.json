@@ -175,6 +175,22 @@
             "version": "v12.1"
         }
     ], 
+    "guacamole": [
+        {
+            "changelog": null, 
+            "date": "2022-05-19", 
+            "datetime": "20220519", 
+            "filename": "Arrow-v12.1-guacamole-UNOFFICIAL-20220519-VANILLA.zip", 
+            "filepath": "/arrow-12.1/guacamole/Arrow-v12.1-guacamole-UNOFFICIAL-20220519-VANILLA.zip", 
+            "maintainer": "alk3p", 
+            "model": "GM1917", 
+            "oem": "OnePlus", 
+            "sha256": "59cc54756e7166ec4051571086af526f61daad26e90d94927abd4cb80f7a69b2", 
+            "size": "757547466", 
+            "type": "unofficial", 
+            "version": "v12.1"
+        }
+    ], 
     "jasmine_sprout": [
         {
             "changelog": "- Initial Build\r\n- If you face any bugs please report\r\n- Encrypted\r\n- 4.19 Kernel\r\n- Dont Change Kernel\r\n- OSS camera build\r\n- Join https://t.me/yaa2g for support/guide/reporting or use ArrowOS bug tracker\r\n- Build Boots", 
