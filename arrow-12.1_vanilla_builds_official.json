@@ -338,15 +338,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Upstreamed kernel to 4.14.275\r\n\u2022 Merged tag \"LA.UM.9.1.r1-11800-SMxxx0.0\" in treewide, qcacld-3.0, fw-api, qca-wifi-host-cmn, techpack/audio\r\n\u2022 Switched to new AIDL power hal\r\n\u2022 Add custom boost extension for scroll handling\r\n\u2022 Add custom mode extension for handling app launch\r\n\u2022 Bump max interactive duration to 5s\r\n\u2022 Turn on GPU protected composition (Fixes black PiP window in Netflix or other apps)\r\n\u2022 Switched to new XiaomiDoze implementation\r\n\u2022 Adapt XiaomiDoze to S style\r\n\u2022 Adapt XiaomiParts to S style\r\n\u2022 Label camera fmq props\r\n\u2022 Disable proximity usage during doze\r\n\u2022 Switch to AOSP/Pixel offline charging animation\r\n\u2022 Switched back to QTI WFD\r\n\u2022 Enable debug.sf.enable_hwc_vds\r\n\u2022 Added missing lib needed for depth camera sensor\r\n\u2022 Updated default screen density to 420\r\n\u2022 Converted all overlays into RR0 overlays\r\n\u2022 Disabled s2idle\r\n\u2022 Aligned audio properties with CAF\r\n\u2022 Use appropriate message on flashing vbmeta\r\n\u2022 Enable iorapd tracing with perfetto\r\n\u2022 Fixed deprecated power profile items\r\n\u2022 Set readahead_size_kb=128 to system and data\r\n\u2022 Ignore CNE in location indicator\r\n\u2022 Thermal settings app list improvement\r\n\u2022 Include Arrow recovery (optional)\r\n\u2022 Adjust statusbar paddings\r\n\u2022 Address camera related denials\r\n\u2022 Label remaining wakeup nodes\r\n\u2022 Allow all filesystems for USB-OTG", 
-            "date": "2022-05-12", 
-            "datetime": "20220512", 
-            "filename": "Arrow-v12.1-miatoll-OFFICIAL-20220512-VANILLA.zip", 
-            "filepath": "/arrow-12.1/miatoll/Arrow-v12.1-miatoll-OFFICIAL-20220512-VANILLA.zip", 
+            "date": "2022-05-19", 
+            "datetime": "20220519", 
+            "filename": "Arrow-v12.1-miatoll-OFFICIAL-20220519-VANILLA.zip", 
+            "filepath": "/arrow-12.1/miatoll/Arrow-v12.1-miatoll-OFFICIAL-20220519-VANILLA.zip", 
             "maintainer": "SonalSingh18", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "1d819e10d1b205640f597b8da7b87b19e6a92d354818f87b8ee2c9d984b761e7", 
-            "size": "1099938440", 
+            "sha256": "e37c64b8667eb507f95c076fb9d0e1f1ccdad1d2aada3229e8cdc0050af40ea1", 
+            "size": "1099989126", 
             "type": "official", 
             "version": "v12.1"
         }
