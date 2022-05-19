@@ -290,15 +290,15 @@
     "lavender": [
         {
             "changelog": "- Flatten APEXs for performance\r\n- Added OpenGL ES and update Vulkan dEQP feature flags\r\n- Switched default camera app to GCamGo-V2\r\n- Now we use 4G icon instead of LTE in status bar\r\n- Improved thermal profile app listing\r\n- Enabled vibration effect in more environments\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Other fixes and improvements", 
-            "date": "2022-05-12", 
-            "datetime": "20220512", 
-            "filename": "Arrow-v12.1-lavender-OFFICIAL-20220512-GAPPS.zip", 
-            "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220512-GAPPS.zip", 
+            "date": "2022-05-19", 
+            "datetime": "20220519", 
+            "filename": "Arrow-v12.1-lavender-OFFICIAL-20220519-GAPPS.zip", 
+            "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220519-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "19be2ea38cd3d28f69046a1d0e6ff871608a456021eb1751013282eaae202bcf", 
-            "size": "1202976227", 
+            "sha256": "822eff0f9612a43c68354a40215fa784eab2837d63aa4c16f5b7684af0c83d19", 
+            "size": "1203064809", 
             "type": "official", 
             "version": "v12.1"
         }
