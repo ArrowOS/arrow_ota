@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-05-12", 
-            "datetime": "20220512", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220512-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220512-GAPPS.zip", 
+            "changelog": "- Update to Android 12 blobs (Alioth & Apollo)\r\n- Tree wide changes (thanks to Seba, Ramii, johnmart and many others\r\n- Some performance & battery life improvements\r\n- Remove unnecessary custom settings (eg. clear-speaker/ per-app thermals)\r\n- Replace AOSP audio effects with QCOM effects\r\n\r\nDont worry about black screen before bootloader / Mi Splash screen on first boot. Firmware has been updated from MIUI 13 A12\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-05-20", 
+            "datetime": "20220520", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220520-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220520-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "ba1cc92a46d450c8eac90a51b93c4bce25f87bf357fa4105b50636cca82d5c8a", 
-            "size": "1711562146", 
+            "sha256": "2d705afa597b09beff7d8119ca2dfacaf0ac3026406641c1ce7be749b149ae05", 
+            "size": "1756142513", 
             "type": "official", 
             "version": "v12.1"
         }
