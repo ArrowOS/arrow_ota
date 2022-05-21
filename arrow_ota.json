@@ -8249,7 +8249,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "\u2022 Clean up some blobs\r\n\u2022 Add local FileUtils\r\n\u2022 Refactor the whole code and adapt parts to S style\r\n\u2022 Add bass booster preset for MiSound\r\n\u2022 Do not sign Wifi RROs with platform cert\r\n\u2022 Some misc changes and clean up", 
+      "changelog": null, 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -8427,12 +8427,12 @@
             {
               "VANILLA": [
                 {
-                  "date": "2022-04-07", 
-                  "datetime": "20220407", 
-                  "filename": "Arrow-v12.1-whyred-UNOFFICIAL-20220407-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/whyred/Arrow-v12.1-whyred-UNOFFICIAL-20220407-VANILLA.zip", 
-                  "sha256": "d9ad70dbb53af5898d9e3c6512ab9d3ba6c56875fba776574794766b2380e113", 
-                  "size": "768369021", 
+                  "date": "2022-05-21", 
+                  "datetime": "20220521", 
+                  "filename": "Arrow-v12.1-whyred-UNOFFICIAL-20220521-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/whyred/Arrow-v12.1-whyred-UNOFFICIAL-20220521-VANILLA.zip", 
+                  "sha256": "a67266dd68978fdc07e183b7718f50e437a935dd44dfb865cc8a02ccf4758de8", 
+                  "size": "763660546", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
