@@ -274,15 +274,15 @@
     "kebab": [
         {
             "changelog": "- Disable some logs\r\n- Update WFD from lemonadep\r\n- Fix up Power-off Alarm\r\n- Update Graphics blobs", 
-            "date": "2022-05-15", 
-            "datetime": "20220515", 
-            "filename": "Arrow-v12.1-kebab-OFFICIAL-20220515-GAPPS.zip", 
-            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220515-GAPPS.zip", 
+            "date": "2022-05-22", 
+            "datetime": "20220522", 
+            "filename": "Arrow-v12.1-kebab-OFFICIAL-20220522-GAPPS.zip", 
+            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220522-GAPPS.zip", 
             "maintainer": "hiper25", 
             "model": "KB2003", 
             "oem": "OnePlus", 
-            "sha256": "f1e35de1d85a7be1318152e4313cdc64a1bcb45cc358ca46c2e8e3699f349cf1", 
-            "size": "1356963557", 
+            "sha256": "0e7e4f96ec6f6dc40dd892194098d96f4cd9c5b381cc9aa21d965a274cc5c9ea", 
+            "size": "1357222306", 
             "type": "official", 
             "version": "v12.1"
         }
