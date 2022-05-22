@@ -18,15 +18,15 @@
     "Z01R": [
         {
             "changelog": "Kernel: Update to 4.9.307 Icewiz\r\nDevice: Device Tree re-write based on Lineage OS, thanks ReallySnow for help\r\nDevice: SELinux is enofrcing now. Please  remember backup and format userdata.", 
-            "date": "2022-05-15", 
-            "datetime": "20220515", 
-            "filename": "Arrow-v12.1-Z01R-COMMUNITY-20220515-VANILLA.zip", 
-            "filepath": "/arrow-12.1/Z01R/Arrow-v12.1-Z01R-COMMUNITY-20220515-VANILLA.zip", 
+            "date": "2022-05-22", 
+            "datetime": "20220522", 
+            "filename": "Arrow-v12.1-Z01R-COMMUNITY-20220522-VANILLA.zip", 
+            "filepath": "/arrow-12.1/Z01R/Arrow-v12.1-Z01R-COMMUNITY-20220522-VANILLA.zip", 
             "maintainer": "EdwardWu", 
             "model": "Zenfone 5Z", 
             "oem": "asus", 
-            "sha256": "7da6f80c9759d65565329fdd374aa844e0e4a26e7df8daff3568d22f5cea343f", 
-            "size": "739996999", 
+            "sha256": "0fa951a8e5c007df81757ea7b1c84e94940a6f0006404fbf62be6d28ebcc5f89", 
+            "size": "740235238", 
             "type": "community", 
             "version": "v12.1"
         }
