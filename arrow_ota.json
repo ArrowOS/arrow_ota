@@ -2433,7 +2433,7 @@
   ], 
   "crosshatch": [
     {
-      "changelog": "Update fingerprint from SP1A.210812.016.C1\r\nUpdate blobs from SP1A.210812.016.C1", 
+      "changelog": null, 
       "maintainer": "ReallySnow", 
       "model": "Pixel 3 XL", 
       "oem": "google", 
@@ -2479,6 +2479,26 @@
                   "size": "1161142828", 
                   "type": "unofficial", 
                   "version": "v12.0"
+                }
+              ]
+            }
+          ]
+        }
+      ], 
+      "v12.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-05-24", 
+                  "datetime": "20220524", 
+                  "filename": "Arrow-v12.1-crosshatch-UNOFFICIAL-20220524-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/crosshatch/Arrow-v12.1-crosshatch-UNOFFICIAL-20220524-GAPPS.zip", 
+                  "sha256": "edbc462acce0af56ac164511b548a63626f5b0cf8daad6632966cb8cb402b67e", 
+                  "size": "1126705137", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
                 }
               ]
             }
