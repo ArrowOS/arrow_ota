@@ -6161,6 +6161,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-05-25", 
+                  "datetime": "20220525", 
+                  "filename": "Arrow-v12.1-raphael-UNOFFICIAL-20220525-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-UNOFFICIAL-20220525-GAPPS.zip", 
+                  "sha256": "d84fb4b16264d57c3b4e0093c1adf4af42a0d433c0d0cf0ca4b75db887ff640c", 
+                  "size": "1389259468", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-05-25", 
