@@ -7461,7 +7461,7 @@
   ], 
   "tulip": [
     {
-      "changelog": "- Added GameSpace.", 
+      "changelog": "- Switch to Radical Ice kernel.", 
       "maintainer": "IceBreaker2451", 
       "model": "Redmi Note 6 Pro", 
       "oem": "Xiaomi", 
@@ -7551,8 +7551,8 @@
                   "datetime": "20220525", 
                   "filename": "Arrow-v12.1-tulip-COMMUNITY-20220525-VANILLA.zip", 
                   "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-COMMUNITY-20220525-VANILLA.zip", 
-                  "sha256": "8a182eb2f0825a6e2ad166850ebfd8629d997ae9155ab791c517d89e84cd4821", 
-                  "size": "781774592", 
+                  "sha256": "e105992afe408827f5845b0b9ff89ce5fa6137760e596876735859fa9aa9496b", 
+                  "size": "781768288", 
                   "type": "community", 
                   "version": "v12.1"
                 }

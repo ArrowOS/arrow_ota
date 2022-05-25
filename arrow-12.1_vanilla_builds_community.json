@@ -81,16 +81,16 @@
     ], 
     "tulip": [
         {
-            "changelog": "- Testing with QTI haptics.", 
-            "date": "2022-05-18", 
-            "datetime": "20220518", 
-            "filename": "Arrow-v12.1-tulip-COMMUNITY-20220518-VANILLA.zip", 
-            "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-COMMUNITY-20220518-VANILLA.zip", 
+            "changelog": "- Switch to Radical Ice kernel.", 
+            "date": "2022-05-25", 
+            "datetime": "20220525", 
+            "filename": "Arrow-v12.1-tulip-COMMUNITY-20220525-VANILLA.zip", 
+            "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-COMMUNITY-20220525-VANILLA.zip", 
             "maintainer": "IceBreaker2451", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "cc69fdefad69dd8c84feafd4ae8cb25d0a547a8edeea4d964c4f690732bb7793", 
-            "size": "791931445", 
+            "sha256": "e105992afe408827f5845b0b9ff89ce5fa6137760e596876735859fa9aa9496b", 
+            "size": "781768288", 
             "type": "community", 
             "version": "v12.1"
         }
