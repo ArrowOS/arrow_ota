@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Update to Android 12 blobs (Alioth & Apollo)\r\n- Tree wide changes (thanks to Seba, Ramii, johnmart and many others\r\n- Some performance & battery life improvements\r\n- Remove unnecessary custom settings (eg. clear-speaker/ per-app thermals)\r\n- Replace AOSP audio effects with QCOM effects\r\n\r\nDont worry about black screen before bootloader / Mi Splash screen on first boot. Firmware has been updated from MIUI 13 A12\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-05-20", 
-            "datetime": "20220520", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220520-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220520-GAPPS.zip", 
+            "changelog": "- Fixed firmware flashing :/\r\n- Update firmware to EEA 13.0.2.0\r\n- Add thermal settings back\r\n- Implement changes from LOS tree for perf, stability, battery\r\n- Update common blobs from alioth\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-05-27", 
+            "datetime": "20220527", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220527-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220527-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "2d705afa597b09beff7d8119ca2dfacaf0ac3026406641c1ce7be749b149ae05", 
-            "size": "1756142513", 
+            "sha256": "494f5a32211d8417c4b5c5add725d042d3d19aa96ddd92e443adbce69796534b", 
+            "size": "1768697606", 
             "type": "official", 
             "version": "v12.1"
         }
