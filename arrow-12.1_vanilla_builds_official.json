@@ -369,16 +369,16 @@
     ], 
     "raphael": [
         {
-            "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n3rd March, 2022\r\nmerged the Linux kernel to latest upstream, switch to Pixel power libperfmgr HAL and will improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
-            "date": "2022-05-07", 
-            "datetime": "20220507", 
-            "filename": "Arrow-v12.1-raphael-OFFICIAL-20220507-VANILLA.zip", 
-            "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220507-VANILLA.zip", 
+            "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n25th May, 2022\r\n- Update Thermal profiles view\r\n- Rollback thermal blobs to MIUI 11 release to try to reduce battery drains\r\n- Re-add ViLTE support\r\n\r\n3rd March, 2022\r\n- Merged the Linux kernel to latest upstream\r\n-  Switch to Pixel power libperfmgr HAL\r\n- Improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
+            "date": "2022-05-28", 
+            "datetime": "20220528", 
+            "filename": "Arrow-v12.1-raphael-OFFICIAL-20220528-VANILLA.zip", 
+            "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220528-VANILLA.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "92b224bee22b5b97627c1db31f4c4989cfe1795c77fcc86f85411eb53ec9bdd5", 
-            "size": "1050595967", 
+            "sha256": "6eadcc224a8f62f49667a79c1625b081e35c18f1a118bc52d31a0a5776e1ebb0", 
+            "size": "1064229668", 
             "type": "official", 
             "version": "v12.1"
         }
