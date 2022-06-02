@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Build kernel with AOSP Clang 14.0.1\r\n- Disable QCOM system daemon\r\n- sepolicy: Address vendor_mdm_helper denials\r\n- Disable Async MTE on System Server\r\n- rootdir: Sync cpuset and cpu input boost values with MIUI V13.0.3.0.SKHMIXM\r\n- Update blobs to MIUI V13.0.3.0.SKHMIXM\r\n- Build new ANT+\r\n- Build vendor.qti.hardware.servicetracker@1.2 HIDL\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common \r\n- Import xiaomi modifications from psyche-r-oss\r\n- techpack: camera: Import xiaomi changes from psyche-r-oss\r\n- Revert old awinic haptics driver\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-05-26", 
-            "datetime": "20220526", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220526-VANILLA.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220526-VANILLA.zip", 
+            "changelog": "- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common \r\n- Merge CLO tag LA.UM.9.12.r1-14200-SMxx50.QSSI13.0\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-06-02", 
+            "datetime": "20220602", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220602-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220602-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "608f9bcfa85c5031e8c4ce524a9ea5ef52b6e8ddb14c6654d55101ed4bf2465e", 
-            "size": "1044061262", 
+            "sha256": "59a703f6ce1068ee770adf7c4d80c411d02c9d64d33859257ab1d5de746580c8", 
+            "size": "1043899325", 
             "type": "official", 
             "version": "v12.1"
         }
