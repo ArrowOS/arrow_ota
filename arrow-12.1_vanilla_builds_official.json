@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Fixed firmware flashing :/\r\n- Update firmware to EEA 13.0.2.0\r\n- Add thermal settings back\r\n- Implement changes from LOS tree for perf, stability, battery\r\n- Update common blobs from alioth\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-05-26", 
-            "datetime": "20220526", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220526-VANILLA.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220526-VANILLA.zip", 
+            "changelog": "- Sepolicy fixes for parts settings being applied on boot.\r\n- Update to Global Stable 13.0.3.0 apollo vendor blobs (camera)\r\n- Update to Global Stable 13.0.3.0 firmware\r\n- More under the hood improvements\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-06-02", 
+            "datetime": "20220602", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220602-VANILLA.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220602-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "13a065410108c3ad1a3b77c6a7f9c07317095951960c8660108ee2693a1d7710", 
-            "size": "1448226047", 
+            "sha256": "d24cc5c3c2114b8a6155d39dfaf51796a2ecd87c7dfc4f530d412a57f25d538f", 
+            "size": "1445847672", 
             "type": "official", 
             "version": "v12.1"
         }
