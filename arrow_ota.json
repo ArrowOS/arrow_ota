@@ -6865,7 +6865,7 @@
   ], 
   "surya": [
     {
-      "changelog": "- Update blobs to V12.5.5.0.RJGMIXM\r\n- Update IMS blobs from sweet A12\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>", 
+      "changelog": "<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>", 
       "maintainer": "Ganesh Varma, palaych", 
       "model": "POCO X3 NFC", 
       "oem": "POCO", 
@@ -7023,12 +7023,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-04-05", 
-                  "datetime": "20220405", 
-                  "filename": "Arrow-v12.1-surya-UNOFFICIAL-20220405-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-UNOFFICIAL-20220405-VANILLA.zip", 
-                  "sha256": "038e2f25a17bade6a158d5e1df96d2f811dc5550d40d4ac72efdc131623c85da", 
-                  "size": "1009292203", 
+                  "date": "2022-06-09", 
+                  "datetime": "20220609", 
+                  "filename": "Arrow-v12.1-surya-UNOFFICIAL-20220609-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-UNOFFICIAL-20220609-VANILLA.zip", 
+                  "sha256": "0cefb240f337685ee481c671813f495b5d8b0f5ec3af48ca8e0de0324a72b319", 
+                  "size": "1012452340", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
