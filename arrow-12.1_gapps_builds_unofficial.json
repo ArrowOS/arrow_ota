@@ -385,17 +385,17 @@
     ], 
     "surya": [
         {
-            "changelog": null, 
-            "date": "2022-04-21", 
-            "datetime": "20220421", 
-            "filename": "Arrow-v12.1-surya-OFFICIAL-20220421-GAPPS.zip", 
-            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220421-GAPPS.zip", 
+            "changelog": "<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>", 
+            "date": "2022-06-09", 
+            "datetime": "20220609", 
+            "filename": "Arrow-v12.1-surya-UNOFFICIAL-20220609-GAPPS.zip", 
+            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-UNOFFICIAL-20220609-GAPPS.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "0526bc817aff4c937021032ce96d42991dfae0b1bd116d3567298e91bf01dd8a", 
-            "size": "1346661703", 
-            "type": "official", 
+            "sha256": "d2ed499a8501d1eb0bfe326fa7615b68d2ced34c1b47879f3f221242fbfc9365", 
+            "size": "1351968507", 
+            "type": "unofficial", 
             "version": "v12.1"
         }
     ], 
