@@ -5397,7 +5397,7 @@
   ], 
   "phoenix": [
     {
-      "changelog": "- dpi stuff, I hate this notch.", 
+      "changelog": null, 
       "maintainer": "Sreekanth", 
       "model": "POCO X2", 
       "oem": "POCO", 
@@ -5555,12 +5555,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-05-31", 
-                  "datetime": "20220531", 
-                  "filename": "Arrow-v12.1-phoenix-UNOFFICIAL-20220531-GAPPS.zip", 
-                  "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-UNOFFICIAL-20220531-GAPPS.zip", 
-                  "sha256": "93a114e7eb7e0eaaf8f36f8bad5d71b0f2ee514072386ed5e3ee0a9a495dc993", 
-                  "size": "1357116551", 
+                  "date": "2022-06-10", 
+                  "datetime": "20220610", 
+                  "filename": "Arrow-v12.1-phoenix-UNOFFICIAL-20220610-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-UNOFFICIAL-20220610-GAPPS.zip", 
+                  "sha256": "ef17e317df0b9b7cbd6368218bdf40c89bd88a395c862761378b0c18146dc673", 
+                  "size": "1353857795", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
