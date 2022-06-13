@@ -1153,7 +1153,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common \r\n- Merge CLO tag LA.UM.9.12.r1-14200-SMxx50.QSSI13.0\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
+      "changelog": "- overlays: Enable config_dozeAfterScreenOffByDefault\r\n- overlays: Disable proximity sensor check before pulsing \r\n- props: Disable redir_party_num\r\n- props: Unlock aux for ANX Camera\r\n- props: Add ANX Camera to whitelist for size stream skip\r\n- Import missed camera blob (request for ANX Camera)\r\n- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common \r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -1267,12 +1267,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-06-02", 
-                  "datetime": "20220602", 
-                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220602-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220602-VANILLA.zip", 
-                  "sha256": "59a703f6ce1068ee770adf7c4d80c411d02c9d64d33859257ab1d5de746580c8", 
-                  "size": "1043899325", 
+                  "date": "2022-06-13", 
+                  "datetime": "20220613", 
+                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220613-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220613-VANILLA.zip", 
+                  "sha256": "a137711013880af47e440f612fe12bbcef8bc9872481299b42263bf7465aa5c9", 
+                  "size": "1055665775", 
                   "type": "official", 
                   "version": "v12.1"
                 }
