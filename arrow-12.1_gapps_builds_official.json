@@ -289,16 +289,16 @@
     ], 
     "lavender": [
         {
-            "changelog": "- Flatten APEXs for performance\r\n- Added OpenGL ES and update Vulkan dEQP feature flags\r\n- Switched default camera app to GCamGo-V2\r\n- Now we use 4G icon instead of LTE in status bar\r\n- Improved thermal profile app listing\r\n- Enabled vibration effect in more environments\r\n- Uprev bluetooth audio HIDL impl to 2.1\r\n- Other fixes and improvements", 
-            "date": "2022-06-01", 
-            "datetime": "20220601", 
-            "filename": "Arrow-v12.1-lavender-OFFICIAL-20220601-GAPPS.zip", 
-            "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220601-GAPPS.zip", 
+            "changelog": "- Optimize round corners\r\n- Fixed deprecated power profile items\r\n- Smarter decisions on whether to use a 2- or 5Ghz AP\r\n- Disable unneeded TDLS offchannel\r\n- Set max WFD resolution to 1080p\r\n- Disable ahardware buffer\r\n- Switch to threaded GLES render engine\r\n- Get back to default from long-standing VM tweaks\r\n- Fixes watchdog kicking in while formatting huge sdcards\r\n- Drop useless mock powerstats hal\r\n- Other fixes and improvements", 
+            "date": "2022-06-14", 
+            "datetime": "20220614", 
+            "filename": "Arrow-v12.1-lavender-OFFICIAL-20220614-GAPPS.zip", 
+            "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220614-GAPPS.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "874a1cdd10e5e0d4d869cc37f39f9b4caf982a5a575c2a263e9e93d83cbc6fcd", 
-            "size": "1212361499", 
+            "sha256": "87717cfa413242b13c2932eeb41da48cabb02a02af7b6318441426825fd1966f", 
+            "size": "1209543354", 
             "type": "official", 
             "version": "v12.1"
         }
