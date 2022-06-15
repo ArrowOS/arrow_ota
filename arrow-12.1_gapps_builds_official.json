@@ -242,15 +242,15 @@
     "ginkgo": [
         {
             "changelog": "- Initial Android 12L release\r\n- Updated MIUI blobs from V12.5.2.0.RCOMIXM\r\n- Upgraded telephony stack from QSSI 12\r\n- Upgraded adreno drivers from sm8450\r\n- Merged latest CAF tag in kernel\r\n- Misc optimizations and fixes", 
-            "date": "2022-06-02", 
-            "datetime": "20220602", 
-            "filename": "Arrow-v12.1-ginkgo-OFFICIAL-20220602-GAPPS.zip", 
-            "filepath": "/arrow-12.1/ginkgo/Arrow-v12.1-ginkgo-OFFICIAL-20220602-GAPPS.zip", 
+            "date": "2022-06-15", 
+            "datetime": "20220615", 
+            "filename": "Arrow-v12.1-ginkgo-OFFICIAL-20220615-GAPPS.zip", 
+            "filepath": "/arrow-12.1/ginkgo/Arrow-v12.1-ginkgo-OFFICIAL-20220615-GAPPS.zip", 
             "maintainer": "Adithya (ghostrider_reborn)", 
             "model": "Redmi Note 8/8T", 
             "oem": "Xiaomi", 
-            "sha256": "7f18e32a6aa93aa2b72f990c3a62070557d9860a5d7cfab98c2c49815f6d53f9", 
-            "size": "1272513515", 
+            "sha256": "f81d967b0195268cbed54df098f206dcdb1ee69b39aa647533979eee63d972ab", 
+            "size": "1269686070", 
             "type": "official", 
             "version": "v12.1"
         }
