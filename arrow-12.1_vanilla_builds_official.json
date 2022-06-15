@@ -114,15 +114,15 @@
     "apollo": [
         {
             "changelog": "- Sepolicy fixes for parts settings being applied on boot.\r\n- Update to Global Stable 13.0.3.0 apollo vendor blobs (camera)\r\n- Update to Global Stable 13.0.3.0 firmware\r\n- More under the hood improvements\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-06-02", 
-            "datetime": "20220602", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220602-VANILLA.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220602-VANILLA.zip", 
+            "date": "2022-06-15", 
+            "datetime": "20220615", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220615-VANILLA.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220615-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "d24cc5c3c2114b8a6155d39dfaf51796a2ecd87c7dfc4f530d412a57f25d538f", 
-            "size": "1445847672", 
+            "sha256": "95c249c3917aa19d7378e4d096ba34abd95a13e3f6a9307be6f5cb6d42134915", 
+            "size": "1439290075", 
             "type": "official", 
             "version": "v12.1"
         }
