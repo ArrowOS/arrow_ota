@@ -210,15 +210,15 @@
     "davinci": [
         {
             "changelog": "* Add back check for baseband version\r\n* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update some hals and gps\r\n* Update to latest Arian kernel\r\n* Remove powerhint modifications and go back to stock", 
-            "date": "2022-06-02", 
-            "datetime": "20220602", 
-            "filename": "Arrow-v12.1-davinci-OFFICIAL-20220602-GAPPS.zip", 
-            "filepath": "/arrow-12.1/davinci/Arrow-v12.1-davinci-OFFICIAL-20220602-GAPPS.zip", 
+            "date": "2022-06-16", 
+            "datetime": "20220616", 
+            "filename": "Arrow-v12.1-davinci-OFFICIAL-20220616-GAPPS.zip", 
+            "filepath": "/arrow-12.1/davinci/Arrow-v12.1-davinci-OFFICIAL-20220616-GAPPS.zip", 
             "maintainer": "RemyL", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "07b08fd220be70682d8117b473c2b9d40e708883c7d7031bf200d56b5a3d6b12", 
-            "size": "1329926314", 
+            "sha256": "8b01f82d2b377839b9cc92022ff451df17c459c4fce506af6fb30e92efa96bfc", 
+            "size": "1326909622", 
             "type": "official", 
             "version": "v12.1"
         }
