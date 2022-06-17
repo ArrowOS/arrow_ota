@@ -386,15 +386,15 @@
     "surya": [
         {
             "changelog": "TEST\r\n\r\n<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>", 
-            "date": "2022-06-15", 
-            "datetime": "20220615", 
-            "filename": "Arrow-v12.1-surya-OFFICIAL-20220615-GAPPS.zip", 
-            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220615-GAPPS.zip", 
+            "date": "2022-06-17", 
+            "datetime": "20220617", 
+            "filename": "Arrow-v12.1-surya-OFFICIAL-20220617-GAPPS.zip", 
+            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220617-GAPPS.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "951a04c0d8d8f57a34b3b0a4980932446a1f8cb1206c190d71f4f0e665791c87", 
-            "size": "1349462891", 
+            "sha256": "3b319c913fa1c797d087e51054f81066ad3738d53f184ebbc2295bb0b5e0acc0", 
+            "size": "1349406481", 
             "type": "official", 
             "version": "v12.1"
         }
