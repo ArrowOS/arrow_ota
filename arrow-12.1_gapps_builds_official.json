@@ -273,16 +273,16 @@
     ], 
     "kebab": [
         {
-            "changelog": "- Disable some logs\r\n- Update WFD from lemonadep\r\n- Fix up Power-off Alarm\r\n- Update Graphics blobs", 
-            "date": "2022-05-29", 
-            "datetime": "20220529", 
-            "filename": "Arrow-v12.1-kebab-OFFICIAL-20220529-GAPPS.zip", 
-            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220529-GAPPS.zip", 
+            "changelog": "- Fix NFC bugs\r\n- Upstream Kernel\r\n- Update vibration effects\r\n- Add Dolby Atmos\r\n- Add unlimit edge touch switch\r\n- Cleanup some stock something\r\n- Fix some bugs", 
+            "date": "2022-06-18", 
+            "datetime": "20220618", 
+            "filename": "Arrow-v12.1-kebab-OFFICIAL-20220618-GAPPS.zip", 
+            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220618-GAPPS.zip", 
             "maintainer": "hiper25", 
             "model": "KB2003", 
             "oem": "OnePlus", 
-            "sha256": "7eea70c1039a6fa9f7801e0c06ba7fa3b0a6cf5b060269f7e9b25f5559ae47cc", 
-            "size": "1364793791", 
+            "sha256": "c11e900ba6118064537c612f6f9181258c0883a3ecfa5c8a51f9f83708e9f106", 
+            "size": "1367758299", 
             "type": "official", 
             "version": "v12.1"
         }
