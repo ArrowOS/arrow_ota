@@ -8009,6 +8009,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-06-21", 
+                  "datetime": "20220621", 
+                  "filename": "Arrow-v12.1-veux-OFFICIAL-20220621-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/veux/Arrow-v12.1-veux-OFFICIAL-20220621-GAPPS.zip", 
+                  "sha256": "f4b5b77fcddcdf8d5f09aac9dcefb80e16260ba720794311f884088a2c3ba71d", 
+                  "size": "1327947508", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-06-21", 
