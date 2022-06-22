@@ -449,7 +449,7 @@
     ], 
     "veux": [
         {
-            "changelog": "- Misc changes and improvements\r\n\r\n<b>Supported devices:</b>\r\n<ul>\r\n   <li>POCO X4 Pro 5G (Global/India)</li>\r\n   <li>Redmi Note 10 Pro+ 5G (India)</li>\r\n   <li>Redmi Note 11 Pro 5G (Global)</li>\r\n   <li>Redmi Note 11E Pro 5G (China)</li>\r\n</ul> \r\n\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">ArrowOS for RN11Pro+5G and Poco X4 Pro 5G</a>\r\n\r\n<b>Donate to maintainer:</b> <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>", 
+            "changelog": "- Misc changes and improvements\r\n\r\n<hr>\r\n\r\n<h2>Supported devices:</h2>\r\n<ul><li>POCO X4 Pro 5G (Global/India)</li> <li>Redmi Note 10 Pro+ 5G (India)</li><li>Redmi Note 11 Pro 5G (Global)</li><li>Redmi Note 11E Pro 5G (China)</li></ul>\r\n<hr>\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">Click here</a>\r\n\r\n<b>Donate to maintainer:</b>\r\n<a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>\r\nUPI: 001ks001@kotak", 
             "date": "2022-06-22", 
             "datetime": "20220622", 
             "filename": "Arrow-v12.1-veux-OFFICIAL-20220622-GAPPS.zip", 
@@ -457,8 +457,8 @@
             "maintainer": "kubersharma001", 
             "model": "POCO X4 Pro 5G", 
             "oem": "POCO", 
-            "sha256": "528ead200d2c4a19182a8a03f2ef6fd1ba0242e64a78c6800ae99895e9b45fb5", 
-            "size": "1327944535", 
+            "sha256": "800807121f1252ac9a838e7ca81d03d003f9a56e0e59d72e501ca7dc9e9da91c", 
+            "size": "1327963899", 
             "type": "official", 
             "version": "v12.1"
         }
