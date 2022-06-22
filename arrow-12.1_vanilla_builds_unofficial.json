@@ -337,16 +337,16 @@
     ], 
     "veux": [
         {
-            "changelog": "Instructions: <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">ArrowOS for RN11Pro+5G and Poco X4 Pro 5G</a>\r\nDonate to maintainer: <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>", 
-            "date": "2022-06-21", 
-            "datetime": "20220621", 
-            "filename": "Arrow-v12.1-veux-OFFICIAL-20220621-VANILLA.zip", 
-            "filepath": "/arrow-12.1/veux/Arrow-v12.1-veux-OFFICIAL-20220621-VANILLA.zip", 
-            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "changelog": "- Misc changes and improvements\r\n\r\n<b>Supported devices:</b>\r\n<ul>\r\n   <li>POCO X4 Pro 5G (Global/India)</li>\r\n   <li>Redmi Note 10 Pro+ 5G (India)</li>\r\n   <li>Redmi Note 11 Pro 5G (Global)</li>\r\n   <li>Redmi Note 11E Pro 5G (China)</li>\r\n</ul> \r\n\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">ArrowOS for RN11Pro+5G and Poco X4 Pro 5G</a>\r\n\r\n<b>Donate to maintainer:</b> <a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>", 
+            "date": "2022-06-22", 
+            "datetime": "20220622", 
+            "filename": "Arrow-v12.1-veux-OFFICIAL-20220622-VANILLA.zip", 
+            "filepath": "/arrow-12.1/veux/Arrow-v12.1-veux-OFFICIAL-20220622-VANILLA.zip", 
+            "maintainer": "kubersharma001", 
             "model": "POCO X4 Pro 5G", 
             "oem": "POCO", 
-            "sha256": "92a840cdbb74a6296e76c400c465ff8149b4f169c6f7f1307b140b925b48fa96", 
-            "size": "1032288984", 
+            "sha256": "59a27d23186a2967dbd1b1e4cc2a91e567d2c9b8cbf7f35f19001beb61e7501c", 
+            "size": "1032286620", 
             "type": "official", 
             "version": "v12.1"
         }
