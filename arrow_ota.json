@@ -1153,7 +1153,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- overlays: Enable config_dozeAfterScreenOffByDefault\r\n- overlays: Disable proximity sensor check before pulsing \r\n- props: Disable redir_party_num\r\n- props: Unlock aux for ANX Camera\r\n- props: Add ANX Camera to whitelist for size stream skip\r\n- Import missed camera blob (request for ANX Camera)\r\n- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common \r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
+      "changelog": "- Switch to dot product CPU variant\r\n- audio: Use QCOM implementation for audio effects\r\n- Cleanup proprietary blobs\r\n- props: Disable SF client composition cache\r\n- props: Disable SDM Writeback support\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- PM / devfreq: Make the monitor workqueue high priority\r\n- dts: kona: Set GPU idle timeout to 58 ms\r\n- ARM64: configs: arrow: Enable UAC1\r\n- Makefile: Partial drop -03 optimization\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -1267,12 +1267,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-06-13", 
-                  "datetime": "20220613", 
-                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220613-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220613-VANILLA.zip", 
-                  "sha256": "a137711013880af47e440f612fe12bbcef8bc9872481299b42263bf7465aa5c9", 
-                  "size": "1055665775", 
+                  "date": "2022-06-23", 
+                  "datetime": "20220623", 
+                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220623-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220623-VANILLA.zip", 
+                  "sha256": "7e8d04e1e36e3e994b06412fe3ba49fc306d5817dfab470e1b0e0120a1ce323a", 
+                  "size": "1042039705", 
                   "type": "official", 
                   "version": "v12.1"
                 }
