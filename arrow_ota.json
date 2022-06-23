@@ -8001,7 +8001,7 @@
   ], 
   "veux": [
     {
-      "changelog": "- Misc changes and improvements\r\n\r\n<hr>\r\n\r\n<h2>Supported devices:</h2>\r\n<ul><li>POCO X4 Pro 5G (Global/India)</li> <li>Redmi Note 10 Pro+ 5G (India)</li><li>Redmi Note 11 Pro 5G (Global)</li><li>Redmi Note 11E Pro 5G (China)</li></ul>\r\n<hr>\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">Click here</a>\r\n\r\n<b>Donate to maintainer:</b>\r\n<a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>\r\nUPI: 001ks001@kotak", 
+      "changelog": "- Misc changes and improvements\r\n\r\n<hr>\r\n<h4>Supported devices:</h4>\r\n<ul><li>POCO X4 Pro 5G (Global/India)</li> <li>Redmi Note 10 Pro+ 5G (India)</li><li>Redmi Note 11 Pro 5G (Global)</li><li>Redmi Note 11E Pro 5G (China)</li></ul>\r\n<hr>\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">Click here</a>\r\n<b>Donate to maintainer:</b>\r\n<a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>\r\nUPI: 001ks001@kotak", 
       "maintainer": "kubersharma001", 
       "model": "POCO X4 Pro 5G", 
       "oem": "POCO", 
@@ -8023,12 +8023,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-06-22", 
-                  "datetime": "20220622", 
-                  "filename": "Arrow-v12.1-veux-OFFICIAL-20220622-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/veux/Arrow-v12.1-veux-OFFICIAL-20220622-VANILLA.zip", 
-                  "sha256": "ccc11ee556ca55dfd19049c3bf2835b03667560efdf31b0d0153738cb8b89744", 
-                  "size": "1032300451", 
+                  "date": "2022-06-23", 
+                  "datetime": "20220623", 
+                  "filename": "Arrow-v12.1-veux-OFFICIAL-20220623-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/veux/Arrow-v12.1-veux-OFFICIAL-20220623-VANILLA.zip", 
+                  "sha256": "5bf8f1da5cc55930c518ac95b69351c2d7effacea6ce3d3f3f07b99356b48f41", 
+                  "size": "1032302068", 
                   "type": "official", 
                   "version": "v12.1"
                 }
