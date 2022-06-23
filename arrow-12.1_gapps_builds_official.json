@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Sepolicy fixes for parts settings being applied on boot.\r\n- Update to Global Stable 13.0.3.0 apollo vendor blobs (camera)\r\n- Update to Global Stable 13.0.3.0 firmware\r\n- More under the hood improvements\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-06-15", 
-            "datetime": "20220615", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220615-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220615-GAPPS.zip", 
+            "changelog": "***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-06-23", 
+            "datetime": "20220623", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220623-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220623-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "9f761a61a9b425bd1c55d84a84a3d80fed129a495acf67daaad56736f25e0fd7", 
-            "size": "1759479968", 
+            "sha256": "56b11b3324bf86619ab22b50abfa7babce3e3f125e650f5be5c453510acb8346", 
+            "size": "1759464304", 
             "type": "official", 
             "version": "v12.1"
         }
