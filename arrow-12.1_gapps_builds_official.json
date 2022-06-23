@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- overlays: Enable config_dozeAfterScreenOffByDefault\r\n- overlays: Disable proximity sensor check before pulsing \r\n- props: Disable redir_party_num\r\n- props: Unlock aux for ANX Camera\r\n- props: Add ANX Camera to whitelist for size stream skip\r\n- Import missed camera blob (request for ANX Camera)\r\n- Misc fixes and usptream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of android/kernel/common \r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-06-13", 
-            "datetime": "20220613", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220613-GAPPS.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220613-GAPPS.zip", 
+            "changelog": "- Switch to dot product CPU variant\r\n- audio: Use QCOM implementation for audio effects\r\n- Cleanup proprietary blobs\r\n- props: Disable SF client composition cache\r\n- props: Disable SDM Writeback support\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- PM / devfreq: Make the monitor workqueue high priority\r\n- dts: kona: Set GPU idle timeout to 58 ms\r\n- ARM64: configs: arrow: Enable UAC1\r\n- Makefile: Partial drop -03 optimization\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-06-23", 
+            "datetime": "20220623", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220623-GAPPS.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220623-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "1ad4efc29f2313c62db2cbe28aef5d776d373f45fc32b8b202b35155eab7928b", 
-            "size": "1342788658", 
+            "sha256": "5fdc7272061b32fc52545424ab10ff51644928283f2acd41c290e9768241c818", 
+            "size": "1329119887", 
             "type": "official", 
             "version": "v12.1"
         }
