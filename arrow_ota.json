@@ -3801,7 +3801,7 @@
   ], 
   "jasmine_sprout": [
     {
-      "changelog": "Kernel Test", 
+      "changelog": "Kernel and BT Test", 
       "maintainer": "Immanuel_Raj", 
       "model": "Mi A2", 
       "oem": "Xiaomi", 
@@ -3943,12 +3943,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-06-24", 
-                  "datetime": "20220624", 
-                  "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220624-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220624-VANILLA.zip", 
-                  "sha256": "800975ec345cd5bc8205b1aa2c069fe5d62f92686683cd8b24aee8604ab44d2f", 
-                  "size": "684695245", 
+                  "date": "2022-06-25", 
+                  "datetime": "20220625", 
+                  "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220625-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220625-VANILLA.zip", 
+                  "sha256": "0cf7e981ddae702e062718319c3647fab6d1d70ba6b01cb4b9182087d7dc0084", 
+                  "size": "684312774", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
