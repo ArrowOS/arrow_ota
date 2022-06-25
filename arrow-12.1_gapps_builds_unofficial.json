@@ -257,16 +257,16 @@
     ], 
     "jasmine_sprout": [
         {
-            "changelog": "Kernel Test", 
-            "date": "2022-06-24", 
-            "datetime": "20220624", 
-            "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220624-GAPPS.zip", 
-            "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220624-GAPPS.zip", 
+            "changelog": "Kernel and BT Test", 
+            "date": "2022-06-25", 
+            "datetime": "20220625", 
+            "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220625-GAPPS.zip", 
+            "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220625-GAPPS.zip", 
             "maintainer": "Immanuel_Raj", 
             "model": "Mi A2", 
             "oem": "Xiaomi", 
-            "sha256": "cec88d2c47218d8b2bb3adf49846e83d4461017b1a5c2fc8fc861abbdd00d1df", 
-            "size": "974635721", 
+            "sha256": "fcbc2c2f8cb2f4f6839bed27a73f6e26606cb3844531ae571d6e1cb59c03ffbe", 
+            "size": "974248310", 
             "type": "unofficial", 
             "version": "v12.1"
         }
