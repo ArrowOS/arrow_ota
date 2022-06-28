@@ -97,16 +97,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- latest changes from LOS device tree\r\n(bootloop warning)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-06-03", 
-            "datetime": "20220603", 
-            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220603-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220603-GAPPS.zip", 
+            "changelog": "- latest changes from LOS device tree\r\n- updated vendor blobs from EEA 3.0.7.0 (supposedly fixes OIS)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-06-28", 
+            "datetime": "20220628", 
+            "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220628-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-UNOFFICIAL-20220628-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "a4f7fd407717619d32382163540c70faf4e1a192c8d14ad41cab31995b795946", 
-            "size": "1762597878", 
+            "sha256": "e709d8da3ac60ea7dbca96d68ec91408087d8452b9a82a8570740c251f0e6740", 
+            "size": "1755764660", 
             "type": "unofficial", 
             "version": "v12.1"
         }
