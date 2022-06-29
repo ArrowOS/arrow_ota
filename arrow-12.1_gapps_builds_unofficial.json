@@ -97,7 +97,7 @@
     ], 
     "apollo": [
         {
-            "changelog": "- latest changes from LOS device tree\r\n- revert eea 13.0.7 blobs\r\n- revert removal of sepolicy violations\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "changelog": "- switch to Quantic kernel (fix OIS)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
             "date": "2022-06-29", 
             "datetime": "20220629", 
             "filename": "Arrow-v12.1-apollo-UNOFFICIAL-20220629-GAPPS.zip", 
@@ -105,8 +105,8 @@
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "1861ac08ad3a338133e864ffbd22bc6b5ed6564ae62b687e48c4585d5c5b0e7e", 
-            "size": "1756056253", 
+            "sha256": "d82d8265ae7f3de231aea1a63bad16992ba5a839ade7d6504c7b1225b5d9b63a", 
+            "size": "1757136183", 
             "type": "unofficial", 
             "version": "v12.1"
         }
