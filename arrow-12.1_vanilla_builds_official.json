@@ -529,16 +529,16 @@
     ], 
     "whyred": [
         {
-            "changelog": "- Fixup mobile data usage in network settings\r\n- Misc changes and fixes", 
-            "date": "2022-06-28", 
-            "datetime": "20220628", 
-            "filename": "Arrow-v12.1-whyred-OFFICIAL-20220628-VANILLA.zip", 
-            "filepath": "/arrow-12.1/whyred/Arrow-v12.1-whyred-OFFICIAL-20220628-VANILLA.zip", 
+            "changelog": "- Bluetooth HOTFIX build", 
+            "date": "2022-06-29", 
+            "datetime": "20220629", 
+            "filename": "Arrow-v12.1-whyred-OFFICIAL-20220629-VANILLA.zip", 
+            "filepath": "/arrow-12.1/whyred/Arrow-v12.1-whyred-OFFICIAL-20220629-VANILLA.zip", 
             "maintainer": "Sreekanth", 
             "model": "Redmi Note 5", 
             "oem": "Xiaomi", 
-            "sha256": "bfe9adcaef4c7f991792bd8eba203dd8f9d23a95a6b45da245b6d1c7bbb3a88d", 
-            "size": "773390859", 
+            "sha256": "b89464b1357c23b8f48eb7315a1fa70738dfa5ff8ac4b43f0243df36ed621931", 
+            "size": "773358630", 
             "type": "official", 
             "version": "v12.1"
         }
