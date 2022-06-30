@@ -98,15 +98,15 @@
     "alioth": [
         {
             "changelog": "- Switch to dot product CPU variant\r\n- audio: Use QCOM implementation for audio effects\r\n- Cleanup proprietary blobs\r\n- props: Disable SF client composition cache\r\n- props: Disable SDM Writeback support\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- PM / devfreq: Make the monitor workqueue high priority\r\n- dts: kona: Set GPU idle timeout to 58 ms\r\n- ARM64: configs: arrow: Enable UAC1\r\n- Makefile: Partial drop -03 optimization\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-06-23", 
-            "datetime": "20220623", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220623-VANILLA.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220623-VANILLA.zip", 
+            "date": "2022-06-30", 
+            "datetime": "20220630", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220630-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220630-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "7e8d04e1e36e3e994b06412fe3ba49fc306d5817dfab470e1b0e0120a1ce323a", 
-            "size": "1042039705", 
+            "sha256": "20cfa71312da779de89d5723860481d5cadc7f750cce9fa2f82a575fc5d98222", 
+            "size": "1042054523", 
             "type": "official", 
             "version": "v12.1"
         }
