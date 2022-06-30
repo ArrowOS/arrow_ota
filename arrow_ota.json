@@ -1313,7 +1313,7 @@
   ], 
   "apollo": [
     {
-      "changelog": "- update techpack/camera from LOS kernel\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
+      "changelog": "- Fixed OIS for Pro model\r\n- Sync with LOS tree (cleanups)\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
       "maintainer": "Dobsgw", 
       "model": "Xiaomi Mi 10T", 
       "oem": "Xiaomi", 
@@ -1455,12 +1455,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-06-23", 
-                  "datetime": "20220623", 
-                  "filename": "Arrow-v12.1-apollo-OFFICIAL-20220623-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220623-VANILLA.zip", 
-                  "sha256": "06cda3296eb65a75b53082c88792c172d33ce9b29c10a95912bc511af629bc97", 
-                  "size": "1439336012", 
+                  "date": "2022-06-30", 
+                  "datetime": "20220630", 
+                  "filename": "Arrow-v12.1-apollo-OFFICIAL-20220630-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220630-VANILLA.zip", 
+                  "sha256": "10b0ebf4c92d971a3047d6e8efaa38391ac24682b367209f3574cd0e594fd134", 
+                  "size": "1439694240", 
                   "type": "official", 
                   "version": "v12.1"
                 }
