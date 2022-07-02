@@ -81,17 +81,17 @@
     ], 
     "alioth": [
         {
-            "changelog": "- overlays: Improve physical location of side fps\r\n- parts: Thermal settings app list improvement\r\n- Update blobs and tree to V13.0.2.0.RKHMIXM\r\n- Fix Video Calling (???)\r\n- input: misc: aw8697_haptic: Upgrade from zeus-s-oss \r\n- ARM64: dts: alioth: Use new awinic haptics configuration\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-04-09", 
-            "datetime": "20220409", 
-            "filename": "Arrow-v12.1-alioth-UNOFFICIAL-20220409-VANILLA.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-UNOFFICIAL-20220409-VANILLA.zip", 
+            "changelog": "<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-07-02", 
+            "datetime": "20220702", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220702-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220702-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "8560c55d68a2c0e50323519e8b24978d739666b8967878c5be99c17f2642c99f", 
-            "size": "1034061406", 
-            "type": "unofficial", 
+            "sha256": "ee656ed1176c3ee55e33d85d501becfb96d23a423f8fd51de581b0b1d22b5c1e", 
+            "size": "1038549663", 
+            "type": "official", 
             "version": "v12.1"
         }
     ], 
