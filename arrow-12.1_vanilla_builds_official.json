@@ -290,15 +290,15 @@
     "kebab": [
         {
             "changelog": "- Fix NFC bugs\r\n- Upstream Kernel\r\n- Update vibration effects\r\n- Add Dolby Atmos\r\n- Add unlimit edge touch switch\r\n- Cleanup some stock something\r\n- Fix some bugs", 
-            "date": "2022-06-26", 
-            "datetime": "20220626", 
-            "filename": "Arrow-v12.1-kebab-OFFICIAL-20220626-VANILLA.zip", 
-            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220626-VANILLA.zip", 
+            "date": "2022-07-02", 
+            "datetime": "20220702", 
+            "filename": "Arrow-v12.1-kebab-OFFICIAL-20220702-VANILLA.zip", 
+            "filepath": "/arrow-12.1/kebab/Arrow-v12.1-kebab-OFFICIAL-20220702-VANILLA.zip", 
             "maintainer": "hiper25", 
             "model": "KB2003", 
             "oem": "OnePlus", 
-            "sha256": "1722a4a177a40b0fc5cda619fa96b7908f00477fb893df7ced8e8cb987cb3166", 
-            "size": "1062366510", 
+            "sha256": "3951f2c49b3e8e80f6ab49918aa9e59bcabc8f52320b1d07f0e87e6f8f3d2724", 
+            "size": "1062356986", 
             "type": "official", 
             "version": "v12.1"
         }
