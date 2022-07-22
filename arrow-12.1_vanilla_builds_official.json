@@ -513,16 +513,16 @@
     ], 
     "veux": [
         {
-            "changelog": "- Misc changes and improvements\r\n\r\n<hr>\r\n<h4>Supported devices:</h4>\r\n<ul><li>POCO X4 Pro 5G (Global/India)</li> <li>Redmi Note 10 Pro+ 5G (India)</li><li>Redmi Note 11 Pro 5G (Global)</li><li>Redmi Note 11E Pro 5G (China)</li></ul>\r\n<hr>\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">Click here</a>\r\n<b>Donate to maintainer:</b>\r\n<a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>\r\nUPI: 001ks001@kotak", 
-            "date": "2022-06-30", 
-            "datetime": "20220630", 
-            "filename": "Arrow-v12.1-veux-OFFICIAL-20220630-VANILLA.zip", 
-            "filepath": "/arrow-12.1/veux/Arrow-v12.1-veux-OFFICIAL-20220630-VANILLA.zip", 
-            "maintainer": "kubersharma001", 
+            "changelog": "<h4>Supported devices:</h4>\r\n<ul><li>POCO X4 Pro 5G (Global/India)</li> <li>Redmi Note 10 Pro+ 5G (India)</li><li>Redmi Note 11 Pro 5G (Global)</li><li>Redmi Note 11E Pro 5G (China)</li></ul>\r\n<hr>\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">Click here</a>\r\n<b>Donate to maintainer:</b>\r\n<a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>\r\nUPI: 001ks001@kotak", 
+            "date": "2022-07-22", 
+            "datetime": "20220722", 
+            "filename": "Arrow-v12.1-veux-OFFICIAL-20220722-VANILLA.zip", 
+            "filepath": "/arrow-12.1/veux/Arrow-v12.1-veux-OFFICIAL-20220722-VANILLA.zip", 
+            "maintainer": "Bauuuuu, kubersharma001", 
             "model": "POCO X4 Pro 5G", 
             "oem": "POCO", 
-            "sha256": "2629f50702c2a04f3ceb20e4658716466f03769bc639cbc69cb0a7be55e4d8d2", 
-            "size": "1032283713", 
+            "sha256": "4917ac0769c085eb65c457a1cb7ca551394f7bd45e126bc3fcb7a955fc877ee7", 
+            "size": "1032132018", 
             "type": "official", 
             "version": "v12.1"
         }
