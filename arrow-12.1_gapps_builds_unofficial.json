@@ -81,17 +81,17 @@
     ], 
     "alioth": [
         {
-            "changelog": "<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.2.0.RKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-07-02", 
-            "datetime": "20220702", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220702-GAPPS.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220702-GAPPS.zip", 
+            "changelog": "<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-07-22", 
+            "datetime": "20220722", 
+            "filename": "Arrow-v12.1-alioth-UNOFFICIAL-20220722-GAPPS.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-UNOFFICIAL-20220722-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "995f1ebcb9e2cf09776f81a626d1ba63bb452a827d5a247ed6d00bbfbb8d26d8", 
-            "size": "1325802949", 
-            "type": "official", 
+            "sha256": "2ae6fdd4f226d67a259b2074a84ccbe2ab6b46b5342278da10486ab4be99880d", 
+            "size": "1324770213", 
+            "type": "unofficial", 
             "version": "v12.1"
         }
     ], 
