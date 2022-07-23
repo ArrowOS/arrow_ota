@@ -1,4 +1,20 @@
 {
+    "cepheus": [
+        {
+            "changelog": null, 
+            "date": "2022-07-23", 
+            "datetime": "20220723", 
+            "filename": "Arrow-v12.1-cepheus-COMMUNITY-20220723-GAPPS.zip", 
+            "filepath": "/arrow-12.1/cepheus/Arrow-v12.1-cepheus-COMMUNITY-20220723-GAPPS.zip", 
+            "maintainer": "lamjiidii1", 
+            "model": "Mi 9", 
+            "oem": "Xiaomi", 
+            "sha256": "868907b4973a24d92a4504e9fa18d07a1cc24c5847210fd24b7d6d96287a6161", 
+            "size": "1356730412", 
+            "type": "community", 
+            "version": "v12.1"
+        }
+    ], 
     "tucana": [
         {
             "changelog": "Build 17-04-2022\r\n\r\nApril security patch\r\nAdd clear speaker and Mi Sound Enhancer Scenes from Surya\r\nAdd DC Dimming and High Brightness mode now that all kernels support them\r\nMove parts to system_ext\r\nImproved smoothness of screen recorder\r\nAdd back encryption\r\nEnable zygote preforking\r\nUpdate system caf blobs from LA.QSSI.12.0.r1-05800.02-qssi.0\r\nUpdate vendor caf blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0\r\nUpdate ACDB loader blobs from LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0\r\nUpdate IMS, QMI, RIL blobs from sweet MIUI V13.0.2.0.SKFMIXM\r\nAdd back qcom WFD and imported blobs from LA.QSSI.12.0.r1-05800.01-qssi.0 / LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0\r\nUpdate other blobs from tucana V13.0.1.0.RFDCNXM\r\nEnable 64-bit inode version support for ext4 \r\nAddress more SELinux denials\r\nBuild media Codec2 modules\r\nRemove dynamic attributes from audio policy config\r\nLabel some RIL property\r\nRemove FM Tuner from input devices (fixes Google Recorder)\r\nRelax WiFi re-association RSSI thresholds\r\nExtend buffer size to 256kb for offload playback \r\nFix deprecated power profile items\r\nDisable Few-debug services\r\nSilence the super annoying libperfmgr spam\r\nSwitch to proton Clang for kernel\r\nAdd developer GSI keys\r\nAdd full vendor/Adreno and vendor/rfs symlinks\r\nImprove VoIP calls performance\r\n\r\nUpdated Alikernel to version 4.14.271\r\nKernel caf tag upstreamed to LA.UM.9.1.r1-11600-SMxxx0.0\r\nImproved SystemUI jitter\r\n\r\n\r\nClean install is mandatory!\r\nRecommended firmware: 12.5.6 Global", 
