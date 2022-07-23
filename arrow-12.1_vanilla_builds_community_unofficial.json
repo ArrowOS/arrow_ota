@@ -17,16 +17,16 @@
     ], 
     "tulip": [
         {
-            "changelog": "- Switch to Radical Ice kernel.", 
-            "date": "2022-06-25", 
-            "datetime": "20220625", 
-            "filename": "Arrow-v12.1-tulip-COMMUNITY-20220625-VANILLA.zip", 
-            "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-COMMUNITY-20220625-VANILLA.zip", 
+            "changelog": "4.19 test build.", 
+            "date": "2022-07-23", 
+            "datetime": "20220723", 
+            "filename": "Arrow-v12.1-tulip-COMMUNITY-20220723-VANILLA.zip", 
+            "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-COMMUNITY-20220723-VANILLA.zip", 
             "maintainer": "IceBreaker2451", 
             "model": "Redmi Note 6 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "55046fdeea36e102e75c16e8799e7ce2f8db4479eef7233a093e34f90bad0472", 
-            "size": "804777222", 
+            "sha256": "0fe2fd515d28f70a2d156c2e1c10576a4a7f967a948b64ddc381b9450de370ff", 
+            "size": "799824934", 
             "type": "community", 
             "version": "v12.1"
         }
