@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Switch to dot product CPU variant\r\n- audio: Use QCOM implementation for audio effects\r\n- Cleanup proprietary blobs\r\n- props: Disable SF client composition cache\r\n- props: Disable SDM Writeback support\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- PM / devfreq: Make the monitor workqueue high priority\r\n- dts: kona: Set GPU idle timeout to 58 ms\r\n- ARM64: configs: arrow: Enable UAC1\r\n- Makefile: Partial drop -03 optimization\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-06-30", 
-            "datetime": "20220630", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220630-GAPPS.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220630-GAPPS.zip", 
+            "changelog": "- Switch to QTI BT Stack\r\n- Re-work audio policy configs\r\n- Fix display flicker after exiting AD/AOD\r\n- rro_overlays: Add support for doze auto brightness\r\n- rro_overlays: Declare 6ghz wifi support\r\n- Update audio props to MIUI S\r\n- props: Relax automatic refresh rate switching\r\n- rro_overlays: Set vibrator ramp down duration\r\n- Switch to source-built mlipay interface\r\n- Build mtdservice interface lib from source\r\n- Import Xiaomi CIT Service\r\n- sepolicy: Address denials\r\n- Kernel: Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixed and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
+            "date": "2022-07-23", 
+            "datetime": "20220723", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220723-GAPPS.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220723-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "a9fbb0e9a002cbda45d0340e0375c8ffac8386c47f11779b0e92f1fdb00ac36c", 
-            "size": "1329115001", 
+            "sha256": "444662baa060ff0fe162191d768243d1c1ec353d91f4de0cbe4a96ce8decb5a8", 
+            "size": "1325972658", 
             "type": "official", 
             "version": "v12.1"
         }
