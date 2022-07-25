@@ -306,15 +306,15 @@
     "lavender": [
         {
             "changelog": "- Optimize round corners\r\n- Fixed deprecated power profile items\r\n- Smarter decisions on whether to use a 2- or 5Ghz AP\r\n- Disable unneeded TDLS offchannel\r\n- Set max WFD resolution to 1080p\r\n- Disable ahardware buffer\r\n- Switch to threaded GLES render engine\r\n- Get back to default from long-standing VM tweaks\r\n- Fixes watchdog kicking in while formatting huge sdcards\r\n- Drop useless mock powerstats hal\r\n- Other fixes and improvements", 
-            "date": "2022-06-29", 
-            "datetime": "20220629", 
-            "filename": "Arrow-v12.1-lavender-OFFICIAL-20220629-VANILLA.zip", 
-            "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220629-VANILLA.zip", 
+            "date": "2022-07-25", 
+            "datetime": "20220725", 
+            "filename": "Arrow-v12.1-lavender-OFFICIAL-20220725-VANILLA.zip", 
+            "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220725-VANILLA.zip", 
             "maintainer": "Ratoriku, Hazama25", 
             "model": "Redmi Note 7", 
             "oem": "Xiaomi", 
-            "sha256": "0812173e4768b737801103f1d89ddc365c6017f0d459e6a65aaea740d959428f", 
-            "size": "876834458", 
+            "sha256": "bd088b8863891e0e5ac51cf43935dc50e737a8dd26d7df9611c623ed94c4b61c", 
+            "size": "876722040", 
             "type": "official", 
             "version": "v12.1"
         }
