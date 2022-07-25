@@ -434,15 +434,15 @@
     "surya": [
         {
             "changelog": "- props: Disable redir_party_num\r\n- Modified QDCM Display Configs\r\n- display: Tune HDR & P3 profile\r\n- Sync EGL symlinks with CAF\r\n- Disable SDM rotator downscaler\r\n- Set arch variant to armv8-2a-dotprod\r\n- overlay: Add back saturated color mode\r\n- Import configs and props for display HDR/SDR\r\n- props: Disable SF client composition cache\r\n- props: Disable SDM Writeback support\r\n- overlay: Set default status bar height\r\n- props: Enable bluetooth hearing aid\r\n- Kernel: Merge branch android-4.14-stable of android/kernel/common\r\n- Kernel: Merge tag LA.UM.9.1.r1-12000.01-SMxxx0.QSSI12.0 of CLO\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>", 
-            "date": "2022-07-24", 
-            "datetime": "20220724", 
-            "filename": "Arrow-v12.1-surya-OFFICIAL-20220724-VANILLA.zip", 
-            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220724-VANILLA.zip", 
+            "date": "2022-07-25", 
+            "datetime": "20220725", 
+            "filename": "Arrow-v12.1-surya-OFFICIAL-20220725-VANILLA.zip", 
+            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220725-VANILLA.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "2e9a71f75872a057439d85f9cbccac630d0b1b29207148336f184c42c4dc73cc", 
-            "size": "1014020372", 
+            "sha256": "ac0717dbc0f16f89d755b99bd0ef172b7237c93fc65ac0cec30ce2f5f9921dd9", 
+            "size": "1014046489", 
             "type": "official", 
             "version": "v12.1"
         }
