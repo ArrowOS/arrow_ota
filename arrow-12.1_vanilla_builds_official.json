@@ -98,15 +98,15 @@
     "alioth": [
         {
             "changelog": "- Switch to QTI BT Stack\r\n- Re-work audio policy configs\r\n- Fix display flicker after exiting AD/AOD\r\n- rro_overlays: Add support for doze auto brightness\r\n- rro_overlays: Declare 6ghz wifi support\r\n- Update audio props to MIUI S\r\n- props: Relax automatic refresh rate switching\r\n- rro_overlays: Set vibrator ramp down duration\r\n- Switch to source-built mlipay interface\r\n- Build mtdservice interface lib from source\r\n- Import Xiaomi CIT Service\r\n- sepolicy: Address denials\r\n- Kernel: Merge branch android-4.19-stable of android/kernel/common\r\n- Misc fixed and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-07-23", 
-            "datetime": "20220723", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220723-VANILLA.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220723-VANILLA.zip", 
+            "date": "2022-07-25", 
+            "datetime": "20220725", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220725-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220725-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "4f96f1ad539166e306fe51d5a9fc9f8d7e964c3eb4db2344a1013ce587ed0868", 
-            "size": "1038710008", 
+            "sha256": "d7f7ff5fe0ad9b8e9280de1904ee815ee8b7a78cd6c4e0c7aac71c33f47b3fb2", 
+            "size": "1038707792", 
             "type": "official", 
             "version": "v12.1"
         }
