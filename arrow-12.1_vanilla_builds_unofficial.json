@@ -193,16 +193,16 @@
     ], 
     "jasmine_sprout": [
         {
-            "changelog": "Test Build for testing\r\nUi Blur changes\r\nNew kernel changes\r\nNew CPU architecture changes", 
-            "date": "2022-06-30", 
-            "datetime": "20220630", 
-            "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220630-VANILLA.zip", 
-            "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220630-VANILLA.zip", 
-            "maintainer": "Immanuel_Raj", 
+            "changelog": "Pre release test", 
+            "date": "2022-07-27", 
+            "datetime": "20220727", 
+            "filename": "Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220727-VANILLA.zip", 
+            "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-UNOFFICIAL-20220727-VANILLA.zip", 
+            "maintainer": "Immanuel_Raj(@iamimmanuelraj)", 
             "model": "Mi A2", 
             "oem": "Xiaomi", 
-            "sha256": "4f23ffca2f82046dc20bdb6d68f4e3bbd7f1770036a5996a6cfc2c587f0b6b86", 
-            "size": "684083151", 
+            "sha256": "fa44d4ca5fa2258225e5c9842f83b0c69eef0624718fe48aadab9d50a2346394", 
+            "size": "756298317", 
             "type": "unofficial", 
             "version": "v12.1"
         }
