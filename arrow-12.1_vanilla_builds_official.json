@@ -466,15 +466,15 @@
     "taimen": [
         {
             "changelog": "- Define physical buttons/fingerprint location\r\n- Optimize vibration intensity", 
-            "date": "2022-06-26", 
-            "datetime": "20220626", 
-            "filename": "Arrow-v12.1-taimen-OFFICIAL-20220626-VANILLA.zip", 
-            "filepath": "/arrow-12.1/taimen/Arrow-v12.1-taimen-OFFICIAL-20220626-VANILLA.zip", 
+            "date": "2022-07-28", 
+            "datetime": "20220728", 
+            "filename": "Arrow-v12.1-taimen-OFFICIAL-20220728-VANILLA.zip", 
+            "filepath": "/arrow-12.1/taimen/Arrow-v12.1-taimen-OFFICIAL-20220728-VANILLA.zip", 
             "maintainer": "ReallySnow", 
             "model": "Pixel 2 XL", 
             "oem": "google", 
-            "sha256": "997eb416441a300d124519070c405c85180dde1cbef1c0611b5e5bd727a630da", 
-            "size": "786331949", 
+            "sha256": "26ac52570a4fe2b4ab42d63752c5582087a3ba03225ebade05508a40a5dcfbd1", 
+            "size": "786284226", 
             "type": "official", 
             "version": "v12.1"
         }
