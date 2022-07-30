@@ -4465,6 +4465,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-07-30", 
+                  "datetime": "20220730", 
+                  "filename": "Arrow-v12.1-lemonades-OFFICIAL-20220730-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/lemonades/Arrow-v12.1-lemonades-OFFICIAL-20220730-GAPPS.zip", 
+                  "sha256": "fcecb9a35ed1ca4a1efb111efcca367bec15ce558cfc69adf9cbf79a30d2fd14", 
+                  "size": "1361302269", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-07-30", 
