@@ -4455,6 +4455,34 @@
       ]
     }
   ], 
+  "lemonades": [
+    {
+      "changelog": "- Inital build.", 
+      "maintainer": "hiper25", 
+      "model": "LE2101", 
+      "oem": "OnePlus", 
+      "v12.1": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-07-30", 
+                  "datetime": "20220730", 
+                  "filename": "Arrow-v12.1-lemonades-OFFICIAL-20220730-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/lemonades/Arrow-v12.1-lemonades-OFFICIAL-20220730-VANILLA.zip", 
+                  "sha256": "91fcea194a459f1d1e736e1ca512979078debbff6128b26f5441d4cba8b1f7f0", 
+                  "size": "1055549303", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "lisa": [
     {
       "changelog": "- Initial Android 12.1 release.", 
