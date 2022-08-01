@@ -113,16 +113,16 @@
     ], 
     "apollo": [
         {
-            "changelog": "- Fixed OIS for Pro model\r\n- Sync with LOS tree (cleanups)\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-06-30", 
-            "datetime": "20220630", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220630-GAPPS.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220630-GAPPS.zip", 
+            "changelog": "- Switch to Quantic Kernel - thanks to Ayrton990\r\n- Fix Reddit image scaling (kernel)\r\n- Return lower min frequencies (kernel)\r\n- Upstream to 4.19.246 (kernel)\r\n- Chill out refresh rate switching timers\r\n- Sync device tree changes with LineageOS\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
+            "date": "2022-08-01", 
+            "datetime": "20220801", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220801-GAPPS.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220801-GAPPS.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "bac82744e30f68e7520ef035e063bee7b68596278f9552688cfe3ea9057982f7", 
-            "size": "1759866799", 
+            "sha256": "d5226b7c728a7c21a14b38ee9b9f6e895706ecb4261bddc9b217b063c63e6457", 
+            "size": "1764285591", 
             "type": "official", 
             "version": "v12.1"
         }
