@@ -7565,6 +7565,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-08-04", 
+                  "datetime": "20220804", 
+                  "filename": "Arrow-v12.1-tucana-UNOFFICIAL-20220804-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/tucana/Arrow-v12.1-tucana-UNOFFICIAL-20220804-GAPPS.zip", 
+                  "sha256": "7422e49d2f37459d7f2d13a4b57d181868f0675c5bdf205671a198cad72693b4", 
+                  "size": "1723675348", 
+                  "type": "unofficial", 
+                  "version": "v12.1"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-08-04", 
