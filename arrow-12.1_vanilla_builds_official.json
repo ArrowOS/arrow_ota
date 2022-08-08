@@ -98,15 +98,15 @@
     "alioth": [
         {
             "changelog": "- Misc fixed and upstream changes.\r\n\r\nKernel:\r\n- Merge branch upstream-f2fs-stable-linux-4.19.y of android/kernel/common\r\n- ARM64: configs: arrow: Enable bandwidth limiting options\r\n- ARM64: configs: arrow: enable optimized SHA-512 implementations\r\n- Import new fs/exfat\r\n- Mics fixes and upstream chanes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI V13.0.3.0.SKHMIXM (A12 Global) !!!</b>", 
-            "date": "2022-08-01", 
-            "datetime": "20220801", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220801-VANILLA.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220801-VANILLA.zip", 
+            "date": "2022-08-07", 
+            "datetime": "20220807", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220807-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220807-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "f48df2ebc607c018b6774ed9fd9f3eda1545eac291856bb2ebb915fdc20d2e61", 
-            "size": "1038778154", 
+            "sha256": "0064c958fe9b44b35b725d8eeb5cf2db4b5d90ce016d2d3fcb604b57e18000e3", 
+            "size": "1038773366", 
             "type": "official", 
             "version": "v12.1"
         }
