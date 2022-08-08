@@ -1467,12 +1467,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-08-01", 
-                  "datetime": "20220801", 
-                  "filename": "Arrow-v12.1-apollo-OFFICIAL-20220801-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220801-VANILLA.zip", 
-                  "sha256": "addcaf77d47c18455c3679c25a35bebb6606a1cb0ff7b986cbde46396e6e528d", 
-                  "size": "1444014981", 
+                  "date": "2022-08-08", 
+                  "datetime": "20220808", 
+                  "filename": "Arrow-v12.1-apollo-OFFICIAL-20220808-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220808-VANILLA.zip", 
+                  "sha256": "2df040eb7cdf9141ecfc392a48a4aaa30f1728b719ce03d350519ca72046870a", 
+                  "size": "1450730538", 
                   "type": "official", 
                   "version": "v12.1"
                 }
