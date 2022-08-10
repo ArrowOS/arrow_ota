@@ -319,6 +319,22 @@
             "version": "v12.1"
         }
     ], 
+    "lisa": [
+        {
+            "changelog": "- Initial 12.1", 
+            "date": "2022-08-10", 
+            "datetime": "20220810", 
+            "filename": "Arrow-v12.1-lisa-OFFICIAL-20220810-GAPPS.zip", 
+            "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220810-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "2109119DG", 
+            "oem": "Xiaomi", 
+            "sha256": "8cb6d499def809a6911325af9409d52bc807e9ce8d8a43aa113f1e235ef8bb9c", 
+            "size": "1432439088", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "merlinx": [
         {
             "changelog": null, 
