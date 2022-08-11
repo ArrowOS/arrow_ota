@@ -7563,6 +7563,22 @@
               ]
             }
           ], 
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-08-11", 
+                  "datetime": "20220811", 
+                  "filename": "Arrow-v12.1-tucana-OFFICIAL-20220811-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/tucana/Arrow-v12.1-tucana-OFFICIAL-20220811-VANILLA.zip", 
+                  "sha256": "f92d6f392d943ee5fb6e41a6c74f9d2edbf3ade1c514ed5013c836afe895fe10", 
+                  "size": "1399856067", 
+                  "type": "official", 
+                  "version": "v12.1"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
