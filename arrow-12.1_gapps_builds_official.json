@@ -511,6 +511,22 @@
             "version": "v12.1"
         }
     ], 
+    "tucana": [
+        {
+            "changelog": null, 
+            "date": "2022-08-11", 
+            "datetime": "20220811", 
+            "filename": "Arrow-v12.1-tucana-OFFICIAL-20220811-GAPPS.zip", 
+            "filepath": "/arrow-12.1/tucana/Arrow-v12.1-tucana-OFFICIAL-20220811-GAPPS.zip", 
+            "maintainer": "Erikdrozina", 
+            "model": "Mi Note 10", 
+            "oem": "Xiaomi", 
+            "sha256": "f2662bf0371a28974a66197029c8812bc8a6a521e995a37dc4231739a12e3fbf", 
+            "size": "1725550650", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "tulip": [
         {
             "changelog": "- Initial Official Build.", 
