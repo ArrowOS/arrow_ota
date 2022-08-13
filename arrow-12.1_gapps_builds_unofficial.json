@@ -433,17 +433,17 @@
     ], 
     "sweet": [
         {
-            "changelog": null, 
-            "date": "2022-06-20", 
-            "datetime": "20220620", 
-            "filename": "Arrow-v12.1-sweet-UNOFFICIAL-20220620-GAPPS.zip", 
-            "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-UNOFFICIAL-20220620-GAPPS.zip", 
+            "changelog": "- As this build is experimental, it might contain unexpected issues, so flash at your own risk!", 
+            "date": "2022-08-13", 
+            "datetime": "20220813", 
+            "filename": "Arrow-v12.1-sweet-OFFICIAL-20220813-GAPPS.zip", 
+            "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-OFFICIAL-20220813-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "c41e7124e9fbf81eda1962188ef850894be0f8b9e3fb7d3c7482b4813eb17f8c", 
-            "size": "1415430054", 
-            "type": "unofficial", 
+            "sha256": "bdf85b593a026e080221aa0e70e04c74a85503f141e7913c11c4236e0fe602ba", 
+            "size": "1414360266", 
+            "type": "official", 
             "version": "v12.1"
         }
     ], 
