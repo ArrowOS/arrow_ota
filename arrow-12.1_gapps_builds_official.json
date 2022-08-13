@@ -337,16 +337,16 @@
     ], 
     "lisa": [
         {
-            "changelog": "- Initial Android 12.1 release.", 
-            "date": "2022-03-23", 
-            "datetime": "20220323", 
-            "filename": "Arrow-v12.1-lisa-OFFICIAL-20220323-GAPPS.zip", 
-            "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220323-GAPPS.zip", 
+            "changelog": "- Initial stable 12.1 release.", 
+            "date": "2022-08-13", 
+            "datetime": "20220813", 
+            "filename": "Arrow-v12.1-lisa-OFFICIAL-20220813-GAPPS.zip", 
+            "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220813-GAPPS.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
-            "model": "11 Lite 5G NE", 
+            "model": "2109119DG", 
             "oem": "Xiaomi", 
-            "sha256": "273216d770df6df16c8baf6a7702213546e1c14df2537dee3925be9ec62e9762", 
-            "size": "1544545373", 
+            "sha256": "bef3b53985f3becb811a6ee403e982f8422f5fea8f327cc5d1b78db2a19ecb1a", 
+            "size": "1432437691", 
             "type": "official", 
             "version": "v12.1"
         }
