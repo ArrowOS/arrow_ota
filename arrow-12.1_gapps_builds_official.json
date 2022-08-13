@@ -130,15 +130,15 @@
     "avicii": [
         {
             "changelog": "* Merged July Patch\r\n* Blobs cleanup\r\n* Thermal config from OOS\r\n* Improved statusbar dimensions\r\n* Enable Qualcomm TrueWireless\u2122 Stereo \r\n* Update blobs from LA.UM.9.12.r1-14000.02-SMxx50.QSSI12.0\r\n* Update blobs from LA.UM.9.12.r1-14200.02-SMxx50.QSSI12.0", 
-            "date": "2022-08-05", 
-            "datetime": "20220805", 
-            "filename": "Arrow-v12.1-avicii-OFFICIAL-20220805-GAPPS.zip", 
-            "filepath": "/arrow-12.1/avicii/Arrow-v12.1-avicii-OFFICIAL-20220805-GAPPS.zip", 
+            "date": "2022-08-13", 
+            "datetime": "20220813", 
+            "filename": "Arrow-v12.1-avicii-OFFICIAL-20220813-GAPPS.zip", 
+            "filepath": "/arrow-12.1/avicii/Arrow-v12.1-avicii-OFFICIAL-20220813-GAPPS.zip", 
             "maintainer": "Keertesh", 
             "model": "AC2001", 
             "oem": "OnePlus", 
-            "sha256": "b45517d9b3ba602d1f2fcd746a57bc94080d0e765c679d16db6c6cc45c517753", 
-            "size": "1426884821", 
+            "sha256": "6b9cb8a1f264bdc0b838c828f8696fcb41c1d7bcf708b781f8fec46e55434b02", 
+            "size": "1426914054", 
             "type": "official", 
             "version": "v12.1"
         }
