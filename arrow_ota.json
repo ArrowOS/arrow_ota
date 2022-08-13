@@ -4497,7 +4497,7 @@
   ], 
   "lisa": [
     {
-      "changelog": "- Initial 12.1", 
+      "changelog": "- Initial stable 12.1 release.", 
       "maintainer": "TG_DEVICE_MAINTAINER", 
       "model": "2109119DG", 
       "oem": "Xiaomi", 
@@ -4583,12 +4583,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-03-23", 
-                  "datetime": "20220323", 
-                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20220323-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220323-VANILLA.zip", 
-                  "sha256": "a9699686ab0e7b6af1cb3d0c98a382f45506b1836646e1d833571f26f727103e", 
-                  "size": "1253554524", 
+                  "date": "2022-08-13", 
+                  "datetime": "20220813", 
+                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20220813-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220813-VANILLA.zip", 
+                  "sha256": "865ea252116392cbbc975eb91364976d4574ce3b4f9d32dec0db4e1f513ab7dd", 
+                  "size": "1142798001", 
                   "type": "official", 
                   "version": "v12.1"
                 }
