@@ -385,16 +385,16 @@
     ], 
     "phoenix": [
         {
-            "changelog": null, 
-            "date": "2022-08-11", 
-            "datetime": "20220811", 
-            "filename": "Arrow-v12.1-phoenix-OFFICIAL-20220811-GAPPS.zip", 
-            "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-OFFICIAL-20220811-GAPPS.zip", 
+            "changelog": "- Fixed up blue video playback issues on apps like Instagram and Facebook", 
+            "date": "2022-08-16", 
+            "datetime": "20220816", 
+            "filename": "Arrow-v12.1-phoenix-OFFICIAL-20220816-GAPPS.zip", 
+            "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-OFFICIAL-20220816-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "4a7c750702e4ca7a087f6740d04788f44273f2b221d1af1f02bedf8bfbd81bb7", 
-            "size": "1355590370", 
+            "sha256": "a5cf2cf04388223249280ed1d471324ab32240d43c2607f0e1c217a09a1ba099", 
+            "size": "1356551744", 
             "type": "official", 
             "version": "v12.1"
         }
