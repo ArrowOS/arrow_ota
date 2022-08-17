@@ -4497,9 +4497,9 @@
   ], 
   "lisa": [
     {
-      "changelog": "- Initial stable 12.1 release.", 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
-      "model": "2109119DG", 
+      "changelog": "- Misc changes and improvements", 
+      "maintainer": "ganeshi4u", 
+      "model": "Xiaomi 11 Lite NE 5G", 
       "oem": "Xiaomi", 
       "v11.0": [
         {
@@ -4583,12 +4583,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-08-13", 
-                  "datetime": "20220813", 
-                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20220813-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220813-VANILLA.zip", 
-                  "sha256": "865ea252116392cbbc975eb91364976d4574ce3b4f9d32dec0db4e1f513ab7dd", 
-                  "size": "1142798001", 
+                  "date": "2022-08-17", 
+                  "datetime": "20220817", 
+                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20220817-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220817-VANILLA.zip", 
+                  "sha256": "03806c2d3247157a30ae19b596dfac05540aac939f111f1bc50aa7c9039f8a8a", 
+                  "size": "1143913386", 
                   "type": "official", 
                   "version": "v12.1"
                 }
