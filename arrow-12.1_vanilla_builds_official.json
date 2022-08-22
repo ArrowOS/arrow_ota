@@ -114,15 +114,15 @@
     "apollo": [
         {
             "changelog": "- Switch to Quantic Kernel - thanks to Ayrton990\r\n- Fix Reddit image scaling (kernel)\r\n- Return lower min frequencies (kernel)\r\n- Upstream to 4.19.246 (kernel)\r\n- Chill out refresh rate switching timers\r\n- Sync device tree changes with LineageOS\r\n\r\n***Required Firmware and Recovery included with ROM***\r\n\r\nUse Arrow Recovery for installation & updates:\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\nTelegram: https://t.me/arrowapolloofficial", 
-            "date": "2022-08-18", 
-            "datetime": "20220818", 
-            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220818-VANILLA.zip", 
-            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220818-VANILLA.zip", 
+            "date": "2022-08-22", 
+            "datetime": "20220822", 
+            "filename": "Arrow-v12.1-apollo-OFFICIAL-20220822-VANILLA.zip", 
+            "filepath": "/arrow-12.1/apollo/Arrow-v12.1-apollo-OFFICIAL-20220822-VANILLA.zip", 
             "maintainer": "Dobsgw", 
             "model": "Xiaomi Mi 10T", 
             "oem": "Xiaomi", 
-            "sha256": "c039d31402521df96bc2aba32a884a33c19a4594aa965bbc85399a7a1e90cd58", 
-            "size": "1451474698", 
+            "sha256": "f346baf9a5ee78eec9275ed66ff8b19fc159b2a48eea4ce335305c4032d2f918", 
+            "size": "1451108518", 
             "type": "official", 
             "version": "v12.1"
         }
