@@ -482,15 +482,15 @@
     "sweet": [
         {
             "changelog": "14/08/2022\r\n\u2022 Fixed ANX Camera support\r\n\r\n22/07/2022\r\n\u2022 Updated blobs from MIUI v13.0.8.0 Global\r\n\u2022 Updated specific camera configs for sweetin from MIUI v13.0.4.0\r\n\u2022 Fixed WiFi Display (might take a few seconds to fully connect)\r\n\u2022 Fixed in-call volume steps when using bluetooth\r\n\u2022 Fixed deep sleep during AOD\r\n\u2022 Fixed DT2W on AOD\r\n\u2022 General cleanup", 
-            "date": "2022-08-15", 
-            "datetime": "20220815", 
-            "filename": "Arrow-v12.1-sweet-OFFICIAL-20220815-GAPPS.zip", 
-            "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-OFFICIAL-20220815-GAPPS.zip", 
+            "date": "2022-08-23", 
+            "datetime": "20220823", 
+            "filename": "Arrow-v12.1-sweet-OFFICIAL-20220823-GAPPS.zip", 
+            "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-OFFICIAL-20220823-GAPPS.zip", 
             "maintainer": "daniml3", 
             "model": "Redmi Note 10 Pro", 
             "oem": "Redmi", 
-            "sha256": "1071905b898f9895c84e2c273fc5597d9112692503506a0f979ae8ef59bf609f", 
-            "size": "1414284381", 
+            "sha256": "6a33462e6883d1749580a21f284766b91a8b18d4729e10a8d6c3985bfec32398", 
+            "size": "1414429496", 
             "type": "official", 
             "version": "v12.1"
         }
