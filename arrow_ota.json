@@ -6943,12 +6943,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-08-19", 
-                  "datetime": "20220819", 
-                  "filename": "Arrow-v12.1-starlte-OFFICIAL-20220819-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/starlte/Arrow-v12.1-starlte-OFFICIAL-20220819-VANILLA.zip", 
-                  "sha256": "b53b33b148e75f293b524f9e6287c8efb18640cea710200e83b2ddf4a278a344", 
-                  "size": "709360741", 
+                  "date": "2022-08-23", 
+                  "datetime": "20220823", 
+                  "filename": "Arrow-v12.1-starlte-OFFICIAL-20220823-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/starlte/Arrow-v12.1-starlte-OFFICIAL-20220823-VANILLA.zip", 
+                  "sha256": "b3e971f570a922b5f7769f6b5e0ace15c9c1a86a47bb3e79cf3fb879112ed565", 
+                  "size": "709363233", 
                   "type": "official", 
                   "version": "v12.1"
                 }
