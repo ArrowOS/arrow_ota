@@ -4867,12 +4867,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-08-24", 
-                  "datetime": "20220824", 
-                  "filename": "Arrow-v12.1-merlinx-OFFICIAL-20220824-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/merlinx/Arrow-v12.1-merlinx-OFFICIAL-20220824-VANILLA.zip", 
-                  "sha256": "c1daab4ad1a94ac91ef8641c256577c7e03c5f61ea7468f8616631e802974e50", 
-                  "size": "882544612", 
+                  "date": "2022-08-31", 
+                  "datetime": "20220831", 
+                  "filename": "Arrow-v12.1-merlinx-OFFICIAL-20220831-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/merlinx/Arrow-v12.1-merlinx-OFFICIAL-20220831-VANILLA.zip", 
+                  "sha256": "77d7cdf41b03637ca27e26892eae5ac392b11e13109466be6cd2bfdb9be2a01e", 
+                  "size": "882685888", 
                   "type": "official", 
                   "version": "v12.1"
                 }
