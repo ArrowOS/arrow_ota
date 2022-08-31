@@ -402,15 +402,15 @@
     "raphael": [
         {
             "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n25th May, 2022\r\n- Update Thermal profiles view\r\n- Rollback thermal blobs to MIUI 11 release to try to reduce battery drains\r\n- Re-add ViLTE support\r\n\r\n3rd March, 2022\r\n- Merged the Linux kernel to latest upstream\r\n-  Switch to Pixel power libperfmgr HAL\r\n- Improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
-            "date": "2022-08-24", 
-            "datetime": "20220824", 
-            "filename": "Arrow-v12.1-raphael-OFFICIAL-20220824-GAPPS.zip", 
-            "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220824-GAPPS.zip", 
+            "date": "2022-08-31", 
+            "datetime": "20220831", 
+            "filename": "Arrow-v12.1-raphael-OFFICIAL-20220831-GAPPS.zip", 
+            "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220831-GAPPS.zip", 
             "maintainer": "TH779, kubersharma001", 
             "model": "Redmi K20 Pro", 
             "oem": "Xiaomi", 
-            "sha256": "7f4e47b9d5b040079ecc0f361c8c40b91c288ffaefb8665ad55ffd76e7102537", 
-            "size": "1394834711", 
+            "sha256": "06e7032233b8ee77d5943a489f1cb07359a7726f07e3143a0dc14112b509b100", 
+            "size": "1394992110", 
             "type": "official", 
             "version": "v12.1"
         }
