@@ -18,15 +18,15 @@
     "OP4A89": [
         {
             "changelog": "- Re Designed Rounded Corner and Notch Overlay, now it is belong to stock style\r\n- Fixup GCam can not record the Video issue.\r\n- Fixup Sensor ALS Screenshot not working well when rotate device.\r\n- Misc Changes.", 
-            "date": "2022-08-26", 
-            "datetime": "20220826", 
-            "filename": "Arrow-v12.1-OP4A89-OFFICIAL-20220826-VANILLA.zip", 
-            "filepath": "/arrow-12.1/OP4A89/Arrow-v12.1-OP4A89-OFFICIAL-20220826-VANILLA.zip", 
+            "date": "2022-09-02", 
+            "datetime": "20220902", 
+            "filename": "Arrow-v12.1-OP4A89-OFFICIAL-20220902-VANILLA.zip", 
+            "filepath": "/arrow-12.1/OP4A89/Arrow-v12.1-OP4A89-OFFICIAL-20220902-VANILLA.zip", 
             "maintainer": "art_chen", 
             "model": "PCLM10", 
             "oem": "OPPO", 
-            "sha256": "7a835d16209660af540739a5daf99be9854bf9267a3cd4c8fb484f535b9a4d6a", 
-            "size": "1311657722", 
+            "sha256": "1d3f4375b4235b9d338cdf07dcb4bcce59a4400c3326798ab58bbf7aacdc8792", 
+            "size": "1311784240", 
             "type": "official", 
             "version": "v12.1"
         }
