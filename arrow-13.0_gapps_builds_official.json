@@ -17,16 +17,16 @@
     ], 
     "veux": [
         {
-            "changelog": null, 
-            "date": "2022-09-02", 
-            "datetime": "20220902", 
-            "filename": "Arrow-v13.0-veux-OFFICIAL-20220902-GAPPS.zip", 
-            "filepath": "/arrow-13.0/veux/Arrow-v13.0-veux-OFFICIAL-20220902-GAPPS.zip", 
+            "changelog": "<h4>Supported devices:</h4>\r\n<ul><li>POCO X4 Pro 5G (Global/India)</li> <li>Redmi Note 11 Pro+ 5G (India)</li><li>Redmi Note 11 Pro 5G (Global)</li><li>Redmi Note 11E Pro 5G (China)</li></ul>\r\n<hr>\r\n<b>Installation instructions and more details:</b> <a href=\"https://kubersharma001.com/arrowos-for-redmi-note-11-pro-plus-5g-and-poco-x4-pro-5g\">Click here</a>\r\n<b>Donate to maintainer:</b>\r\n<a href=\"https://www.paypal.com/paypalme/kubersharma001\">PayPal</a>\r\nUPI: 001ks001@kotak", 
+            "date": "2022-09-03", 
+            "datetime": "20220903", 
+            "filename": "Arrow-v13.0-veux-OFFICIAL-20220903-GAPPS.zip", 
+            "filepath": "/arrow-13.0/veux/Arrow-v13.0-veux-OFFICIAL-20220903-GAPPS.zip", 
             "maintainer": "Bauuuuu, kubersharma001", 
             "model": "POCO X4 Pro 5G", 
             "oem": "POCO", 
-            "sha256": "32585b851c8454b6b9d003692bd61b67cd25e70a6aa69e52fe22952a97c71b06", 
-            "size": "1283110225", 
+            "sha256": "d031f58fc85bd9e58e183a0364a0f5cb4b2128ee63990a5cf79e685d7f67b410", 
+            "size": "1283109013", 
             "type": "official", 
             "version": "v13.0"
         }
