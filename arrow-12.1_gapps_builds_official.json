@@ -98,15 +98,15 @@
     "alioth": [
         {
             "changelog": "- CarrierConfigOverlay: Partial sync with MIUI\r\n- props: Dont force enable ims features\r\n- Revert \"alioth: rootdir: Disable sched_walt_rotate_big_tasks\"\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- Merge tag LA.UM.9.12.r1-14600-SMxx50.QSSI12.0 of CLO\r\n- Merge branch upstream-f2fs-stable-linux-4.19.y of google android/kernel/common\r\n- Upstream wireguard driver to linux kernel mainline\r\n- Re-implement FUSE passthrough\r\n- ARM64/defconfig: arrow: Re-enable qti core control and sched autogroup\r\n- ARM64/defconfig: arrow: Use a timer frequency of 300 Hz\r\n- Misc fixes and upstream changes.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.4.0.SKHMIXM\r\n</b>", 
-            "date": "2022-08-30", 
-            "datetime": "20220830", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220830-GAPPS.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220830-GAPPS.zip", 
+            "date": "2022-09-04", 
+            "datetime": "20220904", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20220904-GAPPS.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220904-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "b630f4ea871e2ebd55627f756506aaab1915bdddc69aaf94ce5d67dcf3d3f544", 
-            "size": "1328301460", 
+            "sha256": "ffed154bafc21e3a144fa2f143fd63050ef6a5b62aa3746a9d0d29015ffae920", 
+            "size": "1328302488", 
             "type": "official", 
             "version": "v12.1"
         }
