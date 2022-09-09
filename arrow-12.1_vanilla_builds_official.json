@@ -322,15 +322,15 @@
     "lemonades": [
         {
             "changelog": "- This version upgrades the OOS12 based, Please manually update to OOS12 based and then flash latest verison.\r\n- Removed OnePlus settings.\r\n- For more details, please go here for the flash details: https://forum.xda-developers.com/t/rom-12-1-official-arrowos-12-1-for-oneplus-9r.4473639/", 
-            "date": "2022-09-03", 
-            "datetime": "20220903", 
-            "filename": "Arrow-v12.1-lemonades-OFFICIAL-20220903-VANILLA.zip", 
-            "filepath": "/arrow-12.1/lemonades/Arrow-v12.1-lemonades-OFFICIAL-20220903-VANILLA.zip", 
+            "date": "2022-09-09", 
+            "datetime": "20220909", 
+            "filename": "Arrow-v12.1-lemonades-OFFICIAL-20220909-VANILLA.zip", 
+            "filepath": "/arrow-12.1/lemonades/Arrow-v12.1-lemonades-OFFICIAL-20220909-VANILLA.zip", 
             "maintainer": "TG_DEVICE_MAINTAINER", 
             "model": "LE2101", 
             "oem": "OnePlus", 
-            "sha256": "0c1af22115a7e0277df2a3aae423b91a3ff2f7caeae4f572018078ce4a4c2633", 
-            "size": "985884388", 
+            "sha256": "4b936e80d877a6de8fd852c4053321a63d31747c0eb2fe1f0506bfde638e36b7", 
+            "size": "985756155", 
             "type": "official", 
             "version": "v12.1"
         }
