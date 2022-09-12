@@ -4411,12 +4411,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-04", 
-                  "datetime": "20220904", 
-                  "filename": "Arrow-v12.1-lavender-OFFICIAL-20220904-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220904-VANILLA.zip", 
-                  "sha256": "9835c85dcca1cf44dbc2abc28d2bcd09c23db71343a5bced96cc5067c9bafd62", 
-                  "size": "884070654", 
+                  "date": "2022-09-12", 
+                  "datetime": "20220912", 
+                  "filename": "Arrow-v12.1-lavender-OFFICIAL-20220912-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/lavender/Arrow-v12.1-lavender-OFFICIAL-20220912-VANILLA.zip", 
+                  "sha256": "00967ae32f36c3bbe6a4320876f982ff48f156a495762c0a4ade1ec53affce4d", 
+                  "size": "884039641", 
                   "type": "official", 
                   "version": "v12.1"
                 }
