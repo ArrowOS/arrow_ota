@@ -386,15 +386,15 @@
     "phoenix": [
         {
             "changelog": "- Fixed up blue video playback issues on apps like Instagram and Facebook", 
-            "date": "2022-09-09", 
-            "datetime": "20220909", 
-            "filename": "Arrow-v12.1-phoenix-OFFICIAL-20220909-GAPPS.zip", 
-            "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-OFFICIAL-20220909-GAPPS.zip", 
+            "date": "2022-09-16", 
+            "datetime": "20220916", 
+            "filename": "Arrow-v12.1-phoenix-OFFICIAL-20220916-GAPPS.zip", 
+            "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-OFFICIAL-20220916-GAPPS.zip", 
             "maintainer": "Sreekanth", 
             "model": "POCO X2", 
             "oem": "POCO", 
-            "sha256": "409bb8e62247ea437a014cf5ecb992aaf8959706c065b69497e00a0dc745f596", 
-            "size": "1356637188", 
+            "sha256": "633b0aa5e2b74ba77dab500854d8b082bbe63ef8b1e670f27934061394553f2c", 
+            "size": "1356528861", 
             "type": "official", 
             "version": "v12.1"
         }
