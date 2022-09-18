@@ -431,6 +431,22 @@
             "version": "v11.0"
         }
     ], 
+    "potter": [
+        {
+            "changelog": null, 
+            "date": "2022-09-18", 
+            "datetime": "20220918", 
+            "filename": "Arrow-v11.0-potter-OFFICIAL-20220918-GAPPS.zip", 
+            "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20220918-GAPPS.zip", 
+            "maintainer": "daniml3, kubersharma001", 
+            "model": "Moto G5 Plus", 
+            "oem": "motorola", 
+            "sha256": "26dd914cc25d327a83e45f453ac62b8d8d965177067661ec656c122ee086fa3f", 
+            "size": "1119897936", 
+            "type": "official", 
+            "version": "v11.0"
+        }
+    ], 
     "raphael": [
         {
             "changelog": "NOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
