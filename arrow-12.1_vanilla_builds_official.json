@@ -466,15 +466,15 @@
     "surya": [
         {
             "changelog": "- props: Disable redir_party_num\r\n- Modified QDCM Display Configs\r\n- display: Tune HDR & P3 profile\r\n- Sync EGL symlinks with CAF\r\n- Disable SDM rotator downscaler\r\n- Set arch variant to armv8-2a-dotprod\r\n- overlay: Add back saturated color mode\r\n- Import configs and props for display HDR/SDR\r\n- props: Disable SF client composition cache\r\n- props: Disable SDM Writeback support\r\n- overlay: Set default status bar height\r\n- props: Enable bluetooth hearing aid\r\n- nfc: Set Mifare Tag implementation to General\r\n- Update blobs to V12.5.8.0.RJGMIXM\r\n- Bump bluetooth.audio@2.1\r\n- Kernel: Merge branch android-4.14-stable of android/kernel/common\r\n- Kernel: Merge tag LA.UM.9.1.r1-12000.01-SMxxx0.QSSI12.0 of CLO\r\n- Misc fixes and upstream changes.\r\n\r\n<b>Note: Clean flash is MUST for arrow-12.0 (Android 12) !!!</b>", 
-            "date": "2022-09-13", 
-            "datetime": "20220913", 
-            "filename": "Arrow-v12.1-surya-OFFICIAL-20220913-VANILLA.zip", 
-            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220913-VANILLA.zip", 
+            "date": "2022-09-19", 
+            "datetime": "20220919", 
+            "filename": "Arrow-v12.1-surya-OFFICIAL-20220919-VANILLA.zip", 
+            "filepath": "/arrow-12.1/surya/Arrow-v12.1-surya-OFFICIAL-20220919-VANILLA.zip", 
             "maintainer": "Ganesh Varma, palaych", 
             "model": "POCO X3 NFC", 
             "oem": "POCO", 
-            "sha256": "16c81858a15e4ebe53feb897d4cd5c486ab4af7b5d2b77c8dbdafe746c519121", 
-            "size": "1021589387", 
+            "sha256": "a0a272acee064a5e5011bed62e35030d8c8a15997d9dbc483fd26ace409c043c", 
+            "size": "1021583735", 
             "type": "official", 
             "version": "v12.1"
         }
