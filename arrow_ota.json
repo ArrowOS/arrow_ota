@@ -3441,7 +3441,7 @@
   ], 
   "ginkgo": [
     {
-      "changelog": null, 
+      "changelog": "- Updated MIUI blobs to V12.5.2.0.RCOMIXM\r\n- Fixed wifi and bluetooth mac address\r\n- FIxed statusbar height on lockscreen\r\n- Merged latest CAF tag in kernel", 
       "maintainer": "Adithya (ghostrider_reborn)", 
       "model": "Redmi Note 8/8T", 
       "oem": "Xiaomi", 
@@ -3495,12 +3495,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-19", 
-                  "datetime": "20220919", 
-                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20220919-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20220919-VANILLA.zip", 
-                  "sha256": "1733c6cb29adaf6b18dec82c43f337cd6332c993d3973859d7a1a148dfd17f21", 
-                  "size": "982267494", 
+                  "date": "2022-09-20", 
+                  "datetime": "20220920", 
+                  "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20220920-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20220920-VANILLA.zip", 
+                  "sha256": "0c39eda4e134c1fba5ad0fc7b0268e5bea19ae09d2bf50746ad735786236ce45", 
+                  "size": "982288637", 
                   "type": "official", 
                   "version": "v11.0"
                 }
