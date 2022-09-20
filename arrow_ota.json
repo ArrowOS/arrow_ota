@@ -4497,7 +4497,7 @@
   ], 
   "lisa": [
     {
-      "changelog": "- Misc changes and improvements", 
+      "changelog": "- few changes maybe!", 
       "maintainer": "ganeshi4u", 
       "model": "Xiaomi 11 Lite NE 5G", 
       "oem": "Xiaomi", 
@@ -4571,12 +4571,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-08-17", 
-                  "datetime": "20220817", 
-                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20220817-GAPPS.zip", 
-                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220817-GAPPS.zip", 
-                  "sha256": "cb4ed27cb95b43eee68f21839ccaf58aa72044cfec7739d624856ed5c9567f4f", 
-                  "size": "1433594872", 
+                  "date": "2022-09-20", 
+                  "datetime": "20220920", 
+                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20220920-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20220920-GAPPS.zip", 
+                  "sha256": "326f4f1d95cacf51d47df89cedf44cb062e660ea217616bb1faaaff0783d5f7c", 
+                  "size": "1434576725", 
                   "type": "official", 
                   "version": "v12.1"
                 }
