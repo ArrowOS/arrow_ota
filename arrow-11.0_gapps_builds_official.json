@@ -241,16 +241,16 @@
     ], 
     "ginkgo": [
         {
-            "changelog": "- Added support for per-SIM toggle in SIM settings\r\n- Removed notification and battery LED settings on willow\r\n- Removed TM symbol in kernel name (required by some apps)\r\n- Merged LA.UM.9.11.r1-04700.02 CAF tag in kernel", 
-            "date": "2022-09-19", 
-            "datetime": "20220919", 
-            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20220919-GAPPS.zip", 
-            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20220919-GAPPS.zip", 
+            "changelog": "- Updated MIUI blobs to V12.5.2.0.RCOMIXM\r\n- Fixed wifi and bluetooth mac address\r\n- FIxed statusbar height on lockscreen\r\n- Merged latest CAF tag in kernel", 
+            "date": "2022-09-20", 
+            "datetime": "20220920", 
+            "filename": "Arrow-v11.0-ginkgo-OFFICIAL-20220920-GAPPS.zip", 
+            "filepath": "/arrow-11.0/ginkgo/Arrow-v11.0-ginkgo-OFFICIAL-20220920-GAPPS.zip", 
             "maintainer": "Adithya (ghostrider_reborn)", 
             "model": "Redmi Note 8/8T", 
             "oem": "Xiaomi", 
-            "sha256": "15c9a1a471d0fe029561ff59af172e6838aac8e98f24dd3eb2d0b9432a776abe", 
-            "size": "1309427242", 
+            "sha256": "0bfd9d1c1f05ea7c4bae6a7b58e257a4f332c1b240220a74195a21e9ad3b430f", 
+            "size": "1309448805", 
             "type": "official", 
             "version": "v11.0"
         }
