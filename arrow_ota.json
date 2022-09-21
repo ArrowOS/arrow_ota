@@ -8709,7 +8709,7 @@
   ], 
   "whyred": [
     {
-      "changelog": "- Bluetooth HOTFIX build", 
+      "changelog": "\u2022 Switched to AOSP WFD\r\n\u2022 Upstream kernel to 4.4.283\r\n\u2022 Drop perfd blobs\r\n\u2022 Fixed nightlight\r\n\u2022 Cleanup useless blobs\r\n\u2022 Misc changes", 
       "maintainer": "Sreekanth", 
       "model": "Redmi Note 5", 
       "oem": "Xiaomi", 
@@ -8763,12 +8763,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-18", 
-                  "datetime": "20220918", 
-                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20220918-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20220918-VANILLA.zip", 
-                  "sha256": "00b89e5b4c49b7c2069043c902af7c57a535ac2045e38e3c0a00fb313f897e1b", 
-                  "size": "838160285", 
+                  "date": "2022-09-21", 
+                  "datetime": "20220921", 
+                  "filename": "Arrow-v11.0-whyred-OFFICIAL-20220921-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/whyred/Arrow-v11.0-whyred-OFFICIAL-20220921-VANILLA.zip", 
+                  "sha256": "a29a490e18261443e64ce2565ca9b6e0e508586306e3421fd208cfe51b1aab86", 
+                  "size": "838228191", 
                   "type": "official", 
                   "version": "v11.0"
                 }
