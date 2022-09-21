@@ -5821,7 +5821,7 @@
   ], 
   "potter": [
     {
-      "changelog": null, 
+      "changelog": "01/08/2021\r\n- Fixed night display", 
       "maintainer": "daniml3, kubersharma001", 
       "model": "Moto G5 Plus", 
       "oem": "motorola", 
@@ -5903,12 +5903,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-20", 
-                  "datetime": "20220920", 
-                  "filename": "Arrow-v11.0-potter-OFFICIAL-20220920-VANILLA.zip", 
-                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20220920-VANILLA.zip", 
-                  "sha256": "8d46cbace00dcf1964d936e7413e8a91f9ac6ccf8699c2109c2f17335f55c1bd", 
-                  "size": "796565105", 
+                  "date": "2022-09-21", 
+                  "datetime": "20220921", 
+                  "filename": "Arrow-v11.0-potter-OFFICIAL-20220921-VANILLA.zip", 
+                  "filepath": "/arrow-11.0/potter/Arrow-v11.0-potter-OFFICIAL-20220921-VANILLA.zip", 
+                  "sha256": "cd0210abadd9eb02026ca381213e7c7d04bb286d007ea86420e097a296e9d3d6", 
+                  "size": "796567026", 
                   "type": "official", 
                   "version": "v11.0"
                 }
