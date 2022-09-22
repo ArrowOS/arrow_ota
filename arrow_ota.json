@@ -6025,7 +6025,7 @@
   ], 
   "raphael": [
     {
-      "changelog": "NOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
+      "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n25th May, 2022\r\n- Update Thermal profiles view\r\n- Rollback thermal blobs to MIUI 11 release to try to reduce battery drains\r\n- Re-add ViLTE support\r\n\r\n3rd March, 2022\r\n- Merged the Linux kernel to latest upstream\r\n-  Switch to Pixel power libperfmgr HAL\r\n- Improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
       "maintainer": "TH779, kubersharma001", 
       "model": "Redmi K20 Pro", 
       "oem": "Xiaomi", 
@@ -6227,12 +6227,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-14", 
-                  "datetime": "20220914", 
-                  "filename": "Arrow-v12.1-raphael-OFFICIAL-20220914-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220914-VANILLA.zip", 
-                  "sha256": "5709c92497adefdb993a98148dc48763e6434af10b4ced5965774ee48947eebe", 
-                  "size": "1068999667", 
+                  "date": "2022-09-21", 
+                  "datetime": "20220921", 
+                  "filename": "Arrow-v12.1-raphael-OFFICIAL-20220921-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220921-VANILLA.zip", 
+                  "sha256": "e54e2b555728ecf2cf03cb0d3dd6e848e91ed6a9854d71b8a107b025420b2512", 
+                  "size": "1068558833", 
                   "type": "official", 
                   "version": "v12.1"
                 }
