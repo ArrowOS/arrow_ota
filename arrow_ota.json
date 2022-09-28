@@ -7153,7 +7153,7 @@
   ], 
   "sweet": [
     {
-      "changelog": "- As this build is experimental, it might contain unexpected issues, so flash at your own risk!", 
+      "changelog": "- Enabled fingerprint tap/press to unlock settings", 
       "maintainer": "daniml3", 
       "model": "Redmi Note 10 Pro", 
       "oem": "Redmi", 
@@ -7267,12 +7267,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-26", 
-                  "datetime": "20220926", 
-                  "filename": "Arrow-v12.1-sweet-OFFICIAL-20220926-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-OFFICIAL-20220926-VANILLA.zip", 
-                  "sha256": "5b11b5b62104d803bfd8315cbc2057804715b2dc57131995f5eb2caa5a3cbf90", 
-                  "size": "1079968017", 
+                  "date": "2022-09-27", 
+                  "datetime": "20220927", 
+                  "filename": "Arrow-v12.1-sweet-OFFICIAL-20220927-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/sweet/Arrow-v12.1-sweet-OFFICIAL-20220927-VANILLA.zip", 
+                  "sha256": "b043af9a298ee6cab365d31b0a6357f5e4069316202df249f26a2b3b63299a21", 
+                  "size": "1079944002", 
                   "type": "official", 
                   "version": "v12.1"
                 }
