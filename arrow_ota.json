@@ -6025,7 +6025,7 @@
   ], 
   "raphael": [
     {
-      "changelog": "- Misc changes and improvements\r\n\r\n- See full device sources at: https://github.com/ArrowOS-Devices?q=raphael\r\n\r\nNOTE\r\n- Requires MIUI 12.5 firmware (any region)\r\n- These builds include custom source compiled vendor and ODM partitions\r\n- See full device changes at: https://github.com/ArrowOS-devices?q=raphael", 
+      "changelog": "Please check <a href=\"https://kubersharma001.com/index-arrowos-raphael-redmi-k20-pro\">arrow_raphael index thread</a> for more information.\r\n You can donate the maintainer<a href=\"https://www.paypal.com/paypalme/TH779\"> on PayPal</a>\r\n\r\n25th May, 2022\r\n- Update Thermal profiles view\r\n- Rollback thermal blobs to MIUI 11 release to try to reduce battery drains\r\n- Re-add ViLTE support\r\n\r\n3rd March, 2022\r\n- Merged the Linux kernel to latest upstream\r\n-  Switch to Pixel power libperfmgr HAL\r\n- Improve the charging speed.\r\n\r\n26th February, 2022\r\nWARNING: COMING FROM BUILDS BEFORE 26TH FEBRUARY WILL NEED TO FORMAT DATA; USERS ON 26TH FEBRUARY BUILD OR NEWER CAN DIRTY FLASH OR USE OTA. USE ARROW RECOVERY, AS MENTIONED ON THE POST ABOVE.", 
       "maintainer": "TH779, kubersharma001", 
       "model": "Redmi K20 Pro", 
       "oem": "Xiaomi", 
@@ -6227,12 +6227,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-21", 
-                  "datetime": "20220921", 
-                  "filename": "Arrow-v12.1-raphael-OFFICIAL-20220921-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220921-VANILLA.zip", 
-                  "sha256": "e54e2b555728ecf2cf03cb0d3dd6e848e91ed6a9854d71b8a107b025420b2512", 
-                  "size": "1068558833", 
+                  "date": "2022-09-28", 
+                  "datetime": "20220928", 
+                  "filename": "Arrow-v12.1-raphael-OFFICIAL-20220928-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/raphael/Arrow-v12.1-raphael-OFFICIAL-20220928-VANILLA.zip", 
+                  "sha256": "dfe393c1516fb5921c7829abad08ca7ef9e815158fed3c5f062e4a495e1e7df1", 
+                  "size": "1068418664", 
                   "type": "official", 
                   "version": "v12.1"
                 }
