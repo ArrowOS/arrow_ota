@@ -1165,7 +1165,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "TEST\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.4.0.SKHMIXM\r\n</b>", 
+      "changelog": "- Disable zram writeback\r\n- wifi: smarter decisions on whether to use a 2Ghz or 5Ghz AP\r\n- Build kernel with AOSP Clang 15.0.1\r\n- CarrierConfigOverlay: Add config for some Iran providers and Lycamobile Poland\r\n- Drop poweropt service, updatable GPU drivers\r\n- Drop cutout ring service\r\n- Improve config_mainBuiltInDisplayCutout\r\n- Add front-facing camera protection and improve statubar icon padding\r\n- Updated blobs to MIUI V13.0.5.0.SKHMIXM\r\n- Sync media codecs list with CAF\r\n- Add power overlays for bluetooth controller\r\n- sepolicy: Re-work and cleanup\r\n- Add missed hvdcp_opti props\r\n- Enable asyncronous power updates on HWC\r\n- props: Import MIUI lmkd kill strategy\r\n- rootdir: Set swappiness to 160\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- Merge tag LA.UM.9.12.r1-14700.01-SMxx50.QSSI13.0 of CLO\r\n- Increase contiguous area memory size to 24MB for memory-sensitive operations like firmware reading and upgrade\r\n- Import xiaomi modifications from munch-s-oss\r\n- Add support for Linux random number generator driver (LRNG)\r\n- Add support for Multi Generational LRU (MGLRU)\r\n- dts: Update to LA.UM.9.12.r1-14000-SMxx50.0\r\n- binder: implement BINDER_FREEZE ioctl\r\n- Misc fixes and upstream changes, more info into github repo.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.5.0.SKHMIXM\r\n</b>", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -1279,12 +1279,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-24", 
-                  "datetime": "20220924", 
-                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220924-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220924-VANILLA.zip", 
-                  "sha256": "12cb9a1787d7d67bba8602a1c03c90da609aa8a5974757dcec71dc8c74775bfe", 
-                  "size": "1045785654", 
+                  "date": "2022-09-28", 
+                  "datetime": "20220928", 
+                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20220928-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20220928-VANILLA.zip", 
+                  "sha256": "7a78a8f69b864f919399ef1c9f22b9430305933051fa6752cbcf1b4c071c011f", 
+                  "size": "1045805733", 
                   "type": "official", 
                   "version": "v12.1"
                 }
