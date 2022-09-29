@@ -7611,12 +7611,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-09-22", 
-                  "datetime": "20220922", 
-                  "filename": "Arrow-v12.1-tucana-OFFICIAL-20220922-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/tucana/Arrow-v12.1-tucana-OFFICIAL-20220922-VANILLA.zip", 
-                  "sha256": "4706fc3c83302b7da11b2ab87f61a674b11c754514ecf7b5e51621b408a32dc0", 
-                  "size": "1399999999", 
+                  "date": "2022-09-29", 
+                  "datetime": "20220929", 
+                  "filename": "Arrow-v12.1-tucana-OFFICIAL-20220929-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/tucana/Arrow-v12.1-tucana-OFFICIAL-20220929-VANILLA.zip", 
+                  "sha256": "a33d1cf18f1e3a13122ac814962a7746e33b77fa198d38156f3032259845700f", 
+                  "size": "1400105163", 
                   "type": "official", 
                   "version": "v12.1"
                 }
