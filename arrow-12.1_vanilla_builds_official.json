@@ -242,15 +242,15 @@
     "gauguin": [
         {
             "changelog": "Please check\r\nhttps://github.com/ArrowOS-Devices/android_device_xiaomi_gauguin/commits/arrow-12.1\r\nand\r\nhttps://arrowos.net/changelog.php\r\nfor actual changes.", 
-            "date": "2022-08-25", 
-            "datetime": "20220825", 
-            "filename": "Arrow-v12.1-gauguin-OFFICIAL-20220825-VANILLA.zip", 
-            "filepath": "/arrow-12.1/gauguin/Arrow-v12.1-gauguin-OFFICIAL-20220825-VANILLA.zip", 
+            "date": "2022-10-03", 
+            "datetime": "20221003", 
+            "filename": "Arrow-v12.1-gauguin-OFFICIAL-20221003-VANILLA.zip", 
+            "filepath": "/arrow-12.1/gauguin/Arrow-v12.1-gauguin-OFFICIAL-20221003-VANILLA.zip", 
             "maintainer": "Lynnrin", 
             "model": "M2007J17G", 
             "oem": "Xiaomi", 
-            "sha256": "4b3544da4ab554e90cc38704bc40beb8bcdfae7b8f6a7c3003b7b9993acd00a0", 
-            "size": "1211431283", 
+            "sha256": "e1a712857bcc58e2159cd078eea47af917917ee87748571cdf24bdfaf0f70ca7", 
+            "size": "1211992457", 
             "type": "official", 
             "version": "v12.1"
         }
