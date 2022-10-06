@@ -367,6 +367,22 @@
             "version": "v12.1"
         }
     ], 
+    "nabu": [
+        {
+            "changelog": null, 
+            "date": "2022-10-06", 
+            "datetime": "20221006", 
+            "filename": "Arrow-v12.1-nabu-OFFICIAL-20221006-GAPPS.zip", 
+            "filepath": "/arrow-12.1/nabu/Arrow-v12.1-nabu-OFFICIAL-20221006-GAPPS.zip", 
+            "maintainer": "kubersharma001, ganeshi4u", 
+            "model": "21051182G", 
+            "oem": "Xiaomi", 
+            "sha256": "b4d8350282bf3964c8fdaeb4290825f6304024f454e8cbc0ff74251a79d18735", 
+            "size": "1633823335", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "phoenix": [
         {
             "changelog": null, 
