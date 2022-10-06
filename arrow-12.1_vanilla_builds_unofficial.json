@@ -255,6 +255,22 @@
             "version": "v12.1"
         }
     ], 
+    "nabu": [
+        {
+            "changelog": null, 
+            "date": "2022-10-06", 
+            "datetime": "20221006", 
+            "filename": "Arrow-v12.1-nabu-OFFICIAL-20221006-VANILLA.zip", 
+            "filepath": "/arrow-12.1/nabu/Arrow-v12.1-nabu-OFFICIAL-20221006-VANILLA.zip", 
+            "maintainer": "kubersharma001, ganeshi4u", 
+            "model": "21051182G", 
+            "oem": "Xiaomi", 
+            "sha256": "2ac17fc98f0db64b7a9a899532e6c755f88c440ea13bdbf4941436574c9d8bc6", 
+            "size": "1382833131", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "raphael": [
         {
             "changelog": null, 
