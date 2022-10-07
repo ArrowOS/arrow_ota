@@ -383,6 +383,22 @@
             "version": "v12.1"
         }
     ], 
+    "nabu": [
+        {
+            "changelog": "Follow these instructions: <a href=\"https://kubersharma001.com/arrowos-for-xiaomi-pad-5-nabu\">Click here</a>", 
+            "date": "2022-10-07", 
+            "datetime": "20221007", 
+            "filename": "Arrow-v12.1-nabu-OFFICIAL-20221007-GAPPS.zip", 
+            "filepath": "/arrow-12.1/nabu/Arrow-v12.1-nabu-OFFICIAL-20221007-GAPPS.zip", 
+            "maintainer": "kubersharma001, ganeshi4u", 
+            "model": "21051182G", 
+            "oem": "Xiaomi", 
+            "sha256": "1f45d07cbe486ef77a8896083063a8154ad5f7216d3e7ded060a8775b59c2ed0", 
+            "size": "1633825617", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "phoenix": [
         {
             "changelog": "- Fixed up blue video playback issues on apps like Instagram and Facebook", 
