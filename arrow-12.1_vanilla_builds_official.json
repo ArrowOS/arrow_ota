@@ -226,15 +226,15 @@
     "davinci": [
         {
             "changelog": "* Update common vendor to sweet MIUI 13 (Android 12)\r\n* Update device vendor (davinci)", 
-            "date": "2022-10-04", 
-            "datetime": "20221004", 
-            "filename": "Arrow-v12.1-davinci-OFFICIAL-20221004-VANILLA.zip", 
-            "filepath": "/arrow-12.1/davinci/Arrow-v12.1-davinci-OFFICIAL-20221004-VANILLA.zip", 
+            "date": "2022-10-11", 
+            "datetime": "20221011", 
+            "filename": "Arrow-v12.1-davinci-OFFICIAL-20221011-VANILLA.zip", 
+            "filepath": "/arrow-12.1/davinci/Arrow-v12.1-davinci-OFFICIAL-20221011-VANILLA.zip", 
             "maintainer": "RemyL", 
             "model": "Mi 9T", 
             "oem": "Xiaomi", 
-            "sha256": "813937ba12582f769eaa104d54c56936a77288c1f19edd6ea74b008eca4b380b", 
-            "size": "1002780159", 
+            "sha256": "fff6a28c723e58ad51357694dc63c9ee56deff928222002bb169ea39aff65352", 
+            "size": "1002611141", 
             "type": "official", 
             "version": "v12.1"
         }
