@@ -370,16 +370,16 @@
     "nabu": [
         {
             "changelog": "This is an experimental build. Do not flash without permission!\r\n\r\nFollow these instructions: <a href=\"https://kubersharma001.com/arrowos-for-xiaomi-pad-5-nabu\">Click here</a>", 
-            "date": "2022-10-10", 
-            "datetime": "20221010", 
-            "filename": "Arrow-v12.1-nabu-OFFICIAL-20221010-GAPPS.zip", 
-            "filepath": "/arrow-12.1/nabu/Arrow-v12.1-nabu-OFFICIAL-20221010-GAPPS.zip", 
+            "date": "2022-10-11", 
+            "datetime": "20221011", 
+            "filename": "Arrow-v12.1-nabu-UNOFFICIAL-20221011-GAPPS.zip", 
+            "filepath": "/arrow-12.1/nabu/Arrow-v12.1-nabu-UNOFFICIAL-20221011-GAPPS.zip", 
             "maintainer": "kubersharma001, ganeshi4u", 
             "model": "21051182G", 
             "oem": "Xiaomi", 
-            "sha256": "a7d024be0221b6f8c6ecb0c184c48338643367d8784a6786c2b56ee66ac4afd0", 
-            "size": "1491902497", 
-            "type": "official", 
+            "sha256": "60746e76b87cf936f0b16b9406f49cab55b13c1676329f0fc4df122ff69ae52a", 
+            "size": "1489002954", 
+            "type": "unofficial", 
             "version": "v12.1"
         }
     ], 
