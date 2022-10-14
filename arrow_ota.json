@@ -5312,6 +5312,26 @@
             }
           ]
         }
+      ], 
+      "v13.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-10-14", 
+                  "datetime": "20221014", 
+                  "filename": "Arrow-v13.0-nabu-OFFICIAL-20221014-VANILLA.zip", 
+                  "filepath": "/arrow-13.0/nabu/Arrow-v13.0-nabu-OFFICIAL-20221014-VANILLA.zip", 
+                  "sha256": "b808218327b570025963600233278fd8375dabe64fb0c304f8822529c18effe2", 
+                  "size": "1257323798", 
+                  "type": "official", 
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ], 
