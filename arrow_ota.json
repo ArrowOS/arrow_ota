@@ -5354,7 +5354,7 @@
   "munch": [
     {
       "changelog": null, 
-      "maintainer": "TG_DEVICE_MAINTAINER", 
+      "maintainer": "madmax7896", 
       "model": "POCO F4", 
       "oem": "POCO", 
       "v13.0": [
@@ -5379,8 +5379,8 @@
                   "datetime": "20221016", 
                   "filename": "Arrow-v13.0-munch-UNOFFICIAL-20221016-VANILLA.zip", 
                   "filepath": "/arrow-13.0/munch/Arrow-v13.0-munch-UNOFFICIAL-20221016-VANILLA.zip", 
-                  "sha256": "aea406068a5107658dcc2a70370fcdf59d19b0b7fdcd73dfb6b406f4d85b22e7", 
-                  "size": "1153104163", 
+                  "sha256": "91b8ec5c5624be94b99d390f137ada200caa56f182fc33269d1502c18828ca05", 
+                  "size": "1153091222", 
                   "type": "unofficial", 
                   "version": "v13.0"
                 }
