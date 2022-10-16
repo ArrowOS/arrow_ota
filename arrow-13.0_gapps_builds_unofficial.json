@@ -15,6 +15,22 @@
             "version": "v13.0"
         }
     ], 
+    "RMX2020": [
+        {
+            "changelog": "NOTE: For Realme UI 1.0 FW only.", 
+            "date": "2022-10-16", 
+            "datetime": "20221016", 
+            "filename": "Arrow-v13.0-RMX2020-UNOFFICIAL-20221016-GAPPS.zip", 
+            "filepath": "/arrow-13.0/RMX2020/Arrow-v13.0-RMX2020-UNOFFICIAL-20221016-GAPPS.zip", 
+            "maintainer": "sarthakroy2002", 
+            "model": "realme Monet", 
+            "oem": "realme", 
+            "sha256": "adce472f602f7ba628dabc64ef89e3312495d0047e3d9ad03f36c712c2899b65", 
+            "size": "1309888528", 
+            "type": "unofficial", 
+            "version": "v13.0"
+        }
+    ], 
     "munch": [
         {
             "changelog": null, 
