@@ -1257,7 +1257,7 @@
   ], 
   "alioth": [
     {
-      "changelog": "- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- ARM64: configs: alioth: Disable msm_geni serial console\r\n- Misc fixes and upstream changes, more info into github repo.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.5.0.SKHMIXM\r\n</b>", 
+      "changelog": "- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- Misc fixes and upstream changes, more info into github repo.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.5.0.SKHMIXM\r\n</b>", 
       "maintainer": "palaych", 
       "model": "Poco F3", 
       "oem": "POCO", 
@@ -1371,12 +1371,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-10-03", 
-                  "datetime": "20221003", 
-                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20221003-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20221003-VANILLA.zip", 
-                  "sha256": "be99a31b29df06edbe8058f8f6989690d07b58247d95015cc250fa89bb9a2e7a", 
-                  "size": "1045779070", 
+                  "date": "2022-10-18", 
+                  "datetime": "20221018", 
+                  "filename": "Arrow-v12.1-alioth-OFFICIAL-20221018-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20221018-VANILLA.zip", 
+                  "sha256": "3533de3396413fb0ace70f89fa1e8d4cc28d58c95089ce22ae8d749459de5277", 
+                  "size": "1045793624", 
                   "type": "official", 
                   "version": "v12.1"
                 }
