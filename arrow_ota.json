@@ -5327,6 +5327,34 @@
       ]
     }
   ], 
+  "mojito": [
+    {
+      "changelog": null, 
+      "maintainer": "sarthakroy2002, blur", 
+      "model": "Redmi Note 10", 
+      "oem": "Redmi", 
+      "v13.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2022-10-18", 
+                  "datetime": "20221018", 
+                  "filename": "Arrow-v13.0-mojito-UNOFFICIAL-20221018-GAPPS.zip", 
+                  "filepath": "/arrow-13.0/mojito/Arrow-v13.0-mojito-UNOFFICIAL-20221018-GAPPS.zip", 
+                  "sha256": "66c1dbbafe23f991eeb8ade8964f6a1a061014b14aee117cb051430bbaed96d8", 
+                  "size": "1486399865", 
+                  "type": "unofficial", 
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ], 
   "monet": [
     {
       "changelog": "- Optimize dex flags\r\n- Enable Seamless Transfer\r\n- Address sepolicy denials\r\n- Update blobs to MIUI V12.5.1.0.RJIMIXM\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merged CAF tag LA.UM.9.12.r1-12200-SMxx50.QSSI12.0 for msm-4.19 and wlan\r\n- drivers: remove xiaomi early fingerprint wakeup optimization\r\n- usb: pd: Revert some CAF patches (fixed random panic usb)\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Request MIUI Android 11 firmware and vendor.", 
