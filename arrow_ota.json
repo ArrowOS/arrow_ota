@@ -5421,6 +5421,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-10-19", 
+                  "datetime": "20221019", 
+                  "filename": "Arrow-v13.0-munch-OFFICIAL-20221019-GAPPS.zip", 
+                  "filepath": "/arrow-13.0/munch/Arrow-v13.0-munch-OFFICIAL-20221019-GAPPS.zip", 
+                  "sha256": "79ed8c0049b41f38f81aedad82b84c51fa7c152ba91abe0a816feb0b86c180e0", 
+                  "size": "1423054232", 
+                  "type": "official", 
+                  "version": "v13.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-10-19", 
