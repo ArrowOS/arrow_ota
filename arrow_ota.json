@@ -5397,6 +5397,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-10-20", 
+                  "datetime": "20221020", 
+                  "filename": "Arrow-v13.0-mojito-OFFICIAL-20221020-GAPPS.zip", 
+                  "filepath": "/arrow-13.0/mojito/Arrow-v13.0-mojito-OFFICIAL-20221020-GAPPS.zip", 
+                  "sha256": "a5bc1e5e3765a69630658eede5d346518bf2ba912f1429215a8d73ebd1c63461", 
+                  "size": "1487916902", 
+                  "type": "official", 
+                  "version": "v13.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-10-20", 
