@@ -97,16 +97,16 @@
     ], 
     "alioth": [
         {
-            "changelog": "- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- Misc fixes and upstream changes, more info into github repo.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.5.0.SKHMIXM\r\n</b>", 
-            "date": "2022-10-18", 
-            "datetime": "20221018", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20221018-GAPPS.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20221018-GAPPS.zip", 
+            "changelog": "- msm_irqbalance config: Do not balance msm_drm and kgsl-3d0 IRQs\r\n- Do not touch sleep disabled\r\n- sepolicy: Lable more power supply sysfs\r\n- rootdir: Set proper cpusets for kona caf\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- kernel: sched: Cleanup\r\n- arch: dts: alioth: Throttle charging speed at 42\u00b0C\r\n- Misc fixes and upstream changes, more info into github repo.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.5.0.SKHMIXM\r\n</b>", 
+            "date": "2022-10-25", 
+            "datetime": "20221025", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20221025-GAPPS.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20221025-GAPPS.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "cdae3abdcd7345bb58fcac1df73d3e73821a8038e0a3cb182844c02be315c5c9", 
-            "size": "1327380657", 
+            "sha256": "0fa011aee654fa19c8b2f87bfc02d48cc4564dff2905839b2786127ea51bce3c", 
+            "size": "1327374894", 
             "type": "official", 
             "version": "v12.1"
         }
