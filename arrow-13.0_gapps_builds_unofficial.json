@@ -65,16 +65,16 @@
     ], 
     "mojito": [
         {
-            "changelog": null, 
-            "date": "2022-10-18", 
-            "datetime": "20221018", 
-            "filename": "Arrow-v13.0-mojito-UNOFFICIAL-20221018-GAPPS.zip", 
-            "filepath": "/arrow-13.0/mojito/Arrow-v13.0-mojito-UNOFFICIAL-20221018-GAPPS.zip", 
+            "changelog": "\u2022 Enforcing Userdebug Build\r\n\u2022 For those feeling NetErnels kernel to be a tad bit more memory aggressive even after tuning SLMK, \r\n\r\ntry switching the value of /sys/kernel/mm/lru_gen/min_ttl_ms to anything between 750-1000 (I personally use 800).", 
+            "date": "2022-10-25", 
+            "datetime": "20221025", 
+            "filename": "Arrow-v13.0-mojito-UNOFFICIAL-20221025-GAPPS.zip", 
+            "filepath": "/arrow-13.0/mojito/Arrow-v13.0-mojito-UNOFFICIAL-20221025-GAPPS.zip", 
             "maintainer": "sarthakroy2002, blur", 
             "model": "Redmi Note 10", 
             "oem": "Redmi", 
-            "sha256": "66c1dbbafe23f991eeb8ade8964f6a1a061014b14aee117cb051430bbaed96d8", 
-            "size": "1486399865", 
+            "sha256": "76e48cafa6c89ed401086e60e2fbc8ce1909be7bf8181a8b8aaf39e1469a99c7", 
+            "size": "1490287190", 
             "type": "unofficial", 
             "version": "v13.0"
         }
