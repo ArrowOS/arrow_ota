@@ -15,6 +15,22 @@
             "version": "v13.0"
         }
     ], 
+    "RMP6768": [
+        {
+            "changelog": "Initial Official release on OSS Vendor\r\nUsed Clang 14 to Compile Kernel\r\nKernel Updated to 4.14.296", 
+            "date": "2022-10-28", 
+            "datetime": "20221028", 
+            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20221028-GAPPS.zip", 
+            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20221028-GAPPS.zip", 
+            "maintainer": "TG_DEVICE_MAINTAINER", 
+            "model": "Pad", 
+            "oem": "Realme", 
+            "sha256": "b64d37351c5eb94d64352c9e7a1451b1a9629df1fda679b436763136051e0cfb", 
+            "size": "1135868926", 
+            "type": "unofficial", 
+            "version": "v13.0"
+        }
+    ], 
     "RMX1801": [
         {
             "changelog": null, 
