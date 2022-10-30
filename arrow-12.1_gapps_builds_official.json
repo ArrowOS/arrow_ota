@@ -287,6 +287,22 @@
             "version": "v12.1"
         }
     ], 
+    "jasmine_sprout": [
+        {
+            "changelog": null, 
+            "date": "2022-10-30", 
+            "datetime": "20221030", 
+            "filename": "Arrow-v12.1-jasmine_sprout-OFFICIAL-20221030-GAPPS.zip", 
+            "filepath": "/arrow-12.1/jasmine_sprout/Arrow-v12.1-jasmine_sprout-OFFICIAL-20221030-GAPPS.zip", 
+            "maintainer": "Immanuel_Raj(@iamimmanuelraj)", 
+            "model": "Mi A2", 
+            "oem": "Xiaomi", 
+            "sha256": "acdc7287a567c7205c90be77763d8228cfdb61500e65220c9764ccde5494fbd6", 
+            "size": "1035904896", 
+            "type": "official", 
+            "version": "v12.1"
+        }
+    ], 
     "kebab": [
         {
             "changelog": "- Fix NFC bugs\r\n- Upstream Kernel\r\n- Update vibration effects\r\n- Add Dolby Atmos\r\n- Add unlimit edge touch switch\r\n- Cleanup some stock something\r\n- Fix some bugs", 
