@@ -130,16 +130,16 @@
     "nabu": [
         {
             "changelog": "Follow these instructions: <a href=\"https://kubersharma001.com/arrowos-for-xiaomi-pad-5-nabu\">Click here</a>", 
-            "date": "2022-10-14", 
-            "datetime": "20221014", 
-            "filename": "Arrow-v13.0-nabu-OFFICIAL-20221014-VANILLA.zip", 
-            "filepath": "/arrow-13.0/nabu/Arrow-v13.0-nabu-OFFICIAL-20221014-VANILLA.zip", 
-            "maintainer": "kubersharma001, ganeshi4u", 
+            "date": "2022-10-30", 
+            "datetime": "20221030", 
+            "filename": "Arrow-v13.0-nabu-UNOFFICIAL-20221030-VANILLA.zip", 
+            "filepath": "/arrow-13.0/nabu/Arrow-v13.0-nabu-UNOFFICIAL-20221030-VANILLA.zip", 
+            "maintainer": "LynnrinChan, kubersharma001, ganeshi4u", 
             "model": "Xiaomi Pad 5", 
             "oem": "Xiaomi", 
-            "sha256": "cb9dc37d18a92ba7512c52c995a5c7598b5feb20f5825633e40da94c10ed8aef", 
-            "size": "1257336004", 
-            "type": "official", 
+            "sha256": "7f73ce9e1027b80ec5e3c1ae750f87f5adfc53939d79bef74d18dba09aac6c4c", 
+            "size": "1268377104", 
+            "type": "unofficial", 
             "version": "v13.0"
         }
     ], 
