@@ -5745,6 +5745,18 @@
           ], 
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-10-30", 
+                  "datetime": "20221030", 
+                  "filename": "Arrow-v13.0-nabu-UNOFFICIAL-20221030-GAPPS.zip", 
+                  "filepath": "/arrow-13.0/nabu/Arrow-v13.0-nabu-UNOFFICIAL-20221030-GAPPS.zip", 
+                  "sha256": "b9bd93985608b1f5a145bf2b05684ee2718817cb08cd845478da4b3d689c79c0", 
+                  "size": "1508470980", 
+                  "type": "unofficial", 
+                  "version": "v13.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-10-30", 
