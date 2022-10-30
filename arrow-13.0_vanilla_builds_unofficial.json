@@ -143,6 +143,22 @@
             "version": "v13.0"
         }
     ], 
+    "tucana": [
+        {
+            "changelog": "Test build for tucana based on arrow-13.0", 
+            "date": "2022-10-30", 
+            "datetime": "20221030", 
+            "filename": "Arrow-v13.0-tucana-UNOFFICIAL-20221030-VANILLA.zip", 
+            "filepath": "/arrow-13.0/tucana/Arrow-v13.0-tucana-UNOFFICIAL-20221030-VANILLA.zip", 
+            "maintainer": "Erikdrozina", 
+            "model": "Mi Note 10", 
+            "oem": "Xiaomi", 
+            "sha256": "d47b99e3673a22eceb1341759e5e04fc0720c5cc3c41e250c0c395d4524078cb", 
+            "size": "1219296449", 
+            "type": "unofficial", 
+            "version": "v13.0"
+        }
+    ], 
     "vayu": [
         {
             "changelog": null, 
