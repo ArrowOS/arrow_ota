@@ -8071,6 +8071,22 @@
       ], 
       "v13.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-10-31", 
+                  "datetime": "20221031", 
+                  "filename": "Arrow-v13.0-thyme-OFFICIAL-20221031-VANILLA.zip", 
+                  "filepath": "/arrow-13.0/thyme/Arrow-v13.0-thyme-OFFICIAL-20221031-VANILLA.zip", 
+                  "sha256": "87f5ffb0e05fdb69f8472201e8059a5b571ad4b93c11d9d0a2ede5fa0201a425", 
+                  "size": "1259925632", 
+                  "type": "official", 
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
