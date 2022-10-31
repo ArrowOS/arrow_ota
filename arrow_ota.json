@@ -8073,6 +8073,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-10-31", 
+                  "datetime": "20221031", 
+                  "filename": "Arrow-v13.0-thyme-OFFICIAL-20221031-GAPPS.zip", 
+                  "filepath": "/arrow-13.0/thyme/Arrow-v13.0-thyme-OFFICIAL-20221031-GAPPS.zip", 
+                  "sha256": "ade17889c67bac118a99f3486b51d9d499c821cbb0d1e2f748848dee52b1fb00", 
+                  "size": "1554513173", 
+                  "type": "official", 
+                  "version": "v13.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-10-31", 
