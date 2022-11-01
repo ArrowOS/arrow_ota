@@ -357,12 +357,28 @@
   ], 
   "RMP6768": [
     {
-      "changelog": "Flash Only On A09 Firmware\r\nOSS Vendor Based", 
+      "changelog": "Initial Offical Build Based On OSS Vendor\r\nKernel compiled using Clang 14\r\nKernel updated to 4.14.296", 
       "maintainer": "NeilChetty", 
       "model": "Realme Pad", 
       "oem": "Realme", 
       "v13.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-11-01", 
+                  "datetime": "20221101", 
+                  "filename": "Arrow-v13.0-RMP6768-OFFICIAL-20221101-VANILLA.zip", 
+                  "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-OFFICIAL-20221101-VANILLA.zip", 
+                  "sha256": "242160f8693a5516eee33386b08097794969769e8bd2a0c60d8620a61926cb91", 
+                  "size": "831996706", 
+                  "type": "official", 
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
