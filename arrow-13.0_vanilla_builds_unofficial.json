@@ -95,6 +95,22 @@
             "version": "v13.0"
         }
     ], 
+    "gauguin": [
+        {
+            "changelog": null, 
+            "date": "2022-11-01", 
+            "datetime": "20221101", 
+            "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20221101-VANILLA.zip", 
+            "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20221101-VANILLA.zip", 
+            "maintainer": "kawaaii & Lynrinn", 
+            "model": "M2007J17G", 
+            "oem": "Xiaomi", 
+            "sha256": "74fbf4d876d8376f342c7048ff4310a389672e75334b5524ba6aea06fc65506f", 
+            "size": "1351163811", 
+            "type": "unofficial", 
+            "version": "v13.0"
+        }
+    ], 
     "mojito": [
         {
             "changelog": "\u2022 Enforcing Userdebug Build\r\n\u2022 For those feeling NetErnels kernel to be a tad bit more memory aggressive even after tuning SLMK, \r\n\r\ntry switching the value of /sys/kernel/mm/lru_gen/min_ttl_ms to anything between 750-1000 (I personally use 800).", 
