@@ -95,6 +95,22 @@
             "version": "v13.0"
         }
     ], 
+    "gauguin": [
+        {
+            "changelog": null, 
+            "date": "2022-11-02", 
+            "datetime": "20221102", 
+            "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20221102-GAPPS.zip", 
+            "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20221102-GAPPS.zip", 
+            "maintainer": "kawaaii & Lynrinn", 
+            "model": "M2007J17G", 
+            "oem": "Xiaomi", 
+            "sha256": "e831e6ff2262f4e1a9af37a2f7e3c1ca16f6a04e1f5d305a445dc89b6dbe4d17", 
+            "size": "1683349892", 
+            "type": "unofficial", 
+            "version": "v13.0"
+        }
+    ], 
     "mojito": [
         {
             "changelog": "\u2022 Enforcing Userdebug Build \r\n\u2022 Switch back to QTI Power Stack", 
