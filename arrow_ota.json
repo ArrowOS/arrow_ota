@@ -4849,7 +4849,7 @@
   ], 
   "lisa": [
     {
-      "changelog": "- Fixed battery usage stats\r\n- More stability fixes & upstream changes\r\n\r\nNote : Clean flash required!", 
+      "changelog": "- few changes maybe!", 
       "maintainer": "ganeshi4u", 
       "model": "Xiaomi 11 Lite NE 5G", 
       "oem": "Xiaomi", 
@@ -4923,12 +4923,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-10-12", 
-                  "datetime": "20221012", 
-                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20221012-GAPPS.zip", 
-                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20221012-GAPPS.zip", 
-                  "sha256": "d61a7113cdb1d406278d6149697c066bb8908ab3e261cb17461050c2fe89c73d", 
-                  "size": "1436645263", 
+                  "date": "2022-11-02", 
+                  "datetime": "20221102", 
+                  "filename": "Arrow-v12.1-lisa-OFFICIAL-20221102-GAPPS.zip", 
+                  "filepath": "/arrow-12.1/lisa/Arrow-v12.1-lisa-OFFICIAL-20221102-GAPPS.zip", 
+                  "sha256": "fe3cbf96897a9905d59e8f780a0b479a6901c743b3ae301109e2a153f19e00b7", 
+                  "size": "1436791993", 
                   "type": "official", 
                   "version": "v12.1"
                 }
