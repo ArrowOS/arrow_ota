@@ -771,6 +771,22 @@
       ], 
       "v13.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-11-03", 
+                  "datetime": "20221103", 
+                  "filename": "Arrow-v13.0-RMX2020-OFFICIAL-20221103-VANILLA.zip", 
+                  "filepath": "/arrow-13.0/RMX2020/Arrow-v13.0-RMX2020-OFFICIAL-20221103-VANILLA.zip", 
+                  "sha256": "3daa44d81e82edf39afa316f65f1d587745e7fa01eedb12930830723b52428c1", 
+                  "size": "974014869", 
+                  "type": "official", 
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ], 
           "UNOFFICIAL": [
             {
               "GAPPS": [
