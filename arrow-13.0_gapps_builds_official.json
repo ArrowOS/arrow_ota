@@ -31,6 +31,22 @@
             "version": "v13.0"
         }
     ], 
+    "RMX2020": [
+        {
+            "changelog": "NOTE: For Realme UI 1.0 FW only.", 
+            "date": "2022-11-03", 
+            "datetime": "20221103", 
+            "filename": "Arrow-v13.0-RMX2020-OFFICIAL-20221103-GAPPS.zip", 
+            "filepath": "/arrow-13.0/RMX2020/Arrow-v13.0-RMX2020-OFFICIAL-20221103-GAPPS.zip", 
+            "maintainer": "sarthakroy2002", 
+            "model": "realme Monet", 
+            "oem": "realme", 
+            "sha256": "df56cafc1c4f4d912ee41ab9d8d1f7bf77da5aa7210bcdb67751b997de2ba35b", 
+            "size": "1308551385", 
+            "type": "official", 
+            "version": "v13.0"
+        }
+    ], 
     "apollo": [
         {
             "changelog": "***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial", 
