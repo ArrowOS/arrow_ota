@@ -354,15 +354,15 @@
     "miatoll": [
         {
             "changelog": "\u2022 Upstream kernel to 4.14.289\r\n\u2022 Merge tag LA.UM.9.1.r1-12000.01-SMxxx0.QSSI12.0 in qcacld-3.0, fw-api, qca-wifi-host-cmn, techpack/audio and treewide\r\n\u2022 Switch to new GCamGO with Snapchat filters and QR code scanner support.\r\n\u2022 Added back resource overlays for system bar heights\r\n\u2022 Fixed fingerprint sensor icon overlay location\r\n\u2022 Switch to dot product CPU variant\r\n\u2022 Disabled IORap\r\n\u2022 Declare the presence of wake-up proximity sensor in XiaomiDoze\r\n\u2022 Fix pocket gesture force enabled while using handwave in XiaomiDoze\r\n\u2022 Reduce earphone gain\r\n\u2022 Hide Mobile plan preference item\r\n\u2022 Drop Alipay fingerprint payment support\r\n\u2022 Fixed mic not working in google apps\r\n\u2022 Drop useless TLOC daemon\r\n\u2022 Remove useless servicetracker HAL\r\n\u2022 Remove unused libqsap_sdk\r\n\u2022 Remove unused 32-bit libs", 
-            "date": "2022-08-07", 
-            "datetime": "20220807", 
-            "filename": "Arrow-v12.1-miatoll-UNOFFICIAL-20220807-GAPPS.zip", 
-            "filepath": "/arrow-12.1/miatoll/Arrow-v12.1-miatoll-UNOFFICIAL-20220807-GAPPS.zip", 
-            "maintainer": "SonalSingh18", 
+            "date": "2022-11-05", 
+            "datetime": "20221105", 
+            "filename": "Arrow-v12.1-miatoll-UNOFFICIAL-20221105-GAPPS.zip", 
+            "filepath": "/arrow-12.1/miatoll/Arrow-v12.1-miatoll-UNOFFICIAL-20221105-GAPPS.zip", 
+            "maintainer": "SonalSingh", 
             "model": "Miatoll", 
             "oem": "Xiaomi", 
-            "sha256": "50eef085885baeeb9a00d4f3f5e7d4bb8bb9f4946a3fe7f16b9aee2206f354c8", 
-            "size": "1453792004", 
+            "sha256": "1322fd67b9ce84543f03ae0b2bfc6ffee488237807b5c12caa18bd4cbe408d97", 
+            "size": "1441458072", 
             "type": "unofficial", 
             "version": "v12.1"
         }
