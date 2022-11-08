@@ -8369,7 +8369,7 @@
   ], 
   "tulip": [
     {
-      "changelog": null, 
+      "changelog": "- Initial Official build.", 
       "maintainer": "IceBreaker2451", 
       "model": "Redmi Note 6 Pro", 
       "oem": "Xiaomi", 
@@ -8511,12 +8511,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-11-01", 
-                  "datetime": "20221101", 
-                  "filename": "Arrow-v12.1-tulip-UNOFFICIAL-20221101-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-UNOFFICIAL-20221101-VANILLA.zip", 
-                  "sha256": "9c2b27187e338fede57297359c13000c247091b6aac0e5e410e32e1eb4cf19fd", 
-                  "size": "805041284", 
+                  "date": "2022-11-08", 
+                  "datetime": "20221108", 
+                  "filename": "Arrow-v12.1-tulip-UNOFFICIAL-20221108-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/tulip/Arrow-v12.1-tulip-UNOFFICIAL-20221108-VANILLA.zip", 
+                  "sha256": "4fd97a6e4e7af73598c3f2724083e8c8ddc438e4318b6368f74f4dd9d5ff13f9", 
+                  "size": "805035719", 
                   "type": "unofficial", 
                   "version": "v12.1"
                 }
