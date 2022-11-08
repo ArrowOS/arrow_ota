@@ -98,15 +98,15 @@
     "alioth": [
         {
             "changelog": "- msm_irqbalance config: Do not balance msm_drm and kgsl-3d0 IRQs\r\n- Do not touch sleep disabled\r\n- sepolicy: Lable more power supply sysfs\r\n- rootdir: Set proper cpusets for kona caf\r\n- Misc fixes and upstream changes.\r\n\r\nKernel:\r\n- Merge branch android-4.19-stable of google android/kernel/common\r\n- kernel: sched: Cleanup\r\n- arch: dts: alioth: Throttle charging speed at 42\u00b0C\r\n- Misc fixes and upstream changes, more info into github repo.\r\n\r\n<b>- Installation instruction:</b> https://forum.xda-developers.com/t/rom-12-0-0-alioth-aliothin-arrowos-12-0-beta.4348617/post-85790097\r\n\r\n<b>- Recommend use with fw part MIUI:\r\nGlobal: V13.0.5.0.SKHMIXM\r\n</b>", 
-            "date": "2022-10-31", 
-            "datetime": "20221031", 
-            "filename": "Arrow-v12.1-alioth-OFFICIAL-20221031-VANILLA.zip", 
-            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20221031-VANILLA.zip", 
+            "date": "2022-11-07", 
+            "datetime": "20221107", 
+            "filename": "Arrow-v12.1-alioth-OFFICIAL-20221107-VANILLA.zip", 
+            "filepath": "/arrow-12.1/alioth/Arrow-v12.1-alioth-OFFICIAL-20221107-VANILLA.zip", 
             "maintainer": "palaych", 
             "model": "Poco F3", 
             "oem": "POCO", 
-            "sha256": "9d5d2faed95bc474924bb2f1601e428dbb3d41f40dc28927801073e9d2a4a12a", 
-            "size": "1045231050", 
+            "sha256": "25be1ba04f73c7cdfc3edf2e575f85f4179be9d57b723dd473d0c95dea0da398", 
+            "size": "1045231033", 
             "type": "official", 
             "version": "v12.1"
         }
