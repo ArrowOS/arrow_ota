@@ -111,6 +111,22 @@
             "version": "v13.0"
         }
     ], 
+    "miatoll": [
+        {
+            "changelog": "\u2022 Upstreamed kernel to 4.14.298\r\n\u2022 Synced props with V13.0.2.0.SJWMIXM\r\n\u2022 Updated rootdir from V13.0.2.0.SJWMIXM\r\n\u2022 Updated media from V13.0.2.0.SJWMIXM\r\n\u2022 Updated CarrierConfig and Telephony overlays from V13.0.2.0.SJWMIXM\r\n\u2022 Updated all blobs from V13.0.2.0.SJWMIXM\r\n\u2022 Switched back to OSS Audio HAL\r\n\u2022 Moved to common Xiaomi light AIDL\r\n\u2022 Moved to common Xiaomi fingerprint HIDL\r\n\u2022 Dropped QCOM WFD HDCP support\r\n\u2022 Disable UBWC for WFD\r\n\u2022 Dropped prebuilt megvii camera libs\r\n\u2022 Dropped prebuilt camera provider\r\n\u2022 Build android.hidl.memory.block@1.0 & its vendor variant from source\r\n\u2022 Use performance thermal as fallback for Gamespace in XiaomiParts\r\n\u2022 Enable zygote critical window\r\n\u2022 Dropped support for Snapdragon Camera\r\n\u2022 Fixed dirac_prop sepolicy namespace violation\r\n\u2022 Allow user to select WiFi Calling while roaming\r\n\u2022 Removed 32-bit CNE libs\r\n\u2022 Removed 32-bit CVP libs\r\n\u2022 Removed 32-bit DRM libs\r\n\u2022 Removed 32-bit DSP libs\r\n\u2022 Removed 32-bit GPS libs\r\n\u2022 Removed 32-bit IMS libs\r\n\u2022 Removed 32-bit NPU libs\r\n\u2022 Removed 32-bit RIL libs\r\n\u2022 Removed unused 32-bit Bluetooth libs\r\n\u2022 Removed unused 32-bit display libs\r\n\u2022 Removed unused 64-bit listen libs\r\n\u2022 Removed more unused 32-bit libs\r\n\u2022 Kanged aptX blobs from raven\r\n\u2022 Import 32 bit CamX libraries", 
+            "date": "2022-11-10", 
+            "datetime": "20221110", 
+            "filename": "Arrow-v13.0-miatoll-UNOFFICIAL-20221110-VANILLA.zip", 
+            "filepath": "/arrow-13.0/miatoll/Arrow-v13.0-miatoll-UNOFFICIAL-20221110-VANILLA.zip", 
+            "maintainer": "SonalSingh", 
+            "model": "Miatoll", 
+            "oem": "Xiaomi", 
+            "sha256": "b19f349d60b0523132d0671a8a3b2f94917a30c5d58b90d267ebf6e957c72439", 
+            "size": "1159458389", 
+            "type": "unofficial", 
+            "version": "v13.0"
+        }
+    ], 
     "mojito": [
         {
             "changelog": "\u2022 Enforcing Userdebug Build \r\n\u2022 Switch back to QTI Power Stack", 
