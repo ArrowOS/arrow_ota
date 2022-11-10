@@ -5469,6 +5469,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-11-10", 
+                  "datetime": "20221110", 
+                  "filename": "Arrow-v13.0-miatoll-UNOFFICIAL-20221110-GAPPS.zip", 
+                  "filepath": "/arrow-13.0/miatoll/Arrow-v13.0-miatoll-UNOFFICIAL-20221110-GAPPS.zip", 
+                  "sha256": "586916095792fab51d6f0a420431fef25e3d6ec6a97775aa4e9468ea5d9299dc", 
+                  "size": "1466227846", 
+                  "type": "unofficial", 
+                  "version": "v13.0"
+                }
+              ], 
               "VANILLA": [
                 {
                   "date": "2022-11-10", 
