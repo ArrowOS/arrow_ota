@@ -18,15 +18,15 @@
     "RMP6768": [
         {
             "changelog": "Flash Only On A09 Firmware\r\nOSS Vendor Based\r\n\r\nUse Arrow Recovery:\r\nhttps://github.com/neilchetty/releases/releases/tag/25102022", 
-            "date": "2022-11-11", 
-            "datetime": "20221111", 
-            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20221111-GAPPS.zip", 
-            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20221111-GAPPS.zip", 
+            "date": "2022-11-14", 
+            "datetime": "20221114", 
+            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20221114-GAPPS.zip", 
+            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20221114-GAPPS.zip", 
             "maintainer": "NeilChetty", 
             "model": "Realme Pad", 
             "oem": "Realme", 
-            "sha256": "b73f34b894ac8075bc16afe87788a6bc7d61f14bad3f34946b389ed519c55013", 
-            "size": "1133434079", 
+            "sha256": "c50327ed519302c78287cece4d2ec22e1e3e4e091bc4148e1aa72ef0b407ce26", 
+            "size": "1133093234", 
             "type": "unofficial", 
             "version": "v13.0"
         }
