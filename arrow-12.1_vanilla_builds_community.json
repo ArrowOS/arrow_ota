@@ -18,15 +18,15 @@
     "Z01R": [
         {
             "changelog": "\u2022 Kernel: Merge LA.UM.10.3.r1-01700-sdm845.0 tag\r\n\u2022 Sync latest ROM change", 
-            "date": "2022-11-11", 
-            "datetime": "20221111", 
-            "filename": "Arrow-v12.1-Z01R-COMMUNITY-20221111-VANILLA.zip", 
-            "filepath": "/arrow-12.1/Z01R/Arrow-v12.1-Z01R-COMMUNITY-20221111-VANILLA.zip", 
+            "date": "2022-11-18", 
+            "datetime": "20221118", 
+            "filename": "Arrow-v12.1-Z01R-COMMUNITY-20221118-VANILLA.zip", 
+            "filepath": "/arrow-12.1/Z01R/Arrow-v12.1-Z01R-COMMUNITY-20221118-VANILLA.zip", 
             "maintainer": "EdwardWu", 
             "model": "Zenfone 5Z", 
             "oem": "asus", 
-            "sha256": "b7d023368e27d28a6ea8cd6a5ba9f5053b788eada4139ea75f3e9c784e81ae82", 
-            "size": "751549029", 
+            "sha256": "b05943be923c07783944006d433b691f32938f3c185699455515f62d6c73457c", 
+            "size": "751557122", 
             "type": "community", 
             "version": "v12.1"
         }
