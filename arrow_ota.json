@@ -6311,12 +6311,12 @@
               ], 
               "VANILLA": [
                 {
-                  "date": "2022-11-05", 
-                  "datetime": "20221105", 
-                  "filename": "Arrow-v12.1-phoenix-OFFICIAL-20221105-VANILLA.zip", 
-                  "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-OFFICIAL-20221105-VANILLA.zip", 
-                  "sha256": "ca0b96ab1c3669c4325aa95076287388fd1e30645d065c0bd3a763b8f54e9349", 
-                  "size": "1028001632", 
+                  "date": "2022-11-19", 
+                  "datetime": "20221119", 
+                  "filename": "Arrow-v12.1-phoenix-OFFICIAL-20221119-VANILLA.zip", 
+                  "filepath": "/arrow-12.1/phoenix/Arrow-v12.1-phoenix-OFFICIAL-20221119-VANILLA.zip", 
+                  "sha256": "15f5259aa2bc06ac5e2fb34de4916f11f1c79d9b81393047f4a4996f0cb32865", 
+                  "size": "1028009477", 
                   "type": "official", 
                   "version": "v12.1"
                 }
