@@ -1,4 +1,20 @@
 {
+    "X01AD": [
+        {
+            "changelog": "- test", 
+            "date": "2022-11-20", 
+            "datetime": "20221120", 
+            "filename": "Arrow-v12.1-X01AD-COMMUNITY-20221120-GAPPS.zip", 
+            "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20221120-GAPPS.zip", 
+            "maintainer": "Arka", 
+            "model": "Asus Zenfone Max M2", 
+            "oem": "asus", 
+            "sha256": "4bae2127e15e0cda92d7ace53aca19b1e9d18e4cffe01e0ccd3087b4419f5f01", 
+            "size": "1148172503", 
+            "type": "community", 
+            "version": "v12.1"
+        }
+    ], 
     "cepheus": [
         {
             "changelog": null, 
