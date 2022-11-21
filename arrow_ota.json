@@ -1009,7 +1009,7 @@
   ], 
   "X01AD": [
     {
-      "changelog": "- Added libperfmanager\r\n- Improved HWUI and performance\r\n- Improve App Launch speed\r\n- Import runtime cpusets from coral\r\n- Improve scrolling responsiveness.\r\n- Misc Improvements\r\n- Added kcal\r\n- Added devfreqboost", 
+      "changelog": "- Added libperfmanager\r\n- Improved HWUI and performance\r\n- Improve App Launch speed\r\n- Import runtime cpusets from coral\r\n- Improve scrolling responsiveness.\r\n- Misc Improvements\r\n- Added kcal\r\n- Added devfreqboost\r\n- Added Gcam Go Prebuilt V3", 
       "maintainer": "Arka", 
       "model": "ASUS_X01AD", 
       "oem": "asus", 
@@ -1099,8 +1099,8 @@
                   "datetime": "20221121", 
                   "filename": "Arrow-v12.1-X01AD-COMMUNITY-20221121-VANILLA.zip", 
                   "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20221121-VANILLA.zip", 
-                  "sha256": "ea7c403732fc27e43dce90b90fac9695fc0e9fb6380a41fa7455b59de994dbd7", 
-                  "size": "889910765", 
+                  "sha256": "02c9f3eeffeb0799cc555d7e90d825d6a262ca89433869ba5f14d4e99e3d25bf", 
+                  "size": "889900646", 
                   "type": "community", 
                   "version": "v12.1"
                 }
