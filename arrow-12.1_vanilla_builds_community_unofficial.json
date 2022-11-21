@@ -1,16 +1,16 @@
 {
     "X01AD": [
         {
-            "changelog": "- Added libperfmanager\r\n- Improved HWUI and performance\r\n- Improve App Launch speed\r\n- Import runtime cpusets from coral\r\n- Improve scrolling responsiveness.\r\n- Misc Improvements\r\n- Ship Aperture Camera\r\n- Added kcal\r\n- Added devfreqboost", 
-            "date": "2022-11-20", 
-            "datetime": "20221120", 
-            "filename": "Arrow-v12.1-X01AD-COMMUNITY-20221120-VANILLA.zip", 
-            "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20221120-VANILLA.zip", 
+            "changelog": "- Added libperfmanager\r\n- Improved HWUI and performance\r\n- Improve App Launch speed\r\n- Import runtime cpusets from coral\r\n- Improve scrolling responsiveness.\r\n- Misc Improvements\r\n- Added kcal\r\n- Added devfreqboost", 
+            "date": "2022-11-21", 
+            "datetime": "20221121", 
+            "filename": "Arrow-v12.1-X01AD-COMMUNITY-20221121-VANILLA.zip", 
+            "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20221121-VANILLA.zip", 
             "maintainer": "Arka", 
             "model": "ASUS_X01AD", 
             "oem": "asus", 
-            "sha256": "f6d02951e7a58c5cb90f814337e55ed0f212eb46139329245aa008f080296ace", 
-            "size": "814809258", 
+            "sha256": "ea7c403732fc27e43dce90b90fac9695fc0e9fb6380a41fa7455b59de994dbd7", 
+            "size": "889910765", 
             "type": "community", 
             "version": "v12.1"
         }
