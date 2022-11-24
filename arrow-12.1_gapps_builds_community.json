@@ -1,16 +1,16 @@
 {
     "X01AD": [
         {
-            "changelog": "- Initial A12 build", 
-            "date": "2022-05-03", 
-            "datetime": "20220503", 
-            "filename": "Arrow-v12.1-X01AD-COMMUNITY-20220503-GAPPS.zip", 
-            "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20220503-GAPPS.zip", 
+            "changelog": "- Added libperfmanager\r\n- Improved HWUI and performance\r\n- Improve App Launch speed\r\n- Import runtime cpusets from coral\r\n- Improve scrolling responsiveness.\r\n- Misc Improvements\r\n- Added kcal\r\n- Added devfreqboost", 
+            "date": "2022-11-24", 
+            "datetime": "20221124", 
+            "filename": "Arrow-v12.1-X01AD-COMMUNITY-20221124-GAPPS.zip", 
+            "filepath": "/arrow-12.1/X01AD/Arrow-v12.1-X01AD-COMMUNITY-20221124-GAPPS.zip", 
             "maintainer": "Arka", 
-            "model": "Asus Zenfone Max M2", 
+            "model": "ASUS_X01AD", 
             "oem": "asus", 
-            "sha256": "6d0b74e4cb2d03b417571b134d1731f1c203579adaac6b287390a827c5b93d4d", 
-            "size": "1139635696", 
+            "sha256": "1e977788982efb35b663c66f92870438ec31a372e90cc1275bdcd33a3538473f", 
+            "size": "1142969535", 
             "type": "community", 
             "version": "v12.1"
         }
