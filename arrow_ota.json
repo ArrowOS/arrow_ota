@@ -5052,6 +5052,18 @@
                   "type": "official",
                   "version": "v13.0"
                 }
+              ],
+              "VANILLA": [
+                {
+                  "date": "2022-12-07",
+                  "datetime": "20221207",
+                  "filename": "Arrow-v13.0-lisa-OFFICIAL-20221207-VANILLA.zip",
+                  "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-OFFICIAL-20221207-VANILLA.zip",
+                  "sha256": "a4b979cae36912e7a866e4ce0f215f3fcca59ca0baf5c389bc3d92651ef1bdab",
+                  "size": "1377451067",
+                  "type": "official",
+                  "version": "v13.0"
+                }
               ]
             }
           ]
