@@ -8838,7 +8838,7 @@
   "vayu": [
     {
       "changelog": null,
-      "maintainer": "kubersharma001",
+      "maintainer": "kubersharma001, raghavt20",
       "model": "Poco X3 Pro",
       "oem": "POCO",
       "v11.0": [
@@ -9055,12 +9055,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2022-11-14",
-                  "datetime": "20221114",
-                  "filename": "Arrow-v13.0-vayu-OFFICIAL-20221114-GAPPS.zip",
-                  "filepath": "/arrow-13.0/vayu/Arrow-v13.0-vayu-OFFICIAL-20221114-GAPPS.zip",
-                  "sha256": "93569f1ac9bd31e20b1fcd72e15cd1bf10527f735952058e9706b7e60a5c524f",
-                  "size": "1486524529",
+                  "date": "2022-12-09",
+                  "datetime": "20221209",
+                  "filename": "Arrow-v13.0-vayu-OFFICIAL-20221209-GAPPS.zip",
+                  "filepath": "/arrow-13.0/vayu/Arrow-v13.0-vayu-OFFICIAL-20221209-GAPPS.zip",
+                  "sha256": "8b9d53ebe72f5d079ac3a10990e8ddfe4d602be6f09bf133dd4233bd8cbdd223",
+                  "size": "1465942677",
                   "type": "official",
                   "version": "v13.0"
                 }
