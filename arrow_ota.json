@@ -5729,7 +5729,7 @@
   ],
   "mojito": [
     {
-      "changelog": "\u2022 Enforcing Userdebug Build \r\n\u2022 Switch back to QTI Power Stack",
+      "changelog": "\u2022 Enforcing Userdebug Build",
       "maintainer": "sarthakroy2002, blur",
       "model": "Redmi Note 10",
       "oem": "Redmi",
@@ -5779,12 +5779,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2022-11-10",
-                  "datetime": "20221110",
-                  "filename": "Arrow-v13.0-mojito-UNOFFICIAL-20221110-VANILLA.zip",
-                  "filepath": "/arrow-13.0/mojito/Arrow-v13.0-mojito-UNOFFICIAL-20221110-VANILLA.zip",
-                  "sha256": "4f2b2f0fda4008cf36c1afe8aec8d22ac6828bc16a81c7c86eb5845d20b816bc",
-                  "size": "1148623872",
+                  "date": "2022-12-11",
+                  "datetime": "20221211",
+                  "filename": "Arrow-v13.0-mojito-UNOFFICIAL-20221211-VANILLA.zip",
+                  "filepath": "/arrow-13.0/mojito/Arrow-v13.0-mojito-UNOFFICIAL-20221211-VANILLA.zip",
+                  "sha256": "f8a151dbb37f41829048dd87fce01d41b4673256c5816e4ff8bed1ffaaec7d13",
+                  "size": "1150820178",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
