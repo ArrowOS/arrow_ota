@@ -8101,6 +8101,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-12-17",
+                  "datetime": "20221217",
+                  "filename": "Arrow-v13.0-sweet-OFFICIAL-20221217-GAPPS.zip",
+                  "filepath": "/arrow-13.0/sweet/Arrow-v13.0-sweet-OFFICIAL-20221217-GAPPS.zip",
+                  "sha256": "71eea0daeee0a7c6a2c4bf3f2c836b537e5770ed9937887c32d3f092ceceed79",
+                  "size": "1428893780",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2022-12-17",
