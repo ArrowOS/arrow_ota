@@ -357,7 +357,7 @@
   ],
   "RMP6768": [
     {
-      "changelog": "Flash Only On A09&10 Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery",
+      "changelog": "Flash Only On A09 And Above Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery",
       "maintainer": "NeilChetty",
       "model": "Realme Pad",
       "oem": "Realme",
@@ -407,12 +407,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2022-12-11",
-                  "datetime": "20221211",
-                  "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20221211-VANILLA.zip",
-                  "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20221211-VANILLA.zip",
-                  "sha256": "19c76548eedafc49c091df573c3c9c1bb7087a5ce90091fac127c3ca431be3a2",
-                  "size": "783137080",
+                  "date": "2022-12-17",
+                  "datetime": "20221217",
+                  "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20221217-VANILLA.zip",
+                  "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20221217-VANILLA.zip",
+                  "sha256": "ce61eca8ca9c5c520cf867d397c5fd755378e6769e35744a087f4304888be056",
+                  "size": "796648853",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
