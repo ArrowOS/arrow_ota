@@ -7941,7 +7941,7 @@
   ],
   "sweet": [
     {
-      "changelog": "- Enabled fingerprint tap/press to unlock settings",
+      "changelog": "- Initial Android 13 Build",
       "maintainer": "daniml3",
       "model": "Redmi Note 10 Pro",
       "oem": "Redmi",
@@ -8091,6 +8091,26 @@
                   "size": "1074269472",
                   "type": "unofficial",
                   "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.0": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-12-17",
+                  "datetime": "20221217",
+                  "filename": "Arrow-v13.0-sweet-OFFICIAL-20221217-VANILLA.zip",
+                  "filepath": "/arrow-13.0/sweet/Arrow-v13.0-sweet-OFFICIAL-20221217-VANILLA.zip",
+                  "sha256": "7fdeec802b4833a5135035fab81ca7337b0b1341eec2dccf44f2ddc9625ca897",
+                  "size": "1092709491",
+                  "type": "official",
+                  "version": "v13.0"
                 }
               ]
             }
