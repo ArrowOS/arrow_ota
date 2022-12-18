@@ -4969,7 +4969,7 @@
   ],
   "lisa": [
     {
-      "changelog": "- Test build!",
+      "changelog": "- Fixed 64MP mode in MIUI Camera",
       "maintainer": "TG_DEVICE_MAINTAINER",
       "model": "Xiaomi 11 Lite NE",
       "oem": "Xiaomi",
@@ -5094,6 +5094,22 @@
                   "sha256": "a4b979cae36912e7a866e4ce0f215f3fcca59ca0baf5c389bc3d92651ef1bdab",
                   "size": "1377451067",
                   "type": "official",
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ],
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2022-12-18",
+                  "datetime": "20221218",
+                  "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20221218-VANILLA.zip",
+                  "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20221218-VANILLA.zip",
+                  "sha256": "6225fbc8af101df48af37f6fae9b5c818babfa3efece4eb2830febe93f89c83a",
+                  "size": "1376139973",
+                  "type": "unofficial",
                   "version": "v13.0"
                 }
               ]
