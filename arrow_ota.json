@@ -5101,6 +5101,18 @@
           ],
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2022-12-18",
+                  "datetime": "20221218",
+                  "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20221218-GAPPS.zip",
+                  "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20221218-GAPPS.zip",
+                  "sha256": "1dd2df393a0053abd954dbc5b11cc22ea6dac46e7d43a7e4ae5e15e7de05036f",
+                  "size": "1670508386",
+                  "type": "unofficial",
+                  "version": "v13.0"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2022-12-18",
