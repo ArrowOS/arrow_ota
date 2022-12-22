@@ -17,16 +17,16 @@
     ],
     "RMP6768": [
         {
-            "changelog": "Flash Only On A09 And Above Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery",
-            "date": "2022-12-18",
-            "datetime": "20221218",
-            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20221218-GAPPS.zip",
-            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20221218-GAPPS.zip",
+            "changelog": "Flash Only On A09 And Above Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery\r\n\r\nNote:\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.",
+            "date": "2022-12-22",
+            "datetime": "20221222",
+            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20221222-GAPPS.zip",
+            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20221222-GAPPS.zip",
             "maintainer": "NeilChetty",
             "model": "Realme Pad",
             "oem": "Realme",
-            "sha256": "ef6edbeab368e730f2e8a0958d52d32abdbe8e24c853f0d3764eaa049f1a988b",
-            "size": "1123702617",
+            "sha256": "fa7878e7b249183e7c4c782eef94ff517f6419aeb4e91f5b41db649f72de3749",
+            "size": "1123778830",
             "type": "unofficial",
             "version": "v13.0"
         }
