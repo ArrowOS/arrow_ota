@@ -129,16 +129,16 @@
     ],
     "lisa": [
         {
-            "changelog": null,
-            "date": "2022-12-21",
-            "datetime": "20221221",
-            "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20221221-VANILLA.zip",
-            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20221221-VANILLA.zip",
+            "changelog": "- Fixed high brightness at lowest brightness\r\n- Enabled Extra Dim\r\n- Added Xiaomi Cit Service\r\n- Improved Fingerprint Unlocking Animation",
+            "date": "2022-12-25",
+            "datetime": "20221225",
+            "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20221225-VANILLA.zip",
+            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20221225-VANILLA.zip",
             "maintainer": "TG_DEVICE_MAINTAINER",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "0ad7aae11f846e973b7e2a499659c50bb3baced0ca61a851603017edb850a885",
-            "size": "1376054905",
+            "sha256": "c460059a754b0a74196c63733089223f802659924e9203878db133b66cf89f56",
+            "size": "1376531782",
             "type": "unofficial",
             "version": "v13.0"
         }
