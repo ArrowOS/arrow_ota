@@ -1301,6 +1301,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-01-03",
+                  "datetime": "20230103",
+                  "filename": "Arrow-v13.0-X01BD-OFFICIAL-20230103-GAPPS.zip",
+                  "filepath": "/arrow-13.0/X01BD/Arrow-v13.0-X01BD-OFFICIAL-20230103-GAPPS.zip",
+                  "sha256": "46e11d110bca87e67e42829b8168139f314f746ace5c4c7a9c8acef410095cc7",
+                  "size": "1319827774",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-01-03",
