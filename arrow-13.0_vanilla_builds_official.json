@@ -47,6 +47,22 @@
             "version": "v13.0"
         }
     ],
+    "X01BD": [
+        {
+            "changelog": null,
+            "date": "2023-01-03",
+            "datetime": "20230103",
+            "filename": "Arrow-v13.0-X01BD-OFFICIAL-20230103-VANILLA.zip",
+            "filepath": "/arrow-13.0/X01BD/Arrow-v13.0-X01BD-OFFICIAL-20230103-VANILLA.zip",
+            "maintainer": "SonalSingh",
+            "model": "Asus Zenfone Max Pro M2",
+            "oem": "asus",
+            "sha256": "2e1a05932081aea280a9b5a7fe907306ce53c71afe57d19aa6ff2c7415faa1c7",
+            "size": "989090904",
+            "type": "official",
+            "version": "v13.0"
+        }
+    ],
     "Z01R": [
         {
             "changelog": "\u2022 Kernel: Merge LA.UM.10.3.r1-01700-sdm845.0 tag\r\n\u2022 Sync latest ROM change",
