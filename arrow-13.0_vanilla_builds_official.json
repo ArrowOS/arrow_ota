@@ -95,6 +95,22 @@
             "version": "v13.0"
         }
     ],
+    "lisa": [
+        {
+            "changelog": "- Merged LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0 for kernel\r\n- Corrected physical panel dimensions\r\n- Updated wireguard in kernel\r\n- Dropped xiaomi citsensor service\r\n- Misc improvements",
+            "date": "2023-01-07",
+            "datetime": "20230107",
+            "filename": "Arrow-v13.0-lisa-OFFICIAL-20230107-VANILLA.zip",
+            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-OFFICIAL-20230107-VANILLA.zip",
+            "maintainer": "TG_DEVICE_MAINTAINER",
+            "model": "Xiaomi 11 Lite NE",
+            "oem": "Xiaomi",
+            "sha256": "3e67c456dcee3b35b6405ceee21781ede512834a4ab6f6b399c326a9300ce585",
+            "size": "1461841833",
+            "type": "official",
+            "version": "v13.0"
+        }
+    ],
     "mojito": [
         {
             "changelog": "\u2022 Enforcing Userdebug Build",
