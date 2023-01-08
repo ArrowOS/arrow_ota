@@ -161,16 +161,16 @@
     ],
     "sweet": [
         {
-            "changelog": "- Initial Android 13 Build",
-            "date": "2022-12-17",
-            "datetime": "20221217",
-            "filename": "Arrow-v13.0-sweet-OFFICIAL-20221217-VANILLA.zip",
-            "filepath": "/arrow-13.0/sweet/Arrow-v13.0-sweet-OFFICIAL-20221217-VANILLA.zip",
+            "changelog": "- Misc changes and improvements\r\n- Please check devices source for more information",
+            "date": "2023-01-08",
+            "datetime": "20230108",
+            "filename": "Arrow-v13.0-sweet-OFFICIAL-20230108-VANILLA.zip",
+            "filepath": "/arrow-13.0/sweet/Arrow-v13.0-sweet-OFFICIAL-20230108-VANILLA.zip",
             "maintainer": "daniml3",
             "model": "Redmi Note 10 Pro",
             "oem": "Redmi",
-            "sha256": "7fdeec802b4833a5135035fab81ca7337b0b1341eec2dccf44f2ddc9625ca897",
-            "size": "1092709491",
+            "sha256": "32eba87dd9b30f204bb2d3ee5ed3d898b0fc9df24a8b877c5b4703a40e40b878",
+            "size": "1190354493",
             "type": "official",
             "version": "v13.0"
         }
