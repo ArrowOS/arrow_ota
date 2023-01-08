@@ -2,15 +2,15 @@
     "RMP6768": [
         {
             "changelog": "Flash Only On A09 And Above Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery (Use only f2fs recovery)\r\n\r\nNote:\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.",
-            "date": "2023-01-03",
-            "datetime": "20230103",
-            "filename": "Arrow-v13.0-RMP6768-OFFICIAL-20230103-VANILLA.zip",
-            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-OFFICIAL-20230103-VANILLA.zip",
+            "date": "2023-01-08",
+            "datetime": "20230108",
+            "filename": "Arrow-v13.0-RMP6768-OFFICIAL-20230108-VANILLA.zip",
+            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-OFFICIAL-20230108-VANILLA.zip",
             "maintainer": "NeilChetty",
             "model": "Realme Pad",
             "oem": "Realme",
-            "sha256": "eef7382abfd05f76618d415a37981106e35f319f810c9ea35102f0d77e60d50e",
-            "size": "841455497",
+            "sha256": "8756ad2b37ce02722d4484b57d25103425d44509afdd99ec9d0c4003b27ef08a",
+            "size": "904921720",
             "type": "official",
             "version": "v13.0"
         }
