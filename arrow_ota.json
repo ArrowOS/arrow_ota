@@ -9997,6 +9997,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-01-08",
+                  "datetime": "20230108",
+                  "filename": "Arrow-v13.0-x3-OFFICIAL-20230108-GAPPS.zip",
+                  "filepath": "/arrow-13.0/x3/Arrow-v13.0-x3-OFFICIAL-20230108-GAPPS.zip",
+                  "sha256": "535fe7645fec1f589a17a0db08b6825c021b4397f4a180c8732fb3f2067631e2",
+                  "size": "1149464405",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-01-08",

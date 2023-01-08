@@ -238,5 +238,21 @@
             "type": "official",
             "version": "v13.0"
         }
+    ],
+    "x3": [
+        {
+            "changelog": "x3: Bringup arrow-13.0 Android 13 Official build\r\nx3: Build GcamGO-V2\r\nKernel: Merge CLO tag to LA.UM.9.1.r1-12900-SMxxx0.QSSI13.0",
+            "date": "2023-01-08",
+            "datetime": "20230108",
+            "filename": "Arrow-v13.0-x3-OFFICIAL-20230108-GAPPS.zip",
+            "filepath": "/arrow-13.0/x3/Arrow-v13.0-x3-OFFICIAL-20230108-GAPPS.zip",
+            "maintainer": "Adithya (ghostrider_reborn) and EdwardWu",
+            "model": "Realme X3 / SuperZoom",
+            "oem": "realme",
+            "sha256": "535fe7645fec1f589a17a0db08b6825c021b4397f4a180c8732fb3f2067631e2",
+            "size": "1149464405",
+            "type": "official",
+            "version": "v13.0"
+        }
     ]
 }
