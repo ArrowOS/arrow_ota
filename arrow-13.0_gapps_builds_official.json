@@ -98,15 +98,15 @@
     "lisa": [
         {
             "changelog": "- Merged LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0 for kernel\r\n- Corrected physical panel dimensions\r\n- Updated wireguard in kernel\r\n- Dropped xiaomi citsensor service\r\n- Misc improvements",
-            "date": "2023-01-07",
-            "datetime": "20230107",
-            "filename": "Arrow-v13.0-lisa-OFFICIAL-20230107-GAPPS.zip",
-            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-OFFICIAL-20230107-GAPPS.zip",
+            "date": "2023-01-08",
+            "datetime": "20230108",
+            "filename": "Arrow-v13.0-lisa-OFFICIAL-20230108-GAPPS.zip",
+            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-OFFICIAL-20230108-GAPPS.zip",
             "maintainer": "TG_DEVICE_MAINTAINER",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "85e634e4a1ad423defd4adbe4aaf996b92f029655da1fc9f242a833d362a051a",
-            "size": "1758165072",
+            "sha256": "47d8262e292731d0e35aa87695da112c0995e194d163eaf3f82ebcdf5ad698e8",
+            "size": "1758173118",
             "type": "official",
             "version": "v13.0"
         }
