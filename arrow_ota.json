@@ -3674,7 +3674,7 @@
   "gauguin": [
     {
       "changelog": null,
-      "maintainer": "kawaaii & Lynrinn",
+      "maintainer": "Hridaya & Lynrinn",
       "model": "M2007J17G",
       "oem": "Xiaomi",
       "v11.0": [
@@ -3875,12 +3875,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-01-04",
-                  "datetime": "20230104",
-                  "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20230104-VANILLA.zip",
-                  "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20230104-VANILLA.zip",
-                  "sha256": "c79de760b6d598a22233d3d05d67d21fc601fa5c1b360926528d00033ce3ba8e",
-                  "size": "1559650636",
+                  "date": "2023-01-09",
+                  "datetime": "20230109",
+                  "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20230109-VANILLA.zip",
+                  "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20230109-VANILLA.zip",
+                  "sha256": "e0e6b2677cb4452a3453b1f482b50f960676ede686bb70bc11b7d160b1da4e30",
+                  "size": "1559449119",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
