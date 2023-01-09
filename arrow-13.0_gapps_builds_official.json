@@ -111,6 +111,22 @@
             "version": "v13.0"
         }
     ],
+    "miatoll": [
+        {
+            "changelog": null,
+            "date": "2023-01-09",
+            "datetime": "20230109",
+            "filename": "Arrow-v13.0-miatoll-OFFICIAL-20230109-GAPPS.zip",
+            "filepath": "/arrow-13.0/miatoll/Arrow-v13.0-miatoll-OFFICIAL-20230109-GAPPS.zip",
+            "maintainer": "SonalSingh",
+            "model": "Miatoll",
+            "oem": "Xiaomi",
+            "sha256": "466aa15f27e5cd3f882c9036b0c8223835a11c4ff409d0b7633c53226c76193b",
+            "size": "1550678998",
+            "type": "official",
+            "version": "v13.0"
+        }
+    ],
     "mojito": [
         {
             "changelog": "\u2022 Enforcing Userdebug Build",
