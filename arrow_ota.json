@@ -3505,6 +3505,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-01-09",
+                  "datetime": "20230109",
+                  "filename": "Arrow-v13.0-davinci-OFFICIAL-20230109-GAPPS.zip",
+                  "filepath": "/arrow-13.0/davinci/Arrow-v13.0-davinci-OFFICIAL-20230109-GAPPS.zip",
+                  "sha256": "f931df6ba061cd04b28b9ab2d33a928a4ad0e801f29394c5268979235ddfe598",
+                  "size": "1442857187",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-01-09",
