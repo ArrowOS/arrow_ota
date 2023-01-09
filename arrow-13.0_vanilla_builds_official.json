@@ -95,6 +95,22 @@
             "version": "v13.0"
         }
     ],
+    "davinci": [
+        {
+            "changelog": null,
+            "date": "2023-01-09",
+            "datetime": "20230109",
+            "filename": "Arrow-v13.0-davinci-OFFICIAL-20230109-VANILLA.zip",
+            "filepath": "/arrow-13.0/davinci/Arrow-v13.0-davinci-OFFICIAL-20230109-VANILLA.zip",
+            "maintainer": "RemyL",
+            "model": "Mi 9T",
+            "oem": "Xiaomi",
+            "sha256": "acfb29ca694f71648dbc29a94b437cc615ad11dd27efd0f5b0a3b4fc2aaf38ba",
+            "size": "1114217375",
+            "type": "official",
+            "version": "v13.0"
+        }
+    ],
     "lisa": [
         {
             "changelog": "- Merged LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0 for kernel\r\n- Corrected physical panel dimensions\r\n- Updated wireguard in kernel\r\n- Dropped xiaomi citsensor service\r\n- Misc improvements",
