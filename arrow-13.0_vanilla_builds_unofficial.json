@@ -1,16 +1,16 @@
 {
     "RMP6768": [
         {
-            "changelog": "Flash Only On A09 And Above Firmware\r\nBased On OSS Vendor\r\nSelinux Is Enforcing\r\n\r\nRecovery:\r\nhttps://tinyurl.com/realmepadrecovery (Use only f2fs recovery)\r\n\r\nNote:\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.",
-            "date": "2023-01-02",
-            "datetime": "20230102",
-            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230102-VANILLA.zip",
-            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230102-VANILLA.zip",
+            "changelog": "<h4>Supported devices:</h4>\r\n<ul>\r\n  <li>Realme Pad LTE (RMP2102)</li>\r\n  <li>Realme Pad WiFi (RMP2103)</li>\r\n</ul>\r\n<b>Supported Firmware: A09 & A10</b>\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/Lineage-Recovery-RMP6768-f2fs.img\">Click here</a>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\">PayPal</a>\r\nUPI: neilchetty.fam@idfcbank",
+            "date": "2023-01-09",
+            "datetime": "20230109",
+            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230109-VANILLA.zip",
+            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230109-VANILLA.zip",
             "maintainer": "NeilChetty",
             "model": "Realme Pad",
             "oem": "Realme",
-            "sha256": "cc954848ca6b13b8d001ed46a3d06a5cd0c179196220b10671d08eedffe0b9bb",
-            "size": "800486699",
+            "sha256": "e306dcb9c92e13cb8ab425587aa0ef82e075ba04afb0559152c1a5b007baa2c0",
+            "size": "890624994",
             "type": "unofficial",
             "version": "v13.0"
         }
