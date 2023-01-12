@@ -6005,7 +6005,7 @@
   ],
   "munch": [
     {
-      "changelog": "* Switched to aidl btaudio\r\n* Updated wcnss config from stock\r\n* Enabled ramdisk compression by lz4\r\n* Labelled remaining wakeup nodes\r\n* Fixed fingerprint wakeup animation\r\n* Updated CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0\r\n* Fixed some issues with 4G+\r\n* Fixed rounded corners\r\n* Improved statusbar paddings\r\n* Silenced some useless logspams",
+      "changelog": null,
       "maintainer": "madmax7896",
       "model": "POCO F4",
       "oem": "POCO",
@@ -6055,12 +6055,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-01-03",
-                  "datetime": "20230103",
-                  "filename": "Arrow-v13.0-munch-UNOFFICIAL-20230103-VANILLA.zip",
-                  "filepath": "/arrow-13.0/munch/Arrow-v13.0-munch-UNOFFICIAL-20230103-VANILLA.zip",
-                  "sha256": "80bd8be3c0f3f49d7eccf5e65222ad19f2a5c81a528e4ccbd40d2b45304ddef7",
-                  "size": "1176310157",
+                  "date": "2023-01-12",
+                  "datetime": "20230112",
+                  "filename": "Arrow-v13.0-munch-UNOFFICIAL-20230112-VANILLA.zip",
+                  "filepath": "/arrow-13.0/munch/Arrow-v13.0-munch-UNOFFICIAL-20230112-VANILLA.zip",
+                  "sha256": "427d14506fe21684079e9f4e0d7dfadc61d33ead2eef07d2ba301ebc43ad0bab",
+                  "size": "1245725357",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
