@@ -167,6 +167,22 @@
       ],
       "v13.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-01-13",
+                  "datetime": "20230113",
+                  "filename": "Arrow-v13.0-G-OFFICIAL-20230113-VANILLA.zip",
+                  "filepath": "/arrow-13.0/G/Arrow-v13.0-G-OFFICIAL-20230113-VANILLA.zip",
+                  "sha256": "1cadcb226ef9e4d0a4de686f68fb4c3b9266b139461a48d06a1590d2fe805911",
+                  "size": "792805777",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [

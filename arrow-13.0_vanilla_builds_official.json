@@ -1,4 +1,20 @@
 {
+    "G": [
+        {
+            "changelog": null,
+            "date": "2023-01-13",
+            "datetime": "20230113",
+            "filename": "Arrow-v13.0-G-OFFICIAL-20230113-VANILLA.zip",
+            "filepath": "/arrow-13.0/G/Arrow-v13.0-G-OFFICIAL-20230113-VANILLA.zip",
+            "maintainer": "kardebayan",
+            "model": "10or G",
+            "oem": "10or",
+            "sha256": "1cadcb226ef9e4d0a4de686f68fb4c3b9266b139461a48d06a1590d2fe805911",
+            "size": "792805777",
+            "type": "official",
+            "version": "v13.0"
+        }
+    ],
     "RMP6768": [
         {
             "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b>A09 & A10\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/Lineage-Recovery-RMP6768-f2fs.img\">Click here</a>\r\n<b>Note: </b>\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty.fam@idfcbank",
