@@ -17,16 +17,16 @@
     ],
     "RMP6768": [
         {
-            "changelog": "<h4>Supported devices:</h4>\r\n<ul>\r\n  <li>Realme Pad LTE (RMP2102)</li>\r\n  <li>Realme Pad WiFi (RMP2103)</li>\r\n</ul>\r\n<b>Supported Firmware: A09 & A10</b>\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/Lineage-Recovery-RMP6768-f2fs.img\">Click here</a>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\">PayPal</a>\r\nUPI: neilchetty.fam@idfcbank",
-            "date": "2023-01-09",
-            "datetime": "20230109",
-            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230109-VANILLA.zip",
-            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230109-VANILLA.zip",
+            "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b>A09 & A10\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/Lineage-Recovery-RMP6768-f2fs.img\">Click here</a>\r\n<b>Note: </b>\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty.fam@idfcbank",
+            "date": "2023-01-14",
+            "datetime": "20230114",
+            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230114-VANILLA.zip",
+            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230114-VANILLA.zip",
             "maintainer": "NeilChetty",
             "model": "Realme Pad",
             "oem": "Realme",
-            "sha256": "e306dcb9c92e13cb8ab425587aa0ef82e075ba04afb0559152c1a5b007baa2c0",
-            "size": "890624994",
+            "sha256": "28f47ef01d9a1d93e9f8ac5d2b2f614180d3d816d3c70751a6498af1ed989edd",
+            "size": "891810766",
             "type": "unofficial",
             "version": "v13.0"
         }
