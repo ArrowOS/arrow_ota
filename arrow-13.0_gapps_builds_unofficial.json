@@ -177,16 +177,16 @@
     ],
     "lisa": [
         {
-            "changelog": "- Fixed high brightness at lowest brightness\r\n- Enabled Extra Dim\r\n- Added Xiaomi Cit Service\r\n- Improved Fingerprint Unlocking Animation",
-            "date": "2022-12-25",
-            "datetime": "20221225",
-            "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20221225-GAPPS.zip",
-            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20221225-GAPPS.zip",
-            "maintainer": "TG_DEVICE_MAINTAINER",
+            "changelog": "- Introduced Dolby Atmos\r\n- Add Dolby Vision Codecs\r\n- Switched to MIUI display stack\r\n- Switched to MIUI color modes\r\n- Enable suspend to RAM",
+            "date": "2023-01-16",
+            "datetime": "20230116",
+            "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20230116-GAPPS.zip",
+            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20230116-GAPPS.zip",
+            "maintainer": "ALKALiKong",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "a4d3c1dd09f137d6b1593fb8daa3b797b58493955c06780937156266cb8eb12f",
-            "size": "1670922022",
+            "sha256": "b15a03ed12e118c0fef478531a16c8521ba64550c583c1137d6320be08d39dd2",
+            "size": "1765303938",
             "type": "unofficial",
             "version": "v13.0"
         }
