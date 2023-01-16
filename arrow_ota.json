@@ -5133,8 +5133,8 @@
   ],
   "lisa": [
     {
-      "changelog": "- Merged LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0 for kernel\r\n- Corrected physical panel dimensions\r\n- Updated wireguard in kernel\r\n- Dropped xiaomi citsensor service\r\n- Misc improvements",
-      "maintainer": "TG_DEVICE_MAINTAINER",
+      "changelog": "- Introduced Dolby Atmos\r\n- Add Dolby Vision Codecs\r\n- Switched to MIUI display stack\r\n- Switched to MIUI color modes\r\n- Enable suspend to RAM",
+      "maintainer": "ALKALiKong",
       "model": "Xiaomi 11 Lite NE",
       "oem": "Xiaomi",
       "v11.0": [
@@ -5279,12 +5279,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2022-12-25",
-                  "datetime": "20221225",
-                  "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20221225-VANILLA.zip",
-                  "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20221225-VANILLA.zip",
-                  "sha256": "c460059a754b0a74196c63733089223f802659924e9203878db133b66cf89f56",
-                  "size": "1376531782",
+                  "date": "2023-01-16",
+                  "datetime": "20230116",
+                  "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20230116-VANILLA.zip",
+                  "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20230116-VANILLA.zip",
+                  "sha256": "86ed56141b7a33fb97bae8d19e4ffb327a619f83c591b583d33bf2ccef05babe",
+                  "size": "1468649314",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
