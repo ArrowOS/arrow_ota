@@ -3781,7 +3781,7 @@
   ],
   "gauguin": [
     {
-      "changelog": null,
+      "changelog": "- Drop MIUICamera Support.",
       "maintainer": "Hridaya & Lynrinn",
       "model": "M2007J17G",
       "oem": "Xiaomi",
@@ -3983,12 +3983,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-01-09",
-                  "datetime": "20230109",
-                  "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20230109-VANILLA.zip",
-                  "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20230109-VANILLA.zip",
-                  "sha256": "e0e6b2677cb4452a3453b1f482b50f960676ede686bb70bc11b7d160b1da4e30",
-                  "size": "1559449119",
+                  "date": "2023-01-16",
+                  "datetime": "20230116",
+                  "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20230116-VANILLA.zip",
+                  "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20230116-VANILLA.zip",
+                  "sha256": "be175d4a7c41237080a986db2722dceb33ddcb11fb13a8ebebf451ef7971789b",
+                  "size": "1465723171",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
