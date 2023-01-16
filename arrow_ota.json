@@ -2113,10 +2113,10 @@
   ],
   "beryllium": [
     {
-      "changelog": "- sdm845-common:\r\nUpdate blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- beryllium: Update blobs from V12.0.3.0.QEJMIXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- Update 2021-01-01 and earlier builds only with clean flash!",
-      "maintainer": "Ganesh Varma, kubersharma001, palaych",
+      "changelog": null,
+      "maintainer": "Sourav (resist15)",
       "model": "POCOPHONE F1",
-      "oem": "POCO",
+      "oem": "Xiaomi",
       "v10.0": [
         {
           "OFFICIAL": [
@@ -2203,6 +2203,26 @@
                   "size": "949989373",
                   "type": "unofficial",
                   "version": "v11.0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.0": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-01-16",
+                  "datetime": "20230116",
+                  "filename": "Arrow-v13.0-beryllium-UNOFFICIAL-20230116-VANILLA.zip",
+                  "filepath": "/arrow-13.0/beryllium/Arrow-v13.0-beryllium-UNOFFICIAL-20230116-VANILLA.zip",
+                  "sha256": "9399742b4158274cb4d69134d56068f72dc0bcada3765e515f19fced93095798",
+                  "size": "1042038892",
+                  "type": "unofficial",
+                  "version": "v13.0"
                 }
               ]
             }
