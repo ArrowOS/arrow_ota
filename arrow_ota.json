@@ -2113,7 +2113,7 @@
   ],
   "beryllium": [
     {
-      "changelog": null,
+      "changelog": "Initial OFFICIAL Release",
       "maintainer": "Sourav (resist15)",
       "model": "POCOPHONE F1",
       "oem": "Xiaomi",
@@ -2211,6 +2211,22 @@
       ],
       "v13.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-01-18",
+                  "datetime": "20230118",
+                  "filename": "Arrow-v13.0-beryllium-OFFICIAL-20230118-VANILLA.zip",
+                  "filepath": "/arrow-13.0/beryllium/Arrow-v13.0-beryllium-OFFICIAL-20230118-VANILLA.zip",
+                  "sha256": "c13281e990c4c1ea575d8fd2fba53114f9b4dfc513ca29a48270e2613dea212b",
+                  "size": "1048682268",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
