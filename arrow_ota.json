@@ -2213,6 +2213,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-01-18",
+                  "datetime": "20230118",
+                  "filename": "Arrow-v13.0-beryllium-OFFICIAL-20230118-GAPPS.zip",
+                  "filepath": "/arrow-13.0/beryllium/Arrow-v13.0-beryllium-OFFICIAL-20230118-GAPPS.zip",
+                  "sha256": "0b88cd5d8bace1fa3b985736badabfc4c93277062a573000fc601105c6e5addd",
+                  "size": "1378130500",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-01-18",
