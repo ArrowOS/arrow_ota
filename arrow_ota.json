@@ -685,7 +685,7 @@
   ],
   "RMX2020": [
     {
-      "changelog": null,
+      "changelog": "NOTE: For Realme UI 1.0 FW only.",
       "maintainer": "sarthakroy2002",
       "model": "realme Monet",
       "oem": "realme",
@@ -827,12 +827,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-01-18",
-                  "datetime": "20230118",
-                  "filename": "Arrow-v13.0-RMX2020-OFFICIAL-20230118-VANILLA.zip",
-                  "filepath": "/arrow-13.0/RMX2020/Arrow-v13.0-RMX2020-OFFICIAL-20230118-VANILLA.zip",
-                  "sha256": "3251f5757856cc7e2887fe9c5c05bd9a5cbdd00a99c27dc5cd908bfa61d55ffa",
-                  "size": "1062890726",
+                  "date": "2023-01-20",
+                  "datetime": "20230120",
+                  "filename": "Arrow-v13.0-RMX2020-OFFICIAL-20230120-VANILLA.zip",
+                  "filepath": "/arrow-13.0/RMX2020/Arrow-v13.0-RMX2020-OFFICIAL-20230120-VANILLA.zip",
+                  "sha256": "338333c6f713d3f434f33ed737a65913b3ca9f3b552e476fdb387f101d6793cd",
+                  "size": "1066624492",
                   "type": "official",
                   "version": "v13.0"
                 }
