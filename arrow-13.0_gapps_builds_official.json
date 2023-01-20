@@ -49,16 +49,16 @@
     ],
     "RMX2020": [
         {
-            "changelog": null,
-            "date": "2023-01-18",
-            "datetime": "20230118",
-            "filename": "Arrow-v13.0-RMX2020-OFFICIAL-20230118-GAPPS.zip",
-            "filepath": "/arrow-13.0/RMX2020/Arrow-v13.0-RMX2020-OFFICIAL-20230118-GAPPS.zip",
+            "changelog": "NOTE: For Realme UI 1.0 FW only.",
+            "date": "2023-01-20",
+            "datetime": "20230120",
+            "filename": "Arrow-v13.0-RMX2020-OFFICIAL-20230120-GAPPS.zip",
+            "filepath": "/arrow-13.0/RMX2020/Arrow-v13.0-RMX2020-OFFICIAL-20230120-GAPPS.zip",
             "maintainer": "sarthakroy2002",
             "model": "realme Monet",
             "oem": "realme",
-            "sha256": "a80a8ef330dd80685b518cbd177855cadce32857997b9e92c913ce372d145015",
-            "size": "1397616869",
+            "sha256": "a4ab1c835aedf45b5a1cf9d688df9efc434a96a09da35c08bddc5667acd4d144",
+            "size": "1401490237",
             "type": "official",
             "version": "v13.0"
         }
