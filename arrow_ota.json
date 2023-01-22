@@ -5193,7 +5193,7 @@
   ],
   "lisa": [
     {
-      "changelog": null,
+      "changelog": "- Fixed some issues in previous build",
       "maintainer": "ALKALiKong",
       "model": "Xiaomi 11 Lite NE",
       "oem": "Xiaomi",
@@ -5343,8 +5343,8 @@
                   "datetime": "20230122",
                   "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20230122-VANILLA.zip",
                   "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20230122-VANILLA.zip",
-                  "sha256": "014b20648e173573ed32e3e6cdf1e4a319a258cf48900ae505261556f6ff4aff",
-                  "size": "1475592223",
+                  "sha256": "717223fff6b1ae8309a2a8f6cc25e6be2c9d058ca7f119b3486db8c3b5899153",
+                  "size": "1516404543",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
