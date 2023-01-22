@@ -193,16 +193,16 @@
     ],
     "lisa": [
         {
-            "changelog": "- Introduced Dolby Atmos\r\n- Add Dolby Vision Codecs\r\n- Switched to MIUI display stack\r\n- Switched to MIUI color modes\r\n- Enable suspend to RAM",
-            "date": "2023-01-16",
-            "datetime": "20230116",
-            "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20230116-GAPPS.zip",
-            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20230116-GAPPS.zip",
+            "changelog": null,
+            "date": "2023-01-22",
+            "datetime": "20230122",
+            "filename": "Arrow-v13.0-lisa-UNOFFICIAL-20230122-GAPPS.zip",
+            "filepath": "/arrow-13.0/lisa/Arrow-v13.0-lisa-UNOFFICIAL-20230122-GAPPS.zip",
             "maintainer": "ALKALiKong",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "b15a03ed12e118c0fef478531a16c8521ba64550c583c1137d6320be08d39dd2",
-            "size": "1765303938",
+            "sha256": "e83906c98d60ecd474aa347eccd804d1751ae712b4211109d0492452c1b8684b",
+            "size": "1770714584",
             "type": "unofficial",
             "version": "v13.0"
         }
