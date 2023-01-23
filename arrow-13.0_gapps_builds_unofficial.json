@@ -161,16 +161,16 @@
     ],
     "gauguin": [
         {
-            "changelog": "- Drop MIUICamera Support.",
-            "date": "2023-01-16",
-            "datetime": "20230116",
-            "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20230116-GAPPS.zip",
-            "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20230116-GAPPS.zip",
+            "changelog": null,
+            "date": "2023-01-23",
+            "datetime": "20230123",
+            "filename": "Arrow-v13.0-gauguin-UNOFFICIAL-20230123-GAPPS.zip",
+            "filepath": "/arrow-13.0/gauguin/Arrow-v13.0-gauguin-UNOFFICIAL-20230123-GAPPS.zip",
             "maintainer": "Hridaya & Lynrinn",
             "model": "M2007J17G",
             "oem": "Xiaomi",
-            "sha256": "bded38810fef12bf65591c4948ebb3e10ea19862bb205d940db5a6ff2169e83d",
-            "size": "1850590341",
+            "sha256": "5fa385f76d4532c676d809375f3045bd01f18a10892a6017f6ff74475f854b22",
+            "size": "1856196599",
             "type": "unofficial",
             "version": "v13.0"
         }
