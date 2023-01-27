@@ -191,6 +191,22 @@
             "version": "v13.0"
         }
     ],
+    "jasmine_sprout": [
+        {
+            "changelog": "Initial A13 New trees test build",
+            "date": "2023-01-27",
+            "datetime": "20230127",
+            "filename": "Arrow-v13.0-jasmine_sprout-UNOFFICIAL-20230127-GAPPS.zip",
+            "filepath": "/arrow-13.0/jasmine_sprout/Arrow-v13.0-jasmine_sprout-UNOFFICIAL-20230127-GAPPS.zip",
+            "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
+            "model": "Mi A2",
+            "oem": "Xiaomi",
+            "sha256": "73550c009e86d4c7b71b5cfe59aa3f1f0ea9228f89be31509fe1bcbf13aa478e",
+            "size": "1359881825",
+            "type": "unofficial",
+            "version": "v13.0"
+        }
+    ],
     "lisa": [
         {
             "changelog": "- Fixed some issues in previous build",
