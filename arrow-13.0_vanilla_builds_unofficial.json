@@ -175,6 +175,22 @@
             "version": "v13.0"
         }
     ],
+    "jasmine_sprout": [
+        {
+            "changelog": "Initial A13 New trees test build",
+            "date": "2023-01-27",
+            "datetime": "20230127",
+            "filename": "Arrow-v13.0-jasmine_sprout-UNOFFICIAL-20230127-VANILLA.zip",
+            "filepath": "/arrow-13.0/jasmine_sprout/Arrow-v13.0-jasmine_sprout-UNOFFICIAL-20230127-VANILLA.zip",
+            "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
+            "model": "Mi A2",
+            "oem": "Xiaomi",
+            "sha256": "2c4e93bf52db29f4115e68a0118f3894d49a332c96e179f15220764c51ad5495",
+            "size": "1041794852",
+            "type": "unofficial",
+            "version": "v13.0"
+        }
+    ],
     "lisa": [
         {
             "changelog": "- Fixed some issues in previous build",
