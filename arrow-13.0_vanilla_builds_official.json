@@ -159,6 +159,22 @@
             "version": "v13.0"
         }
     ],
+    "jasmine_sprout": [
+        {
+            "changelog": "Initial Stable Android 13 Build.\r\nSqashed and fixed many bugs like :-\r\n\r\nBroken Mic\r\nBroken Aptx and AptxHD\r\nBattery drain\r\nPhone heating\r\nCTS passed\r\nDevice verified\r\n\r\nRead install instructions :- https://wiki.pixelexperience.org/devices/jasmine_sprout/install/",
+            "date": "2023-01-28",
+            "datetime": "20230128",
+            "filename": "Arrow-v13.0-jasmine_sprout-OFFICIAL-20230128-VANILLA.zip",
+            "filepath": "/arrow-13.0/jasmine_sprout/Arrow-v13.0-jasmine_sprout-OFFICIAL-20230128-VANILLA.zip",
+            "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
+            "model": "Mi A2",
+            "oem": "Xiaomi",
+            "sha256": "ec3f1663a2d2bf7212a7ba533ea4bbade520901c84ce54c14694529fac17d2b7",
+            "size": "1045635559",
+            "type": "official",
+            "version": "v13.0"
+        }
+    ],
     "lisa": [
         {
             "changelog": "- Merged LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0 for kernel\r\n- Corrected physical panel dimensions\r\n- Updated wireguard in kernel\r\n- Dropped xiaomi citsensor service\r\n- Misc improvements",
