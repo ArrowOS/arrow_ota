@@ -18,15 +18,15 @@
     "RMP6768": [
         {
             "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b>A09 , A10 & A11\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/Lineage-Recovery-RMP6768-f2fs.img\">Click here</a>\r\n<b>Note: </b>\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty.fam@idfcbank",
-            "date": "2023-01-28",
-            "datetime": "20230128",
-            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230128-GAPPS.zip",
-            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230128-GAPPS.zip",
+            "date": "2023-02-05",
+            "datetime": "20230205",
+            "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230205-GAPPS.zip",
+            "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230205-GAPPS.zip",
             "maintainer": "NeilChetty",
             "model": "Realme Pad",
             "oem": "Realme",
-            "sha256": "6fd7f98ce71008d0f46933e6885e6c347cc12b0cdf2c30888611ff21e2d3955c",
-            "size": "1224944718",
+            "sha256": "87f2aa83f75cddd02f71449cfc21536c375e23a21c9c90a63a3ddd1b48136edb",
+            "size": "1224871545",
             "type": "unofficial",
             "version": "v13.0"
         }
