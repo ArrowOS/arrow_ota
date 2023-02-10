@@ -1055,6 +1055,22 @@
       "oem": "asus",
       "v13.0": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-02-10",
+                  "datetime": "20230210",
+                  "filename": "Arrow-v13.0-X00TD-OFFICIAL-20230210-VANILLA.zip",
+                  "filepath": "/arrow-13.0/X00TD/Arrow-v13.0-X00TD-OFFICIAL-20230210-VANILLA.zip",
+                  "sha256": "3b1201544474f9a05423bcdb11ff1a28f55e2d894694a7f19b142b36f10317d1",
+                  "size": "931701111",
+                  "type": "official",
+                  "version": "v13.0"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
