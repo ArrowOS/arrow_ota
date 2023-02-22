@@ -161,16 +161,16 @@
     ],
     "ginkgo": [
         {
-            "changelog": null,
-            "date": "2023-02-21",
-            "datetime": "20230221",
-            "filename": "Arrow-v13.0-ginkgo-OFFICIAL-20230221-VANILLA.zip",
-            "filepath": "/arrow-13.0/ginkgo/Arrow-v13.0-ginkgo-OFFICIAL-20230221-VANILLA.zip",
+            "changelog": "- Initial android 13 release\r\n- Kernel updated to latest CLO revision\r\n- Fixed fast charging on Chinese variants\r\n- Fixed 48MP in miui camera\r\n- Updated GPU drivers from latest sm8450 release\r\n- Updated telephony stack to android 13\r\n- Updated qcom media/display stack to latest CLO revision\r\n- Switched HWUI renderer back to default (skiagl) to fix green artifacts in videos\r\n- Misc optimizations and fixes.",
+            "date": "2023-01-10",
+            "datetime": "20230110",
+            "filename": "Arrow-v13.0-ginkgo-OFFICIAL-20230110-VANILLA.zip",
+            "filepath": "/arrow-13.0/ginkgo/Arrow-v13.0-ginkgo-OFFICIAL-20230110-VANILLA.zip",
             "maintainer": "Adithya (ghostrider_reborn)",
             "model": "Redmi Note 8/8T",
             "oem": "Xiaomi",
-            "sha256": "9d5eace01f474440568f09a4a93e891b7f1b674517a416cca166ba81dc1d342e",
-            "size": "1044506641",
+            "sha256": "0b4ab6bee76b59e072b9c6dd9e3d4523a923e2f6679be28afa2fc1d6dcfdc012",
+            "size": "1036257419",
             "type": "official",
             "version": "v13.0"
         }
