@@ -397,7 +397,7 @@
   ],
   "RMP6768": [
     {
-      "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b>A09 , A10 & A11\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/Lineage-Recovery-RMP6768-f2fs.img\">Click here</a>\r\n<b>Note: </b>\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty.fam@idfcbank",
+      "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b>A09 , A10 & A11\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/Lineage-Recovery-RMP6768-f2fs.img\">Click here</a>\r\n<b>Note: </b>\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty4559@oksbi",
       "maintainer": "NeilChetty",
       "model": "Realme Pad",
       "oem": "Realme",
@@ -447,12 +447,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-02-05",
-                  "datetime": "20230205",
-                  "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230205-VANILLA.zip",
-                  "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230205-VANILLA.zip",
-                  "sha256": "f615a08e24a5ea088210dba400e65131d4901a58d4c9b450467039f6a0d573ba",
-                  "size": "898546603",
+                  "date": "2023-02-23",
+                  "datetime": "20230223",
+                  "filename": "Arrow-v13.0-RMP6768-UNOFFICIAL-20230223-VANILLA.zip",
+                  "filepath": "/arrow-13.0/RMP6768/Arrow-v13.0-RMP6768-UNOFFICIAL-20230223-VANILLA.zip",
+                  "sha256": "afbdc1039854e3395c6a73c10ca2c528720b06a4db3f865c284dd02f4b4e2c10",
+                  "size": "902788401",
                   "type": "unofficial",
                   "version": "v13.0"
                 }
