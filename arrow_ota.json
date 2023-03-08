@@ -1221,6 +1221,18 @@
         {
           "COMMUNITY": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-03-08",
+                  "datetime": "20230308",
+                  "filename": "Arrow-v13.0-X01AD-COMMUNITY-20230308-GAPPS.zip",
+                  "filepath": "/arrow-13.0/X01AD/Arrow-v13.0-X01AD-COMMUNITY-20230308-GAPPS.zip",
+                  "sha256": "3b17323d6b5fd4a720202b544edb35157dceb8cc73da6c4e3552dfba299d7749",
+                  "size": "1266337780",
+                  "type": "community",
+                  "version": "v13.0"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-03-08",
