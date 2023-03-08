@@ -1117,7 +1117,7 @@
   ],
   "X01AD": [
     {
-      "changelog": "- Added libperfmanager\r\n- Improved HWUI and performance\r\n- Improve App Launch speed\r\n- Import runtime cpusets from coral\r\n- Improve scrolling responsiveness.\r\n- Misc Improvements\r\n- Added kcal\r\n- Added devfreqboost",
+      "changelog": "- Initial test build Arrow 13.0",
       "maintainer": "Arka",
       "model": "ASUS_X01AD",
       "oem": "asus",
@@ -1211,6 +1211,26 @@
                   "size": "814808847",
                   "type": "community",
                   "version": "v12.1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.0": [
+        {
+          "COMMUNITY": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-03-08",
+                  "datetime": "20230308",
+                  "filename": "Arrow-v13.0-X01AD-COMMUNITY-20230308-VANILLA.zip",
+                  "filepath": "/arrow-13.0/X01AD/Arrow-v13.0-X01AD-COMMUNITY-20230308-VANILLA.zip",
+                  "sha256": "09f0959af3fa0cd9de271a95b28e8b55233d21e7cd9cea9be9f4661dd7400450",
+                  "size": "937923684",
+                  "type": "community",
+                  "version": "v13.0"
                 }
               ]
             }
