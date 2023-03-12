@@ -143,6 +143,22 @@
             "version": "v13.0"
         }
     ],
+    "cas": [
+        {
+            "changelog": "Initial test build for arrow-13.0",
+            "date": "2023-03-12",
+            "datetime": "20230312",
+            "filename": "Arrow-v13.0-cas-UNOFFICIAL-20230312-GAPPS.zip",
+            "filepath": "/arrow-13.0/cas/Arrow-v13.0-cas-UNOFFICIAL-20230312-GAPPS.zip",
+            "maintainer": "Xayah",
+            "model": "M2007J1SC",
+            "oem": "Xiaomi",
+            "sha256": "f09b1a1029acc24f6b74e4786684c03edca52f97df83e0d59c966fbb0555418f",
+            "size": "2093253307",
+            "type": "unofficial",
+            "version": "v13.0"
+        }
+    ],
     "davinci": [
         {
             "changelog": null,
