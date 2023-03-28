@@ -1,4 +1,20 @@
 {
+    "RMX2020": [
+        {
+            "changelog": "- Based on Realme UI 1.0 FW (A.77 recommended)",
+            "date": "2023-03-28",
+            "datetime": "20230328",
+            "filename": "Arrow-v13.1-RMX2020-UNOFFICIAL-20230328-VANILLA.zip",
+            "filepath": "/arrow-13.1/RMX2020/Arrow-v13.1-RMX2020-UNOFFICIAL-20230328-VANILLA.zip",
+            "maintainer": "sarthakroy2002",
+            "model": "RMX2020",
+            "oem": "realme",
+            "sha256": "eefc7069a565f549789f0d7f74d97bd9747c285a4e9f3a09d1d88a49f71d001f",
+            "size": "996733021",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "munch": [
         {
             "changelog": null,
