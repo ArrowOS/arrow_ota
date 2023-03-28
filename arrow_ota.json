@@ -6285,6 +6285,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-03-28",
+                  "datetime": "20230328",
+                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230328-GAPPS.zip",
+                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230328-GAPPS.zip",
+                  "sha256": "b3e8d7f3caaf9a3bb4428ded43264f65a13a3515ed29ed3fd73595e1eb05e0eb",
+                  "size": "1574628079",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-03-28",
