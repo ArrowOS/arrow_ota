@@ -6217,7 +6217,7 @@
   ],
   "mojito": [
     {
-      "changelog": "\u2022 Enforcing Userdebug Build",
+      "changelog": "- Based on MIUI 14 FW",
       "maintainer": "sarthakroy2002, blur",
       "model": "Redmi Note 10",
       "oem": "Redmi",
@@ -6275,6 +6275,26 @@
                   "size": "1309887298",
                   "type": "unofficial",
                   "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-03-28",
+                  "datetime": "20230328",
+                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230328-VANILLA.zip",
+                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230328-VANILLA.zip",
+                  "sha256": "93bbb100f2d5bd0f199a4ee551f82d42e09fd14d8694e92046b926b245c401f9",
+                  "size": "1225385249",
+                  "type": "unofficial",
+                  "version": "v13.1"
                 }
               ]
             }
