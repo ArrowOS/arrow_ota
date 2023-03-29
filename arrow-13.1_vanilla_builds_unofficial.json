@@ -15,6 +15,22 @@
             "version": "v13.1"
         }
     ],
+    "beryllium": [
+        {
+            "changelog": null,
+            "date": "2023-03-28",
+            "datetime": "20230328",
+            "filename": "Arrow-v13.1-beryllium-UNOFFICIAL-20230328-VANILLA.zip",
+            "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-UNOFFICIAL-20230328-VANILLA.zip",
+            "maintainer": "Sourav (resist15)",
+            "model": "POCOPHONE F1",
+            "oem": "Xiaomi",
+            "sha256": "981e548417d2696f7471d7f83f851d739347f62394608e36f7cee12809ebe701",
+            "size": "968140749",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "mojito": [
         {
             "changelog": "- Based on MIUI 14 FW",
