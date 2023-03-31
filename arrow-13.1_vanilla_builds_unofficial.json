@@ -1,4 +1,20 @@
 {
+    "RMP6768": [
+        {
+            "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b> A09 to A12\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/download/25102022/\">Click here</a>\r\n<b>Note: </b>\r\nAfter a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty4559@oksbi",
+            "date": "2023-03-31",
+            "datetime": "20230331",
+            "filename": "Arrow-v13.1-RMP6768-UNOFFICIAL-20230331-VANILLA.zip",
+            "filepath": "/arrow-13.1/RMP6768/Arrow-v13.1-RMP6768-UNOFFICIAL-20230331-VANILLA.zip",
+            "maintainer": "NeilChetty",
+            "model": "Realme Pad",
+            "oem": "Realme",
+            "sha256": "2245ad86b2b5b7ce15f4dfdea5819f8e8cc75a15301cd9ced1fec2e29b1bc263",
+            "size": "833642927",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "RMX2020": [
         {
             "changelog": "- Based on Realme UI 1.0 FW (A.77 recommended)",
