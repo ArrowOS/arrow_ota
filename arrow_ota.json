@@ -8513,7 +8513,7 @@
   ],
   "sweet": [
     {
-      "changelog": "- Misc changes and improvements\r\n- Please check devices source for more information",
+      "changelog": "- Test build",
       "maintainer": "daniml3",
       "model": "Redmi Note 10 Pro",
       "oem": "Redmi",
@@ -8695,6 +8695,26 @@
                   "size": "1190354493",
                   "type": "official",
                   "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2023-03-31",
+                  "datetime": "20230331",
+                  "filename": "Arrow-v13.1-sweet-UNOFFICIAL-20230331-GAPPS.zip",
+                  "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-UNOFFICIAL-20230331-GAPPS.zip",
+                  "sha256": "26db6fbb47b9cc128be87609243b6f86a0270deb9b035432c93f09cfe356f18c",
+                  "size": "1463427686",
+                  "type": "unofficial",
+                  "version": "v13.1"
                 }
               ]
             }
