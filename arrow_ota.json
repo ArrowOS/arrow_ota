@@ -2475,6 +2475,22 @@
       ],
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-02",
+                  "datetime": "20230402",
+                  "filename": "Arrow-v13.1-beryllium-OFFICIAL-20230402-VANILLA.zip",
+                  "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20230402-VANILLA.zip",
+                  "sha256": "4155474f56a131d69f3d021ef13f69195cbc94063b0d8a5c7054553c66af013c",
+                  "size": "969749663",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
