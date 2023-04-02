@@ -1,4 +1,20 @@
 {
+    "X00TD": [
+        {
+            "changelog": null,
+            "date": "2023-04-02",
+            "datetime": "20230402",
+            "filename": "Arrow-v13.1-X00TD-OFFICIAL-20230402-GAPPS.zip",
+            "filepath": "/arrow-13.1/X00TD/Arrow-v13.1-X00TD-OFFICIAL-20230402-GAPPS.zip",
+            "maintainer": "ATANYTHING",
+            "model": "Zenfone Max Pro M1",
+            "oem": "asus",
+            "sha256": "28d64f4f42bae1e0bec57a9a4a494016d272b275ce0fbac992f8f08a7b4c6734",
+            "size": "1300769806",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "apollo": [
         {
             "changelog": "- Arrow 13.1 refresh\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
