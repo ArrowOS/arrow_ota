@@ -2123,6 +2123,22 @@
       ],
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-02",
+                  "datetime": "20230402",
+                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230402-VANILLA.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230402-VANILLA.zip",
+                  "sha256": "7db7a8de6c41a2ade5354267d0c3289289c976d036629d6bb730d8371fa760e1",
+                  "size": "1401821178",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
