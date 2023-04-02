@@ -1,4 +1,20 @@
 {
+    "RMP6768": [
+        {
+            "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b> A09 to A12\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/tag/25102022\">Click here</a> (Use EROFS Recovery)\r\n<b>Note: </b>\r\n1) After a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty4559@oksbi",
+            "date": "2023-04-02",
+            "datetime": "20230402",
+            "filename": "Arrow-v13.1-RMP6768-OFFICIAL-20230402-VANILLA.zip",
+            "filepath": "/arrow-13.1/RMP6768/Arrow-v13.1-RMP6768-OFFICIAL-20230402-VANILLA.zip",
+            "maintainer": "NeilChetty",
+            "model": "Realme Pad",
+            "oem": "Realme",
+            "sha256": "75bb6fea35e7e8f5508b73ee8309b026ad93529a683e25eda090c3f7d6b6bd0f",
+            "size": "878535601",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "X00TD": [
         {
             "changelog": null,
