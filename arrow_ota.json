@@ -1113,7 +1113,7 @@
   ],
   "X00TD": [
     {
-      "changelog": "TestBuild For QPR2",
+      "changelog": null,
       "maintainer": "ATANYTHING",
       "model": "Zenfone Max Pro M1",
       "oem": "asus",
@@ -1179,6 +1179,22 @@
       ],
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-02",
+                  "datetime": "20230402",
+                  "filename": "Arrow-v13.1-X00TD-OFFICIAL-20230402-VANILLA.zip",
+                  "filepath": "/arrow-13.1/X00TD/Arrow-v13.1-X00TD-OFFICIAL-20230402-VANILLA.zip",
+                  "sha256": "576098d3d238ef1d61c6278bb446987a886aa7a84898f9204df619523d7b9916",
+                  "size": "972018477",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
