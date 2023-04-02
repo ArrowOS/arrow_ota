@@ -31,6 +31,22 @@
             "version": "v13.1"
         }
     ],
+    "X00TD": [
+        {
+            "changelog": "TestBuild For QPR2",
+            "date": "2023-04-02",
+            "datetime": "20230402",
+            "filename": "Arrow-v13.1-X00TD-UNOFFICIAL-20230402-GAPPS.zip",
+            "filepath": "/arrow-13.1/X00TD/Arrow-v13.1-X00TD-UNOFFICIAL-20230402-GAPPS.zip",
+            "maintainer": "ATANYTHING",
+            "model": "Zenfone Max Pro M1",
+            "oem": "asus",
+            "sha256": "a2d6e013e1651c2f65a2f3f5bad790de3011c98cce3ec97dcff715502879ab89",
+            "size": "1306883578",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "beryllium": [
         {
             "changelog": null,
