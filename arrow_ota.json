@@ -224,6 +224,26 @@
             }
           ]
         }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2023-04-03",
+                  "datetime": "20230403",
+                  "filename": "Arrow-v13.1-G-UNOFFICIAL-20230403-GAPPS.zip",
+                  "filepath": "/arrow-13.1/G/Arrow-v13.1-G-UNOFFICIAL-20230403-GAPPS.zip",
+                  "sha256": "c387511ea64ceca7c1af18c8979b204a1e696c044d6b6990d53e284c78ba6310",
+                  "size": "1039450280",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
