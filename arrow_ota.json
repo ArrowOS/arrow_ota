@@ -465,6 +465,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-04-02",
+                  "datetime": "20230402",
+                  "filename": "Arrow-v13.1-RMP6768-OFFICIAL-20230402-GAPPS.zip",
+                  "filepath": "/arrow-13.1/RMP6768/Arrow-v13.1-RMP6768-OFFICIAL-20230402-GAPPS.zip",
+                  "sha256": "6ee2223a28ba67196113ca45bfd3fa630264f0adf4785a1b2a3c9aeaea889e78",
+                  "size": "1336780389",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-04-02",
