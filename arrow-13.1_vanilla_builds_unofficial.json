@@ -1,16 +1,16 @@
 {
     "RMP6768": [
         {
-            "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b> A09 to A12\r\n<b>Recovery: (Use EROFS Recovery)</b><a href=\"https://github.com/neilchetty/releases/releases/tag/25102022\">Click here</a>\r\n<b>Note: </b>\r\n1) After a factory reset , device might reboot automatically at first boot then boot to system.\r\n2) GAPPS Variant has erofs on dynamic partitions\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty4559@oksbi",
-            "date": "2023-04-02",
-            "datetime": "20230402",
-            "filename": "Arrow-v13.1-RMP6768-UNOFFICIAL-20230402-VANILLA.zip",
-            "filepath": "/arrow-13.1/RMP6768/Arrow-v13.1-RMP6768-UNOFFICIAL-20230402-VANILLA.zip",
+            "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b> A09 to A12\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/tag/25102022\">Click here</a> (Use EROFS Recovery)\r\n<b>Note: </b>\r\n1) After a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty4559@oksbi",
+            "date": "2023-04-03",
+            "datetime": "20230403",
+            "filename": "Arrow-v13.1-RMP6768-UNOFFICIAL-20230403-VANILLA.zip",
+            "filepath": "/arrow-13.1/RMP6768/Arrow-v13.1-RMP6768-UNOFFICIAL-20230403-VANILLA.zip",
             "maintainer": "NeilChetty",
             "model": "Realme Pad",
             "oem": "Realme",
-            "sha256": "c77667bbfbb011f5673cc051270720a512f22b89073f32fec0d664e0d6d0fabf",
-            "size": "860701114",
+            "sha256": "ce21391a515615beba72d8e473e1385b4b634c7c15cf8194860592c6a393d9cc",
+            "size": "853384719",
             "type": "unofficial",
             "version": "v13.1"
         }
