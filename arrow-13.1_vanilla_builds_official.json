@@ -33,16 +33,16 @@
     ],
     "X00TD": [
         {
-            "changelog": null,
-            "date": "2023-04-02",
-            "datetime": "20230402",
-            "filename": "Arrow-v13.1-X00TD-OFFICIAL-20230402-VANILLA.zip",
-            "filepath": "/arrow-13.1/X00TD/Arrow-v13.1-X00TD-OFFICIAL-20230402-VANILLA.zip",
+            "changelog": "Fixed Wifi related issues\r\nHotfix Update",
+            "date": "2023-04-04",
+            "datetime": "20230404",
+            "filename": "Arrow-v13.1-X00TD-OFFICIAL-20230404-VANILLA.zip",
+            "filepath": "/arrow-13.1/X00TD/Arrow-v13.1-X00TD-OFFICIAL-20230404-VANILLA.zip",
             "maintainer": "ATANYTHING",
             "model": "Zenfone Max Pro M1",
             "oem": "asus",
-            "sha256": "576098d3d238ef1d61c6278bb446987a886aa7a84898f9204df619523d7b9916",
-            "size": "972018477",
+            "sha256": "0ee3621ebe0d5b6cff51f69cfd07210eead097afb95bae5de9b076d49d1f4be8",
+            "size": "970342402",
             "type": "official",
             "version": "v13.1"
         }
