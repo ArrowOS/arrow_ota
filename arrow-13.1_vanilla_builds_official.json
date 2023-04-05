@@ -1,4 +1,20 @@
 {
+    "G": [
+        {
+            "changelog": null,
+            "date": "2023-04-05",
+            "datetime": "20230405",
+            "filename": "Arrow-v13.1-G-OFFICIAL-20230405-VANILLA.zip",
+            "filepath": "/arrow-13.1/G/Arrow-v13.1-G-OFFICIAL-20230405-VANILLA.zip",
+            "maintainer": "kardebayan",
+            "model": "10.or G",
+            "oem": "10.or",
+            "sha256": "f9c12c7a1abd3f078c4a3d49ad86a45a553e6939c3596d8a8ea9d4cc92b0c1f4",
+            "size": "720493319",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "RMP6768": [
         {
             "changelog": "<b>Supported devices:</b>\r\n1) Realme Pad LTE (RMP2102)\r\n2) Realme Pad WiFi (RMP2103)\r\n<b>Supported Firmware: </b> A09 to A12\r\n<b>Recovery: </b><a href=\"https://github.com/neilchetty/releases/releases/tag/25102022\">Click here</a> (Use EROFS Recovery)\r\n<b>Note: </b>\r\n1) After a factory reset , device might reboot automatically at first boot then boot to system.\r\n<hr>\r\n<b>Donate to Maintainer: </b>\r\n<a href=\"https://www.paypal.com/paypalme/chettyneil\"><b>PayPal</b></a>\r\n<b>UPI: </b>neilchetty4559@oksbi",
