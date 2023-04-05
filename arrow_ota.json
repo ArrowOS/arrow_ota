@@ -6745,6 +6745,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-04-05",
+                  "datetime": "20230405",
+                  "filename": "Arrow-v13.1-munch-OFFICIAL-20230405-GAPPS.zip",
+                  "filepath": "/arrow-13.1/munch/Arrow-v13.1-munch-OFFICIAL-20230405-GAPPS.zip",
+                  "sha256": "6b4c9453529437d772b606dba461c7a9c48063eae57ee1149dc88630afd883f2",
+                  "size": "1445504162",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-04-04",
