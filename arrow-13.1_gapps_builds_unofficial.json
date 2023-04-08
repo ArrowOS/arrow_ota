@@ -47,6 +47,22 @@
             "version": "v13.1"
         }
     ],
+    "Spacewar": [
+        {
+            "changelog": "- Inital build.",
+            "date": "2023-04-08",
+            "datetime": "20230408",
+            "filename": "Arrow-v13.1-Spacewar-UNOFFICIAL-20230408-GAPPS.zip",
+            "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-UNOFFICIAL-20230408-GAPPS.zip",
+            "maintainer": "hiper25",
+            "model": "A063",
+            "oem": "Nothing",
+            "sha256": "dc3ba34abc0a0978e2028b2efd3af74ccdbd5d2bade944e6525a7f3c3a6b9ad1",
+            "size": "1424658680",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "X00TD": [
         {
             "changelog": "TestBuild For QPR2",
