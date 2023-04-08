@@ -31,6 +31,22 @@
             "version": "v13.1"
         }
     ],
+    "Spacewar": [
+        {
+            "changelog": "- Inital build.",
+            "date": "2023-04-08",
+            "datetime": "20230408",
+            "filename": "Arrow-v13.1-Spacewar-UNOFFICIAL-20230408-VANILLA.zip",
+            "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-UNOFFICIAL-20230408-VANILLA.zip",
+            "maintainer": "hiper25",
+            "model": "A063",
+            "oem": "Nothing",
+            "sha256": "f27b6a003c42a32048444cb92b22d5d5a82288252bfaca704902afb98873f55c",
+            "size": "1076785539",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "apollo": [
         {
             "changelog": "- Arrow 13.1 refresh\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",

@@ -1039,6 +1039,34 @@
       ]
     }
   ],
+  "Spacewar": [
+    {
+      "changelog": "- Inital build.",
+      "maintainer": "hiper25",
+      "model": "A063",
+      "oem": "Nothing",
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-08",
+                  "datetime": "20230408",
+                  "filename": "Arrow-v13.1-Spacewar-UNOFFICIAL-20230408-VANILLA.zip",
+                  "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-UNOFFICIAL-20230408-VANILLA.zip",
+                  "sha256": "f27b6a003c42a32048444cb92b22d5d5a82288252bfaca704902afb98873f55c",
+                  "size": "1076785539",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "X00T": [
     {
       "changelog": "- Updated HALs and rebased kernel on LA.UM.10.2.1.r1-03400-sdm660.0",
