@@ -1757,7 +1757,7 @@
   ],
   "Z01R": [
     {
-      "changelog": "\u2022 Kernel: Merge LA.UM.10.3.r1-01700-sdm845.0 tag\r\n\u2022 Sync latest ROM change",
+      "changelog": "ROM: Sync with latest sources.",
       "maintainer": "EdwardWu",
       "model": "Zenfone 5Z",
       "oem": "asus",
@@ -1879,6 +1879,26 @@
                   "size": "770717286",
                   "type": "unofficial",
                   "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.1": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-09",
+                  "datetime": "20230409",
+                  "filename": "Arrow-v13.1-Z01R-OFFICIAL-20230409-VANILLA.zip",
+                  "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-OFFICIAL-20230409-VANILLA.zip",
+                  "sha256": "d5344813f340a4e9b2bbdb58a3f64fd105269913140522f8a1b0b45d49dd97f6",
+                  "size": "817357321",
+                  "type": "official",
+                  "version": "v13.1"
                 }
               ]
             }
