@@ -8913,7 +8913,7 @@
   ],
   "sweet": [
     {
-      "changelog": "- Test build",
+      "changelog": "- Updated blobs to MIUI 14 TKFMIXM",
       "maintainer": "daniml3",
       "model": "Redmi Note 10 Pro",
       "oem": "Redmi",
@@ -9103,6 +9103,22 @@
       ],
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-10",
+                  "datetime": "20230410",
+                  "filename": "Arrow-v13.1-sweet-OFFICIAL-20230410-VANILLA.zip",
+                  "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230410-VANILLA.zip",
+                  "sha256": "72b737a4c817e1caa7f9400eff2a8f930ecb65d6784e9016db48f85a27398da6",
+                  "size": "1131782381",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
