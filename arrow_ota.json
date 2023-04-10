@@ -10845,7 +10845,7 @@
   ],
   "x3": [
     {
-      "changelog": "x3: Bringup arrow-13.0 Android 13 Official build\r\nx3: Build GcamGO-V2\r\nKernel: Merge CLO tag to LA.UM.9.1.r1-12900-SMxxx0.QSSI13.0",
+      "changelog": "ROM: Sync with latest sources.",
       "maintainer": "Adithya (ghostrider_reborn) and EdwardWu",
       "model": "Realme X3 / SuperZoom",
       "oem": "realme",
@@ -10955,6 +10955,26 @@
                   "size": "836070175",
                   "type": "official",
                   "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.1": [
+        {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-10",
+                  "datetime": "20230410",
+                  "filename": "Arrow-v13.1-x3-OFFICIAL-20230410-VANILLA.zip",
+                  "filepath": "/arrow-13.1/x3/Arrow-v13.1-x3-OFFICIAL-20230410-VANILLA.zip",
+                  "sha256": "74b462790e86ba8b38b83e806a51d9be043fe34634b40c57d2bcf7d7b0dd1efd",
+                  "size": "776180930",
+                  "type": "official",
+                  "version": "v13.1"
                 }
               ]
             }

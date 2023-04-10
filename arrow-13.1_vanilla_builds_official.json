@@ -142,5 +142,21 @@
             "type": "official",
             "version": "v13.1"
         }
+    ],
+    "x3": [
+        {
+            "changelog": "ROM: Sync with latest sources.",
+            "date": "2023-04-10",
+            "datetime": "20230410",
+            "filename": "Arrow-v13.1-x3-OFFICIAL-20230410-VANILLA.zip",
+            "filepath": "/arrow-13.1/x3/Arrow-v13.1-x3-OFFICIAL-20230410-VANILLA.zip",
+            "maintainer": "Adithya (ghostrider_reborn) and EdwardWu",
+            "model": "Realme X3 / SuperZoom",
+            "oem": "realme",
+            "sha256": "74b462790e86ba8b38b83e806a51d9be043fe34634b40c57d2bcf7d7b0dd1efd",
+            "size": "776180930",
+            "type": "official",
+            "version": "v13.1"
+        }
     ]
 }
