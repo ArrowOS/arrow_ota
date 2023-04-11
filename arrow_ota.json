@@ -4556,6 +4556,26 @@
             }
           ]
         }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-11",
+                  "datetime": "20230411",
+                  "filename": "Arrow-v13.1-gauguin-UNOFFICIAL-20230411-VANILLA.zip",
+                  "filepath": "/arrow-13.1/gauguin/Arrow-v13.1-gauguin-UNOFFICIAL-20230411-VANILLA.zip",
+                  "sha256": "30734e9f0334cc08eb32b25909b8c58e0b0ad3714aa478211bcd26b13b36e2a2",
+                  "size": "1379348506",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
