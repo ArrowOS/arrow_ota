@@ -95,6 +95,22 @@
             "version": "v13.1"
         }
     ],
+    "ginkgo": [
+        {
+            "changelog": null,
+            "date": "2023-04-12",
+            "datetime": "20230412",
+            "filename": "Arrow-v13.1-ginkgo-UNOFFICIAL-20230412-VANILLA.zip",
+            "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-UNOFFICIAL-20230412-VANILLA.zip",
+            "maintainer": "Adithya (ghostrider_reborn)",
+            "model": "Redmi Note 8/8T",
+            "oem": "Xiaomi",
+            "sha256": "acf977f4a4e22c3a838bbe47ff9f4d48d37e3ff158c9ce0ae76c03817e7247f5",
+            "size": "981930949",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "mojito": [
         {
             "changelog": "- Based on MIUI 14 FW",

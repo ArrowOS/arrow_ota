@@ -4832,6 +4832,26 @@
             }
           ]
         }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-12",
+                  "datetime": "20230412",
+                  "filename": "Arrow-v13.1-ginkgo-UNOFFICIAL-20230412-VANILLA.zip",
+                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-UNOFFICIAL-20230412-VANILLA.zip",
+                  "sha256": "acf977f4a4e22c3a838bbe47ff9f4d48d37e3ff158c9ce0ae76c03817e7247f5",
+                  "size": "981930949",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
