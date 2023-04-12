@@ -159,6 +159,22 @@
             "version": "v13.1"
         }
     ],
+    "vayu": [
+        {
+            "changelog": null,
+            "date": "2023-04-12",
+            "datetime": "20230412",
+            "filename": "Arrow-v13.1-vayu-OFFICIAL-20230412-VANILLA.zip",
+            "filepath": "/arrow-13.1/vayu/Arrow-v13.1-vayu-OFFICIAL-20230412-VANILLA.zip",
+            "maintainer": "K001droid and raghavt20",
+            "model": "Poco X3 Pro",
+            "oem": "POCO",
+            "sha256": "ab92cdb21567d0e27eac88fa57a4832d8a2f659c918613e570fd23394bffc158",
+            "size": "1228576370",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "x3": [
         {
             "changelog": "ROM: Sync with latest sources.",
