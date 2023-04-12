@@ -111,6 +111,22 @@
             "version": "v13.1"
         }
     ],
+    "gauguin": [
+        {
+            "changelog": null,
+            "date": "2023-04-12",
+            "datetime": "20230412",
+            "filename": "Arrow-v13.1-gauguin-UNOFFICIAL-20230412-GAPPS.zip",
+            "filepath": "/arrow-13.1/gauguin/Arrow-v13.1-gauguin-UNOFFICIAL-20230412-GAPPS.zip",
+            "maintainer": "Hridaya & Lynrinn",
+            "model": "M2007J17G",
+            "oem": "Xiaomi",
+            "sha256": "1a4fcac7f9f141502ef16d985b24f33d8b7be94498a3827adc1c916c684b7d38",
+            "size": "1756232339",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "mojito": [
         {
             "changelog": "- Based on MIUI 14 FW",
