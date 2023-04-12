@@ -10229,6 +10229,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-04-12",
+                  "datetime": "20230412",
+                  "filename": "Arrow-v13.1-vayu-OFFICIAL-20230412-GAPPS.zip",
+                  "filepath": "/arrow-13.1/vayu/Arrow-v13.1-vayu-OFFICIAL-20230412-GAPPS.zip",
+                  "sha256": "be46db8c7da51c995a59f51a086f5a67488d969a5910339b6146d37f8a45f27d",
+                  "size": "1525313232",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-04-12",
