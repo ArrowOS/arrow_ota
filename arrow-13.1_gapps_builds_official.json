@@ -143,6 +143,22 @@
             "version": "v13.1"
         }
     ],
+    "nabu": [
+        {
+            "changelog": null,
+            "date": "2023-04-12",
+            "datetime": "20230412",
+            "filename": "Arrow-v13.1-nabu-OFFICIAL-20230412-GAPPS.zip",
+            "filepath": "/arrow-13.1/nabu/Arrow-v13.1-nabu-OFFICIAL-20230412-GAPPS.zip",
+            "maintainer": "K001droid and ganeshi4u",
+            "model": "Xiaomi Pad 5",
+            "oem": "Xiaomi",
+            "sha256": "6fb8432e734eaade4ed6a7f7854b297f650407e711f95bf03dda95a9e2b93ce7",
+            "size": "1501440271",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "sweet": [
         {
             "changelog": "- Updated blobs to MIUI 14 TKFMIXM",
