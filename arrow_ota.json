@@ -1041,12 +1041,28 @@
   ],
   "Spacewar": [
     {
-      "changelog": "- Inital build.",
+      "changelog": "- April patch.\r\n- Fix mic call noise cancellation.\r\n- Fix Auto Brightness.\r\n- System stability.",
       "maintainer": "hiper25",
       "model": "A063",
       "oem": "Nothing",
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-13",
+                  "datetime": "20230413",
+                  "filename": "Arrow-v13.1-Spacewar-OFFICIAL-20230413-VANILLA.zip",
+                  "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-OFFICIAL-20230413-VANILLA.zip",
+                  "sha256": "8dee3120665d6265b47220fcb7be831d4151a5ce3167d7e2800ff270f262ce13",
+                  "size": "1088989708",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
