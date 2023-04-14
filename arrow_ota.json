@@ -10558,7 +10558,7 @@
   "violet": [
     {
       "changelog": null,
-      "maintainer": "TG_DEVICE_MAINTAINER",
+      "maintainer": "raghavt20",
       "model": "Redmi Note 7 Pro",
       "oem": "Xiaomi",
       "v11.0": [
@@ -10695,6 +10695,26 @@
                   "size": "934022520",
                   "type": "official",
                   "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2023-04-14",
+                  "datetime": "20230414",
+                  "filename": "Arrow-v13.1-violet-UNOFFICIAL-20230414-GAPPS.zip",
+                  "filepath": "/arrow-13.1/violet/Arrow-v13.1-violet-UNOFFICIAL-20230414-GAPPS.zip",
+                  "sha256": "640d6bb38d0ecfb11ffe62e1ea1fce037424d605c18f0539ddedd2caab445f02",
+                  "size": "1316488690",
+                  "type": "unofficial",
+                  "version": "v13.1"
                 }
               ]
             }
