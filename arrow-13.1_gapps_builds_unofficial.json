@@ -190,5 +190,21 @@
             "type": "official",
             "version": "v13.1"
         }
+    ],
+    "vayu": [
+        {
+            "changelog": null,
+            "date": "2023-04-14",
+            "datetime": "20230414",
+            "filename": "Arrow-v13.1-vayu-UNOFFICIAL-20230414-GAPPS.zip",
+            "filepath": "/arrow-13.1/vayu/Arrow-v13.1-vayu-UNOFFICIAL-20230414-GAPPS.zip",
+            "maintainer": "K001droid and raghavt20",
+            "model": "Poco X3 Pro",
+            "oem": "POCO",
+            "sha256": "e65e293a7869782674e2b78c9a7feaa506ace24f17356f4bdd94430b07e3fb47",
+            "size": "1501446812",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
     ]
 }
