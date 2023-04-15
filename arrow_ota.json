@@ -9037,7 +9037,7 @@
   ],
   "sweet": [
     {
-      "changelog": "- Updated blobs to MIUI 14 TKFMIXM",
+      "changelog": "- Switched to common trees",
       "maintainer": "TG_DEVICE_MAINTAINER",
       "model": "Redmi Note 10 Pro",
       "oem": "Xiaomi",
@@ -9243,12 +9243,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-04-13",
-                  "datetime": "20230413",
-                  "filename": "Arrow-v13.1-sweet-OFFICIAL-20230413-VANILLA.zip",
-                  "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230413-VANILLA.zip",
-                  "sha256": "a3f05313d40a7297a8c677d12615ff036c7d4da35220b4f9831634d6bfcc6c89",
-                  "size": "1227925315",
+                  "date": "2023-04-15",
+                  "datetime": "20230415",
+                  "filename": "Arrow-v13.1-sweet-OFFICIAL-20230415-VANILLA.zip",
+                  "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230415-VANILLA.zip",
+                  "sha256": "bf1a4be8cca15d94a71ec3dfaa86718017a4eb71384a5d8719a7d963b8d73451",
+                  "size": "1118494245",
                   "type": "official",
                   "version": "v13.1"
                 }
