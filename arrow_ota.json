@@ -4865,6 +4865,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-04-16",
+                  "datetime": "20230416",
+                  "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20230416-GAPPS.zip",
+                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20230416-GAPPS.zip",
+                  "sha256": "d78095eee66bd17fabf52a3c07cf6cdcd9b7b5906322e2ec72c4c302f064aae4",
+                  "size": "1308005963",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-04-16",
