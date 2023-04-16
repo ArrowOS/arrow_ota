@@ -1942,6 +1942,22 @@
                 }
               ]
             }
+          ],
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-16",
+                  "datetime": "20230416",
+                  "filename": "Arrow-v13.1-Z01R-UNOFFICIAL-20230416-VANILLA.zip",
+                  "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-UNOFFICIAL-20230416-VANILLA.zip",
+                  "sha256": "b14cb99934c3168658d58a030d4e6e4b18fcc3c8cb7e7c8e539f4f155be34ecf",
+                  "size": "826188155",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
           ]
         }
       ]

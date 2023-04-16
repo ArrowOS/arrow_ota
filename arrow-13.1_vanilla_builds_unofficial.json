@@ -47,6 +47,22 @@
             "version": "v13.1"
         }
     ],
+    "Z01R": [
+        {
+            "changelog": "ROM: Sync with latest sources.",
+            "date": "2023-04-16",
+            "datetime": "20230416",
+            "filename": "Arrow-v13.1-Z01R-UNOFFICIAL-20230416-VANILLA.zip",
+            "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-UNOFFICIAL-20230416-VANILLA.zip",
+            "maintainer": "EdwardWu",
+            "model": "Zenfone 5Z",
+            "oem": "asus",
+            "sha256": "b14cb99934c3168658d58a030d4e6e4b18fcc3c8cb7e7c8e539f4f155be34ecf",
+            "size": "826188155",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "apollo": [
         {
             "changelog": "- Arrow 13.1 refresh\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
