@@ -1945,6 +1945,18 @@
           ],
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-04-16",
+                  "datetime": "20230416",
+                  "filename": "Arrow-v13.1-Z01R-UNOFFICIAL-20230416-GAPPS.zip",
+                  "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-UNOFFICIAL-20230416-GAPPS.zip",
+                  "sha256": "d1c48e4fd90b7991cba53a316f097cc5eb3814315e23293ae7f8ad3e5fcf6964",
+                  "size": "1183442775",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-04-16",
