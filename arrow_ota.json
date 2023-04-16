@@ -4621,7 +4621,7 @@
   ],
   "ginkgo": [
     {
-      "changelog": null,
+      "changelog": "ROM: Sync with latest sources.",
       "maintainer": "Adithya (ghostrider_reborn)",
       "model": "Redmi Note 8/8T",
       "oem": "Xiaomi",
@@ -4863,6 +4863,22 @@
       ],
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-16",
+                  "datetime": "20230416",
+                  "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20230416-VANILLA.zip",
+                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20230416-VANILLA.zip",
+                  "sha256": "ee67f93e8c2f77aa43b37b23b9216bd3c23c01c23866b3208e162861290f899c",
+                  "size": "982329462",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
