@@ -4259,6 +4259,34 @@
       ]
     }
   ],
+  "dubai": [
+    {
+      "changelog": null,
+      "maintainer": "Adithya (ghostrider_reborn)",
+      "model": "motorola edge 30",
+      "oem": "motorola",
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-17",
+                  "datetime": "20230417",
+                  "filename": "Arrow-v13.1-dubai-UNOFFICIAL-20230417-VANILLA.zip",
+                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-UNOFFICIAL-20230417-VANILLA.zip",
+                  "sha256": "746dcd14ff5608232ea004c05f756d40fa0b979d033570356375032b72da1e95",
+                  "size": "1255260784",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "dumpling": [
     {
       "changelog": "- Partial sync with LOS tree\r\n- Misc fixes and upstream changes.",
