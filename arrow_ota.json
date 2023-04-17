@@ -4269,6 +4269,18 @@
         {
           "UNOFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-04-17",
+                  "datetime": "20230417",
+                  "filename": "Arrow-v13.1-dubai-UNOFFICIAL-20230417-GAPPS.zip",
+                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-UNOFFICIAL-20230417-GAPPS.zip",
+                  "sha256": "c4cc953860316f22bbbb1c51a97c616c0c0bfe482682604eebfb5a035154e63e",
+                  "size": "1580476501",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-04-17",
