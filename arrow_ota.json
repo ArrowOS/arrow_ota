@@ -4367,6 +4367,34 @@
       ]
     }
   ],
+  "elish": [
+    {
+      "changelog": "- Welcome Xiaomi Pad 5 Pro (elish) to join Arrow-OS",
+      "maintainer": "TG_DEVICE_MAINTAINER",
+      "model": "M2105K81AC",
+      "oem": "Xiaomi",
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-18",
+                  "datetime": "20230418",
+                  "filename": "Arrow-v13.1-elish-UNOFFICIAL-20230418-VANILLA.zip",
+                  "filepath": "/arrow-13.1/elish/Arrow-v13.1-elish-UNOFFICIAL-20230418-VANILLA.zip",
+                  "sha256": "c9de7344b0aa9673667427abdefbe9e4e41f1207f2b5f576d9175f0c43487999",
+                  "size": "1386407976",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "enchilada": [
     {
       "changelog": null,
