@@ -4377,6 +4377,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-04-19",
+                  "datetime": "20230419",
+                  "filename": "Arrow-v13.1-elish-OFFICIAL-20230419-GAPPS.zip",
+                  "filepath": "/arrow-13.1/elish/Arrow-v13.1-elish-OFFICIAL-20230419-GAPPS.zip",
+                  "sha256": "ad7336fb7a616fc5a4d51d7517b696b3c3f4ffa24687d1feb2705f3c12a9f169",
+                  "size": "1726096475",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-04-19",
