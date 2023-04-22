@@ -191,6 +191,22 @@
             "version": "v13.1"
         }
     ],
+    "lisa": [
+        {
+            "changelog": "- Updated blobs to MIUI V14.0.6.0.TKOCNXM\r\n- Switched to MIUI display stack",
+            "date": "2023-04-22",
+            "datetime": "20230422",
+            "filename": "Arrow-v13.1-lisa-UNOFFICIAL-20230422-GAPPS.zip",
+            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-UNOFFICIAL-20230422-GAPPS.zip",
+            "maintainer": "ALKALiKong",
+            "model": "Xiaomi 11 Lite NE",
+            "oem": "Xiaomi",
+            "sha256": "eedc7f9371cb550a9b298b93f279fbb412414277d475ffe9024ff5b388049612",
+            "size": "1821660038",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "mojito": [
         {
             "changelog": "- Based on MIUI 14 FW",
