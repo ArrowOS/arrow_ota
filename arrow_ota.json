@@ -4267,6 +4267,22 @@
       "oem": "motorola",
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-04-26",
+                  "datetime": "20230426",
+                  "filename": "Arrow-v13.1-dubai-OFFICIAL-20230426-VANILLA.zip",
+                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20230426-VANILLA.zip",
+                  "sha256": "d318fe1f032376d374ad61d7228cbc69d29b3dcc373e0a7c476ec7c0080842cf",
+                  "size": "1256651645",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
