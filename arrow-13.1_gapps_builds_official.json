@@ -161,7 +161,7 @@
     ],
     "ginkgo": [
         {
-            "changelog": "ROM: Sync with latest sources.",
+            "changelog": "- Use pie chromatix libs for better camera quality\r\n- Updated adreno drivers to V@0530.47\r\n- Fixed artifacts when switching tabs in Google Chrome\r\n- Improved cpusets and cpufreq governor ratelimits\r\n- Disable radio redir_party_num feature\r\n- Updated kernel to latest CLO revision (13400-SMxxx0)",
             "date": "2023-04-29",
             "datetime": "20230429",
             "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20230429-GAPPS.zip",
@@ -169,8 +169,8 @@
             "maintainer": "Adithya (ghostrider_reborn)",
             "model": "Redmi Note 8/8T",
             "oem": "Xiaomi",
-            "sha256": "7e3535e5792c09525d79e6934ef8c2da28c29f03338f583fdd0787c39b8f9113",
-            "size": "1390260887",
+            "sha256": "198ae931a2c873e68ab220bce4c7c9e2bc176b7f5836e728070907d729f2ad01",
+            "size": "1390245975",
             "type": "official",
             "version": "v13.1"
         }
