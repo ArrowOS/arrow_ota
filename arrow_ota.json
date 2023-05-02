@@ -6213,6 +6213,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-05-02",
+                  "datetime": "20230502",
+                  "filename": "Arrow-v13.1-lisa-OFFICIAL-20230502-GAPPS.zip",
+                  "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230502-GAPPS.zip",
+                  "sha256": "f90c5fe1029cfd85ae15a0096053989cac29247b3645d77733e10d2865dbad06",
+                  "size": "1823305536",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-05-02",
