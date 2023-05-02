@@ -6211,6 +6211,22 @@
       ],
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-05-02",
+                  "datetime": "20230502",
+                  "filename": "Arrow-v13.1-lisa-OFFICIAL-20230502-VANILLA.zip",
+                  "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230502-VANILLA.zip",
+                  "sha256": "081b48a25dd2673e0fb725ed5b1b5b12e7d277d7e9483201f54d7de5eab95f60",
+                  "size": "1459855366",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [
