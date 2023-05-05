@@ -4785,7 +4785,7 @@
   ],
   "ginkgo": [
     {
-      "changelog": "- Use pie chromatix libs for better camera quality\r\n- Updated adreno drivers to V@0530.47\r\n- Fixed artifacts when switching tabs in Google Chrome\r\n- Improved cpusets and cpufreq governor ratelimits\r\n- Disable radio redir_party_num feature\r\n- Updated kernel to latest CLO revision (13400-SMxxx0)",
+      "changelog": null,
       "maintainer": "Adithya (ghostrider_reborn)",
       "model": "Redmi Note 8/8T",
       "oem": "Xiaomi",
@@ -5071,12 +5071,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-04-14",
-                  "datetime": "20230414",
-                  "filename": "Arrow-v13.1-ginkgo-UNOFFICIAL-20230414-VANILLA.zip",
-                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-UNOFFICIAL-20230414-VANILLA.zip",
-                  "sha256": "f44ee2b69be01cfb1b294f7ea5c4661a4e35cd4ff8cc7f9c6f9628e43e08ab62",
-                  "size": "982050527",
+                  "date": "2023-05-05",
+                  "datetime": "20230505",
+                  "filename": "Arrow-v13.1-ginkgo-UNOFFICIAL-20230505-VANILLA.zip",
+                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-UNOFFICIAL-20230505-VANILLA.zip",
+                  "sha256": "54ceae63e396761f2067961cb240ea5a75f89e8d6acfc64f020f519b019428b9",
+                  "size": "982122910",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
