@@ -2137,7 +2137,7 @@
   ],
   "apollo": [
     {
-      "changelog": "- Arrow 13.1 refresh\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+      "changelog": "- Move to LOS-20 kernel by SebaUbuntu\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
       "maintainer": "Dobsgw",
       "model": "Xiaomi Mi 10T",
       "oem": "Xiaomi",
@@ -2399,12 +2399,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-04-02",
-                  "datetime": "20230402",
-                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230402-VANILLA.zip",
-                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230402-VANILLA.zip",
-                  "sha256": "7db7a8de6c41a2ade5354267d0c3289289c976d036629d6bb730d8371fa760e1",
-                  "size": "1401821178",
+                  "date": "2023-05-10",
+                  "datetime": "20230510",
+                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230510-VANILLA.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230510-VANILLA.zip",
+                  "sha256": "4858269895e0131ad9e25c9026368bf31621a4db98785c08f81eb35ed5430bd9",
+                  "size": "1472954569",
                   "type": "official",
                   "version": "v13.1"
                 }
