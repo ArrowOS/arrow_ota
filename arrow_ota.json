@@ -1041,7 +1041,7 @@
   ],
   "Spacewar": [
     {
-      "changelog": "- April patch.\r\n- Fix mic call noise cancellation.\r\n- Fix Auto Brightness.\r\n- System stability.",
+      "changelog": "- May patch.\r\n- Update the vibration motor feel.\r\n- System stability.\r\n\r\nbased ROM: 1.5.3",
       "maintainer": "hiper25",
       "model": "A063",
       "oem": "Nothing",
@@ -1063,12 +1063,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-04-13",
-                  "datetime": "20230413",
-                  "filename": "Arrow-v13.1-Spacewar-OFFICIAL-20230413-VANILLA.zip",
-                  "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-OFFICIAL-20230413-VANILLA.zip",
-                  "sha256": "8dee3120665d6265b47220fcb7be831d4151a5ce3167d7e2800ff270f262ce13",
-                  "size": "1088989708",
+                  "date": "2023-05-11",
+                  "datetime": "20230511",
+                  "filename": "Arrow-v13.1-Spacewar-OFFICIAL-20230511-VANILLA.zip",
+                  "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-OFFICIAL-20230511-VANILLA.zip",
+                  "sha256": "1ef08f3e487fdf9bedddddc707707a81f596b182c251048cb25a1119b13331ba",
+                  "size": "1089163780",
                   "type": "official",
                   "version": "v13.1"
                 }
