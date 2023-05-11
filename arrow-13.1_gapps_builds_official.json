@@ -194,15 +194,15 @@
     "mojito": [
         {
             "changelog": "- Based on MIUI 14 FW",
-            "date": "2023-05-08",
-            "datetime": "20230508",
-            "filename": "Arrow-v13.1-mojito-OFFICIAL-20230508-GAPPS.zip",
-            "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-OFFICIAL-20230508-GAPPS.zip",
+            "date": "2023-05-11",
+            "datetime": "20230511",
+            "filename": "Arrow-v13.1-mojito-OFFICIAL-20230511-GAPPS.zip",
+            "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-OFFICIAL-20230511-GAPPS.zip",
             "maintainer": "sarthakroy2002, blur",
             "model": "Redmi Note 10",
             "oem": "Redmi",
-            "sha256": "3595abaf482e5e7d785b7a73aaca480a37b64e279b08f1142016ca041374b38e",
-            "size": "1678012465",
+            "sha256": "c10c955fe0dfcaf6a95cb6414f4564591e5848c0b5e1d951020569fb412c814c",
+            "size": "1678016635",
             "type": "official",
             "version": "v13.1"
         }
