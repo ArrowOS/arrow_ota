@@ -178,15 +178,15 @@
     "lisa": [
         {
             "changelog": "- Updated blobs to MIUI V14.0.6.0.TKOCNXM\r\n- Switched to MIUI display stack\r\n- Improved misc stuffs",
-            "date": "2023-05-02",
-            "datetime": "20230502",
-            "filename": "Arrow-v13.1-lisa-OFFICIAL-20230502-GAPPS.zip",
-            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230502-GAPPS.zip",
+            "date": "2023-05-11",
+            "datetime": "20230511",
+            "filename": "Arrow-v13.1-lisa-OFFICIAL-20230511-GAPPS.zip",
+            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230511-GAPPS.zip",
             "maintainer": "ALKALiKong",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "f90c5fe1029cfd85ae15a0096053989cac29247b3645d77733e10d2865dbad06",
-            "size": "1823305536",
+            "sha256": "2ef35dddd8b044328cc6c56ac59e5b86fc029a35676afef4c6515828b8c17047",
+            "size": "1823360893",
             "type": "official",
             "version": "v13.1"
         }
