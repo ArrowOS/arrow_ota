@@ -4256,6 +4256,26 @@
             }
           ]
         }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-05-20",
+                  "datetime": "20230520",
+                  "filename": "Arrow-v13.1-davinci-UNOFFICIAL-20230520-VANILLA.zip",
+                  "filepath": "/arrow-13.1/davinci/Arrow-v13.1-davinci-UNOFFICIAL-20230520-VANILLA.zip",
+                  "sha256": "cdbccadc8c7863a660ee817114eed6aeb5de144a67d03eaf1ad62433ccd006f6",
+                  "size": "1059344902",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
