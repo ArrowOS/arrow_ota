@@ -9309,7 +9309,7 @@
   ],
   "sweet": [
     {
-      "changelog": "- Switched to common trees",
+      "changelog": "EXPERIMENTAL BUILD - DO NOT FLASH",
       "maintainer": "TG_DEVICE_MAINTAINER",
       "model": "Redmi Note 10 Pro",
       "oem": "Xiaomi",
@@ -9537,6 +9537,18 @@
                   "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-UNOFFICIAL-20230407-GAPPS.zip",
                   "sha256": "5a4ab589a6ed3dad97b4110323268f515e56c8f04811fc28fc757957cde4eec0",
                   "size": "1464249050",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ],
+              "VANILLA": [
+                {
+                  "date": "2023-05-20",
+                  "datetime": "20230520",
+                  "filename": "Arrow-v13.1-sweet-UNOFFICIAL-20230520-VANILLA.zip",
+                  "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-UNOFFICIAL-20230520-VANILLA.zip",
+                  "sha256": "859e9c294ca35fc00bad5013fa92f4f64f0917a88aa926c7e68521bc10bbbb8a",
+                  "size": "1122933971",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
