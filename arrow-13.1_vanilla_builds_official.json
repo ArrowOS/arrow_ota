@@ -175,6 +175,22 @@
             "version": "v13.1"
         }
     ],
+    "gauguin": [
+        {
+            "changelog": null,
+            "date": "2023-05-21",
+            "datetime": "20230521",
+            "filename": "Arrow-v13.1-gauguin-OFFICIAL-20230521-VANILLA.zip",
+            "filepath": "/arrow-13.1/gauguin/Arrow-v13.1-gauguin-OFFICIAL-20230521-VANILLA.zip",
+            "maintainer": "Hridaya & Lynrinn",
+            "model": "M2007J17G",
+            "oem": "Xiaomi",
+            "sha256": "2bfd731e5ca04b150f1c679475189c5714fb8a8a8bce75796637e1cc41d8de32",
+            "size": "1472635912",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "ginkgo": [
         {
             "changelog": "- Use pie chromatix libs for better camera quality\r\n- Updated adreno drivers to V@0530.47\r\n- Fixed artifacts when switching tabs in Google Chrome\r\n- Improved cpusets and cpufreq governor ratelimits\r\n- Disable radio redir_party_num feature\r\n- Updated kernel to latest CLO revision (13400-SMxxx0)",
