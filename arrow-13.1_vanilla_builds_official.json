@@ -271,6 +271,22 @@
             "version": "v13.1"
         }
     ],
+    "porsche": [
+        {
+            "changelog": "- Initial official release\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
+            "date": "2023-05-22",
+            "datetime": "20230522",
+            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230522-VANILLA.zip",
+            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230522-VANILLA.zip",
+            "maintainer": "danielml3",
+            "model": "RMX3312",
+            "oem": "realme",
+            "sha256": "9c599e7593460453600336832e6cb25fa06c668c1d7848d90f45847eb61f96fe",
+            "size": "1538053293",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "sweet": [
         {
             "changelog": "- Switched to common trees",
