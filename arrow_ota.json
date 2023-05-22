@@ -8041,6 +8041,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-05-22",
+                  "datetime": "20230522",
+                  "filename": "Arrow-v13.1-porsche-OFFICIAL-20230522-GAPPS.zip",
+                  "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230522-GAPPS.zip",
+                  "sha256": "b5f1bf49e3f25ef1bb6fa8b3841af481db4f4fe4220b06db3e4354824b353a27",
+                  "size": "1900177343",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-05-22",
