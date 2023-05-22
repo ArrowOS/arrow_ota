@@ -50,15 +50,15 @@
     "Spacewar": [
         {
             "changelog": "- May patch.\r\n- Update the vibration motor feel.\r\n- System stability.\r\n\r\nbased ROM: 1.5.3",
-            "date": "2023-05-11",
-            "datetime": "20230511",
-            "filename": "Arrow-v13.1-Spacewar-OFFICIAL-20230511-VANILLA.zip",
-            "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-OFFICIAL-20230511-VANILLA.zip",
+            "date": "2023-05-22",
+            "datetime": "20230522",
+            "filename": "Arrow-v13.1-Spacewar-OFFICIAL-20230522-VANILLA.zip",
+            "filepath": "/arrow-13.1/Spacewar/Arrow-v13.1-Spacewar-OFFICIAL-20230522-VANILLA.zip",
             "maintainer": "hiper25",
             "model": "A063",
             "oem": "Nothing",
-            "sha256": "1ef08f3e487fdf9bedddddc707707a81f596b182c251048cb25a1119b13331ba",
-            "size": "1089163780",
+            "sha256": "fe08828a8b2576eff33674340493d750ba7e0c460811303560a041942e08bc34",
+            "size": "1089178940",
             "type": "official",
             "version": "v13.1"
         }
