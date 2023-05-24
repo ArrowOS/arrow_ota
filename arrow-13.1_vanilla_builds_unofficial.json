@@ -223,6 +223,22 @@
             "version": "v13.1"
         }
     ],
+    "porsche": [
+        {
+            "changelog": "EXPERIMENTA BUILD - DO NOT FLASH",
+            "date": "2023-05-24",
+            "datetime": "20230524",
+            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230524-VANILLA.zip",
+            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230524-VANILLA.zip",
+            "maintainer": "danielml3",
+            "model": "RMX3312",
+            "oem": "realme",
+            "sha256": "a3834ecdb6e9934fbf8642905b58310d013ea3be9abaf4721a009f1d94ad09c5",
+            "size": "1499412233",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "sweet": [
         {
             "changelog": "EXPERIMENTAL BUILD - DO NOT FLASH",
