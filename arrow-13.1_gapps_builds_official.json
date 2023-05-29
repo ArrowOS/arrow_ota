@@ -274,15 +274,15 @@
     "porsche": [
         {
             "changelog": "- Initial official release\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
-            "date": "2023-05-22",
-            "datetime": "20230522",
-            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230522-GAPPS.zip",
-            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230522-GAPPS.zip",
+            "date": "2023-05-29",
+            "datetime": "20230529",
+            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230529-GAPPS.zip",
+            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230529-GAPPS.zip",
             "maintainer": "danielml3",
-            "model": "RMX3312",
+            "model": "Realme GT 2",
             "oem": "realme",
-            "sha256": "b5f1bf49e3f25ef1bb6fa8b3841af481db4f4fe4220b06db3e4354824b353a27",
-            "size": "1900177343",
+            "sha256": "4d9cc65afde6d8d202b99926e582d61ece841476dbbfe3669acdefc3a6d4e526",
+            "size": "1845291598",
             "type": "official",
             "version": "v13.1"
         }
