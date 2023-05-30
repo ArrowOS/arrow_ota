@@ -289,16 +289,16 @@
     ],
     "sweet": [
         {
-            "changelog": "- Upstreamed to latest common kernel\r\n- Various other improvements",
-            "date": "2023-05-29",
-            "datetime": "20230529",
-            "filename": "Arrow-v13.1-sweet-OFFICIAL-20230529-VANILLA.zip",
-            "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230529-VANILLA.zip",
+            "changelog": "- Upstreamed to latest common kernel\r\n- Fixed deep sleep on AOD\r\n- Various other improvements",
+            "date": "2023-05-30",
+            "datetime": "20230530",
+            "filename": "Arrow-v13.1-sweet-OFFICIAL-20230530-VANILLA.zip",
+            "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230530-VANILLA.zip",
             "maintainer": "TG_DEVICE_MAINTAINER",
             "model": "Redmi Note 10 Pro",
             "oem": "Xiaomi",
-            "sha256": "54f39da2e4b8b3c2792d7e687ab983297252b7f7248cc15bdb53a52a466cbbf8",
-            "size": "1124667209",
+            "sha256": "70e361de4d2f537d214e61b82ee2887ae3087c43f0b4004573f2a24ff244ea2f",
+            "size": "1124804720",
             "type": "official",
             "version": "v13.1"
         }
