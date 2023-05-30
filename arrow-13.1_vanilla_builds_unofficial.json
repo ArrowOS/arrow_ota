@@ -241,16 +241,16 @@
     ],
     "sweet": [
         {
-            "changelog": "EXPERIMENTAL BUILD - DO NOT FLASH",
-            "date": "2023-05-20",
-            "datetime": "20230520",
-            "filename": "Arrow-v13.1-sweet-UNOFFICIAL-20230520-VANILLA.zip",
-            "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-UNOFFICIAL-20230520-VANILLA.zip",
-            "maintainer": "TG_DEVICE_MAINTAINER",
+            "changelog": "EXPERIMENTAL BUILD",
+            "date": "2023-05-30",
+            "datetime": "20230530",
+            "filename": "Arrow-v13.1-sweet-UNOFFICIAL-20230530-VANILLA.zip",
+            "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-UNOFFICIAL-20230530-VANILLA.zip",
+            "maintainer": "danielml3",
             "model": "Redmi Note 10 Pro",
             "oem": "Xiaomi",
-            "sha256": "859e9c294ca35fc00bad5013fa92f4f64f0917a88aa926c7e68521bc10bbbb8a",
-            "size": "1122933971",
+            "sha256": "a960ee65df8ff7dfd57abf3b059f8d86f69fdf224fa3642bf5a33a9044fd741f",
+            "size": "1123124464",
             "type": "unofficial",
             "version": "v13.1"
         }
