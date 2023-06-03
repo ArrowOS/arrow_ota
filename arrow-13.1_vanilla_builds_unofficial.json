@@ -225,16 +225,16 @@
     ],
     "porsche": [
         {
-            "changelog": "EXPERIMENTA BUILD - DO NOT FLASH",
-            "date": "2023-05-25",
-            "datetime": "20230525",
-            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230525-VANILLA.zip",
-            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230525-VANILLA.zip",
+            "changelog": "- Updated all blobs from RMX3312.C12\r\n- Improved refresh rate settings\r\n- Added content-based refresh rate support (automatically switching between 60hz and 120hz)\r\n- Reduced the volume steps\r\n- Added ambient display settings\r\n- Fixed live wallpaper preview on the Theme Picker\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
+            "date": "2023-06-03",
+            "datetime": "20230603",
+            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230603-VANILLA.zip",
+            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230603-VANILLA.zip",
             "maintainer": "danielml3",
-            "model": "RMX3312",
+            "model": "Realme GT 2",
             "oem": "realme",
-            "sha256": "56ff30de8b5a41d078343fc662d4482df3928e02ae46a15cb73ac0f34a802444",
-            "size": "1499416039",
+            "sha256": "803c0ad092e5fcca9a73c0ae1e82659763e7e8692b7972419faefa805b9712c6",
+            "size": "1506265345",
             "type": "official",
             "version": "v13.1"
         }

@@ -8033,7 +8033,7 @@
   ],
   "porsche": [
     {
-      "changelog": "- Initial official release\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
+      "changelog": "- Updated all blobs from RMX3312.C12\r\n- Improved refresh rate settings\r\n- Added content-based refresh rate support (automatically switching between 60hz and 120hz)\r\n- Reduced the volume steps\r\n- Added ambient display settings\r\n- Fixed live wallpaper preview on the Theme Picker\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
       "maintainer": "danielml3",
       "model": "Realme GT 2",
       "oem": "realme",
@@ -8055,12 +8055,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-05-29",
-                  "datetime": "20230529",
-                  "filename": "Arrow-v13.1-porsche-OFFICIAL-20230529-VANILLA.zip",
-                  "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230529-VANILLA.zip",
-                  "sha256": "800f39aded4838c342f91c1fb30c7b4f7a29662eb0fb8e4dea9c2585aa2d819b",
-                  "size": "1499415121",
+                  "date": "2023-06-03",
+                  "datetime": "20230603",
+                  "filename": "Arrow-v13.1-porsche-OFFICIAL-20230603-VANILLA.zip",
+                  "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230603-VANILLA.zip",
+                  "sha256": "803c0ad092e5fcca9a73c0ae1e82659763e7e8692b7972419faefa805b9712c6",
+                  "size": "1506265345",
                   "type": "official",
                   "version": "v13.1"
                 }
