@@ -273,16 +273,16 @@
     ],
     "porsche": [
         {
-            "changelog": "- Initial official release\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
-            "date": "2023-05-29",
-            "datetime": "20230529",
-            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230529-GAPPS.zip",
-            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230529-GAPPS.zip",
+            "changelog": "- Updated all blobs from RMX3312.C12\r\n- Improved refresh rate settings\r\n- Added content-based refresh rate support (automatically switching between 60hz and 120hz)\r\n- Reduced the volume steps\r\n- Added ambient display settings\r\n- Fixed live wallpaper preview on the Theme Picker\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
+            "date": "2023-06-07",
+            "datetime": "20230607",
+            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230607-GAPPS.zip",
+            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230607-GAPPS.zip",
             "maintainer": "danielml3",
             "model": "Realme GT 2",
             "oem": "realme",
-            "sha256": "4d9cc65afde6d8d202b99926e582d61ece841476dbbfe3669acdefc3a6d4e526",
-            "size": "1845291598",
+            "sha256": "dce9fe58c2803d95a626cc7f00e5ecc95e06ed3ab9a6bef76ce967d8e847f7f0",
+            "size": "1857973976",
             "type": "official",
             "version": "v13.1"
         }
