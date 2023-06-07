@@ -289,16 +289,16 @@
     ],
     "sweet": [
         {
-            "changelog": "- Upstreamed to latest common kernel\r\n- Fixed deep sleep on AOD\r\n- Various other improvements",
-            "date": "2023-05-30",
-            "datetime": "20230530",
-            "filename": "Arrow-v13.1-sweet-OFFICIAL-20230530-GAPPS.zip",
-            "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230530-GAPPS.zip",
+            "changelog": "Use the ArrowOS recovery when installing the ROM for avoiding issues: https://files.danielml.dev/android/sweet/arrow-13.1/arrow-recovery.img",
+            "date": "2023-06-07",
+            "datetime": "20230607",
+            "filename": "Arrow-v13.1-sweet-OFFICIAL-20230607-GAPPS.zip",
+            "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230607-GAPPS.zip",
             "maintainer": "danielml3",
             "model": "Redmi Note 10 Pro",
             "oem": "Xiaomi",
-            "sha256": "986d730190b611e938c3699505a391125cfdf8f6a62fc0589219bd7f5c76ae28",
-            "size": "1537743667",
+            "sha256": "202a09bd7a689e4e2c8313ae293a6ecfb350155aea7071655622b8ef1993bffe",
+            "size": "1537750765",
             "type": "official",
             "version": "v13.1"
         }
