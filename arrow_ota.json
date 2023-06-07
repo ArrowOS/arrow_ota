@@ -9405,7 +9405,7 @@
   ],
   "sweet": [
     {
-      "changelog": "EXPERIMENTAL BUILD",
+      "changelog": "Use the ArrowOS recovery when installing the ROM for avoiding issues: https://files.danielml.dev/android/sweet/arrow-13.1/arrow-recovery.img",
       "maintainer": "danielml3",
       "model": "Redmi Note 10 Pro",
       "oem": "Xiaomi",
@@ -9611,12 +9611,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-05-30",
-                  "datetime": "20230530",
-                  "filename": "Arrow-v13.1-sweet-OFFICIAL-20230530-VANILLA.zip",
-                  "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230530-VANILLA.zip",
-                  "sha256": "70e361de4d2f537d214e61b82ee2887ae3087c43f0b4004573f2a24ff244ea2f",
-                  "size": "1124804720",
+                  "date": "2023-06-07",
+                  "datetime": "20230607",
+                  "filename": "Arrow-v13.1-sweet-OFFICIAL-20230607-VANILLA.zip",
+                  "filepath": "/arrow-13.1/sweet/Arrow-v13.1-sweet-OFFICIAL-20230607-VANILLA.zip",
+                  "sha256": "94b8d1594c6ec3dbf29dc2f3303cf6067ebe5fa16201be423f897b341cbfcd25",
+                  "size": "1124820903",
                   "type": "official",
                   "version": "v13.1"
                 }
