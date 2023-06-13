@@ -8033,7 +8033,7 @@
   ],
   "porsche": [
     {
-      "changelog": "- Updated all blobs from RMX3312.C12\r\n- Improved refresh rate settings\r\n- Added content-based refresh rate support (automatically switching between 60hz and 120hz)\r\n- Reduced the volume steps\r\n- Added ambient display settings\r\n- Fixed live wallpaper preview on the Theme Picker\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
+      "changelog": "- Switched to OSS HWC\r\n- Fixed deep sleep on AOD\r\n- Added support for low/high brightness modes on AOD\r\n- Upstreamed the kernel to Linux 5.4.242\r\n- Removed unneeded libraries\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
       "maintainer": "danielml3",
       "model": "Realme GT 2",
       "oem": "realme",
@@ -8055,12 +8055,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-07",
-                  "datetime": "20230607",
-                  "filename": "Arrow-v13.1-porsche-OFFICIAL-20230607-VANILLA.zip",
-                  "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230607-VANILLA.zip",
-                  "sha256": "be182ea51f0241bc51444ff4b0805b0fb9e2039dd2056781c1f5a51cbbd91dde",
-                  "size": "1506254933",
+                  "date": "2023-06-13",
+                  "datetime": "20230613",
+                  "filename": "Arrow-v13.1-porsche-OFFICIAL-20230613-VANILLA.zip",
+                  "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230613-VANILLA.zip",
+                  "sha256": "1fdffc8d167684739f5b6263edb8f7da455a1ce84e80d2b49eff07dccfd32e0f",
+                  "size": "1055492852",
                   "type": "official",
                   "version": "v13.1"
                 }
