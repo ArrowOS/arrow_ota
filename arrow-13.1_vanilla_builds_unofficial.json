@@ -225,16 +225,16 @@
     ],
     "porsche": [
         {
-            "changelog": "- Switched to OSS HWC\r\n- Fixed deep sleep on AOD\r\n- Added support for low/high brightness modes on AOD\r\n- Upstreamed the kernel to Linux 5.4.242\r\n- Removed unneeded libraries\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
-            "date": "2023-06-13",
-            "datetime": "20230613",
-            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230613-VANILLA.zip",
-            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230613-VANILLA.zip",
+            "changelog": "- Fixed deep sleep on AOD\r\n- Added support for low/high brightness modes on AOD\r\n- Upstreamed the kernel to Linux 5.4.242\r\n- Removed unneeded libraries\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
+            "date": "2023-06-14",
+            "datetime": "20230614",
+            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230614-VANILLA.zip",
+            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230614-VANILLA.zip",
             "maintainer": "danielml3",
             "model": "Realme GT 2",
             "oem": "realme",
-            "sha256": "1fdffc8d167684739f5b6263edb8f7da455a1ce84e80d2b49eff07dccfd32e0f",
-            "size": "1055492852",
+            "sha256": "3d7b7247a382d5bcf87503e5820511c032d0b42b2a050350d467714bc5c5a125",
+            "size": "1056594014",
             "type": "official",
             "version": "v13.1"
         }
