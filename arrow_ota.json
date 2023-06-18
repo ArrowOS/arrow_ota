@@ -7197,7 +7197,7 @@
   ],
   "munch": [
     {
-      "changelog": null,
+      "changelog": "* Update blobs to V14.0.2.0.TLMMIXM\r\n* Adjusted statusbar height\r\n* Updated punch-hole cutout\r\n* Removed unnecessary powerhints\r\n* Decreased launch boost to 3sec\r\n* Tweaked powerhint for better performance and interaction\r\n* Fixed qs lags with new QS clock",
       "maintainer": "madmax7896",
       "model": "POCO F4",
       "oem": "POCO",
@@ -7279,12 +7279,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-07",
-                  "datetime": "20230607",
-                  "filename": "Arrow-v13.1-munch-OFFICIAL-20230607-VANILLA.zip",
-                  "filepath": "/arrow-13.1/munch/Arrow-v13.1-munch-OFFICIAL-20230607-VANILLA.zip",
-                  "sha256": "510770070d1d198ffe9b37666a4808741fc4add69302e955350d8265d365451c",
-                  "size": "1191937272",
+                  "date": "2023-06-18",
+                  "datetime": "20230618",
+                  "filename": "Arrow-v13.1-munch-OFFICIAL-20230618-VANILLA.zip",
+                  "filepath": "/arrow-13.1/munch/Arrow-v13.1-munch-OFFICIAL-20230618-VANILLA.zip",
+                  "sha256": "ab403269eca274d12349bfa988fbcdccb2e16519e8507182118c3d6742c19c23",
+                  "size": "1189905564",
                   "type": "official",
                   "version": "v13.1"
                 }
