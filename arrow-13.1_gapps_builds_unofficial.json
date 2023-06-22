@@ -258,15 +258,15 @@
     "porsche": [
         {
             "changelog": "- Fixed deep sleep on AOD\r\n- Added support for low/high brightness modes on AOD\r\n- Upstreamed the kernel to Linux 5.4.242\r\n- Removed unneeded libraries\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
-            "date": "2023-06-21",
-            "datetime": "20230621",
-            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230621-GAPPS.zip",
-            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230621-GAPPS.zip",
+            "date": "2023-06-22",
+            "datetime": "20230622",
+            "filename": "Arrow-v13.1-porsche-OFFICIAL-20230622-GAPPS.zip",
+            "filepath": "/arrow-13.1/porsche/Arrow-v13.1-porsche-OFFICIAL-20230622-GAPPS.zip",
             "maintainer": "danielml3",
             "model": "Realme GT 2",
             "oem": "realme",
-            "sha256": "5c1bda7ce9f06785514d2b8ab12e697641154da0c2aebaf4e905d2dbdff40c92",
-            "size": "1440127321",
+            "sha256": "74beec1d8f2b756f151043dcde7b8fe94fe2b9ce2e0bc77544c336a46ff24575",
+            "size": "1433687121",
             "type": "official",
             "version": "v13.1"
         }
