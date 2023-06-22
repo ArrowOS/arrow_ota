@@ -2137,7 +2137,7 @@
   ],
   "apollo": [
     {
-      "changelog": "- Fix scrolling issue in Chromium based browsers \r\n- Fix Apollo display kernel compatibility\r\n- Fix proximity sensor\r\n- add MIUI color modes\r\n- Powerhint updates\r\n- sepolicy fixups\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+      "changelog": "- CarrierConfigs test for Movstar ES\r\nVoLTE + VoWifi\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
       "maintainer": "Dobsgw",
       "model": "Xiaomi Mi 10T",
       "oem": "Xiaomi",
@@ -2427,12 +2427,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-04-02",
-                  "datetime": "20230402",
-                  "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230402-VANILLA.zip",
-                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230402-VANILLA.zip",
-                  "sha256": "4b38a9f5129509b012b938682268be81f3fda134235fb77b60ae298fe9d34ef2",
-                  "size": "1400351240",
+                  "date": "2023-06-22",
+                  "datetime": "20230622",
+                  "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230622-VANILLA.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230622-VANILLA.zip",
+                  "sha256": "c5c2dd11e1317ecdf831305c167c9be8c23dc6b95dbcce55dfd586d6ade81489",
+                  "size": "1501961223",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
