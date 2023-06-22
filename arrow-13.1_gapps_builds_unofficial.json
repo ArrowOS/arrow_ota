@@ -97,16 +97,16 @@
     ],
     "apollo": [
         {
-            "changelog": "- Arrow 13.1 refresh\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
-            "date": "2023-04-02",
-            "datetime": "20230402",
-            "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230402-GAPPS.zip",
-            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230402-GAPPS.zip",
+            "changelog": "- CarrierConfigs test for Movstar ES\r\nVoLTE + VoWifi\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+            "date": "2023-06-22",
+            "datetime": "20230622",
+            "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230622-GAPPS.zip",
+            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230622-GAPPS.zip",
             "maintainer": "Dobsgw",
             "model": "Xiaomi Mi 10T",
             "oem": "Xiaomi",
-            "sha256": "8ae3ea45107901ead5f96f4f2def3319f9b7c40510e3b0bcba5d69d9dbf47da1",
-            "size": "1734939952",
+            "sha256": "3b4283f74c40bf3d255b46648b3ec6b99ea650e4565d062f8fb786b62c347b6b",
+            "size": "1913224973",
             "type": "unofficial",
             "version": "v13.1"
         }
