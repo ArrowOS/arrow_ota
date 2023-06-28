@@ -2137,7 +2137,7 @@
   ],
   "apollo": [
     {
-      "changelog": "- CarrierConfigs test for Movstar ES\r\nVoLTE + VoWifi\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+      "changelog": "- Added Russian networks to carrier configs to enable VoLTE / VoWifi capabilities\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
       "maintainer": "Dobsgw",
       "model": "Xiaomi Mi 10T",
       "oem": "Xiaomi",
@@ -2399,12 +2399,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-06",
-                  "datetime": "20230606",
-                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230606-VANILLA.zip",
-                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230606-VANILLA.zip",
-                  "sha256": "25bc499971d38e7401626c63582a3cd483fb69e7d0e8be6c6cb3c75d13b1fecc",
-                  "size": "1461546063",
+                  "date": "2023-06-28",
+                  "datetime": "20230628",
+                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230628-VANILLA.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230628-VANILLA.zip",
+                  "sha256": "22c4fb0e73ffb681159d2be21df1818ebde3fbaa2fca8c4b2f003279bdbbdde9",
+                  "size": "1503373597",
                   "type": "official",
                   "version": "v13.1"
                 }
