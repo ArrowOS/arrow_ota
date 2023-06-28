@@ -7033,7 +7033,7 @@
   ],
   "mojito": [
     {
-      "changelog": "- Based on MIUI 14 FW\r\n- Powered by NetErnels kernel!\r\n\r\nArrowOS Recovery: https://t.me/ashwin_cloud/374\r\n\r\nFlashing Guide:\r\n- Flash ArrowOS Recovery\r\n- Boot to ArrowOS Recovery\r\n- Sideload the ROM\r\n- Reboot to system",
+      "changelog": "- Based on MIUI 14 FW- Powered by NetErnels kernel!ArrowOS Recovery: https://t.me/ashwin_cloud/374Flashing Guide:- Flash ArrowOS Recovery- Boot to ArrowOS Recovery- Sideload the ROM- Reboot to system",
       "maintainer": "sarthakroy2002, blur",
       "model": "Redmi Note 10",
       "oem": "Redmi",
@@ -7143,12 +7143,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-21",
-                  "datetime": "20230621",
-                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230621-VANILLA.zip",
-                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230621-VANILLA.zip",
-                  "sha256": "5ba1553103dfc264eceea985b89f9f2dd6cad5defdc00606da535fcd882e69ff",
-                  "size": "1361669065",
+                  "date": "2023-06-28",
+                  "datetime": "20230628",
+                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230628-VANILLA.zip",
+                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230628-VANILLA.zip",
+                  "sha256": "04d9b5a4386e84de9d5e97fb71347d1f32c0c8b1e22a5130754fbceeca38f647",
+                  "size": "1355177831",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
