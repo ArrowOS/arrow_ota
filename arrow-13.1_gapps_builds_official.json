@@ -97,16 +97,16 @@
     ],
     "apollo": [
         {
-            "changelog": "- Added Russian networks to carrier configs to enable VoLTE / VoWifi capabilities\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
-            "date": "2023-06-28",
-            "datetime": "20230628",
-            "filename": "Arrow-v13.1-apollo-OFFICIAL-20230628-GAPPS.zip",
-            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230628-GAPPS.zip",
+            "changelog": "- Fix scrolling issue in Chromium based browsers \r\n- Fix Apollo display kernel compatibility\r\n- Fix proximity sensor\r\n- add MIUI color modes\r\n- Powerhint updates\r\n- sepolicy fixups\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+            "date": "2023-06-06",
+            "datetime": "20230606",
+            "filename": "Arrow-v13.1-apollo-OFFICIAL-20230606-GAPPS.zip",
+            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230606-GAPPS.zip",
             "maintainer": "Dobsgw",
             "model": "Xiaomi Mi 10T",
             "oem": "Xiaomi",
-            "sha256": "4fcb2f1819e52f52b712a674cd3a5cad37a90c20ce9481c41ace3d3825940b08",
-            "size": "1914345460",
+            "sha256": "77a76d5eb8c71e6833392f55ef118840d864e933e538456967890e800c1e5ae2",
+            "size": "1876234738",
             "type": "official",
             "version": "v13.1"
         }
@@ -114,15 +114,15 @@
     "beryllium": [
         {
             "changelog": null,
-            "date": "2023-06-29",
-            "datetime": "20230629",
-            "filename": "Arrow-v13.1-beryllium-OFFICIAL-20230629-GAPPS.zip",
-            "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20230629-GAPPS.zip",
+            "date": "2023-06-06",
+            "datetime": "20230606",
+            "filename": "Arrow-v13.1-beryllium-OFFICIAL-20230606-GAPPS.zip",
+            "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20230606-GAPPS.zip",
             "maintainer": "Sourav (resist15)",
             "model": "POCOPHONE F1",
             "oem": "Xiaomi",
-            "sha256": "47c44c642583fbb9ed723ef1e83f522b99fa7a604c8020b5f9a46a2452cdb780",
-            "size": "1551545232",
+            "sha256": "51ca58bce389cd2c4fb6de56058222b822ba0e7aa861b9e86a53fa5d854e4f1f",
+            "size": "1416800049",
             "type": "official",
             "version": "v13.1"
         }
@@ -146,15 +146,15 @@
     "dubai": [
         {
             "changelog": null,
-            "date": "2023-06-29",
-            "datetime": "20230629",
-            "filename": "Arrow-v13.1-dubai-OFFICIAL-20230629-GAPPS.zip",
-            "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20230629-GAPPS.zip",
+            "date": "2023-06-06",
+            "datetime": "20230606",
+            "filename": "Arrow-v13.1-dubai-OFFICIAL-20230606-GAPPS.zip",
+            "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20230606-GAPPS.zip",
             "maintainer": "Adithya (ghostrider_reborn)",
             "model": "motorola edge 30",
             "oem": "motorola",
-            "sha256": "72ae7f63d745c641fe83224309bc1755aa94959a5be1320f8318e6d118a9e9c7",
-            "size": "1580529778",
+            "sha256": "00b4542fc49dc693d4b16fc66e77f5b583c7c207994830052fa90ac16b147fdb",
+            "size": "1580650274",
             "type": "official",
             "version": "v13.1"
         }

@@ -2137,7 +2137,7 @@
   ],
   "apollo": [
     {
-      "changelog": "- Added Russian networks to carrier configs to enable VoLTE / VoWifi capabilities\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+      "changelog": "- CarrierConfigs test for Movstar ES\r\nVoLTE + VoWifi\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
       "maintainer": "Dobsgw",
       "model": "Xiaomi Mi 10T",
       "oem": "Xiaomi",
@@ -2387,24 +2387,24 @@
             {
               "GAPPS": [
                 {
-                  "date": "2023-06-28",
-                  "datetime": "20230628",
-                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230628-GAPPS.zip",
-                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230628-GAPPS.zip",
-                  "sha256": "4fcb2f1819e52f52b712a674cd3a5cad37a90c20ce9481c41ace3d3825940b08",
-                  "size": "1914345460",
+                  "date": "2023-06-06",
+                  "datetime": "20230606",
+                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230606-GAPPS.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230606-GAPPS.zip",
+                  "sha256": "77a76d5eb8c71e6833392f55ef118840d864e933e538456967890e800c1e5ae2",
+                  "size": "1876234738",
                   "type": "official",
                   "version": "v13.1"
                 }
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-28",
-                  "datetime": "20230628",
-                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230628-VANILLA.zip",
-                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230628-VANILLA.zip",
-                  "sha256": "22c4fb0e73ffb681159d2be21df1818ebde3fbaa2fca8c4b2f003279bdbbdde9",
-                  "size": "1503373597",
+                  "date": "2023-06-06",
+                  "datetime": "20230606",
+                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230606-VANILLA.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230606-VANILLA.zip",
+                  "sha256": "25bc499971d38e7401626c63582a3cd483fb69e7d0e8be6c6cb3c75d13b1fecc",
+                  "size": "1461546063",
                   "type": "official",
                   "version": "v13.1"
                 }
@@ -2739,24 +2739,24 @@
             {
               "GAPPS": [
                 {
-                  "date": "2023-06-29",
-                  "datetime": "20230629",
-                  "filename": "Arrow-v13.1-beryllium-OFFICIAL-20230629-GAPPS.zip",
-                  "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20230629-GAPPS.zip",
-                  "sha256": "47c44c642583fbb9ed723ef1e83f522b99fa7a604c8020b5f9a46a2452cdb780",
-                  "size": "1551545232",
+                  "date": "2023-06-06",
+                  "datetime": "20230606",
+                  "filename": "Arrow-v13.1-beryllium-OFFICIAL-20230606-GAPPS.zip",
+                  "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20230606-GAPPS.zip",
+                  "sha256": "51ca58bce389cd2c4fb6de56058222b822ba0e7aa861b9e86a53fa5d854e4f1f",
+                  "size": "1416800049",
                   "type": "official",
                   "version": "v13.1"
                 }
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-29",
-                  "datetime": "20230629",
-                  "filename": "Arrow-v13.1-beryllium-OFFICIAL-20230629-VANILLA.zip",
-                  "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20230629-VANILLA.zip",
-                  "sha256": "47851b8b08bb9523f4d1f1230c543af2df8ad8542be76097b3f3e8f83f917ec6",
-                  "size": "1148560613",
+                  "date": "2023-06-06",
+                  "datetime": "20230606",
+                  "filename": "Arrow-v13.1-beryllium-OFFICIAL-20230606-VANILLA.zip",
+                  "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20230606-VANILLA.zip",
+                  "sha256": "690c671bf3eabaaecc6bb1d636d642ddbe82fdc017e1401ea497c22ed23f3602",
+                  "size": "1010289174",
                   "type": "official",
                   "version": "v13.1"
                 }
@@ -4319,24 +4319,24 @@
             {
               "GAPPS": [
                 {
-                  "date": "2023-06-29",
-                  "datetime": "20230629",
-                  "filename": "Arrow-v13.1-dubai-OFFICIAL-20230629-GAPPS.zip",
-                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20230629-GAPPS.zip",
-                  "sha256": "72ae7f63d745c641fe83224309bc1755aa94959a5be1320f8318e6d118a9e9c7",
-                  "size": "1580529778",
+                  "date": "2023-06-06",
+                  "datetime": "20230606",
+                  "filename": "Arrow-v13.1-dubai-OFFICIAL-20230606-GAPPS.zip",
+                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20230606-GAPPS.zip",
+                  "sha256": "00b4542fc49dc693d4b16fc66e77f5b583c7c207994830052fa90ac16b147fdb",
+                  "size": "1580650274",
                   "type": "official",
                   "version": "v13.1"
                 }
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-29",
-                  "datetime": "20230629",
-                  "filename": "Arrow-v13.1-dubai-OFFICIAL-20230629-VANILLA.zip",
-                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20230629-VANILLA.zip",
-                  "sha256": "7d72ce2c3a8f85d04b953d84ea563614eb801eaf55c44e7f81eefa25bf939ffa",
-                  "size": "1259854869",
+                  "date": "2023-06-06",
+                  "datetime": "20230606",
+                  "filename": "Arrow-v13.1-dubai-OFFICIAL-20230606-VANILLA.zip",
+                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20230606-VANILLA.zip",
+                  "sha256": "7112b827bfe7a62ba963f24d8644f44854784859be0a9f76ca7ddfccdedc082b",
+                  "size": "1256746274",
                   "type": "official",
                   "version": "v13.1"
                 }
@@ -7131,24 +7131,24 @@
             {
               "GAPPS": [
                 {
-                  "date": "2023-06-28",
-                  "datetime": "20230628",
-                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230628-GAPPS.zip",
-                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230628-GAPPS.zip",
-                  "sha256": "fdce2b907cb5efd2b835223e794e8a964192873bf88916352026eed81ef23d46",
-                  "size": "1781403812",
+                  "date": "2023-06-21",
+                  "datetime": "20230621",
+                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230621-GAPPS.zip",
+                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230621-GAPPS.zip",
+                  "sha256": "2874826cca0299075c4c43112e57128947e1704cf77d1183fcc1a2626e89057e",
+                  "size": "1788067703",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-28",
-                  "datetime": "20230628",
-                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230628-VANILLA.zip",
-                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230628-VANILLA.zip",
-                  "sha256": "17b4d7e068a1af63ff35898fa8cb07e5024273a6963e1da3fe1ea143cd20e2c4",
-                  "size": "1355175242",
+                  "date": "2023-06-21",
+                  "datetime": "20230621",
+                  "filename": "Arrow-v13.1-mojito-UNOFFICIAL-20230621-VANILLA.zip",
+                  "filepath": "/arrow-13.1/mojito/Arrow-v13.1-mojito-UNOFFICIAL-20230621-VANILLA.zip",
+                  "sha256": "5ba1553103dfc264eceea985b89f9f2dd6cad5defdc00606da535fcd882e69ff",
+                  "size": "1361669065",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
