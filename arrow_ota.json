@@ -7667,6 +7667,34 @@
       ]
     }
   ],
+  "opkona": [
+    {
+      "changelog": "Initial Build :\r\nAdd Dolby Audio\r\nUpdate to OOS 13.1.0.580(EX01) \r\nUnify Oneplus 8/8T/8P/9R\r\nSwitch to adreno and perf stack from qcom common\r\nSwitch to armv8-2a-dotprod CPU variant \r\nEnable touchpanel offscreen gestures\r\nSome optimisation, etc...",
+      "maintainer": "DawfukFR",
+      "model": "kona",
+      "oem": "OnePlus",
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2023-06-30",
+                  "datetime": "20230630",
+                  "filename": "Arrow-v13.1-opkona-UNOFFICIAL-20230630-GAPPS.zip",
+                  "filepath": "/arrow-13.1/opkona/Arrow-v13.1-opkona-UNOFFICIAL-20230630-GAPPS.zip",
+                  "sha256": "3bbc4a23b772233373f64347c8f7659e38af135b7c54886c92678d6c7533d9f7",
+                  "size": "1455118425",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "perseus": [
     {
       "changelog": "- sdm845-common: Update blobs to MIUI polaris V12.5.1.0.QDGCNXM\r\n- perseus: Update blobs from MIUI V12.5.1.0.QEECNXM\r\n- Update display and adreno blobs to OnePlus6 R\r\n- Update WFD blobs to OnePlus6 R\r\n- Update OMX codecs and VPP to OnePlus6 R\r\n- Update Configstore blobs to OnePlus6 R\r\n- Update Power-off alarm blobs to OnePlus6 R\r\n- Update ESE, PerMgr and Time services blobs to OnePlus6 R\r\n- Update IRQ balance blobs to OnePlus6 R\r\n- Fixed Smart Charging permissions and sepolicy\r\n- Kernel: Merge android-4.9-q google kernel common (4.9.277)\r\n- Kernel: Merge CAF tag LA.UM.9.3.r1-02800-sdm845.0\r\n- Kernel: arch/arm64: dts: disable dfps in jdi fhd panel and ebbg ft8716 panel\r\n- Misc fixes and upstream changes.\r\n\r\nNote:\r\n- It is required firmware part MIUI Q CN (Example V12.0.3.0.QEECNXM).",
