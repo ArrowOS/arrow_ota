@@ -5898,8 +5898,8 @@
   "lavender": [
     {
       "changelog": null,
-      "maintainer": "Aaradhay Vijay",
-      "model": "Redmi Note 7/7S",
+      "maintainer": "Ratoriku, Hazama25",
+      "model": "Redmi Note 7",
       "oem": "Xiaomi",
       "v11.0": [
         {
@@ -6093,6 +6093,18 @@
                   "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-UNOFFICIAL-20230622-GAPPS.zip",
                   "sha256": "85d37639642d48f678e70f36a3ebc6e74e85bb8adab2e56b72ffeea2abaa1363",
                   "size": "1347623738",
+                  "type": "unofficial",
+                  "version": "v13.1"
+                }
+              ],
+              "VANILLA": [
+                {
+                  "date": "2023-06-30",
+                  "datetime": "20230630",
+                  "filename": "Arrow-v13.1-lavender-UNOFFICIAL-20230630-VANILLA.zip",
+                  "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-UNOFFICIAL-20230630-VANILLA.zip",
+                  "sha256": "c4434dbe1e6f99132672644e0c4c001c3c49d17d4c8d33f91eca2f3b6ce493d1",
+                  "size": "1027208479",
                   "type": "unofficial",
                   "version": "v13.1"
                 }

@@ -175,6 +175,22 @@
             "version": "v13.1"
         }
     ],
+    "lavender": [
+        {
+            "changelog": null,
+            "date": "2023-06-30",
+            "datetime": "20230630",
+            "filename": "Arrow-v13.1-lavender-UNOFFICIAL-20230630-VANILLA.zip",
+            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-UNOFFICIAL-20230630-VANILLA.zip",
+            "maintainer": "Ratoriku, Hazama25",
+            "model": "Redmi Note 7",
+            "oem": "Xiaomi",
+            "sha256": "c4434dbe1e6f99132672644e0c4c001c3c49d17d4c8d33f91eca2f3b6ce493d1",
+            "size": "1027208479",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "lisa": [
         {
             "changelog": "- Updated blobs to MIUI V14.0.6.0.TKOCNXM\r\n- Switched to MIUI display stack\r\n- Improved misc stuffs",
