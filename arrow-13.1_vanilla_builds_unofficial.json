@@ -239,6 +239,22 @@
             "version": "v13.1"
         }
     ],
+    "opkona": [
+        {
+            "changelog": "Initial Build :\r\nAdd Dolby Audio\r\nUpdate to OOS 13.1.0.580(EX01) \r\nUnify Oneplus 8/8T/8P/9R\r\nSwitch to adreno and perf stack from qcom common\r\nSwitch to armv8-2a-dotprod CPU variant \r\nEnable touchpanel offscreen gestures\r\nSome optimisation, etc...",
+            "date": "2023-06-30",
+            "datetime": "20230630",
+            "filename": "Arrow-v13.1-opkona-UNOFFICIAL-20230630-VANILLA.zip",
+            "filepath": "/arrow-13.1/opkona/Arrow-v13.1-opkona-UNOFFICIAL-20230630-VANILLA.zip",
+            "maintainer": "DawfukFR",
+            "model": "kona",
+            "oem": "OnePlus",
+            "sha256": "d8be2071c1ef0a76385ba3d0b24f4961137adbc2153053820cbc2ce54d6ce37c",
+            "size": "1136625324",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "porsche": [
         {
             "changelog": "- Fixed deep sleep on AOD\r\n- Added support for low/high brightness modes on AOD\r\n- Upstreamed the kernel to Linux 5.4.242\r\n- Removed unneeded libraries\r\n\r\nFlashing instructions:\r\n- Download the ArrowOS recovery at https://files.danielml.dev/android/porsche/arrow-recovery.zip\r\n- Unpack it, and using fastboot flash the vbmeta, vendor_boot and boot:\r\n* fastboot flash vbmeta vbmeta.img\r\n* fastboot flash vendor_boot vendor_boot.img\r\n* fastboot flash boot boot.img\r\n- Then, reboot to recovery and flash the ROM using ADB sideload",
