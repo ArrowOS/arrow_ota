@@ -274,15 +274,15 @@
     "opkona": [
         {
             "changelog": "Initial Build :\r\nAdd Dolby Audio\r\nUpdate to OOS 13.1.0.580(EX01) \r\nUnify Oneplus 8/8T/8P/9R\r\nSwitch to adreno and perf stack from qcom common\r\nSwitch to armv8-2a-dotprod CPU variant \r\nEnable touchpanel offscreen gestures\r\nSome optimisation, etc...",
-            "date": "2023-06-30",
-            "datetime": "20230630",
-            "filename": "Arrow-v13.1-opkona-UNOFFICIAL-20230630-GAPPS.zip",
-            "filepath": "/arrow-13.1/opkona/Arrow-v13.1-opkona-UNOFFICIAL-20230630-GAPPS.zip",
+            "date": "2023-07-02",
+            "datetime": "20230702",
+            "filename": "Arrow-v13.1-opkona-UNOFFICIAL-20230702-GAPPS.zip",
+            "filepath": "/arrow-13.1/opkona/Arrow-v13.1-opkona-UNOFFICIAL-20230702-GAPPS.zip",
             "maintainer": "DawfukFR",
             "model": "kona",
             "oem": "OnePlus",
-            "sha256": "7ddd67cd3ba30cbe52437aaa71e09ca47b35c9b6bbcb4f78e9bb2038381c29f4",
-            "size": "1455135789",
+            "sha256": "ca17e44b96c5b5c20e82b4cd074492ae438566f3a485c7e78270ec06181ac82f",
+            "size": "1454850786",
             "type": "unofficial",
             "version": "v13.1"
         }
