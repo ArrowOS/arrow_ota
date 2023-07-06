@@ -97,16 +97,16 @@
     ],
     "apollo": [
         {
-            "changelog": "- CarrierConfigs test for Movstar ES\r\nVoLTE + VoWifi\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
-            "date": "2023-06-22",
-            "datetime": "20230622",
-            "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230622-GAPPS.zip",
-            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230622-GAPPS.zip",
+            "changelog": "- Enable powersavings on boot (for some reason theyre disabled and never enabled again)\r\n\r\n- Back to stune\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+            "date": "2023-07-06",
+            "datetime": "20230706",
+            "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230706-GAPPS.zip",
+            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230706-GAPPS.zip",
             "maintainer": "Dobsgw",
             "model": "Xiaomi Mi 10T",
             "oem": "Xiaomi",
-            "sha256": "3b4283f74c40bf3d255b46648b3ec6b99ea650e4565d062f8fb786b62c347b6b",
-            "size": "1913224973",
+            "sha256": "8fde76c0bd2b1025d9a261bf6aff9e740e70621479fb509ee517e54e5e05b8b5",
+            "size": "1962266656",
             "type": "unofficial",
             "version": "v13.1"
         }
