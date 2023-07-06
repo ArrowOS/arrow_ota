@@ -65,7 +65,7 @@
     ],
     "apollo": [
         {
-            "changelog": "- Enable powersavings on boot (for some reason theyre disabled and never enabled again)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+            "changelog": "- Enable powersavings on boot (for some reason theyre disabled and never enabled again)\r\n\r\n- Back to stune\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
             "date": "2023-07-06",
             "datetime": "20230706",
             "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230706-VANILLA.zip",
@@ -73,8 +73,8 @@
             "maintainer": "Dobsgw",
             "model": "Xiaomi Mi 10T",
             "oem": "Xiaomi",
-            "sha256": "f89c04ffc437a02ad516f83a43bb1ca0a76df55df08122240e7edb301097d1bd",
-            "size": "1501825917",
+            "sha256": "2cce2bab616a79c464f7c3c81b98cdb6397d1120a42fc743fe65a01da2678ddf",
+            "size": "1501794999",
             "type": "unofficial",
             "version": "v13.1"
         }
