@@ -2137,7 +2137,7 @@
   ],
   "apollo": [
     {
-      "changelog": "- Added Russian networks to carrier configs to enable VoLTE / VoWifi capabilities\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+      "changelog": "- Enable powersavings on boot (for some reason theyre disabled and never enabled again)\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
       "maintainer": "Dobsgw",
       "model": "Xiaomi Mi 10T",
       "oem": "Xiaomi",
@@ -2427,12 +2427,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-22",
-                  "datetime": "20230622",
-                  "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230622-VANILLA.zip",
-                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230622-VANILLA.zip",
-                  "sha256": "c5c2dd11e1317ecdf831305c167c9be8c23dc6b95dbcce55dfd586d6ade81489",
-                  "size": "1501961223",
+                  "date": "2023-07-06",
+                  "datetime": "20230706",
+                  "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230706-VANILLA.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230706-VANILLA.zip",
+                  "sha256": "f89c04ffc437a02ad516f83a43bb1ca0a76df55df08122240e7edb301097d1bd",
+                  "size": "1501825917",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
