@@ -6097,6 +6097,18 @@
         {
           "OFFICIAL": [
             {
+              "GAPPS": [
+                {
+                  "date": "2023-07-08",
+                  "datetime": "20230708",
+                  "filename": "Arrow-v13.1-lavender-OFFICIAL-20230708-GAPPS.zip",
+                  "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20230708-GAPPS.zip",
+                  "sha256": "1d11a8dab77c6df86b9ab9eb690c8eedc3aa3eacde4e47c0aeea86eb8612b74c",
+                  "size": "1492677114",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ],
               "VANILLA": [
                 {
                   "date": "2023-07-08",
