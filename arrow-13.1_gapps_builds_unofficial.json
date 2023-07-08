@@ -97,16 +97,16 @@
     ],
     "apollo": [
         {
-            "changelog": "- Enable powersavings on boot (for some reason theyre disabled and never enabled again)\r\n\r\n- Back to stune\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
-            "date": "2023-07-06",
-            "datetime": "20230706",
-            "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230706-GAPPS.zip",
-            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230706-GAPPS.zip",
+            "changelog": "- Enable powersavings on boot (for some reason theyre disabled and never enabled again)\r\n\r\nSwitch to armv8.2 arch\r\n\r\n- Back to stune powerhint\r\n\r\n- Windtre Italy configs set\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+            "date": "2023-07-08",
+            "datetime": "20230708",
+            "filename": "Arrow-v13.1-apollo-UNOFFICIAL-20230708-GAPPS.zip",
+            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-UNOFFICIAL-20230708-GAPPS.zip",
             "maintainer": "Dobsgw",
             "model": "Xiaomi Mi 10T",
             "oem": "Xiaomi",
-            "sha256": "8fde76c0bd2b1025d9a261bf6aff9e740e70621479fb509ee517e54e5e05b8b5",
-            "size": "1962266656",
+            "sha256": "c322e146c2ce73a44817a44094abec6faeea5d48fd161291717f5b3498594339",
+            "size": "1966007013",
             "type": "unofficial",
             "version": "v13.1"
         }
