@@ -34,15 +34,15 @@
     "RMX2020": [
         {
             "changelog": "- Based on Realme UI 1.0 FW (A.77 recommended)\r\n\r\nArrowOS Recovery: https://t.me/arrowosRMX2020/7633\r\n\r\nFlashing Guide:\r\n- Flash ArrowOS Recovery\r\n- Boot to ArrowOS Recovery\r\n- Sideload the ROM\r\n- Reboot to system\r\nOR\r\n- Flash PBRP/TWRP\r\n- Boot to it\r\n- Flash the ROM zip\r\n- Reboot to system",
-            "date": "2023-07-11",
-            "datetime": "20230711",
-            "filename": "Arrow-v13.1-RMX2020-UNOFFICIAL-20230711-GAPPS.zip",
-            "filepath": "/arrow-13.1/RMX2020/Arrow-v13.1-RMX2020-UNOFFICIAL-20230711-GAPPS.zip",
+            "date": "2023-07-18",
+            "datetime": "20230718",
+            "filename": "Arrow-v13.1-RMX2020-UNOFFICIAL-20230718-GAPPS.zip",
+            "filepath": "/arrow-13.1/RMX2020/Arrow-v13.1-RMX2020-UNOFFICIAL-20230718-GAPPS.zip",
             "maintainer": "sarthakroy2002",
             "model": "RMX2020",
             "oem": "realme",
-            "sha256": "97385e6dc637c4e8f5eb0816468c5294bbd67fbd3eb7991b66879f6321f759de",
-            "size": "1457215169",
+            "sha256": "4e5372b456a745cd2b7fbbdcbb074d8b6810134273267973026868bfe7555a0c",
+            "size": "1457279502",
             "type": "unofficial",
             "version": "v13.1"
         }
