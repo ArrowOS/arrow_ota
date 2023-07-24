@@ -2137,7 +2137,7 @@
   ],
   "apollo": [
     {
-      "changelog": "- Enable powersavings on boot (for some reason theyre disabled and never enabled again)\r\n\r\nSwitch to armv8.2 arch\r\n\r\n- Back to stune powerhint\r\n\r\n- Windtre Italy configs set\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
+      "changelog": "- Added Russian networks to carrier configs to enable VoLTE / VoWifi capabilities\r\n\r\n***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
       "maintainer": "Dobsgw",
       "model": "Xiaomi Mi 10T",
       "oem": "Xiaomi",
@@ -2399,12 +2399,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-06-30",
-                  "datetime": "20230630",
-                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230630-VANILLA.zip",
-                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230630-VANILLA.zip",
-                  "sha256": "615b8de187178c81d5063ec91857792165a73c0641ddb38f69dfe29892305481",
-                  "size": "1503370740",
+                  "date": "2023-07-24",
+                  "datetime": "20230724",
+                  "filename": "Arrow-v13.1-apollo-OFFICIAL-20230724-VANILLA.zip",
+                  "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20230724-VANILLA.zip",
+                  "sha256": "a5c5febabcc01d8a0f8950a7a878c9e3c18a5d8f0e0041ea590255b7efa9ad43",
+                  "size": "1507429573",
                   "type": "official",
                   "version": "v13.1"
                 }
