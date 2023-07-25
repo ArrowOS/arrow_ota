@@ -226,15 +226,15 @@
     "lisa": [
         {
             "changelog": "- Updated blobs to MIUI V14.0.10.0.TKOCNXM",
-            "date": "2023-07-24",
-            "datetime": "20230724",
-            "filename": "Arrow-v13.1-lisa-OFFICIAL-20230724-VANILLA.zip",
-            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230724-VANILLA.zip",
+            "date": "2023-07-25",
+            "datetime": "20230725",
+            "filename": "Arrow-v13.1-lisa-OFFICIAL-20230725-VANILLA.zip",
+            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230725-VANILLA.zip",
             "maintainer": "ALKALiKong",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "4c5cbcccf054103b48ad9ee1a776e7bd372ace4a532b7e10c329ea608ecab352",
-            "size": "1487456843",
+            "sha256": "e43f2b96c9186b0388f7b82eb97b3882543efaac6361fb844d9f676b44e76a09",
+            "size": "1487453969",
             "type": "official",
             "version": "v13.1"
         }
