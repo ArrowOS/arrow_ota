@@ -210,15 +210,15 @@
     "lavender": [
         {
             "changelog": "- Initial build\r\n- Kernel baseline 4.19\r\n- Added MGLRU optimization\r\n- Retrofited to dynamic partitions\r\n- Build and enable fastbootd\r\n- Using erofs for dynamic partitions\r\n- Killed debugfs\r\n- Proper cdsp support\r\n- Fixed camera issues\r\n- Fixed dtbo breaks boot issue and added it to flash list again\r\n- Updated GcamGO version\r\n- Updateable APEX\r\n- Pixel Thermal & Pixel PowerHal are reserved\r\n- F2FS userdata with FBEv2\r\n- lmkd support\r\n- Use logdump as /metadata\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md",
-            "date": "2023-07-14",
-            "datetime": "20230714",
-            "filename": "Arrow-v13.1-lavender-OFFICIAL-20230714-VANILLA.zip",
-            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20230714-VANILLA.zip",
+            "date": "2023-07-25",
+            "datetime": "20230725",
+            "filename": "Arrow-v13.1-lavender-OFFICIAL-20230725-VANILLA.zip",
+            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20230725-VANILLA.zip",
             "maintainer": "D3nesyan",
             "model": "Redmi Note 7",
             "oem": "Xiaomi",
-            "sha256": "678b17b478b65091643091be8424570642fe9f15e0817bb3969f3dda88964803",
-            "size": "1157249194",
+            "sha256": "8ba27a4468fdc3a2f9c85aba5b1985c41f0d11cdc971d6e20cde29ae0ce51110",
+            "size": "1157230879",
             "type": "official",
             "version": "v13.1"
         }
