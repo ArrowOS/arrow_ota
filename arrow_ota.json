@@ -7269,7 +7269,7 @@
   ],
   "munch": [
     {
-      "changelog": "* Fixed QS lags fully with the new QS clock\r\n* Fixed issues with stune\r\n* Update blobs to V14.0.3.0.TLMMIXM\r\n* Updated statusbar height and paddings from stock\r\n* Updated CarrierConfig from munch V14.0.3.0.TLMMIXM\r\n* Improved overall performance",
+      "changelog": null,
       "maintainer": "madmax7896",
       "model": "POCO F4",
       "oem": "POCO",
@@ -7351,12 +7351,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-07-25",
-                  "datetime": "20230725",
-                  "filename": "Arrow-v13.1-munch-OFFICIAL-20230725-VANILLA.zip",
-                  "filepath": "/arrow-13.1/munch/Arrow-v13.1-munch-OFFICIAL-20230725-VANILLA.zip",
-                  "sha256": "844c34c45801cf1fb7e71f6dae23fed4f59ff239e21b86e88d6fcace571b8163",
-                  "size": "1218423570",
+                  "date": "2023-07-31",
+                  "datetime": "20230731",
+                  "filename": "Arrow-v13.1-munch-OFFICIAL-20230731-VANILLA.zip",
+                  "filepath": "/arrow-13.1/munch/Arrow-v13.1-munch-OFFICIAL-20230731-VANILLA.zip",
+                  "sha256": "760df753aa3acf2ac7b88d8da1d2b70c298cc621acb8b17f4475b60ffe57f172",
+                  "size": "1221905199",
                   "type": "official",
                   "version": "v13.1"
                 }
