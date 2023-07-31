@@ -209,16 +209,16 @@
     ],
     "lavender": [
         {
-            "changelog": "- Initial build\r\n- Kernel baseline 4.19\r\n- Added MGLRU optimization\r\n- Retrofited to dynamic partitions\r\n- Build and enable fastbootd\r\n- Using erofs for dynamic partitions\r\n- Killed debugfs\r\n- Proper cdsp support\r\n- Fixed camera issues\r\n- Fixed dtbo breaks boot issue and added it to flash list again\r\n- Updated GcamGO version\r\n- Updateable APEX\r\n- Pixel Thermal & Pixel PowerHal are reserved\r\n- F2FS userdata with FBEv2\r\n- lmkd support\r\n- Use logdump as /metadata\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md",
-            "date": "2023-07-25",
-            "datetime": "20230725",
-            "filename": "Arrow-v13.1-lavender-OFFICIAL-20230725-GAPPS.zip",
-            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20230725-GAPPS.zip",
+            "changelog": "- Mount fstab via ramdisk instead of kernel dts for init first stage\r\n- Updated blobs from honeywell hon660 & QSSI\r\n- Updated Bluetooth blobs from hon660\r\n- Updated GPS blobs from hon660\r\n- Sched optimizations\r\n- Disabled HD notification\r\n- Enabled Project Quota\r\n- Better backlight adjustment\r\n- Inherited several Android Go configurations\r\n- Implement spatial audio function\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md",
+            "date": "2023-07-31",
+            "datetime": "20230731",
+            "filename": "Arrow-v13.1-lavender-OFFICIAL-20230731-GAPPS.zip",
+            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20230731-GAPPS.zip",
             "maintainer": "D3nesyan",
             "model": "Redmi Note 7",
             "oem": "Xiaomi",
-            "sha256": "b8703501c5977a320af740e23a28f894a60ad346991b7f1ea599575b4bbe88cc",
-            "size": "1679687728",
+            "sha256": "31d8f9ddc3e1a305c31c9769e3869ea71c10ccab673d2a9d96ef1c362c2cd3c7",
+            "size": "1700255810",
             "type": "official",
             "version": "v13.1"
         }
