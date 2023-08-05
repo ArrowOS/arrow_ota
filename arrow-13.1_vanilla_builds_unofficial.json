@@ -145,16 +145,16 @@
     ],
     "gauguin": [
         {
-            "changelog": null,
-            "date": "2023-05-09",
-            "datetime": "20230509",
-            "filename": "Arrow-v13.1-gauguin-UNOFFICIAL-20230509-VANILLA.zip",
-            "filepath": "/arrow-13.1/gauguin/Arrow-v13.1-gauguin-UNOFFICIAL-20230509-VANILLA.zip",
+            "changelog": "- Dropped HBM and CABC Mode.\r\n- Tuned powerhint.",
+            "date": "2023-08-05",
+            "datetime": "20230805",
+            "filename": "Arrow-v13.1-gauguin-UNOFFICIAL-20230805-VANILLA.zip",
+            "filepath": "/arrow-13.1/gauguin/Arrow-v13.1-gauguin-UNOFFICIAL-20230805-VANILLA.zip",
             "maintainer": "Hridaya & Lynrinn",
             "model": "M2007J17G",
             "oem": "Xiaomi",
-            "sha256": "d6156c99f23750155e8fca6dbca8070dc4fda854d84e5df2561a17197aae8f9c",
-            "size": "1267078098",
+            "sha256": "f99bfaa037ffbd9c78963c9d878646b49ac85af7d46c9cd81bc487bbbe8a701e",
+            "size": "1514722035",
             "type": "unofficial",
             "version": "v13.1"
         }
