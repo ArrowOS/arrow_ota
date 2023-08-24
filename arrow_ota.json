@@ -7397,7 +7397,7 @@
   ],
   "nabu": [
     {
-      "changelog": null,
+      "changelog": "- Test build to test Launcher crash issues",
       "maintainer": "K001droid and ganeshi4u",
       "model": "Xiaomi Pad 5",
       "oem": "Xiaomi",
@@ -7527,12 +7527,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-08-13",
-                  "datetime": "20230813",
-                  "filename": "Arrow-v13.1-nabu-OFFICIAL-20230813-VANILLA.zip",
-                  "filepath": "/arrow-13.1/nabu/Arrow-v13.1-nabu-OFFICIAL-20230813-VANILLA.zip",
-                  "sha256": "6cea90592900ca0ef09d2624d9ed9e10ec3d4eb3ae72cac64cceb9117e6a8c70",
-                  "size": "1323181938",
+                  "date": "2023-08-24",
+                  "datetime": "20230824",
+                  "filename": "Arrow-v13.1-nabu-OFFICIAL-20230824-VANILLA.zip",
+                  "filepath": "/arrow-13.1/nabu/Arrow-v13.1-nabu-OFFICIAL-20230824-VANILLA.zip",
+                  "sha256": "44e0b0af45bb4ea2e6688d8e05e69aa31fb91428841fdaa03bc2828c46dae0f2",
+                  "size": "1323676354",
                   "type": "official",
                   "version": "v13.1"
                 }
