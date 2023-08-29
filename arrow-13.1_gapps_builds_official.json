@@ -225,16 +225,16 @@
     ],
     "lisa": [
         {
-            "changelog": "- Updated blobs to MIUI V14.0.10.0.TKOCNXM",
-            "date": "2023-08-07",
-            "datetime": "20230807",
-            "filename": "Arrow-v13.1-lisa-OFFICIAL-20230807-GAPPS.zip",
-            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230807-GAPPS.zip",
+            "changelog": "- Merged upstream QuicksliveR kernel changes (Thanks to ghostrider_reborn for his work on lisa!)\r\n- Enabled Secure NFC for CN variant\r\n- Fixed DC Dimming issue (Updated DC Dimming node)\r\n- Lowered default screen density to 400 dpi",
+            "date": "2023-08-29",
+            "datetime": "20230829",
+            "filename": "Arrow-v13.1-lisa-OFFICIAL-20230829-GAPPS.zip",
+            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230829-GAPPS.zip",
             "maintainer": "ALKALiKong",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "02d639755e17a9945f9d4adcdda41a6f29eddb2ba08b8581f0ea588e5f3def99",
-            "size": "1892678929",
+            "sha256": "1422e1c48292e557da2ad1b49d73b24e17cc758ba49e0eb78b8951f8fd205ba2",
+            "size": "1892692515",
             "type": "official",
             "version": "v13.1"
         }
