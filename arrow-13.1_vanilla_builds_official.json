@@ -82,15 +82,15 @@
     "Z01R": [
         {
             "changelog": "ROM: Sync with latest sources.",
-            "date": "2023-08-07",
-            "datetime": "20230807",
-            "filename": "Arrow-v13.1-Z01R-OFFICIAL-20230807-VANILLA.zip",
-            "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-OFFICIAL-20230807-VANILLA.zip",
+            "date": "2023-08-29",
+            "datetime": "20230829",
+            "filename": "Arrow-v13.1-Z01R-OFFICIAL-20230829-VANILLA.zip",
+            "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-OFFICIAL-20230829-VANILLA.zip",
             "maintainer": "EdwardWu",
             "model": "Zenfone 5Z",
             "oem": "asus",
-            "sha256": "dc28d701819bb77f384211ef78fefea219997b0f6f9b84dd4b111a0c10e88022",
-            "size": "858979988",
+            "sha256": "7817db7a1474993f5d0a63aab558688290c21e6120b8363687e166ad8e841230",
+            "size": "858964423",
             "type": "official",
             "version": "v13.1"
         }
