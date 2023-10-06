@@ -4873,7 +4873,7 @@
   ],
   "ginkgo": [
     {
-      "changelog": "- Enabled proximity check on wake for touchscreen gestures\r\n- Disabled proximity sensor usage during doze",
+      "changelog": null,
       "maintainer": "Adithya (ghostrider_reborn)",
       "model": "Redmi Note 8/8T",
       "oem": "Xiaomi",
@@ -5159,12 +5159,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-05-05",
-                  "datetime": "20230505",
-                  "filename": "Arrow-v13.1-ginkgo-UNOFFICIAL-20230505-VANILLA.zip",
-                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-UNOFFICIAL-20230505-VANILLA.zip",
-                  "sha256": "54ceae63e396761f2067961cb240ea5a75f89e8d6acfc64f020f519b019428b9",
-                  "size": "982122910",
+                  "date": "2023-10-06",
+                  "datetime": "20231006",
+                  "filename": "Arrow-v13.1-ginkgo-UNOFFICIAL-20231006-VANILLA.zip",
+                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-UNOFFICIAL-20231006-VANILLA.zip",
+                  "sha256": "ecaf56f2f1b9aa1cc6a0125e16b71fc696a3dbe42aa7e25d48a5a449c73963cb",
+                  "size": "1017236435",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
