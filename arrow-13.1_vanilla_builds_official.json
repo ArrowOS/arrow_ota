@@ -193,16 +193,16 @@
     ],
     "ginkgo": [
         {
-            "changelog": "- Enabled proximity check on wake for touchscreen gestures\r\n- Disabled proximity sensor usage during doze",
-            "date": "2023-08-29",
-            "datetime": "20230829",
-            "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20230829-VANILLA.zip",
-            "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20230829-VANILLA.zip",
+            "changelog": "- Updated kernel to latest CLO tag\r\n- Fixed miui camera issues from last few builds\r\n- Misc performance improvements",
+            "date": "2023-10-08",
+            "datetime": "20231008",
+            "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20231008-VANILLA.zip",
+            "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20231008-VANILLA.zip",
             "maintainer": "Adithya (ghostrider_reborn)",
             "model": "Redmi Note 8/8T",
             "oem": "Xiaomi",
-            "sha256": "7e80480ab0f2ed8b86a14e16c28f47d5517d2ad4d0ac898880e00e506eee887d",
-            "size": "1017419514",
+            "sha256": "f2384b6826a0db55492c0f2ae5fe01e7f30a7443067cfd2187d2519e0932f1bd",
+            "size": "1019343282",
             "type": "official",
             "version": "v13.1"
         }
