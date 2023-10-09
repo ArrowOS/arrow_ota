@@ -226,15 +226,15 @@
     "lisa": [
         {
             "changelog": "- Merged upstream QuicksliveR kernel changes (Thanks to ghostrider_reborn for his work on lisa!)\r\n- Enabled Secure NFC for CN variant\r\n- Fixed DC Dimming issue (Updated DC Dimming node)\r\n- Lowered default screen density to 400 dpi",
-            "date": "2023-08-29",
-            "datetime": "20230829",
-            "filename": "Arrow-v13.1-lisa-OFFICIAL-20230829-VANILLA.zip",
-            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20230829-VANILLA.zip",
+            "date": "2023-10-09",
+            "datetime": "20231009",
+            "filename": "Arrow-v13.1-lisa-OFFICIAL-20231009-VANILLA.zip",
+            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-OFFICIAL-20231009-VANILLA.zip",
             "maintainer": "ALKALiKong",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "2d8e136817d077f4c320c4633e03e5cc396a1655ea8d72777b5a687807d5fa64",
-            "size": "1491107602",
+            "sha256": "1d68f800c23fabb39f2343ad87575aa3699ab9ceca2e2c1eae7d789c5a27bde4",
+            "size": "1493444864",
             "type": "official",
             "version": "v13.1"
         }
