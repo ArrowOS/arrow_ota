@@ -5365,7 +5365,7 @@
   ],
   "jasmine_sprout": [
     {
-      "changelog": "Initial A13 New trees test build",
+      "changelog": null,
       "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
       "model": "Mi A2",
       "oem": "Xiaomi",
@@ -5603,6 +5603,26 @@
                   "size": "1042062443",
                   "type": "unofficial",
                   "version": "v13.0"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "v13.1": [
+        {
+          "UNOFFICIAL": [
+            {
+              "GAPPS": [
+                {
+                  "date": "2023-10-14",
+                  "datetime": "20231014",
+                  "filename": "Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231014-GAPPS.zip",
+                  "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231014-GAPPS.zip",
+                  "sha256": "e51aa8a858808b4e5233ada0d2f1d8912338fb34dc657a294aae398b48b5bb06",
+                  "size": "1427404634",
+                  "type": "unofficial",
+                  "version": "v13.1"
                 }
               ]
             }
