@@ -209,7 +209,7 @@
     ],
     "jasmine_sprout": [
         {
-            "changelog": "Testing New Hals",
+            "changelog": "Testing New Hals & 64 Bit only and New Blobs",
             "date": "2023-10-25",
             "datetime": "20231025",
             "filename": "Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231025-GAPPS.zip",
@@ -217,8 +217,8 @@
             "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
             "model": "Mi A2",
             "oem": "Xiaomi",
-            "sha256": "3c1e1112c553531e3228db92cf564a97378d51c9e4f99a4546d9f83beb056e30",
-            "size": "1427319013",
+            "sha256": "ea150fae483988279fb62cb24fdaac9b77e9a4af5caff4c10bf3e621d994cd48",
+            "size": "1394222918",
             "type": "unofficial",
             "version": "v13.1"
         }
