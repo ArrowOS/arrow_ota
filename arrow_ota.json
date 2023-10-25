@@ -5365,7 +5365,7 @@
   ],
   "jasmine_sprout": [
     {
-      "changelog": null,
+      "changelog": "Testing New Hals",
       "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
       "model": "Mi A2",
       "oem": "Xiaomi",
@@ -5615,12 +5615,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2023-10-14",
-                  "datetime": "20231014",
-                  "filename": "Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231014-GAPPS.zip",
-                  "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231014-GAPPS.zip",
-                  "sha256": "e51aa8a858808b4e5233ada0d2f1d8912338fb34dc657a294aae398b48b5bb06",
-                  "size": "1427404634",
+                  "date": "2023-10-25",
+                  "datetime": "20231025",
+                  "filename": "Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231025-GAPPS.zip",
+                  "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231025-GAPPS.zip",
+                  "sha256": "3c1e1112c553531e3228db92cf564a97378d51c9e4f99a4546d9f83beb056e30",
+                  "size": "1427319013",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
