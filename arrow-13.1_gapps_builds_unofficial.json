@@ -209,16 +209,16 @@
     ],
     "jasmine_sprout": [
         {
-            "changelog": "Testing New Hals & 64 Bit only and New Blobs",
-            "date": "2023-10-25",
-            "datetime": "20231025",
-            "filename": "Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231025-GAPPS.zip",
-            "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231025-GAPPS.zip",
+            "changelog": "FIxed FP",
+            "date": "2023-10-26",
+            "datetime": "20231026",
+            "filename": "Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231026-GAPPS.zip",
+            "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-UNOFFICIAL-20231026-GAPPS.zip",
             "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
             "model": "Mi A2",
             "oem": "Xiaomi",
-            "sha256": "ea150fae483988279fb62cb24fdaac9b77e9a4af5caff4c10bf3e621d994cd48",
-            "size": "1394222918",
+            "sha256": "3dde85551b5f333be20e42a8fe867d65401fd18e3737b71864243a203592a244",
+            "size": "1394813798",
             "type": "unofficial",
             "version": "v13.1"
         }
