@@ -5365,7 +5365,7 @@
   ],
   "jasmine_sprout": [
     {
-      "changelog": "FIxed FP",
+      "changelog": "Initial Release\r\nInstall Instructions HERE: https://wiki.pixelexperience.org/devices/jasmine_sprout/install/",
       "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
       "model": "Mi A2",
       "oem": "Xiaomi",
@@ -5611,6 +5611,22 @@
       ],
       "v13.1": [
         {
+          "OFFICIAL": [
+            {
+              "VANILLA": [
+                {
+                  "date": "2023-11-09",
+                  "datetime": "20231109",
+                  "filename": "Arrow-v13.1-jasmine_sprout-OFFICIAL-20231109-VANILLA.zip",
+                  "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-OFFICIAL-20231109-VANILLA.zip",
+                  "sha256": "607f24ff37dd2a2fc067c54109d3441e3ed6ef78f0aef5373381a42b7133d5e0",
+                  "size": "957255742",
+                  "type": "official",
+                  "version": "v13.1"
+                }
+              ]
+            }
+          ],
           "UNOFFICIAL": [
             {
               "GAPPS": [

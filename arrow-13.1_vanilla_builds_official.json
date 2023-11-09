@@ -207,6 +207,22 @@
             "version": "v13.1"
         }
     ],
+    "jasmine_sprout": [
+        {
+            "changelog": "Initial Release\r\nInstall Instructions HERE: https://wiki.pixelexperience.org/devices/jasmine_sprout/install/",
+            "date": "2023-11-09",
+            "datetime": "20231109",
+            "filename": "Arrow-v13.1-jasmine_sprout-OFFICIAL-20231109-VANILLA.zip",
+            "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-OFFICIAL-20231109-VANILLA.zip",
+            "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
+            "model": "Mi A2",
+            "oem": "Xiaomi",
+            "sha256": "607f24ff37dd2a2fc067c54109d3441e3ed6ef78f0aef5373381a42b7133d5e0",
+            "size": "957255742",
+            "type": "official",
+            "version": "v13.1"
+        }
+    ],
     "lavender": [
         {
             "changelog": "- Mount fstab via ramdisk instead of kernel dts for init first stage\r\n- Updated blobs from honeywell hon660 & QSSI\r\n- Updated Bluetooth blobs from hon660\r\n- Updated GPS blobs from hon660\r\n- Sched optimizations\r\n- Disabled HD notification\r\n- Enabled Project Quota\r\n- Better backlight adjustment\r\n- Inherited several Android Go configurations\r\n- Implement spatial audio function\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md",
