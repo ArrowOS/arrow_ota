@@ -335,6 +335,22 @@
             "version": "v13.1"
         }
     ],
+    "salaa": [
+        {
+            "changelog": null,
+            "date": "2023-12-03",
+            "datetime": "20231203",
+            "filename": "Arrow-v13.1-salaa-UNOFFICIAL-20231203-GAPPS.zip",
+            "filepath": "/arrow-13.1/salaa/Arrow-v13.1-salaa-UNOFFICIAL-20231203-GAPPS.zip",
+            "maintainer": "TG_DEVICE_MAINTAINER",
+            "model": "realme 7/Narzo 20 Pro/Narzo 30 4G",
+            "oem": "realme",
+            "sha256": "0957b56639ade3a26aa53186aeb99663db54e8d22fbd5abee0a3195d03589405",
+            "size": "1590272216",
+            "type": "unofficial",
+            "version": "v13.1"
+        }
+    ],
     "sweet": [
         {
             "changelog": "- Updated blobs to MIUI 14 TKFMIXM",
