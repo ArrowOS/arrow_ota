@@ -145,16 +145,16 @@
     ],
     "dubai": [
         {
-            "changelog": "- Workaround front camera issues with 5G NSA too\r\n- Updated kernel to latest CLO tag\r\n- Misc performance improvements",
-            "date": "2023-12-04",
-            "datetime": "20231204",
-            "filename": "Arrow-v13.1-dubai-OFFICIAL-20231204-GAPPS.zip",
-            "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20231204-GAPPS.zip",
+            "changelog": "- Updated kernel to latest CLO tag\r\n- Fixed manual network selection\r\n- Disabled broken color inversion",
+            "date": "2023-12-29",
+            "datetime": "20231229",
+            "filename": "Arrow-v13.1-dubai-OFFICIAL-20231229-GAPPS.zip",
+            "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20231229-GAPPS.zip",
             "maintainer": "Adithya (ghostrider_reborn)",
             "model": "motorola edge 30",
             "oem": "motorola",
-            "sha256": "b0a536427359f89665691b94a7cfd10c7a59b0ecd46886d944aa1264dcb5f4f4",
-            "size": "1627534831",
+            "sha256": "b6b0f3d0f61cb2cc2083f204c8c8885f823a4faed4995e61f5572fd7b7dd49ea",
+            "size": "1627962304",
             "type": "official",
             "version": "v13.1"
         }
