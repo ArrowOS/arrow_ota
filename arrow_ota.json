@@ -4321,7 +4321,7 @@
   ],
   "dubai": [
     {
-      "changelog": "- Workaround front camera issues with 5G NSA too\r\n- Updated kernel to latest CLO tag\r\n- Misc performance improvements",
+      "changelog": "- Updated kernel to latest CLO tag\r\n- Fixed manual network selection\r\n- Disabled broken color inversion",
       "maintainer": "Adithya (ghostrider_reborn)",
       "model": "motorola edge 30",
       "oem": "motorola",
@@ -4343,12 +4343,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-12-04",
-                  "datetime": "20231204",
-                  "filename": "Arrow-v13.1-dubai-OFFICIAL-20231204-VANILLA.zip",
-                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20231204-VANILLA.zip",
-                  "sha256": "372d127ece3137ee867df404d2a3a434e603f5934bd41782052fab02a17361cd",
-                  "size": "1266055842",
+                  "date": "2023-12-29",
+                  "datetime": "20231229",
+                  "filename": "Arrow-v13.1-dubai-OFFICIAL-20231229-VANILLA.zip",
+                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20231229-VANILLA.zip",
+                  "sha256": "f9a84c6bce44ee5e19657d9339ad942c9041c39b4b0df0289643d839c027f44a",
+                  "size": "1266836289",
                   "type": "official",
                   "version": "v13.1"
                 }
