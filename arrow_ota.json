@@ -4873,7 +4873,7 @@
   ],
   "ginkgo": [
     {
-      "changelog": null,
+      "changelog": "- Updated kernel to latest CLO tag\r\n- Fixed miui camera issues from last few builds\r\n- Misc performance improvements",
       "maintainer": "Adithya (ghostrider_reborn)",
       "model": "Redmi Note 8/8T",
       "oem": "Xiaomi",
@@ -5131,12 +5131,12 @@
               ],
               "VANILLA": [
                 {
-                  "date": "2023-12-04",
-                  "datetime": "20231204",
-                  "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20231204-VANILLA.zip",
-                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20231204-VANILLA.zip",
-                  "sha256": "3bba4fbc16edfc67c19e79b0fbb1d9f1bbbcd8609ad4f10724fcde4915943f08",
-                  "size": "1019349703",
+                  "date": "2023-12-30",
+                  "datetime": "20231230",
+                  "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20231230-VANILLA.zip",
+                  "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20231230-VANILLA.zip",
+                  "sha256": "4b4a1eee933b62c8ec6ce924736794bdd5cb75be280e33f2034806676a4d9f71",
+                  "size": "1019847291",
                   "type": "official",
                   "version": "v13.1"
                 }
