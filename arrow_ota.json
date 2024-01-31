@@ -4321,7 +4321,7 @@
   ],
   "dubai": [
     {
-      "changelog": "- Updated kernel to latest CLO tag\r\n- Fixed manual network selection\r\n- Disabled broken color inversion",
+      "changelog": null,
       "maintainer": "Adithya (ghostrider_reborn)",
       "model": "motorola edge 30",
       "oem": "motorola",
@@ -4359,12 +4359,12 @@
             {
               "GAPPS": [
                 {
-                  "date": "2023-05-18",
-                  "datetime": "20230518",
-                  "filename": "Arrow-v13.1-dubai-UNOFFICIAL-20230518-GAPPS.zip",
-                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-UNOFFICIAL-20230518-GAPPS.zip",
-                  "sha256": "14045a98f4645bbadaa7bee30def039cf690b9cf6497d0c2849c2cb3f84bfcf8",
-                  "size": "1580597476",
+                  "date": "2024-01-31",
+                  "datetime": "20240131",
+                  "filename": "Arrow-v13.1-dubai-UNOFFICIAL-20240131-GAPPS.zip",
+                  "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-UNOFFICIAL-20240131-GAPPS.zip",
+                  "sha256": "2014e330b85de79cd5ff704e003c210cda03bd5d7d5ce6107950b14f89fa89c2",
+                  "size": "1626675605",
                   "type": "unofficial",
                   "version": "v13.1"
                 }
