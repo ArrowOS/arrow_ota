@@ -2,15 +2,15 @@
     "G": [
         {
             "changelog": null,
-            "date": "2024-02-02",
-            "datetime": "20240202",
-            "filename": "Arrow-v13.1-G-OFFICIAL-20240202-GAPPS.zip",
-            "filepath": "/arrow-13.1/G/Arrow-v13.1-G-OFFICIAL-20240202-GAPPS.zip",
+            "date": "2023-12-30",
+            "datetime": "20231230",
+            "filename": "Arrow-v13.1-G-OFFICIAL-20231230-GAPPS.zip",
+            "filepath": "/arrow-13.1/G/Arrow-v13.1-G-OFFICIAL-20231230-GAPPS.zip",
             "maintainer": "kardebayan",
             "model": "10.or G",
             "oem": "10.or",
-            "sha256": "73310565534d7f5a3a943e676fc03dede0160aa0112adadbe375e40e1db1467d",
-            "size": "1216227387",
+            "sha256": "4bb64faeee91300b941b2ae2435db3cf092516492469350c6d4f3bf88a5125f4",
+            "size": "1216122215",
             "type": "official",
             "version": "v13.1"
         }
@@ -98,15 +98,15 @@
     "apollo": [
         {
             "changelog": "***recommended firmware and recovery included with rom***\r\n\r\nUse Arrow Recovery for installation & updates. Recovery & install guide are in the below groups:\r\n\r\nXDA: https://forum.xda-developers.com/t/rom-un-official-12-beta-arrowos-vanilla-gapps-aosp.4353927/\r\n\r\nTelegram: https://t.me/arrowapolloofficial",
-            "date": "2024-02-01",
-            "datetime": "20240201",
-            "filename": "Arrow-v13.1-apollo-OFFICIAL-20240201-GAPPS.zip",
-            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20240201-GAPPS.zip",
+            "date": "2024-01-28",
+            "datetime": "20240128",
+            "filename": "Arrow-v13.1-apollo-OFFICIAL-20240128-GAPPS.zip",
+            "filepath": "/arrow-13.1/apollo/Arrow-v13.1-apollo-OFFICIAL-20240128-GAPPS.zip",
             "maintainer": "Dobsgw",
             "model": "Xiaomi Mi 10T",
             "oem": "Xiaomi",
-            "sha256": "3199b3353b0b546539296574b3bad4e87a2a9f22af540a1e202133b7bef5cb0b",
-            "size": "1973477752",
+            "sha256": "b3a967fc8ec931e80dfa64292b3336ebae613feb77250a3e3531084255f53b5a",
+            "size": "1973661919",
             "type": "official",
             "version": "v13.1"
         }
@@ -114,15 +114,15 @@
     "beryllium": [
         {
             "changelog": null,
-            "date": "2024-02-01",
-            "datetime": "20240201",
-            "filename": "Arrow-v13.1-beryllium-OFFICIAL-20240201-GAPPS.zip",
-            "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20240201-GAPPS.zip",
+            "date": "2024-01-28",
+            "datetime": "20240128",
+            "filename": "Arrow-v13.1-beryllium-OFFICIAL-20240128-GAPPS.zip",
+            "filepath": "/arrow-13.1/beryllium/Arrow-v13.1-beryllium-OFFICIAL-20240128-GAPPS.zip",
             "maintainer": "Sourav (resist15)",
             "model": "POCOPHONE F1",
             "oem": "Xiaomi",
-            "sha256": "8656f1dd0275cde1d59f71f5f5499ffea798b1a900ec1665c2fae619f42c957b",
-            "size": "1606046418",
+            "sha256": "fc31bd66666b4f81c8e4640651bd5a63cf590e683751b692a723ef2036a61c19",
+            "size": "1606164654",
             "type": "official",
             "version": "v13.1"
         }
@@ -130,15 +130,15 @@
     "davinci": [
         {
             "changelog": null,
-            "date": "2024-02-01",
-            "datetime": "20240201",
-            "filename": "Arrow-v13.1-davinci-OFFICIAL-20240201-GAPPS.zip",
-            "filepath": "/arrow-13.1/davinci/Arrow-v13.1-davinci-OFFICIAL-20240201-GAPPS.zip",
+            "date": "2024-01-28",
+            "datetime": "20240128",
+            "filename": "Arrow-v13.1-davinci-OFFICIAL-20240128-GAPPS.zip",
+            "filepath": "/arrow-13.1/davinci/Arrow-v13.1-davinci-OFFICIAL-20240128-GAPPS.zip",
             "maintainer": "RemyL",
             "model": "Mi 9T",
             "oem": "Xiaomi",
-            "sha256": "ead59215d21537c20f6d29a7ef05f3cd6388f07064bd13f333f745c491b66b79",
-            "size": "1556990995",
+            "sha256": "b77b76cf198a0f7cdd23745333a6762d032164ccede5b1581c8049c9e01104ff",
+            "size": "1556980183",
             "type": "official",
             "version": "v13.1"
         }
@@ -146,15 +146,15 @@
     "dubai": [
         {
             "changelog": "- Updated kernel to latest CLO tag\r\n- Fixed manual network selection\r\n- Disabled broken color inversion",
-            "date": "2024-02-01",
-            "datetime": "20240201",
-            "filename": "Arrow-v13.1-dubai-OFFICIAL-20240201-GAPPS.zip",
-            "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20240201-GAPPS.zip",
+            "date": "2024-01-29",
+            "datetime": "20240129",
+            "filename": "Arrow-v13.1-dubai-OFFICIAL-20240129-GAPPS.zip",
+            "filepath": "/arrow-13.1/dubai/Arrow-v13.1-dubai-OFFICIAL-20240129-GAPPS.zip",
             "maintainer": "Adithya (ghostrider_reborn)",
             "model": "motorola edge 30",
             "oem": "motorola",
-            "sha256": "5ce5b8edb4ac49441dc2282ebb6367901b16e51c892929b061ace3c6da4bacf9",
-            "size": "1628013547",
+            "sha256": "829a0197fd6741816955c0a1d34b9f21bcce73dae14f4b9b31378f62e9caa92e",
+            "size": "1627959572",
             "type": "official",
             "version": "v13.1"
         }
@@ -162,15 +162,15 @@
     "elish": [
         {
             "changelog": "- Welcome Xiaomi Pad 5 Pro (elish) to join Arrow-OS",
-            "date": "2024-02-02",
-            "datetime": "20240202",
-            "filename": "Arrow-v13.1-elish-OFFICIAL-20240202-GAPPS.zip",
-            "filepath": "/arrow-13.1/elish/Arrow-v13.1-elish-OFFICIAL-20240202-GAPPS.zip",
+            "date": "2023-12-29",
+            "datetime": "20231229",
+            "filename": "Arrow-v13.1-elish-OFFICIAL-20231229-GAPPS.zip",
+            "filepath": "/arrow-13.1/elish/Arrow-v13.1-elish-OFFICIAL-20231229-GAPPS.zip",
             "maintainer": "EdwardWu",
             "model": "Xiaomi Pad 5 Pro",
             "oem": "Xiaomi",
-            "sha256": "f6b58bda8abf0489802ebb1dc3b782b5ea348295cd8058d35dda0b0b3e9db205",
-            "size": "1786430665",
+            "sha256": "15fd209221b5184d35d9ef0bce8e463bdd43b004c0b1679f848e3f4b61ed4786",
+            "size": "1786454720",
             "type": "official",
             "version": "v13.1"
         }
@@ -178,15 +178,15 @@
     "gauguin": [
         {
             "changelog": null,
-            "date": "2024-02-02",
-            "datetime": "20240202",
-            "filename": "Arrow-v13.1-gauguin-OFFICIAL-20240202-GAPPS.zip",
-            "filepath": "/arrow-13.1/gauguin/Arrow-v13.1-gauguin-OFFICIAL-20240202-GAPPS.zip",
+            "date": "2023-12-30",
+            "datetime": "20231230",
+            "filename": "Arrow-v13.1-gauguin-OFFICIAL-20231230-GAPPS.zip",
+            "filepath": "/arrow-13.1/gauguin/Arrow-v13.1-gauguin-OFFICIAL-20231230-GAPPS.zip",
             "maintainer": "Hridaya & Lynrinn",
             "model": "M2007J17G",
             "oem": "Xiaomi",
-            "sha256": "93a176dcede98dee508305a050dc73296e5df83c91253a79cf8b9ccb96b5b015",
-            "size": "2034691513",
+            "sha256": "bf4e88d5ef2990ff9f2bad6afee92728b4b8b15fc8d352882ae7e509f1cdc712",
+            "size": "2035798196",
             "type": "official",
             "version": "v13.1"
         }
@@ -194,15 +194,15 @@
     "ginkgo": [
         {
             "changelog": "- Updated kernel to latest CLO tag\r\n- Fixed miui camera issues from last few builds\r\n- Misc performance improvements",
-            "date": "2024-02-02",
-            "datetime": "20240202",
-            "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20240202-GAPPS.zip",
-            "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20240202-GAPPS.zip",
+            "date": "2023-12-30",
+            "datetime": "20231230",
+            "filename": "Arrow-v13.1-ginkgo-OFFICIAL-20231230-GAPPS.zip",
+            "filepath": "/arrow-13.1/ginkgo/Arrow-v13.1-ginkgo-OFFICIAL-20231230-GAPPS.zip",
             "maintainer": "Adithya (ghostrider_reborn)",
             "model": "Redmi Note 8/8T",
             "oem": "Xiaomi",
-            "sha256": "44360cd64593716b663f3c4c8c96dd050a4951d7c3b7911d140a94664e63b0a3",
-            "size": "1471205910",
+            "sha256": "4c0b6fe989e11c2736a878ab628d3d0c8922bcf1eef3563b7c85418937ca30b9",
+            "size": "1470965040",
             "type": "official",
             "version": "v13.1"
         }
@@ -210,15 +210,15 @@
     "jasmine_sprout": [
         {
             "changelog": "Initial Release\r\nInstall Instructions HERE: https://wiki.pixelexperience.org/devices/jasmine_sprout/install/",
-            "date": "2024-02-02",
-            "datetime": "20240202",
-            "filename": "Arrow-v13.1-jasmine_sprout-OFFICIAL-20240202-GAPPS.zip",
-            "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-OFFICIAL-20240202-GAPPS.zip",
+            "date": "2023-12-30",
+            "datetime": "20231230",
+            "filename": "Arrow-v13.1-jasmine_sprout-OFFICIAL-20231230-GAPPS.zip",
+            "filepath": "/arrow-13.1/jasmine_sprout/Arrow-v13.1-jasmine_sprout-OFFICIAL-20231230-GAPPS.zip",
             "maintainer": "Immanuel_Raj(@iamimmanuelraj)",
             "model": "Mi A2",
             "oem": "Xiaomi",
-            "sha256": "204a635d786c2a2fed005154ff34d3f2a463a7b5c31c3f78e8b7077f93e1e3ad",
-            "size": "1404355775",
+            "sha256": "61cb0c5c71a5ab88d4b6af33a9a9271701f4cd61f8ecc4152d95ac4a9ac9e232",
+            "size": "1404338779",
             "type": "official",
             "version": "v13.1"
         }
@@ -226,15 +226,15 @@
     "lavender": [
         {
             "changelog": "- Mount fstab via ramdisk instead of kernel dts for init first stage\r\n- Updated blobs from honeywell hon660 & QSSI\r\n- Updated Bluetooth blobs from hon660\r\n- Updated GPS blobs from hon660\r\n- Sched optimizations\r\n- Disabled HD notification\r\n- Enabled Project Quota\r\n- Better backlight adjustment\r\n- Inherited several Android Go configurations\r\n- Implement spatial audio function\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md",
-            "date": "2024-02-02",
-            "datetime": "20240202",
-            "filename": "Arrow-v13.1-lavender-OFFICIAL-20240202-GAPPS.zip",
-            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20240202-GAPPS.zip",
+            "date": "2023-12-30",
+            "datetime": "20231230",
+            "filename": "Arrow-v13.1-lavender-OFFICIAL-20231230-GAPPS.zip",
+            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20231230-GAPPS.zip",
             "maintainer": "D3nesyan",
             "model": "Redmi Note 7",
             "oem": "Xiaomi",
-            "sha256": "52707c0927ec39f10a540e5b4748cefd36095cffa72b08a257aa4f451c50e04b",
-            "size": "1701558709",
+            "sha256": "f7255e2eb9b787edf36da627f60d35513942e58e2216f8ac5d93eadb8c5f2782",
+            "size": "1701738690",
             "type": "official",
             "version": "v13.1"
         }
