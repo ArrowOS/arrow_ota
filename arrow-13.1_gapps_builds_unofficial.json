@@ -242,15 +242,15 @@
     "lisa": [
         {
             "changelog": "- Switched to libperfmgr\r\n- Disable backpressure propagation in SF\r\n- Switch hwcomposer to foreground CPU set\r\n- Set max network scan search time to 254",
-            "date": "2024-01-31",
-            "datetime": "20240131",
-            "filename": "Arrow-v13.1-lisa-UNOFFICIAL-20240131-GAPPS.zip",
-            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-UNOFFICIAL-20240131-GAPPS.zip",
+            "date": "2024-02-02",
+            "datetime": "20240202",
+            "filename": "Arrow-v13.1-lisa-UNOFFICIAL-20240202-GAPPS.zip",
+            "filepath": "/arrow-13.1/lisa/Arrow-v13.1-lisa-UNOFFICIAL-20240202-GAPPS.zip",
             "maintainer": "ALKALiKong",
             "model": "Xiaomi 11 Lite NE",
             "oem": "Xiaomi",
-            "sha256": "612ea55158981959651703e0dd54b2c582741ebe7d9ec2e13480b87d4eb0db1a",
-            "size": "1892202870",
+            "sha256": "d19930d3d4ea35196c5eab333ff8c663d760d8fd6686d9414b2fb7b60fe2aeaa",
+            "size": "1892212845",
             "type": "unofficial",
             "version": "v13.1"
         }
