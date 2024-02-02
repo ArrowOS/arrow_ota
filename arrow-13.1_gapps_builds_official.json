@@ -226,15 +226,15 @@
     "lavender": [
         {
             "changelog": "- Mount fstab via ramdisk instead of kernel dts for init first stage\r\n- Updated blobs from honeywell hon660 & QSSI\r\n- Updated Bluetooth blobs from hon660\r\n- Updated GPS blobs from hon660\r\n- Sched optimizations\r\n- Disabled HD notification\r\n- Enabled Project Quota\r\n- Better backlight adjustment\r\n- Inherited several Android Go configurations\r\n- Implement spatial audio function\r\n- Other fixes and improvements\r\n\r\nFlash tutorial:\r\nhttps://github.com/Ratoriku-Studio/Tutorials/blob/main/arrowos_lavender_flash.md",
-            "date": "2023-12-30",
-            "datetime": "20231230",
-            "filename": "Arrow-v13.1-lavender-OFFICIAL-20231230-GAPPS.zip",
-            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20231230-GAPPS.zip",
+            "date": "2024-02-02",
+            "datetime": "20240202",
+            "filename": "Arrow-v13.1-lavender-OFFICIAL-20240202-GAPPS.zip",
+            "filepath": "/arrow-13.1/lavender/Arrow-v13.1-lavender-OFFICIAL-20240202-GAPPS.zip",
             "maintainer": "D3nesyan",
             "model": "Redmi Note 7",
             "oem": "Xiaomi",
-            "sha256": "f7255e2eb9b787edf36da627f60d35513942e58e2216f8ac5d93eadb8c5f2782",
-            "size": "1701738690",
+            "sha256": "52707c0927ec39f10a540e5b4748cefd36095cffa72b08a257aa4f451c50e04b",
+            "size": "1701558709",
             "type": "official",
             "version": "v13.1"
         }
