@@ -130,15 +130,15 @@
     "davinci": [
         {
             "changelog": null,
-            "date": "2024-01-28",
-            "datetime": "20240128",
-            "filename": "Arrow-v13.1-davinci-OFFICIAL-20240128-VANILLA.zip",
-            "filepath": "/arrow-13.1/davinci/Arrow-v13.1-davinci-OFFICIAL-20240128-VANILLA.zip",
+            "date": "2024-02-03",
+            "datetime": "20240203",
+            "filename": "Arrow-v13.1-davinci-OFFICIAL-20240203-VANILLA.zip",
+            "filepath": "/arrow-13.1/davinci/Arrow-v13.1-davinci-OFFICIAL-20240203-VANILLA.zip",
             "maintainer": "RemyL",
             "model": "Mi 9T",
             "oem": "Xiaomi",
-            "sha256": "a6cfdfc7d8cff484fd269d8e651ce6835549dc97cf74531ec1cdef4a00bbc0cb",
-            "size": "1117690746",
+            "sha256": "170cff64a48fd9417a3fb76e39690a1d579933519b3756d2e20707422cbc34b9",
+            "size": "1107597710",
             "type": "official",
             "version": "v13.1"
         }
