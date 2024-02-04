@@ -81,16 +81,16 @@
     ],
     "Z01R": [
         {
-            "changelog": "ROM: Sync with latest sources.",
-            "date": "2023-12-30",
-            "datetime": "20231230",
-            "filename": "Arrow-v13.1-Z01R-OFFICIAL-20231230-GAPPS.zip",
-            "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-OFFICIAL-20231230-GAPPS.zip",
+            "changelog": null,
+            "date": "2024-02-04",
+            "datetime": "20240204",
+            "filename": "Arrow-v13.1-Z01R-OFFICIAL-20240204-GAPPS.zip",
+            "filepath": "/arrow-13.1/Z01R/Arrow-v13.1-Z01R-OFFICIAL-20240204-GAPPS.zip",
             "maintainer": "EdwardWu",
             "model": "Zenfone 5Z",
             "oem": "asus",
-            "sha256": "90b0d392f3107bf09e574b2da37b8195ea683e3b152290dbe195655a838bc960",
-            "size": "1252000633",
+            "sha256": "1f7d7fc86c51ffe4e31608181139fa7e5eed3b4f80c5077d8960824bd0904592",
+            "size": "1251937524",
             "type": "official",
             "version": "v13.1"
         }
